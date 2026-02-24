@@ -1,6 +1,2 @@
-openpyxl
 sec-edgar-downloader
-edgartools
-requests
 pandas
-beautifulsoup4

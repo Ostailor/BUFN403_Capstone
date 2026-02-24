@@ -11,9 +11,11 @@ Usage:
   3. python collect_bank_data.py
 """
 
-import os, re, sys, logging, zipfile
+import os, re, sys, logging, zipfile, time
 from pathlib import Path
 import pandas as pd
+
+from sec_edgar_downloader import Downloader
 
 # Configuration
 email = 'abc@email.com'
@@ -23,8 +25,7 @@ SEC_EDGAR_EMAIL = os.environ.get("SEC_EDGAR_EMAIL", email)
 BASE_DIR = Path(__file__).resolve().parent
 CSV = BASE_DIR / "banks.csv"
 DATA_DIR = BASE_DIR / "data"
-SEC_DIR = DATA_DIR / "sec_filings"
-FIN_DIR = DATA_DIR / "financials"
+SEC_DIR = DATA_DIR / "sec-edgar-filings"
 
 df = pd.read_csv(CSV)
 tickers = df['Ticker']
@@ -35,6 +36,7 @@ DELISTED_TICKER_TO_CIK = {
     "DFS": "0001393612",   # Discover Financial — acquired by Capital One (COF), May 2025
     "CMA": "0000028412",   # Comerica — acquired by Fifth Third Bancorp (FITB), Feb 2026
     "SNV": "0000018349",   # Synovus — acquired by Pinnacle Financial (PNFP), Jan 2026
+    "PNFP": "0001115055",  # original TN entity; ticker now resolves to post-merger GA shell
 }
 
 filings_config = [
@@ -55,14 +57,15 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+max_attempts = 5
+download_failures = []
+incomplete_tickers = []
+
 # Step 1: Download SEC filings
-def download_sec_filings(tickers: list[str]):
+def download_sec_filings(tickers, attempt_num=1, retry=False):
     """Download 10-K, 10-Q, DEF 14A, and 8-K filings using sec-edgar-downloader."""
-    from sec_edgar_downloader import Downloader
+    dl = Downloader("BUFN403", SEC_EDGAR_EMAIL, str(DATA_DIR))
 
-    dl = Downloader("BUFN403", SEC_EDGAR_EMAIL, str(SEC_DIR))
-
-    failures = []
     for ticker in tickers:
         # Use CIK for delisted tickers that can't be resolved by ticker symbol
         lookup = DELISTED_TICKER_TO_CIK.get(ticker, ticker)
@@ -70,13 +73,32 @@ def download_sec_filings(tickers: list[str]):
             try:
                 dl.get(form_type, lookup, limit=limit, download_details=True)
             except Exception as e:
-                failures.append(f"{ticker}/{form_type}: {e}")
+                download_failures.append(f"{ticker}/{form_type}: {e}")
+                
+        # checking download integrity
+        incomplete_ticker = _ticker_filings_ok(SEC_DIR / lookup)
 
-    if failures:
-        log.error(f"SEC filing failures ({len(failures)}):")
-        for f in failures:
-            log.error(f"  {f}")
-    log.info(f"SEC filings: downloaded for {len(tickers)} tickers, {len(failures)} failures")
+        # passes if None returned i.e. correct install
+        if incomplete_ticker:
+            if attempt_num <= max_attempts:
+                log.error(f"At least one filing not installed: {incomplete_ticker}, Attempt {attempt_num} of {max_attempts}...")
+                time.sleep(0.5)
+                download_sec_filings([ticker], attempt_num=attempt_num + 1, retry=True)
+            else:
+                log.error(f"All filings could not be installed for: {incomplete_ticker}")
+                incomplete_tickers.append(incomplete_ticker)
+                continue
+
+    if not retry:
+        if download_failures:
+            log.error(f"SEC ticker filing failures ({len(download_failures)}):")
+            for f in download_failures:
+                log.error(f"  {f}")
+        
+        if incomplete_tickers:
+            log.error(f"Incomplete Ticker Downloads: {incomplete_tickers}")
+        
+        log.info(f"SEC filings: downloaded for {len(tickers)} tickers, {len(download_failures)} failures")
 
 def _ticker_filings_ok(ticker_dir):
     """check correct download of expected number of files
@@ -126,7 +148,7 @@ def _parse_filing_header(accession_dir):
                 if period and fy_end:
                     break
 
-    except Exception:
+    except Exception as e:
         log.error(f"Fiscal Year End could not be read from file: {accession_dir}")
         pass
 
@@ -143,15 +165,19 @@ def _fiscal_quarter(period_str, fy_end_str):
 
     return 4 - (abs(period_month - fy_end_month) % 12) // 3
 
+rename_failures=[]
 # Step 2: Rename SEC filing folders to friendly names
 def rename_sec_folders():
     """Rename accession-number folders to readable names like JPM_10-Q_Q3_2025."""
-    edgar_root = SEC_DIR
-
     renamed_count = 0
-    failures = []
-    for ticker_dir in sorted(edgar_root.iterdir()):
+    for ticker_dir in sorted(SEC_DIR.iterdir()):
         ticker = ticker_dir.name
+                
+        # rename delisted companies' CIK-named dirs back to their ticker symbols
+        if ticker in DELISTED_TICKER_TO_CIK.values():
+            ticker = next(k for k, v in DELISTED_TICKER_TO_CIK.items() if v == ticker)
+            ticker_dir = ticker_dir.rename(SEC_DIR / ticker)
+            log.info(f"Renamed CIK directory to ticker: {ticker}")
 
         for form_dir in sorted(ticker_dir.iterdir()):
             form_type = form_dir.name
@@ -176,21 +202,13 @@ def rename_sec_folders():
                     accession_dir.rename(new_path)
                     renamed_count += 1
                 except Exception as e:
-                    failures.append(f"{accession_dir.name}: {e}")
+                    rename_failures.append(f"{accession_dir.name}: {e}")
 
-        # checking download integrity
-        check = _ticker_filings_ok(ticker_dir)
-
-        # passes if None returned i.e. correct install
-        if check:
-            log.error(f"Ticker files not correctly installed: {check}")
-            continue
-
-    if failures:
-        log.error(f"Rename failures ({len(failures)}):")
-        for f in failures:
+    if rename_failures:
+        log.error(f"Rename failures ({len(rename_failures)}):")
+        for f in rename_failures:
             log.error(f"  {f}")
-    log.info(f"Renamed {renamed_count} filing folders, {len(failures)} failed")
+    log.info(f"Renamed {renamed_count} filing folders, {len(rename_failures)} failed")
 
 # Step 3: Zip the data folder
 def zip_data_folder():
@@ -209,9 +227,6 @@ def zip_data_folder():
 
 # Main
 def main():
-    for d in [SEC_DIR, FIN_DIR]:
-        d.mkdir(parents=True, exist_ok=True)
-
     log.info(f"Processing {len(tickers)} tickers")
 
     log.info("STEP 1: Downloading SEC filings...")
@@ -220,8 +235,11 @@ def main():
     log.info("STEP 2: Renaming SEC filing folders...")
     rename_sec_folders()
 
-    log.info("STEP 3: Zipping data folder...")
-    zip_data_folder()
+    if len(rename_failures) or len(download_failures) or len(incomplete_tickers):
+        log.info("Manual download or naming changes may be required before zipping")
+    else:
+        log.info("STEP 3: Zipping data folder...")
+        zip_data_folder()
 
     log.info("Collection complete! Check ./data/ and data.zip for results.")
 
