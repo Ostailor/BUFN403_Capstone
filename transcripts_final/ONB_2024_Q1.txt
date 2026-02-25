@@ -1,0 +1,432 @@
+Image source: The Motley Fool.
+
+
+
+
+Live Oak Bancshares
+ 
+(
+LOB
+ 
++0.89%
+)
+Q1 2024 Earnings Call
+Apr 25, 2024
+, 
+9:00 a.m. ET
+Contents:
+ 
+ 
+Prepared Remarks
+ 
+Questions and Answers
+ 
+Call Participants
+ 
+ 
+Prepared Remarks:
+ 
+ 
+Operator
+Good morning, ladies and gentlemen, and welcome to the Q1 2024 Live Oak Bancshares earning call. [Operator instructions] This call is being recorded on Thursday, April 25th, 2024. I would now like to turn the conference over to Greg Seward, general counsel and chief risk officer. Please go ahead.
+Greg Seward
+ -- 
+General Counsel and Chief Risk Officer
+ 
+Thank you, and good morning, everyone. Welcome to Live Oak's first-quarter 2024 earnings conference call. We are webcasting live over the Internet, and this call is being recorded. To access the call over the Internet and review the presentation materials that we will reference on the call, please visit our website at investor.liveoakbank.com and go to the Events and Presentations tab for supporting materials.
+ 
+Our first quarter earnings release is also available on our website. Before we get started, I'd like to caution you that we may make forward-looking statements during today's call that are subject to risks and uncertainties. Factors that may cause actual results to differ materially from our expectations are detailed in the materials accompanying this call and in our SEC filings. We do not undertake to update the forward-looking statements to reflect the impact of circumstances or events that may arise after the date of today's call.
+Information about any non-GAAP financial measures referenced, including reconciliation of those measures to GAAP measures, can also be found in our SEC filings and in the presentation materials. I'll now turn the call over to Chip Mahan, our chairman and chief executive officer. 
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Thanks, Greg. Good morning fellow shareholders, and welcome to our Q1 call. I'm going to kick things off this morning and discuss several areas noted on Slide 4. We will touch on first-quarter loan originations and our pipeline of future loans to be generated.
+ 
+As always, we will present a credit quality update along with a view of increased operating leverage based on investments we have made. Then we will discuss growth drivers by way of adding new lending officers and a new way of underwriting small loans. Then we'll wrap up with a few thoughts from our Annual Report as we look back these last 10 years. Moving to Slide 5.
+ 
+Before we dig in on asset quality, a word on originations in Q1. Originations this quarter were $805 million, a $176 million decrease from Q4 of last year and $226 million less than Q1 of 2023. That said, a number of larger loans slipped at the last minute. As of today, many of those have closed.
+ 
+We expect to catch up to our original budget by the end of this quarter, we expect a nice increase in originations over last year. Our overall pipeline is at an all-time high up 23% over last year. Back to this slide, again steady as she goes, as it relates to the top portion of this slide. The bottom half requires further explanation.
+ 
+Steve and his Credit Team have quarterly watch list meetings with all 75 baggers. As you recall, these folks are recent college graduates responsible for gathering financial statements on all 6,000 customers every 90 days. This deep dive includes a healthy portion of all of our employees who touch the customer. He leaves no stone unturned.
+ 
+As we examine our charge-offs, as it relates to our provisioning on the next slide, Steve has a proven track record of conservatism. The real answer to credit quality exists on Slide 6. Let us dig in on actuals these last 13 quarters. Our unguaranteed ACL reserves are almost 2.5% of unguaranteed loans and leases or twice industry norms.
+ 
+As the nation's No. 1 SBA lender, we have also evolved as one of the nation's preeminent cash flow lenders. With interest rates rising over 500 basis points, in a very short period of time, our approach seems prudent. We have added $101 million to our reserves these last seven quarters, while charging off just $27 million.
+ 
+This includes $7 million in a fraudulent national participation in Q3 of last year. One needs to let this marinate a bit. Steve will be happy to answer any questions in our upcoming Q&A session. Walt will walk you through the non-operating adjustments as we move to Slide 7.
+ 
+Needless to say, we are quite pleased to see a 26% increase in operating leverage from the first quarter of last year to Q1 of this year. This $8 million increase year over year should accelerate in the future. Our investments in next-gen technology allows us to better answer the question, we constantly hear from our customers, am I approved and when do I get the money. Our goal of never touching data twice is around the corner.
+ 
+Treating each customer like our only customer is how we are built. We're in constant search of ways to raise our NPS score, and we look forward to this year's results. As discussed on our last call, we're incredibly excited about changes made at the SBA that affect loans under $1 million and particularly loans under $500,000. Our tech teams are working 24x7 to automate this process, in a way never before contemplated.
+ 
+Those loans will be sold on the secondary market. As we scale, those gain on sale dollars will have a positive effect on this ratio. Moving to Slide 8. In this year's annual report, we thought it would be informative to look back over the last 10 years.
+ 
+In 2013, we were a $400 million bank with $50 million in capital. Just after receiving our charter in May of '08, the FDIC restricted our growth to no more than 25% per year until 2015. We took the company public two months later. In 10 years, we have grown to $11 billion bank with almost $1 billion of capital.
+ 
+Assets have grown 39% year over year, while capital has grown a compounded 34% in those 10 years. Tangible book value has grown from $2.36 per share to $20.32 per share, a 10 times increase over the period. While we are not suggesting that the past is a proxy for the future, steady organic non-dilutive growth has been our mantra from inception. The rest of this slide shows how we got there.
+ 
+About $0.5 billion of organic earnings growth since the last time we had to access the capital markets back in 2017, driven by our core business earnings along with $207 million in gains from FinTech activities related to Finxact, Greenlight and Payrailz. Lastly, on Slide 9. Our increase in tangible book value compared to others in the KBW coverage universe, is in a class by itself. We are up over 700%, while the KBW coverage median has grown one-tenth of that.
+ 
+And with that, I will turn things over to Walt.
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Thank you, Chip, and good morning, everyone. I'll start today with a high-level review of Q1 on Slide 11. Our core financial objectives remain consistent with what we have discussed over recent calls, protect our credit vault, utilize pricing discipline to expand our net interest income and net interest margin, moderate expense growth yet remain opportunistic to add good costs and grow the business. Top-line figures show EPS of $0.36, a healthy net interest margin of 3.33%, a 42% quarter-over-quarter growth in reported PPNR, a 2% quarter-over-quarter loan growth, and a 7% increase quarter over quarter in our business deposits portfolio.
+ 
+From a soundness perspective, our small business borrowers continue to be resilient and maintain the eye of the tiger mindset, despite a challenging higher for longer rate environment, thus put pressure on some of the loans originated back in the lower rate years of 2020 and 2021. Our credit performance continues to remain within our expectations, and we remain confident in our portfolio strength and proactive monitoring. More on credit shortly. Our liquidity profile remains robust, with low uninsured deposits compared to the rest of the industry and three to one available liquidity capacity to those uninsured deposits.
+ 
+Our capital levels remain strong and have seen three consecutive quarters of capital ratio accretion. From a profitability perspective, our core business continues to perform well, as Chip mentioned, with a 26% year-over-year increase in core operating earnings. This growth reflects our focused initiatives to grow revenues, at a faster pace on our expenses, as we scale into the strategic hiring investments made over the past few years. Our 1% quarter-over-quarter increase in net interest income and 1 basis point quarter-over-quarter increase in net interest margin was in-line with our expectations.
+ 
+We will speak more on NIM in the upcoming slides. From a growth perspective, on the lending front, we remain the nation's largest SBA lender in terms of balanced volume thus far in the SBA fiscal year. Loan originations have a seasonal component with Q1 typically resulting in the lowest quarter of originations each year. And as Chip mentioned, a good portion of the loans that pushed to the right have already closed thus far in Q2.
+ 
+Our $3.2 billion pipeline remains at all-time highs as our lenders continue to do a fantastic job at sourcing new opportunities in a very competitive environment. Our ability to calibrate deposit growth to support our loan growth remains a strength. Customer deposits grew 4% quarter over quarter, primarily in our business deposit sector. This allowed us to reduce our more expensive brokered funding by 7% quarter over quarter.
+ 
+A couple of quick notes on Slides 12 and 13. Slide 12 highlights that roughly two-thirds of our $805 million of loan origination in Q1 2024 was in our small business banking space. As you can see on the top right, the bulk of the difference versus Q1 2023, was in the specialty and energy infrastructure business units. We also may view this as a timing difference, as these deals tend to be larger and more fluid in their estimated closing dates, and as such can easily push from one quarter to another quarter.
+ 
+We are also in the early days of our focus on small SBA 7(a) loans. Thus far, we have generated $13 million of small loan SBA 7(a) production year to date, and continue to see that pipeline increase. As Chip mentioned, as we work to automate the application documentation and decisioning process of our SBA-origination platform, we are excited as to what possibilities that provides for small loan 7(a) originations and the subsequent gain on sale income. Slide 13 highlights the quarter-over-quarter loan growth by component.
+ 
+It is important to note that prior to our typical sales and participations activity, our loan portfolio growth was 5% quarter over quarter, as new fully funding originations and construction loans continue to drive balanced growth. Our pipeline and portfolio activity suggest that a low double-digit full-year growth rate remains a reasonable loan growth expectation. Our deposit trends are highlighted on Slide 14. I've long viewed our funding model as a strength.
+ 
+Our branchless funding platform is extremely efficient with a ratio of approximately 5,000 deposit accounts to one customer success representatives and the expense of funds that typically ranges from 10 basis points to 20 basis points. And by the way, our customer calls are typically answered within a minute by a live customer service team that has a 93% plus first call resolution average, all while our competitive rate position ensures our customers are receiving market pricing regardless of the interest rate environment. As evidence of this strength, our total deposits increased to roughly $10.5 billion in Q1 2024, a $1 billion or 10% increase year over year. Customer deposit growth has been predominantly driven by our business deposits both in savings and CDs.
+ 
+Our overall customer deposit funding mix of 63% savings, 34% CDs, and 3% non-interest bearing has held constant over the past year, as we have not yet seen the migration in term deposits that many in the industry have begun to experience. Given the uncertainty of the Fed outlook, we continue to like our funding portfolio's short-term positioning. Our business checking product launched in Q4 2023 and while we are in the early days of rolling this product out, we have seen positive momentum thus far. Our expectation was that this was going to be a crawl, walk, run sort of pace, and we're optimistic with regards to this product's trajectory and its potential impact on our profitability as it scales to a larger portion of our funding mix over time.
+ 
+Slide 15 highlights our net interest income, NIM, and yield trends. As mentioned earlier our Q1 2024 net interest income was slightly up linked quarter, and our net interest margin improved by 1 basis point to 3.33%. As mentioned in our last call, pressure on net interest income growth in Q1 was expected as we had a large CD maturity event with an average renewal rate increase of 61 basis points. On the pricing front, our lenders continue to hold the line on spreads in a tougher, higher for longer rate environment, while many of our competitors are pricing well below prime.
+ 
+Our average yield on new production in Q1 was 9.12% or just above prime plus 60 basis points. Our average portfolio loan yield increased to 7.77% in Q1, up 16 basis points from Q4. As for deposit pricing, the average cost of funds increased over the last two quarters has largely been a result of our CD portfolio maturities and repricing. These maturity events have provided net interest income and net interest margin headwinds in Q4 2023 and Q1 2024, but they could ultimately provide future tailwinds if the Fed cuts later in 2024 or 2025.
+ 
+We have not raised our business savings rate since March of 2023 and have not raised our personal savings rate since November of 2023. At the same time we actually have been fortunate to begin lowering our CD rate offerings recently, as the market has begun to reprice its CD rates downward, as they try to shorten their funding portfolio, discourage funding migration to term deposits, and push customers to their more variable nation deposit offerings. Make no mistake that the market remains highly competitive, but it continues to show signs of rational pricing, which is encouraging. So what happens to our funding costs if or when the Fed cuts rates? Many banks throughout the industry, still expect rising funding costs even if the Fed cuts rate as the current offerings are still well below market competitive.
+ 
+This is evidenced by the national average savings rate still remaining just shy of 50 basis points, while most digital banks have offerings north of 400 basis points. We will assess the drivers of the Fed cuts, the competitive market, and our funding needs, yet ultimately expect the digital deposit market to react fairly, quickly and its downward repricing and we'll do the same. Lastly, given the recent inflation and Fed outlook news, let us quickly revisit our net interest income and margin expectations communicated by BJ, and myself over the past few calls. We've communicated that our net interest income and margin are expected to migrate up and to the right over 2024, albeit not in a linear fashion with more improvement in the back half of 2024.
+ 
+This expectation included returning to a NIM range of 3.50% to 3.75% by the end of the year and a high single-digit to low double-digit growth in 2024 net interest income relative to full year 2023, barring any unforeseen liquidity stress events. That guidance was based on three Fed cuts in the second half of 2024. And while we are optimistic that we will continue on up and to the right journey with our margin over time, the slope of that up and to the right trajectory for both net interest income and NIM, they flattened with less or no rate cuts, driving us toward the lower end of the expected range by the end of the year. Time will tell.
+ 
+Quarter-over-quarter fee income is outlined on Slide 16. We continue to be encouraged by improvement in the SBA secondary market in Q1. There is a good amount of liquidity in the market and stabilization in February aided the improvement on our average premium from 5 points to 7 points on loans sold. As you can see in the bottom table, our Q1 sales volume is typically lower than the rest of the year, followed by a slight stair-step up in Q2 through Q4.
+ 
+We expect 2024 to be no different. Gain on sale providing for roughly 8% to 12% of quarterly total revenues continues to feel like the right range at this point in time. As I mentioned in our last call, we were able to sell our first two USDA loans for the first time in over seven quarters, as asset sensitive banks begin to consider downward rate protection. We're excited about this development, but one quarter is not a trend.
+ 
+And as the timing of our USDA originations can be choppy, so will our USDA sales activity. Turning to expenses on Slide 17. Our Q1 2024 expenses of $79 million were up 7% quarter over quarter, though were essentially flat to Q1 2023. Quarter-over-quarter growth was driven by incremental personnel cost, such as 2024 hires, our annual salary merit adjustments, 2023 restricted stock unit awards, and accruals related to our 2024 employee bonus expectations.
+ 
+FTE growth for good costs with the addition of two senior loan officers, closing staff focused on small SBA 7(a) loans, and servicing internal audit and risk personnel to support our growth and complexity. We continue to operate as a growth organization, and we'll remain focused on adding revenue generators and other good costs as needed. If there are still opportunities to find efficiencies and scale in technology and support areas through automation and process improvements that will help manage expense growth going forward. Thus continuing to provide improvement in our operating leverage.
+ 
+Additional credit trends are included on Slide 18. Our $16 million provision was primarily attributed to portfolio macroeconomic changes, specifically the impact on customer cash flows from a higher for longer rate environment. Past dues are not materially outline with prior quarters and although non-accruals are up, as expected in the current environment, we still feel that these levels are manageable. As Steve can expand on in Q&A, we continue to actively monitor the existing portfolio, have yet to see any notable surprises outside of our expectations, and do not currently see any significant weak spots.
+ 
+Our trademark proactive direct servicing approach has and will continue to serve us well. In Q1 2024 alone, we spent approximately 40 hours over seven business days reviewing almost 500 presentations from 100 of our relationship managers on more than 700 of our credits to understand their specific situations and status. I continue to be impressed by our credit and servicing team's commitment to excellence and discipline in their respective areas. Our credit ball is in good hands.
+ 
+With 37% of our loan book government guaranteed, a strong capital and liquidity profile, a reserve to unguaranteed loans and leases ratio that is two times the industry median, a predominantly owner-occupied CRE portfolio that's 45% government guaranteed and our historical charge-off rate being a fraction of our current allowance, we remain confident in our reserve and portfolio's credit strength. Lastly, Slide 19 highlights our overall capital strength, which remains robust both in terms of regulatory ratios, as well as from the unguaranteed loan perspective, what we if actually call The Mahan Ratio. As you may have noticed in the earnings release, we did originate a $100 million term loan in Q1 2024 with the purpose of downstreaming the funds to our bank subsidiary to position our bank-level capital ratios for the anticipated growth to come. Our earnings over the last three quarters provides us with confidence in our ability to continue to support our growth through organic earnings as we have over the last six-plus years, while positioning ourselves to be able to weather whatever storms lie ahead.
+ 
+Thank you for joining us this morning. And with that, we're happy to take questions.
+ 
+Questions & Answers:
+ 
+Operator
+Thank you. [Operator instructions] First question comes from Steven Alexopoulos from J.P. Morgan. Please go ahead.
+Alex Lau
+ -- 
+J.P. Morgan -- Analyst
+ 
+Hi. Good morning. This is Alex Lau on for Steve.
+Steve Smits
+ -- 
+Chief Credit Officer
+ 
+Good morning, Alex.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Good morning, Alex.
+Alex Lau
+ -- 
+J.P. Morgan -- Analyst
+ 
+My first question is on credit. Can you share some color on the loans that you built specific reserves for in the quarter? And what is your outlook for the health of these credits in the related industries?
+Steve Smits
+ -- 
+Chief Credit Officer
+ 
+Yes. This is Steve Smits, I'll take that one. So these are predominantly main street SBA borrowers that are struggling with the higher rate environment and the impact to their overall debt obligations. So we've put impairments on these loans as we navigate.
+ 
+But as Walt had mentioned, we continue to stay very focused and close to them in our servicing, and we will continue to work through them. But with the uncertainties in the economic outlook going forward, how long rates will remain high, prudent steps to put the reserves today and continue to work with them to rehabilitate and work through these challenges. What gives me some comfort is that these really were not surprises. And these were borrowers that we were aware.
+ 
+We're experiencing challenges and struggles. So that bodes well to our servicing and being on top of understanding the challenges our borrowers are working through. So no huge surprises, but we will continue to work through them.
+Alex Lau
+ -- 
+J.P. Morgan -- Analyst
+ 
+Thank you. And I wanted to ask about expenses. So what is your expense outlook range for 2024 considering a baseline growth rate? And if there are opportunities to add more revenue producers, where would that expense range be? Thank you.
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Yes, it's a good question, Alex. This is Walt. So from expectations for 2024 baseline, we think a high single digits is reasonable given that we still remain that growth organization. To the extent that if we can hire revenue generators, what does that become? Does it move to low-single digit, perhaps right? I think there is still some efficiencies that we can look at.
+ 
+So -- and then obviously, it depends on how many revenue generators we can add. So to the extent that, that goes into low-single digits, mid-teens, I personally don't see that as a problem if it's all revenue generators because it's going to generate revenue and help with on the operating leverage side.
+Alex Lau
+ -- 
+J.P. Morgan -- Analyst
+ 
+Thank you for answering my question.
+Operator
+Thank you. Next question comes from Brandon King from Truist. Please go ahead.
+Brandon King
+ -- 
+Truist Securities -- Analyst
+ 
+Hi. Good morning.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Hi, Brandon.
+Brandon King
+ -- 
+Truist Securities -- Analyst
+ 
+So could you square away the commentary around the pipeline being stronger than ever, but we hear more and more how these higher rates are impacting just smaller business demand. So could you talk about what you're seeing within your customer base, what's driving these strong pipelines just relative to these higher rates potentially impacting demand and obviously credit as well?
+BJ Losch
+ -- 
+President
+ 
+Yes. Brandon, it's BJ. So I think, what we are seeing is an expectation level setting or kind of a realization if you will, of buyers and sellers, particularly in the SBA space, kind of getting on common ground on what valuation should be given the rapid increase in rates that happened over the last 18 months or so. So last year was kind of an interesting one in terms of sellers having expectations of valuations pre-increase in rates and buyers looking at their borrower base and what they could actually afford to pay.
+ 
+And so there were some disconnects there. There will continue to be high activity. But a lot of what we saw coming through our pipelines actually fell out of closing because buyers and sellers couldn't come to terms. We're seeing that true up a little bit more now.
+ 
+So rates are generally steady. Borrowers understand what their cash flow coverage is going to be, and can forecast that a little bit better. And so we are seeing much better pull-through activity, as we look at the pipeline. Now how -- what Walt said is true is in the first quarter, you'll see that our originations were largely flat quarter over quarter -- excuse me, year over year in SBA.
+ 
+They were down meaningfully in specialty finance and E&I, which we've already seen come back here in the second quarter. We do expect stronger SBA, small business volume in the second quarter in addition to that specialty and E&I. So we are pretty excited about what we are seeing going forward, and we expect to continue to see more growth with the existing business that we've got. As Walt talked about, we are always, always, always in the market for high-quality revenue producers.
+ 
+We're a growing company. We'd love to see more lenders come on to our platform, and we are actively looking for those. So you'll continue to see us invest there.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Just one other thing on that, Brandon. I have always felt in our business, the banking business, that banks are sold and not bought. Bank Boards have a certain expectation, I'm going to sell my back for two and a half times book and market in there, and [Inaudible] sell the bank. And I think that's what has happened, particularly in the M&A business space.
+ 
+The silver tsunami is expecting a certain price. Numbers don't pencil. Silver tsunami is running out of runway. Speaking as one of those silver tsunami guys, and it could come with realization that I'm not going to get two and a half times book, I'm going to get two times book and I better take it now.
+ 
+So I think our guys were saying and the phones are ringing and the phones are ringing. That's the reason that the pipe is up 26% or 23% or whatever it was.
+Brandon King
+ -- 
+Truist Securities -- Analyst
+ 
+OK. That makes sense. And then as far as the new commentary, it sounds like if we are in kind of the least stable rate environment, you're going to reach the low end of that 3.50%, 3.70% range by 4Q. But what is implied in your outlook for deposit costs within that guidance? Are you expecting deposit costs to be potentially stable from here? Or what sort of creep are you expecting on the deposit cost front?
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Hi, Brandon, it's Walt. So from a savings perspective, we expect it essentially to stabilize both on the personal and the business side. In that guidance, that gets us back toward that 3.50%, 3.75% range toward Q4. We still have two expected Fed cuts, which obviously -- our savings will respond accordingly.
+ 
+Those cuts I believe, are September and November in our current model. And then from a CD front, like I mentioned in the call, we've been able to reduce our CD rates thus far. I don't -- I think it largely will depend on how the market moves. Digital market typically on CD pricing will reprice ahead of Fed expectations.
+ 
+And then the gap between our renewal -- our maturing CD rates and our renewal rates, it's much less as we get further through the year, just given we were pricing our 12 month, which is our largest CD offering in Q3 and Q4 last year at the 5.25%, 5.30% mark.
+Brandon King
+ -- 
+Truist Securities -- Analyst
+ 
+OK. OK. So it sounds like interest-bearing checking and savings and money market are kind of least stable from here until Fed rate cuts and then CDs are marching toward that 5.20% would be the best way to frame it.
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Yes. I think I would frame it more -- yes, they're marching toward our current rate offerings today.
+Brandon King
+ -- 
+Truist Securities -- Analyst
+ 
+OK. Got it. Thanks for answering my questions. I'll hop back in queue.
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Thank you.
+Operator
+Thank you. Next question comes from Tim Switzer at [Ianudible]. Please go ahead.
+Tim Switzer
+ -- 
+KBW -- Analyst
+ 
+Hi. Good morning thank you for taking my questions. I had a quick follow-up on your commentary on the NIM and deposits. What's kind of the deposit beta you guys are assuming on the initial rate cuts, say, we get one or two cuts in the back half of '24? What's your initial expectation there? And then how could the beta possibly accelerate as we move through the cycle if we get a series of cuts?
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Yes. Great question. From a beta perspective, the bank here has been about 15 years old. So we have seen a lot of robust downward cycles.
+ 
+The last time the rates came down, our deposit pricing digital market acted pretty rational. From a beta perspective early on, will probably be somewhere in the 50% to 70% range. It could be a potential lag, whether it's one month or so. On the CD side, that's a typically 80% beta or so and that will -- we're pretty confident that will hold given the way CD market typically is very reactive.
+ 
+As you kind of move forward, as you saw kind of with rates between they own or when rates were rising, cumulative betas rose, we think our cumulative betas will also increase on the savings side as well. But largely will depend on how essentially the overall market reacts.
+Tim Switzer
+ -- 
+KBW -- Analyst
+ 
+OK. Got it. And then I also wanted to ask about your expectations around SBA margins, the secondary market demand kind of a good lift in the premiums this quarter. But now with rate cuts being pushed a little bit further out, interest rates moving higher, has that kind of moderated demand or the premiums for you? And what are your expectations once you get either stabilization or cut in rates?
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Yes. The secondary market tends to look at the forward curve. So the 105, there's a 107 improvement that we saw here in Q1. I think we'll stay in that range especially now given with potentially later Fed cuts, though, I think of the last six quarters or so and say, hey, that's probably a reasonable expectation for right now.
+ 
+As far as demand, demand is strong. The liquidity is strong in the market. So we're not having issues as far as selling and executing those sales. I think as the rates come down, we typically will see an improvement.
+ 
+Hard to say right now that improvement is drastic. But I think from a reasonable expectation, sticking that 105 to 107 range, at least through the next few quarters, feels right.
+Tim Switzer
+ -- 
+KBW -- Analyst
+ 
+OK. Great. That's all for me. Thank you.
+Operator
+Thank you. [Operator instructions] Next question comes from David Feaster at Raymond James. Please go ahead.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+Hi. Good morning everybody.
+BJ Losch
+ -- 
+President
+ 
+Good morning David.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+Maybe just -- I'd like to touch on the small loan automation. You guys touched a bit about it in your prepared remarks. I'm just curious, where are we in that build out? What's left there? And then -- I mean, are there any other investments or back office build-out that we need? And when do you maybe expect that we could start beta testing that or rolling it out more broadly?
+BJ Losch
+ -- 
+President
+ 
+Hi David. Good morning. It's BJ. So we have already started originating small dollar SBA loans.
+ 
+Right now, it's mainly through a small team that we put together. So I think we've got $12 million or $13 million booked to another pipeline about that size. So a good start. We had not opened it up to all of our lenders yet.
+ 
+We're getting ready to do that. But we've got two major technology/credit enhancements that we're looking at before we really open up the flood gates. One is a digital application, which we are expecting to have later in the second quarter, early third quarter. So that will be a big deal because that will automate the front end, make it very easy for our borrowers, our referral sources or our lenders to put small-dollar loans through our pipeline.
+ 
+That will be very helpful. The second is automated credit scoring. We will not go 100% automated credit scoring, but we are looking at streamlining the process for these small dollar loans to be able to get more through our system. So we're really excited about this.
+ 
+This has always been something that was available that other SBA lenders do, but we have tended to do larger dollar credits. We're very happy to provide access to capital for small business owners, and this very much aligns with what the FDA and the current administration are looking for from us and the industry. So we are excited about that. And it just adds to our ability to serve more and more small business customers.
+ 
+So more to come on this, but we expect it to really start to ramp toward the back half of the year.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+And is the plan still to sell all of that production? And where are gain on sale of smaller dollar relative to what you typically sell?
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+Hi Dave, this is Walt. Yes, the plan is 100% sales model related to small loan SBA. Premiums, their range typically anywhere from 110 to 113 depending on your spreads. But historically, those have held true.
+ 
+The secondary market views those loans as kind of the credit loan because you can essentially create larger pools with more diversification. So high demand, good premiums, historically, and we expect those -- or expect that to continue to go forward.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+Got it. And then maybe switching gears back to the business deposit growth. I mean, first off, I guess, could you remind us where pricing is on those products? And then where would you characterize we are at this point? We've seen obviously nice growth. But are we still crawling from your perspective? And maybe when do you think that we shift to walking or even start running?
+Walt Phifer
+ -- 
+Chief Financial Officer
+ 
+I'll start. Yes. Dave, this is Walt. So on our business price -- or business deposit pricing, our savings is at 4%.
+ 
+Our CDs are the same, as our personal CD rate offerings. And then obviously you have a non-interest bearing checking. As far as the kind of where we are in the crawl-walk run, I'd say we're very much in the crawl stage. I think we are working as aggressively as we can to sell those to our existing customers as well to new customers.
+ 
+I think it will take time to ramp on the checking side, just where we are in the market right now where essentially depositors can get very nice rates on the interest-bearing side.
+BJ Losch
+ -- 
+President
+ 
+Yes, I think just to clarify. We are on a crawl as it relates to checking. And there is a long runway there. We are absolutely sprinting on business deposits.
+ 
+We've got a very strong offering there. We've got a great brand reputation. The growth in business deposits is incredibly strong. So we expect that to continue.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Yes. I would just add that -- David, this is Chip. So I would just add this right -- that we have been primarily a lending company for 15 years. And a lot of our SBA, particularly the generalists, have been SBA-commissioned loan producers.
+ 
+And now that we have a checking account product that is second to none in the industry, it's been a bit of an educational process, particularly for instance, if we are funding an acquisition and the money goes to the seller. We need to convince our customer, who is the buyer to bank with us that we are a bank this time. We're not just a lending company. And there is a -- that piece in that education is in the educational area in early days, and I would still put that piece in the crawl area.
+ 
+We can get better there -- and we will get better there.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+That makes sense. And honestly, that might play into -- as you do more conventional lending, play into more of that growth. And so maybe touching on the conventional lending side. Looking at one of your charts, it looks like you've seen a decent amount of growth on that front.
+ 
+There is obviously a hyper focus on the CRE front. I'm just curious, what are you targeting on the conventional side at this point? How is that going? And then how do you just think about growth of conventional production and shifting underwriting standards in credit quality there?
+BJ Losch
+ -- 
+President
+ 
+We're really excited about what we're doing on the conventional lending side. We've transported our theory of verticality from the SBA side over to the specialty side, which we think is incredibly important to be very expert in the verticals that we go after so that we can add value as an $11 billion bank on larger credits relative to just being a bank that's a generalist-type calling effort. And I think, we've been incredibly successful there so far. We've got an excellent sponsor finance business.
+ 
+We have a venture banking vertical, which makes sense with our organization, seniors housing, commercial real estate, specialty healthcare. So we are trying to be very niche oriented in how we grow that. And over the last five years, we have grown our specialty finance business ten-fold in terms of outstandings. And what that's also allowed us to do is have credit be comfortable with the credits that we're doing in those verticals because we're, by and large, seeing the same types of deals as opposed to again having a generalist calling effort on the conventional side, which could be more difficult to underwrite and approve.
+ 
+So we are pretty bullish on what we can do to grow that responsibly. And in addition to that, talking going back to the deposit side and the checking side, it is very common to do a conventional loan deal and ask for the deposits. And so from that perspective, we are having great success starting to build out our deposit, our checking platform on the specialty conventional side because our borrowers are used to being asked for the deposit. So we're going to build our book there probably quicker, frankly, than we're going to build it on the small business side, and we're starting to see the fruits of that labor.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Just one addition to that, David, this is Chip -- is it has been really, really fun for my co-founders, David Lucht and Lee Williams and I. We kind of view this from our perspective as regression to the norm. We came up with this idea to create a bank that's the porter-led of the banking business in the SBA area. All of a sudden, we get to use our 50 years' experience of being actually C&I lenders ourselves.
+ 
+So this is a bit again -- a regression to the norm for us.
+David Feaster
+ -- 
+Raymond James -- Analyst
+ 
+Getting back to your roots. That's great. Appreciate all the color. Thanks, everybody.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+Thank you.
+Operator
+Thank you. We have no further questions. I will turn the call back over to Chip Mahan for final comments.
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+ 
+As always, we appreciate your attention today and look forward to seeing you again in 90 days. Thanks for coming.
+Operator
+[Operator signoff]
+ 
+Duration: 0 minutes
+Call participants:
+Greg Seward
+ -- 
+General Counsel and Chief Risk Officer
+Chip Mahan
+ -- 
+Chairman and Chief Executive Officer
+Walt Phifer
+ -- 
+Chief Financial Officer
+Alex Lau
+ -- 
+J.P. Morgan -- Analyst
+Steve Smits
+ -- 
+Chief Credit Officer
+Brandon King
+ -- 
+Truist Securities -- Analyst
+BJ Losch
+ -- 
+President
+Tim Switzer
+ -- 
+KBW -- Analyst
+David Feaster
+ -- 
+Raymond James -- Analyst
+
+
+More LOB analysis
+
+
+All earnings call transcripts

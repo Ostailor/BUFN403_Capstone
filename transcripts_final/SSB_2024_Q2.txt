@@ -1,0 +1,167 @@
+SouthState Corporation (NASDAQ: SSB ) Q2 2024 Earnings Call Transcript July 25, 2024
+
+Operator: Thank you for standing by. My name is Kathleen. I will be your conference operator today. At this time, I would like to welcome everyone to the SouthState Corporation Second Quarter 2024 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer session. [Operator Instructions] Thank you. I would now like to turn the call over to Mr. William Matthews, Chief Financial Officer. Please go ahead.
+
+William Matthews: Good morning and welcome to SouthState’s second quarter 2024 earnings call. This is Will Matthews and I am here with; John Corbett; Steve Young; and Jeremy Lucas. As always, John and I will make some brief remarks and then move into questions. We understand you can all read our earnings release and investor presentation, copies of which are on our Investor Relations website. We thus won’t regurgitate all the information, but try to make a few comments and point out a few highlights on items of interest before moving to Q&A. Before we begin our remarks, I want to remind you that the comments we make may include forward-looking statements within the meaning of the Federal Securities laws and regulations. Any such forward-looking statements we may make are subject to the Safe Harbor rules.
+
+Please review the forward-looking disclaimer and Safe Harbor language in the press release and presentation for more information about our forward-looking statements and risks and uncertainties which may affect us. Now, I’ll turn the call over to John Corbett, our CEO.
+
+John Corbett: Thank you, Will. Good morning, everybody. Thanks for joining us. It felt like SouthState was firing on nearly all cylinders in the second quarter. We saw the long anticipated inflection of our net interest margin. Non-interest income was up, expenses were well controlled, and earnings per share were up 15% from last quarter. On the balance sheet, deposits are still a challenge, but loans grew better than forecast and asset quality is in good shape with only 5 basis points in charge-offs. The most impactful event of the second quarter was obviously the announcement of the independent financial transaction. We spent the month of June in Town Hall Meetings with employees in Dallas, Denver, Austin and Houston, and David and his team were incredibly welcoming and hospitable.
+
+They’re all terrific. With no branch overlap and no change to the geographic leadership structure, it makes this much easier to integrate and for our bankers to keep their focus on serving their clients and building the bank. We’ve already filed the proxy and we’ve scheduled for the shareholder vote for next month. We also filed the regulatory applications on July 1st. So things are progressing on schedule. We walked through the strategic rationale when we announced the deal in May. We’re expanding into great markets. In fact, they’re some of the only markets in the country that match the demographic growth profile of our current markets, both from people migration and income migration. We also talked about the financial power, with 27% earnings per share accretion.
+
+But I want to take a minute and drill down on how we’re thinking about the deal from a capital management perspective. As an industry, we’re on the back end of the fastest increase of interest rates in decades. Our industry currently suffers from loans and investments that are under earning their potential because they’re not yielding current market rates. That’s a negative overhang that will last for years. But the positive is the industry enjoys the benefit of strong capital ratios. So the question for every bank management team is, how to utilize surplus capital to reposition the balance sheet and unlock the earnings potential of these assets rather than waiting years. Many of our peers have chosen to execute a bond swap, and that’s fine.
+
+But a bond swap never got us particularly excited as a capital management strategy. We looked at it as a dollar-for-dollar trade. You invest $1 of capital and you get $1 of earnings, but you accelerate the timing of the cash flows. Again, that’s fine from a financial engineering perspective, but it feels to us like a dollar-for-dollar trade. What we’re doing with independent is a more powerful use of capital. Just like a bond swap, we’re unlocking the earnings power of the bonds at independent financial. But it’s not just the bonds, we’re unlocking the earnings potential of their entire loan portfolio. So including both loans and investments, it’s about a $17 billion interest rate swap on all earning assets. But here’s the key.
+
+Rather than a dollar-for-dollar trade, the thing that makes this different is that we’re utilizing the SouthState valuation and currency advantage simultaneously with the investment of capital, which makes the swap much more powerful as a capital management approach. Layering both the normal economies of scale we gain in a transaction plus the currency advantage and we see this as a far, far better use of capital than a vanilla bond swap. All $17 billion of earning assets moves to market rates and the rates are instantly locked in. Independent’s net interest margin opens wide and the only rate movement going forward will be deposit rates. As we move into a period of likely lower rates, SouthState should benefit as a more liability-sensitive balance sheet with independent.
+
+I want to thank David and Dan Brooks, Dan Strodel and the entire independent team for making us feel so welcome and for their enthusiasm of what we’re building together. I’ll turn it back over to Will to provide more color on the quarter.
+
+William Matthews: Thanks, John. Total revenue of $425 million for the quarter was a bit better than forecasted, with net interest income of $350 million and non-interest income of $75 million. Net total revenue number was up $10 million from Q1 on an equal day count. Our NIM of 3.44% rose 3 basis points and was in line with our expectations as deposit cost increases slowed to 6 basis points at the lower end of our 5 to 10 basis point guidance for a cost of total deposits of 180 basis points for the quarter, and as loan yields increased 9 basis points from the prior quarter, also within our guidance of 7 to 10 basis points. I’ll note what appears to be something of an inflection point. This is the first quarter since Q4 of ‘22 where our improvement in loan yields exceeded our increase in cost of deposits.
+
+That brings our total cumulative deposit beta to 34% and our cumulative loan beta to 39%. Confirming our expectations, our deposit mix shift appears to have slowed. In fact, for the quarter, average DDA balances were up slightly versus Q1 and the average mix of DDAs to total deposits was unchanged from Q1’s 28.5%. Steve will give some color on our future margin guidance in the Q&A. Non-interest income was up $4 million from Q1, a bit better than we expected. NIE, excluding non-recurring items of $242 million, was up $1 million from Q1 and moderately above Q2 of ‘23 levels. Looking ahead to the remainder of the year, we have merit increases for most of the bank that were effective July 1st, so compensation expense will increase. There are also some project and related expenses we expect to hit in the second half of the year, so NIE in Q3 and Q4 is still likely to be in the $250 million range.
+
+As always, NIE is somewhat dependent on expense items that vary with revenue. Our $4 million in provision expense essentially matched the quarter’s net charge-offs, leaving the total reserve levels flat and when combined with loan growth, caused the total reserve to loans to decline 3 basis points to 157. NPLs were up $21 million centered in one loan where we have guarantors with substantial liquid capacity and where we expect to resolve this credit favorably. Past dues and payment performance improved and are as strong as we’ve seen in recent memory, and we continue to expect that we will not see significant losses in the loan portfolio based upon current forecasts. Lastly, on the balance sheet front, loan growth of 7% annualized brought year-to-date growth to a 5% annualized rate and deposits were flat with Q1 levels with ending deposits down slightly and average deposits up approximately 1%.
+
+Capital improved with our TCE ratio growing to 8.4%, our CET1 to 12.1% and our TBV per share ending at $47.90. Operator, we’ll now take questions.
+
+Q&A Session
+
+Operator: Thank you. We will now begin the question-and-answer session. [Operator Instructions] Your first question comes from the line of Michael Rose of Raymond James. Please ask your question.
+
+Michael Rose: Hey, good morning guys. Thanks for taking my questions. And I just wanted to get a sense on you know just the loan growth expectations. You know I know you guys had previously talked about kind of mid-single-digits. You know I think this quarter was a little bit better than what I was looking for. Just any sort of thoughts that you guys have. And you know if you can just talk about kind of you know from the business perspective you know what your customers are telling you? You know would you expect you know to see, assuming everything works out with the election deregulatory side you know maybe, is there any pent up demand? Just trying to get a sense for kind of what customer activity looks like. Thanks.
+
+John Corbett: Yeah, good morning, Michael. It’s John. Yeah, you’re right. We referenced about mid-single-digit loan growth guidance early in the year, and really that’s what we’re tracking. We’ve done about 5% loan growth, a little stronger in the second quarter. I think last quarter, Michael, we mentioned that our pipelines had grown significantly starting in November of last year, and that pipeline growth translated into loan production growth in the second quarter, our loan production grew from $1.3 billion in the first to about $2 billion in the second quarter. So it’s about a 50% increase in loan production. You know the growth is really broad-based. The biggest contributor we’re seeing is C&I credits, largely middle market companies, and we’re seeing the strongest growth out of the Carolinas.
+
+And in the last year, you know we benefited from the funding of construction loans that were made you know earlier in ‘21 and ‘22. That tailwind probably abates here in the coming quarters. So we may lose some of that benefit. But pipelines are currently stable, so we think our current guidance is still appropriate. But you know as always, it can be lumpy from quarter-to-quarter. The payoffs are the wildcard – they’ve been historically low the last few quarters, but we’re starting to see some multifamily sales activity. So payoffs might increase.
+
+Michael Rose: Very helpful. And then just switching to credit, you guys you know for a bunch of quarters you know built the reserves pretty meaningfully. You did have some you know modest upward migration, understanding it’s off of you know very low levels, but the reserve did come down. The provision was, I think, much less than me and others were looking for. Can you just discuss some of the puts and takes and maybe you know what drove the increase in the earlier stage? You know special mention in the substandard categories? Thanks.
+
+John Corbett: Yeah, Michael, it’s John. So, I think we talked about a few quarters ago, as the yield curve increases and rates rise, we’ll probably see a migration and a more of a normalization in particularly commercial real estate loans and that’s kind of manifested itself, although it’s slowing down the last quarter or two, but it’s primarily a rising rate story. I think our culture as you know it to be, is one that’s quick to downgrade and slow to upgrade. But as we talk to the credit team that are analyzing these loans, they don’t see material loss content and we’re not having really any significant payment performance issues. And I think Will mentioned it in his open remarks, past dues are only 21 basis points and you know we’re all focused on office, but the office past dues are only 22 basis points.
+
+And if you take a step back, past dues in all commercial real estates’ loans are only 6 basis points. So, yeah, I think as we move through this rate cycle, we got lots of equity, strong guarantors. You know we’ll upgrade loans accordingly as debt service coverage is improved, but we don’t see loss content or credit folks aren’t particularly concerned at this point.
+
+William Matthews: Yeah, Michael, it’s Will. I’ll maybe comment on provisioning. You know, CECL is always a difficult and dangerous thing to predict. But you know, the theory behind it of course, is that the provision in advance, recognized losses in advance and you know, if you look at our build over the last eight quarters, you know, it’s up about $171 million provision expense net of charge-offs. And so, if, you know, it’s possible – moving ahead, if you start to see improvements in economic forecasts, we and the industry, if others followed the same practice, would potentially see reserve levels continue to come down, even as in some cases, you might see some folks’ charge-offs tick up at the same time. So, you know, CECL is a forward-looking model.
+
+It does incorporate some other qualitative factors associated with things in your portfolio. But if economic forecasts improve from here, I wouldn’t necessarily see our reserve moving up at all from where it is today.
+
+Michael Rose: Makes a lot of sense. Thanks for the color. And maybe just one last one for me. I saw that you guys filed a fixed income you know presentation and you know it looks like IBTX, to the extent you can comment, has some sub debt that’s maturing in ‘24. Can you just talk about you know why this presentation was filed? And then you know any sort of comments as to what the sub debt, you know, do they expect to just pay that down? Or just any comments you can give. Thanks.
+
+William Matthews: Yeah, all I can say on that, Michael, is that, you know, IBTX as a standalone entity that has debt maturing shortly and they may or may not be opportunistic in the market to refinance it.
+
+Michael Rose: All right, I’ll step back. Thanks.
+
+William Matthews: Thank you.
+
+Operator: Your next question comes from the line of Catherine Mealor of KBW. Please go ahead.
+
+Catherine Mealor: Thanks. Good morning.
+
+William Matthews: Good morning.
+
+John Corbett: Good morning.
+
+Catherine Mealor: It was great to see the margin come right in line with your guidance. Wanted to see what you’re thinking about the back half of the year, particularly as we push the likelihood of cuts back to the likely to December? Thanks.
+
+Steve Young: Sure, Katherine, this is Steve. That’s probably a longer answer than you’re ready for, but I thought maybe I would spend a little time on this because in April, just the headline is, there’s really no real changes to our guidance. But we did have, as we said, a material announcement in May that we’re thinking about you know the transaction with IBTX and it’s 27% accretive. So it is a bit of a game changer as we kind of think about you know post the end of this year. So, you know I guess the first point is, there’s really no change to our guidance. I think we said 340 to 350 for the full year and that’s sort of where we are. Let me kind of try to build a bridge from where we are and kind of where we’re modeling we’re headed.
+
+And you know it’s really the three assumptions around interest earning assets at $41 billion for 2024. That’s no change. That nothing’s changed there. You know our rate forecast that we talked about in April is the same. The Moody’s baseline, it was two cuts in 2024 and four cuts in 2025. So that has not changed. And then the third big assumption is around deposit beta. We’re 34% on the way up. And we’re modeling on a standalone company as 20% on the way down, and then as a pro forma company with IBTX, 25% on the way down. So for the standalone company, for us, we would expect NIM to be flat in the third quarter with the loan yields and funding costs offsetting each other. And if we get a rate cut in September, as the market seems to indicate, we would expect a 3 to 5 basis point improvement in the fourth quarter.
+
+And then for each rate cut thereafter, what we talked about before, we would expect a 3 to 5 basis point NIM increase for each of those rate cuts. Now, as we think about adding IBTX into the company when IBTX closes, which we still expect that to happen in the first quarter, I’m not sure early or late, but we would expect 10 basis point to 15 basis point increase in the margin run rate for us as we mark-to-market the fixed rate loans and fixed rate securities of IBTX. So to just kind of conclude, as we kind of think forward from the bridge from here to you know the end of 2025, so by the fourth quarter of 2025, with these rate assumptions and our modeling assumptions that we announced during the merger, that we would approximately have about $50 billion in loans, we’d have about $55 billion in deposits, and our exiting fourth quarter NIM would be in the 3.75% to 3.85% range.
+
+And then as we think about 2026, if Moody’s baseline is correct, there’s three more rate cuts in 2026, which would add to our margin that same 3 basis points to 5 basis points. So, in theory, we’d be in 2026 get in the 3.90s potentially. You know, if we don’t get – if we get fewer cuts than six that we’re expecting, we would expect margin to continue to expand, but it would be lower by 2 basis points to 4 basis points for each rate cut that we have – that we don’t get if it’s less than six rate cuts. So hopefully, you know, that kind of helps your modeling as you think about us on a standalone through the end of the year, and then us together with IBTX through 2025. Just two other comments on that. You know, as we think about liability sensitivity in a low rate environment, you know, our pre-floating rate loans percentage is 30%.
+
+Post it’ll be 27%. So a little less floating in a post-IBTX world. And then our deposits, as we mentioned, our beta was 20% in a pre-IBTX and post-IBTX would be 25%. So that all kind of adds up to all of those assumptions to get to that guidance, so I hope that’s helpful.
+
+Catherine Mealor: Yeah, that was awesome, Steve, as always. And one thing you mentioned last quarter, that you still thought that before we get to cuts, that your deposit cost would probably peak somewhere in the mid-180s. It feels like we’re near, you know, we’re 1.78% now, so we’re nearing that. Is that still how you’re thinking about the deposit cost peak?
+
+Steve Young: Yes. No change since the interest rate forecast didn’t change. This quarter, we were 1.80%, I think is what’s in our press release with our deposit costs. We still expect that to peak in the mid-180s, probably in the third quarter if they cut in the fourth quarter or late in the third quarter, excuse me.
+
+Catherine Mealor: Great. Okay. And then your 3 – the guidance you gave for next year, ending at 375 to 385 that you mentioned, that, of course, includes accretable yield, correct?
+
+Steve Young: I wouldn’t call it accretable yield. I would call it market rate on interest rate swap. That’s correct. That will be –
+
+Catherine Mealor: We will back it at a core –
+
+Steve Young: Yeah, yeah. Please don’t.
+
+Catherine Mealor: Yes, but still. But that includes the impact of those marks.
+
+Steve Young: Yeah, yeah that’s right.
+
+Catherine Mealor: Okay, great. Very helpful, Steve. Thank you.
+
+Operator: Your next question comes from the line of Brandon King of Truist Securities. Please go ahead.
+
+Brandon King: Hey, good morning.
+
+William Matthews: Good morning.
+
+John Corbett: Good morning.
+
+Brandon King: So fees came in stronger this quarter as well. So just wanted to get an update on what you think about fees going forward. I believe the range is kind of that 55 basis points to 65 basis points, but I wonder if that’s 55 basis points to 60 basis points. But has that changed at all, given the strength we’ve seen so far?
+
+Steve Young: Sure. Thanks, Brandon. This is Steve. Yes, you know you – we showed a slide on Page 29, but our fee income, it shows sort of a trend line on our fee income of $75 million or 67 basis points on assets, which was higher than our 55 basis point to 60 basis point guide. We did have interest on an IRS tax refund payment that added about $5 million to the second quarter totals. So if you kind of, you know, I would say that basically, there’s not a lot of change to this guidance. Based on the interest rate forecast and the first cut to happen late in the third quarter, we would sort of expect that NII to average assets to be maybe in that 55 basis point to 65 basis point range, before it starts climbing, you know as they start cutting rates in the capital markets, businesses start coming back.
+
+Mortgage maybe in that 60 basis point to 70 basis point range, maybe toward the first of next year. And then, you know as we look at the pre-look and as we run rate perspective, when we add IBTX which has a little less non-interest income, we would expect NII to average assets to be somewhere in that 50 basis points to 55 basis points combined range as we get a full run rate after close.
+
+Brandon King: All right, that’s very helpful. And then, John, you mentioned in your prepared remarks that the deposit environment is still challenging and deposits decline on a spot basis, quarter-over-quarter. So could you just further elaborate on kind of what you’re seeing in the deposit environment and kind of the expectations for growth going forward?
+
+Steve Young: Sure, Brandon. This is Steve. I think where we are in the cycle is kind of right at the end of a rate pausing cycle. And I remember this from other cycles that liquidity is kind of hard until you know the rate cutting cycle goes into place. And we’re trying to manage, obviously, you know deposit costs with growth and right now we’re having the ability to fund our loans with our deposits and our securities balances. So I would expect that, I’ll call it, in a rate cutting environment, that you know liquidity typically comes back money market funds. There’s alternatives and other things as people are in the treasury, they typically go back into bank deposits or some portion of it. So you know in this environment, we’ve been really focused on managing our own capital and trying to remix the balance sheet without growing the overall balance sheet and the overall funding structure and try to remix within it.
+
+So, I would expect the team certainly focused on it, but we’re also focused on PP&R, and so we’re trying to balance those two things.
+
+Brandon King: Okay. And just lastly, a clarification point on NIM guidance. What is your embedded mix – deposit mix expectations or assumptions within that, especially for non-interest bearing?
+
+Steve Young: Yes. So our non-interest bearing this quarter is around 28%. I think it was – I think it rounded to 28% last quarter. So I think we’re, things sort of a flattening off on a standalone basis. IBTX is a little less than that, but I think they saw a nice you know moderation there, too. So I wouldn’t expect there to be a huge mix shift from here, absent you know a rate change or something like that. But right now, we’ve had – we’ve seen the sort of the trends, and I think maybe it was down 40 basis points or 30 basis points, but hardly fitting around at them.
+
+William Matthews: And this is around where we were pre-COVID. So, you know, it’s hard to predict when the environment we went through is different, but this is pretty close where we were pre-COVID, Brandon.
+
+Brandon King: All right. Thanks for taking my questions.
+
+William Matthews: Thank you.
+
+Operator: Your next question comes from the line of Gary Tenner of D.A. Davidson. Please go ahead.
+
+Gary Tenner: Thanks. Good morning. Will, you made some comments, I think, regarding you know construction projects. You know so obviously they fumbled up and you’re going to maybe see that moderate or decline a little bit. I’m curious, as it relates to completed projects, are you seeing any extension in terms of dwell times on your balance sheet before maybe there’s a sale transaction or before the projects move to the secondary market or the permanent market?
+
+William Matthews: Yeah, you know, in some segments we’re seeing them to be a little slower to lease up self-storage particularly. We’re seeing a little slowness there. But on the flip side, Gary, we are seeing the capital markets start to fall and seeing more transactions in multifamily. We just, the last month we saw a multifamily project trade at a, I think it was a 5.25 cap rate. So that tells you that there’s activity out there and the ability to transact business and get you know these projects off the books.
+
+Gary Tenner: I appreciate the color there. And then, I was just curious about the intra quarter volatility on the DDA balance. It seemed you know particularly largest quarter of the average balance, almost $2 billion above the you know March 31 over 630 balance. So just curious about that intra quarter volatility and how to think about it?
+
+William Matthews: Yeah, you know our DDAs as a percent of overall deposits really flat on an average basis, Q1 to Q2. I’m not sure, I may have misunderstood your question.
+
+Gary Tenner: I guess I’m just querying the delta between, I’ve got your you know average DDA for the quarter over $12 billion versus about $10.3 billion at period end and about $10.5 billion as of March 31. So I’m just curious about that intra quarter volatility of average versus the period end.
+
+William Matthews: Yeah, I think you may have a blip in your model. We got you know average for Q1 was 11,957 and Q2 was 12,171. So yeah, and year ago, June 13,333 for average non-interest, year ago, Quarter 2. Maybe an input error in the spreadsheet.
+
+Steve Young: That’s on Page 5 of the earnings release.
+
+Gary Tenner: No, I’ve got those numbers, guys. Again, I was just trying – we could – I could talk to you offline about it. It’s not a major out there [ph]. Thanks.
+
+William Matthews: Thank you.
+
+Operator: Your next question comes from the line of David Bishop of Hovde Group. Please go ahead.
+
+David Bishop: Yeah. Good morning, gentlemen.
+
+John Corbett: Hi, good morning.
+
+David Bishop: A question, you know, there’s obviously been a lot of argument around the commercial real estate space within the markets here, you know, into the deal, any sub segments or areas where you’re consciously pulling back from and saying, hey, we’re going to avoid this landmine, just not looking to grow this business and any areas where you might see some opportunities? Thanks.
+
+John Corbett: Yeah, David really I don’t think there’s any difference in philosophy of IBTX and SouthState. You know I think we are wanting to manage our total CRE ratio well below the 300% and see that decline over time. You are all cautious naturally on office, cautious on assisted living. IBTX has got a really good solid retail, granular retail CRE book and we’re pretty bullish on that. So, I don’t anticipate a change in their lending practices or our lending practices. But I do anticipate with the way we’re going to accrete capital, that our CRE concentration ratio will drift down.
+
+David Bishop: Got it. Appreciate that. A housekeeping item. I know obviously the profitability will escalate in 2025 with the merger. How should we think about a go-forward tax rate once the merger is complete? Thanks.
+
+William Matthews: You know, not forecasting a big change from where we are today, Dave. I’ll probably have some more refined estimates as we move closer to closing and maybe better update you guys in the next couple of quarters. But at this standpoint, I don’t have anything, any major changes to project.
+
+David Bishop: Got it. Appreciate the color.
+
+William Matthews: If there are no further questions, I’m going to add and make one clarifying comment on the non-interest expenses, because I’ve seen some of you in your notes have noted the cost of the cyber event, which we have in the non-recurring line item. And that year-to-date been about $8 million, about half of that in the first quarter and half in the second quarter. We have coverage for the cyber event. We have not yet filed the insurance claim. We have a retention amount and then there’s some amounts related to some employee payments that weren’t technically covered by the policy that’ll be borne by us. Those two combined total about $2 million. So I know some of you are adding that back as operating expense in some of your models, but I wanted to just make that point. We have yet to file that claim and would expect to be reimbursed for all but about $2 million of the cost of that event. So just FYI.
+
+Operator: Okay so yeah. There are no further questions. I will now turn the conference back over to Mr. John Corbett for closing remarks.
+
+John Corbett: All right, thank you guys for joining us this morning and we know you’ve got a lot of calls to jump on, so if we can provide any other clarity for you, don’t hesitate to give us a ring. And I hope you have a great day.
+
+Operator: Ladies and gentlemen, that concludes the conference. Thank you for joining. You may now disconnect.

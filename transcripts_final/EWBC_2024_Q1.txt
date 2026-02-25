@@ -1,0 +1,558 @@
+Image source: The Motley Fool.
+
+
+
+
+HomeStreet
+ 
+(
+HMST
+ 
++0.00%
+)
+Q2 2022 Earnings Call
+Jul 26, 2022
+, 
+1:00 p.m. ET
+Contents:
+ 
+ 
+Prepared Remarks
+ 
+Questions and Answers
+ 
+Call Participants
+ 
+ 
+Prepared Remarks:
+ 
+ 
+Operator
+Good afternoon. Thank you for attending today's second quarter earnings release call for HomeStreet Bank. Joining us on this call is Mark Mason, CEO, president and chairman of the board. [Operator instructions] I would now like to pass the conference over to our host, Mark Mason.
+ 
+Please go ahead.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Hello, and thank you for joining us for our 2022 second quarter earnings call. Before we begin, I'd like to remind you that our detailed earnings release and an accompanying investor presentation were filed with the SEC on Form 8-K yesterday and are available on our website at ir.homestreet.com under the News and the Events link. In addition, a recording and a transcript of this call will be available at the same address following our call. Please note that during our call today, we will make certain predictive statements that reflect our current views and expectations about the company's performance and financial results.
+ 
+These are likely forward-looking statements that are made subject to the safe harbor statements included in yesterday's earnings release, our investor deck, and the risk factors disclosed in our other public filings. Additionally, reconciliations to non-GAAP measures referred to on our call today can be found in our earnings release and investor deck available on our website. Joining me today is our chief financial officer, John Michel. John will briefly discuss our financial results, and then I'd like to give an update on our results of operations and our outlook going forward.
+John? 
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Thank you, Mark. Good morning, everyone, and thank you for joining us. In the second quarter of 2022, our net income was $17.7 million or $0.94 per share as compared to net income of $20 million or $1.01 per share in the first quarter of 2022. In the second quarter of 2022, our annualized return on average tangible equity was 12.6%.
+ 
+Our annualized return on average assets was 89 basis points, and our efficiency ratio was 68.5%. Our net intense income in the second quarter of 2022 was $5.5 million higher as compared to the first quarter of 2022 due to a 10% increase in interest-earning assets. The increase in the average balance of interest-earning assets was due to the high level of loan originations and purchases of investment securities during the second quarter. Our net interest margin stayed constant at 3.27% as a 14-basis-point increase in the yield on interest rating assets was offset by a 17-basis-point increase in the cost of interest-bearing liabilities.
+ 
+The increases in yields on interest-earning assets and the interest rates paid on interest-bearing liabilities, primarily borrowings was due to the significant increase in market interest rates during the first half of 2022. Our effective tax rate for the second quarter was 21%, while our quarterly effective tax rate for the remainder of 2022 is expected to be 21.5%. No provision for credit losses was recorded during the second quarter of 2022 as the benefits of the continuing favorable performance of our loan portfolio, offset any required ACL resulting from the significant growth in our loan portfolio. Our ratio of nonperforming assets to total assets improved to 13 basis points.
+ 
+The $2.5 million decrease in noninterest income in the second quarter of 2022 as compared to the first quarter of 2022 was primarily due to $2.2 million decrease in single-family gain on loan origination and sales activities due to a decrease in rate lock volume and margins as a result of the effects of increasing interest rates. The $3.8 million decrease in noninterest expense in the second quarter of 2022 as compared to the first quarter of 2022 was primarily due to lower compensation costs due to the seasonality of certain employee benefit costs such as employer taxes, 401(k) match, and vacation accruals, which are higher in the first quarter of the year, and the deferred cost benefit resulting from significantly higher level of originations in the second quarter. Higher information services costs were due to the implementation of new systems in the second quarter and lower legal costs were due to the nonrecurring costs expended by litigation activities and legal matters in the first quarter of 2022. I will now turn the call over to Mark.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Thank you, John. In the second quarter, we grew our loan portfolio by $895 million or 15%, and that's 15% unannualized. As a result of record loan originations and growth in all loan types, this growth was due to, in part, to our ability to take advantage of disruptions in the commercial real estate lending market. Both banks and insurance companies were meaningfully more competitive on multifamily loans due to their lower funding costs related to Fannie Mae and Freddie Mac.
+ 
+At HomeStreet, we estimate that we originated approximately $400 million of loans to new customers who ordinarily might have opted for agency loans. While we suspect that expectations for increasing interest rates may be serving to pull customer demand forward for future periods and that this may become more evident later in the year, our loan pipelines remain strong, and we expect our loan portfolio to continue growing in the third quarter, albeit at a lower rate. In fact, due to the exceptionally strong origination activity we have experienced this year, we now anticipate a resumption of sales of our portfolio multifamily loans whereas we previously had not expected to resume such sales until future years. Even with our very robust origination activity, we were able to reduce total noninterest expenses in the second quarter by $3.8 million from the first quarter and improve our efficiency ratio by over 8 basis points.
+ 
+As a result of loan portfolio growth and related increases in net interest income, our ability to continue to leverage our existing operating expense infrastructure, we anticipate improving our efficiency ratio to the low 60% levels for the second half of this year. And then in the mid-50% range in 2023. These levels include the impact of our single-family mortgage banking operations, of course, which for the year to date have added approximately 6 basis points to our overall efficiency ratio. As I mentioned last quarter, as a result of our strong loan originations, a focus on loan retention and portfolio growth and slower prepayments, our net interest income is expected to grow meaningfully going forward and be a larger and more consistent component of our revenues.
+ 
+While we expect growth in our portfolio coming from all our business units, our commercial real estate loan originations, primarily multifamily, are expected to be the principal driver of our near-term growth. The credit quality of our loan portfolio continued its strong performance in the second quarter. And as John mentioned earlier, the related benefits were used to offset any required additions to our ACL, resulted from the growth in our portfolio. I suspect that for many investors and analysts, there may be some growing caution with respect to the banking industry as it relates to the potential for and severity of the next credit cycle.
+ 
+I just want to once again relay my confidence in how HomeStreet's credit profile is positioned for the potential ad event of a new credit cycle. I mentioned to you all in a quarterly call last year that this is not the same HomeStreet of 10 years ago, which was not long after our current management team arrived to reorganize and recapitalize the old HomeStreet. We radically changed this bank into the profitable and growing institution it is today. And as it relates to our credit profile, we couldn't be further from the old HomeStreet or the Great Recession of roughly 15 years ago.
+ 
+Our portfolio composition is significantly different today than prior to the Great Recession. Back then, approximately one-half of our loan portfolio was in residential construction and half of that was in raw land and land development. While we still make residential construction loans today, it is only about 5% of our portfolio today. And these land loans are primarily for vertical construction and any land lending is the builders who will build houses on the land and not sell lots.
+ 
+Additionally, our underwriting of residential construction is very different than pre-Great Recession. Today, we require hard equity in the projects, and we have liquidity and global leverage covenants in these loans. Beyond the underwriting, we only finance development that is 12 to 24 months in duration. We learned long ago that long development timelines are one of the major risks in construction lending.
+ 
+Today, our portfolio is well diversified with our highest concentration in western United States multifamily, one of the lowest risk loan types historically. Our portfolio is conservatively underwritten with a very low expected loss potential, and we expect to perform very well relative to both the overall industry and our peers, if and when we face the next credit cycle. I remain extremely confident of HomeStreet's credit quality. With the continued increase in market interest rates, as would be expected, our single-family mortgage banking revenues continued to decline during the second quarter and comprised only 6% of total revenues in the quarter.
+ 
+The decline in mortgage loan volume was more significant than we anticipated as a result of mortgage interest rates almost doubling in the period, a historic rise in such a short period. While the level of loans originated for sale decreased, the origination of single-family and HELOC portfolio loans increased totaling $176 million in the second quarter and the related portfolio increased at an annualized rate of 32%. We have and will continue to take steps to reduce costs in this area to be commensurate with the loan activity levels today. In fact, our single-family loan production is down about 40% year over year, and we have reduced our mortgage origination operations staff by approximately the same ratio.
+ 
+Our decision to retain in our portfolio, all of our permanent multifamily loans, combined with the more challenging environment for single-family mortgage production caused our level of earnings in the first half of this year to be lower than it would otherwise have been. Now due to our much larger loan portfolio and its associated net interest income, our expectation for higher Fannie Mae U.S. production and sales activity going forward, our potential earlier resumption of permanent multifamily portfolio loan sales, and our ability to lever our existing noninterest expense base. And in spite of our expectation, for continued pressure on single-family mortgage volumes and revenues, but that's a lot.
+ 
+We expect to produce meaningful earnings-per-share growth for the remainder of this year and next. Our strategy and year-to-date outperformance has built the foundation for increased earnings power going forward. We anticipate strong and growing returns on assets and tangible equity driven by continued growth improving operating efficiency and continuing strong credit quality and efficient capital management. In that regard, in the second half of this year, we are now targeting a return on average assets in excess of 1.1% and in mid-teens, a better return on average tangible equity.
+ 
+In 2023, we are targeting a return on average assets in excess of 1.25% and a high teens or better return on average tangible equity. Beyond 2023, we anticipate continuing improvement in our returns on average assets on tangible equity. You'll notice that we have slightly reduced our return on asset goals from our prior guidance. This is a result of the faster than originally anticipated increases in interest rates by the Federal Reserve.
+ 
+And a more significant decline in single-family mortgage loan production and related revenue as a result of the also faster-than-expected increase in mortgage rates. Of course, these updated targets continue to imply the potential of meaningful increases in earnings per share. The foregoing target returns continue to assume a generally stable economic environment, current consensus views on rising interest rates and the yield curve, and in absence of changes in law regulations or other events or factors, which could negatively impact the success of our business strategy. I also want to comment on the sale of our Eastern Washington branches that are scheduled to close at the end of July.
+ 
+This sale allows HomeStreet to focus on our retail branch strategy in the larger metropolitan markets in the Western United States. We are currently expecting to realize a gain in excess of $4 million on the sale. I hope our current shareholders, as well as the analyst community, will appreciate the outsized loan production performance and the impact on future earnings, efficiency, and returns. We have substantially reduced the contribution of single-family mortgage banking to our earnings and replaced it with strong and growing portfolio net interest income.
+ 
+We are growing our portfolio with generally high-quality, lower credit risk loans, which should provide for much more durable and reliable earnings going forward. We have made meaningful efficiency improvements to our operations and processes, giving us significant operating leverage to support our expected future revenue growth. We've used our capital wisely, provided for our balance sheet growth while returning excess capital to shareholders through dividends and very sizable share repurchases. These actions should result in much higher and consistently growing levels of profitability when compared with our history.
+ 
+We remain confident in our ability to execute our business strategy and achieve our goals including appropriate valuation. With that, this concludes our prepared comments today. Thank you for your attention. John and I would be happy to answer any questions you have at this time.
+ 
+Operator?
+ 
+Questions & Answers:
+ 
+Operator
+Thank you. [Operator instructions] We will pause here briefly as questions are registered. Our first question comes from the line of Matthew Clark with Piper Sandler. Please go ahead.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+Hey, good morning, guys. Thanks for the questions. I wanted to start on -- just want to start on the puts and takes of the NIM outlook. If you had the spot rate on deposits at the end of June and what the average monthly margin was in June as well?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+First, we don't separately disclose individual monthly margins. Our rate schedule is available on our website. I will share with you generally that we have not changed our base deposit rates, which is consistent with our peers. The one thing we have done is begun the promotion of two durations -- it should be three durations of promotional certificates of deposit.
+ 
+We've raised, I don't know, $40 million, $50 million at the start. And we are expecting to raise some meaningful amount of deposits in this promotion to help mitigate the larger use of borrowings this quarter.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+OK. And what's the rate on that promotional offering right now?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+I'll give you a current rate, though. I expect we're going to raise it. So the current rate is 100 basis points for seven months and 150 basis points for 13 months. We are expecting to add a 20-month promotional CD as well.
+ 
+And I would expect each of those rates to go up, we haven't concluded yet, but fairly meaningfully. If you look at the marketplace for higher rate promotional CDs or money market accounts, it's somewhat higher than those numbers. So we're currently considering increases.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+OK. And on the borrowings you added, do you -- could you give us the duration and rate on those new borrowings?
+John Michel
+ -- 
+Chief Financial Officer
+ 
+It's overnight borrowings that we do and the current rate is roughly about 2%, 182.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+OK. And then shifting gears to the expense run rate, nice decline there. I know I think previously, you talked about kind of a stable outlook. Obviously, you ratcheted that run rate down.
+ 
+Can you just give us a sense for what you're able to do to kind of permanently reduce that run rate?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, it's a couple of things. One, the whole team continues to be charged with looking for ways when we experience attrition to integrate those responsibilities into existing personnel. That's not always possible, of course. Additionally, we continue to renegotiate contracts, continue to restructure operations at small levels, right? And that has some benefit.
+ 
+We have some temporary, what I hope is temporary -- temporarily larger number of open positions. So we are not fully staffed as an example, in the branches -- branch personnel positions. I'm sure our peers are feeling the same -- are some of the lower-paid positions in the company, and there's some of the hardest to hire today, the competition for those physicians, of course, runs outside of banking. We compete against fast food and Amazon warehouses and every other service industry.
+ 
+So some of this is temporary, but it's not the largest dollar amount. We have been able to take some attrition and make it permanent and continue to look for other ways to save money. Not to say that inflation -- that we're immune from inflation because we are not. And our wage costs, our compensation costs are going up -- have gone up higher than we anticipated.
+ 
+Just that number has not yet been too material.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+OK. And then last one for me. Just on the DUS loan sales, $50 million this quarter. I think last quarter, there was an expectation you'd be able to ramp that up, particularly next year to that $600 million for the year.
+ 
+I guess any updated thoughts on that outlook and given the change in rates?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, thanks for asking that question. I have to tell you, I'm personally disappointed that we were not able to do better. But our expectation that Fannie Mae would improve the competitiveness of their program. I think it was a little early when I made the statement last quarter.
+ 
+During this quarter, they have improved their competitiveness primarily on rate. And we have a larger pipeline of Fannie Mae loans than we have had this year. But the rates have gone up. I mean, the reality is that even Fannie Mae competitive than they were -- they are still struggling to be more competitive than banks and insurance companies.
+ 
+We expect continued improvement in their competitiveness. And I'll probably have a better idea by the end of this quarter as to whether they're going to realize our expectations. But last quarter, I mean it's clearly apparent, but they didn't. Part of the challenge, additionally with Fannie and Freddie is the change in the way their production maximum have been structured.
+ 
+50% of their production now must be mission-driven under the current definition of mission, which primarily involves low-income housing and senior housing. Previously, there were other mission-driven attributes like green buildings and some other things that are no longer included. And they also have regions in the United States that they favor more than the major metropolitan areas, again, seeking to increase production to a low-to-moderate income areas. There are various parts of the country in the Midwest and in the South that have much larger populations of these buildings and they make it be more competitive.
+ 
+So we're still trying to sort that out, but that's the current condition.
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+ 
+OK. Thank you.
+Operator
+Thank you, Mr. Clark. Our next question comes from the line of Jeff Rulis with D.A. Davidson.
+ 
+Please go ahead.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Thanks. Good morning.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Hey, Jeff.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Mark, I don't know if I missed it, but did you have a -- do you have a margin outlook?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+We do -- it's on the back of our investor deck, and I believe what we have said is declining -- sorry, decreasing, but there's a lot of commentary to the right of it. In our bullet comments like this. Current loan production at higher rates, that's helpful. Excess loan growth funded by borrowings and promotions -- promotional products at current rates, that is good and bad, right, good for volume, but bad for margin.
+ 
+Our expectation of future Fed rate increases, hard to know, it depends on the beta that impacts expectation of low-deposit ratio betas for core deposits. But as I had mentioned earlier, we are raising promotional products at higher rates. And ultimately, net interest income increasing due to higher loan balances, which we expect to offset a near-term decline in the net interest margin. Your next question will probably mark how much might interest in your margin decline.
+ 
+And we think in, at least, the second half of this year, that could be a 15-basis-point plus kind of decline.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Gotcha. Thank you. And that could beat the slide up too much. But on the noninterest income, stability or stable, I mean do we kind of read that as would expect single-family mortgage to continue to drift, but as you alluded to, multifamily sales may kick in to where you can kind of keep that roughly flat.
+ 
+Is that fair?
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Yeah. Actually, we believe where we're at now is kind of the drifting. We think the upside on the multifamily sales would actually increase it. So that's why we said the potential upside on those things.
+ 
+So if the DUS and multifamily increase, we would have higher levels, but we're kind of being very conservative right now in terms of looking at the guidance and saying we're at a very low level in the single family and low levels on the DUS that have no multifamily in there.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+So, I think it's a conservative piece of guidance, Jeff. We said stable, but we have an expectation of an opportunity to increase in the near term. We have not sold portfolio multifamily loans for two quarters. And we were enjoying very healthy gain on sale margins through last year.
+ 
+We think the market is not quite as robust probably. And so instead of stepping out on our guidance, we'll be a little conservative. And same with Fannie Mae, subject to my earlier comments.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+OK. And maybe one last one. Just on the reserve methodology, Mark, I appreciate kind of walking through the differences in the portfolio, certainly from way back when. But fast forward to today, your commentary that you think that multifamily loan growth is going to be the lion's share of growth going forward.
+ 
+What -- how do you view that on your current reserves continues to drift lower? If that is the case with multifamily being the bulk of growth, can just drift continually lower? Or how do you -- how to kind of view current reserve levels with growth expectations?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, thanks. You did a good job of describing the situation. We don't think our reserve levels are going to drift much lower from here, even with maybe some minor changes in composition. Our multifamily or commercial real estate composition in total is a little lower than 600%.
+ 
+It's not going to rise much from here. We're looking for balanced growth from here across all of our product lines. So we think that our ACL should reflect that same thing, right, that -- this is, I would say, generally going to be around our level. It could be a few basis points lower, it could be a few basis points higher, but generally here.
+ 
+It is not an easy exercise. I mean it isn't for any of our peers. But having such a large composition of multifamily loans that have a zero historical loss rate, it makes more challenging ACL analysis. Creative challenge anyway, I think that's the basic answer.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Yeah. Thank you, Mark.
+Operator
+Thank you, Mr. Rulis. Our next question comes from the line of Steve Moss with B. Riley Securities.
+ 
+Please go ahead.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+Hey, good morning, guys.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Hey, Steve.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+Just starting -- maybe just with the balance sheet growth here. A lot of balance sheet growth this quarter, it sounds like that's going to continue even if you get [Inaudible] even if you do more sales in the upcoming quarters. Just kind of curious as to how you're thinking about the margin going forward as the curve is inverting and the Fed is hiking. Do we stabilize out -- maybe a $9 billion level? Or do you think you can break $10 billion here given the pace of the growth?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+That's a great question, one that we spend a lot of time thinking about. And there's a lot of facets to that, right? The basic question is about $10 billion, it's possible we could break $10 billion in 2024. It could be earlier in the year, it could be later in the year, again depending on growth rates. That's what we are currently anticipating.
+ 
+The ramifications of $10 billion, of course, range from loss of interchange revenue to bulking up infrastructure. Our potential loss of interchange revenue is not that high here. We haven't looked at it in a while, but I think the last time we did.
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Half a million to 1 million.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Yeah, $0.5 million to $1 million, not as large as you might think. We're not a credit card issuer. Those are just debit card interchange transactions. The infrastructure question is one that we actually have a pretty good head start on.
+ 
+When we were growing 20% a year, we were preparing to go over $10 billion about four years ago, and we addressed many of the expectations of a $10 billion risk management system back then. And so, we don't feel we have that much work to do. But we're dusting off our analysis and doing a gap analysis in order to prepare for it. You didn't ask that separate question, but I couldn't help commenting on that.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+I hear you there. So in terms of just capital ratios here, given the growth, they came down pretty meaningfully this quarter. Just kind of curious where are your comfort levels on capital? Just trying to get a -- you know, maybe how to think about growth relative to capital here?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, I mean, part of the change in tangible capital is obviously the OCI impact. And that's temporary, right? I mean, we all have to remember that these OCI-related write-downs are going to get amortized back into income. We don't plan on selling any of these securities. Our average duration in our securities portfolio is still about four years, right? And so, we have turnover there.
+ 
+We don't expect the OCI impact to last forever. Obviously, with more rate changes, we can have more OCI impact. Having said that, we're comfortable with capital levels where they are today, even a little lower. And I assume you're talking about holding company tangible capital levels, regulatory capital ratios are better than the tangible capital ratios because of the benefits we have of qualifying debt, right? And --
+John Michel
+ -- 
+Chief Financial Officer
+ 
+And the OCI.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+And the OCI. Right. At the bank, our levels are much, much different, right? We're running today --
+John Michel
+ -- 
+Chief Financial Officer
+ 
+9.78% on core.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+9.78%. You mean Tier 1 --
+John Michel
+ -- 
+Chief Financial Officer
+ 
+The Tier 1 leverage.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+So very, very healthy and strong levels at the bank. Of course, that's by design. We have a certain level of double leverage, some of which was recently produced and our $100 million subdebt deal. So, we're very, very, very comfortable with our levels, particularly at the bank.
+ 
+We wouldn't want to see our tangible capital level go down meaningfully from here, but we don't expect it either.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+OK. That's helpful. And then just in terms of loan origination yields, we're kind of curious what they were for the quarter and the rate we've seen in the last month, maybe where are they today? I think it was online, but do you know what the origination is for the quarter?
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Actually -- yeah. In terms of for the quarter, the weighted average rate was roughly about 380. For the last month, though, as you noticed, it's a very good question because rates have increased so much. It's over four, like 405 to 407 in terms of the weighted average across the whole portfolio and multifamily kind of changed the same direction.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+OK. And I guess maybe just one follow-up in terms of just the margin 15-basis-points-plus compression here for the second half of the year. Kind of what are you guys assuming for deposit repricing beta? Obviously, CD rates are starting to go higher here, we just kind of got curious here as to how you guys are thinking about that?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+That's, obviously, an interesting question. On basic interest-bearing deposit rates, the beta so far has been zero, right, for us and our peers. Our only beta impact has been the introduction of promotional CDs. Obviously, borrowings is a different story.
+ 
+Until we see our peers begin changing their base rates, we're kind of expecting the status quo. Having said that, I expect everyone at some point, probably maybe even this quarter, will start changing their base rates. We'll see. And more and more of us are raising money at the margin on a promotional basis.
+ 
+It's hard to say with any reasonable confidence what that might mean to beta is though. I'm sorry, just not in a position to guess.
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Our anticipation is increasing rates, but we don't have a specific rate of betas structured.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+We don't have a basis. That's for you guys.
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+ 
+OK. Thank you very much. Appreciate all the color.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+OK.
+Operator
+Thank you, Mr. Moss. Our next question comes from the line of Woody Lay with KBW. Please go ahead.
+Woody Lay
+ -- 
+KBW -- Analyst
+ 
+Hey. Good morning, guys.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Good morning, Woody.
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Good morning.
+Woody Lay
+ -- 
+KBW -- Analyst
+ 
+So on the loan growth front, obviously, a really strong quarter in the second quarter. There might be some pull-through there. Is the expectation for the back half of the year for growth to still be in that maybe, call it, 10% range? Or does that feel a little bit high now after the second quarter?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Our expectations for the remainder of this year is that we grow at an annualized growth rate that's consistent with the guidance we've been giving this 10% to 15% annualized, but probably at the low end of that, right, more like annualized 10% in the back half of the year.
+Woody Lay
+ -- 
+KBW -- Analyst
+ 
+Yeah. That makes sense. And then just on the deposit growth side. I mean, it sounds like you're getting more aggressive with promotional rates.
+ 
+The loan-to-deposit ratio was up fairly materially in the second quarter. Do you expect to grow deposits going forward in sort of a similar rate of loans or where do you feel comfortable taking up your loan-to-deposit ratio going forward?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, its kind of load is the lending, obviously. We had an opportunity to do that. We were concerned with the drop-off in demand in the back half of the year. We see that occurring today.
+ 
+So, we still think that's the right thing to have done. It did stress funding somewhat, and we expect to replace our initial borrowings with deposits over the near-to-moderate term. Having said that, our loan-to-deposit ratio could stay between 100% and 110% for several quarters, right, until we accomplish that.
+Woody Lay
+ -- 
+KBW -- Analyst
+ 
+OK. That's all for me. Thanks, guys.
+Operator
+Thank you, Mr. Lay. Our next question comes from the line of Tim Coffey with Janney Montgomery Scott. Please go ahead.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+Great. Thanks. Good morning, gentlemen.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Good morning.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+Mark, do you have any details on the branch sales? Is it loans and deposits or just one or the other? And do you have any balances?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Sure. It is loans and deposits, though it is more deposits and loans. We will net lose about $200 million of deposit funding. I think it's about $50 million of loans of all types.
+ 
+We did note that we expect to realize a gain in excess of about $4 million on the transaction. That will help third quarter results. That's about it.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+OK. That's what I needed. And then -- I mean, are you expecting this to accomplish multifamily loan sales this year?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Yes. Hopefully, we make that clear. Maybe just kind of clear -- because let me make it really clear. Our plan was not to have multifamily loan sales, right? And we've been telling you guys this year, we're going to stop so we can build our portfolio.
+ 
+Well, we did it really quickly, I mean, super quickly, right? And so quickly that we now have the opportunity to do some sales this year. Haven't yet decided how much or how frequent, but we are planning at least one multifamily sale this year. Potentially, this quarter, we'll see, might be tax.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+OK. That's the kind of detail I was looking for there. And then did you say you made some staffing changes to the residential lending department? And can you kind of go through those again?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Sure. And this is typical for this point of the cycle when unit volume declines and margins decline, the first thing you do is you stop using over time, right? That's your first line of defense. And then you start reducing operations positions, underwriting, processing, funding positions. And that's what we have done sort of incrementally this year but more significantly, we had a fairly meaningful layoff a few weeks ago.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+OK. Any anticipated severance expenses or on nonrecurring expenses related to that?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+There's some, they're immaterial. It's not that material, people. I mean the business is not that large today.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+Right, right. OK. And then just kind of talking about pipeline. So 3Q, it sounds like it's going to be pretty good but that is because I think second quarter -- for majority of the second quarter, it was pretty good.
+ 
+The last couple of weeks, I think probably since it got into the slowdown, when we talk about a declining loan production in the back half of this year, probably the fourth quarter, is that kind of what you're seeing or what you're saying because you're seeing that kind of weakness in the last, say, five quarters -- or five weeks or so?
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Well, for sure, we're expecting weakness. I don't know if I can say five weeks, but clearly, in the last month, and this is consistent with what rates have changed. We've seen a decline in interest. The smart money in hindsight, got their transactions done in the first half of the year, refinancing or purchases.
+ 
+And I think you will see a meaningful decline in commercial real estate transactions in the back half of the year. Again, that's why we felt it important to stretch in the second quarter, and some of that stretching is going to roll into the third quarter, but we had to make a choice.
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+ 
+Right. OK. Well, thank you very much. Those are all my questions.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Thanks, Tim.
+Operator
+Thank you, Mr. Coffey. Our next question is a follow-up from the line of Jeff Rulis with D.A. Davidson.
+ 
+Please go ahead.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Thanks, John. Just a quick housekeeping follow-up. Do you have PPP loan balances as of the first and second quarter? I know that's a pretty small amount, but --
+John Michel
+ -- 
+Chief Financial Officer
+ 
+Yeah. As of the end of the second quarter, it's nominal. I think the count is less than 10 in terms of the number of loans. So we're not tracking that anymore because it's so small.
+ 
+It was a couple of million at the end of the first quarter.
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+ 
+Fair enough. Thanks.
+John Michel
+ -- 
+Chief Financial Officer
+ 
+OK.
+Operator
+Thank you, Mr. Rulis. There are no additional questions waiting at this time. I would like to pass the conference back to Mark Mason for any closing remarks.
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+ 
+Thank you again for everyone who attended the call this quarter. We look forward to speaking to you next quarter.
+Operator
+[Operator signoff]
+ 
+Duration: 0 minutes
+Call participants:
+Mark Mason
+ -- 
+Chairman, President, and Chief Executive Officer
+John Michel
+ -- 
+Chief Financial Officer
+Matthew Clark
+ -- 
+Piper Sandler -- Analyst
+Jeff Rulis
+ -- 
+D.A. Davidson -- Analyst
+Steve Moss
+ -- 
+B. Riley Securities -- Analyst
+Woody Lay
+ -- 
+KBW -- Analyst
+Tim Coffey
+ -- 
+Janney Montgomery Scott -- Analyst
+
+
+More HMST analysis
+
+
+All earnings call transcripts

@@ -1,0 +1,530 @@
+Image source: The Motley Fool.
+
+
+
+
+Ally Financial
+ 
+(
+ALLY
+ 
++2.16%
+)
+Q3 2024 Earnings Call
+Oct 18, 2024
+, 
+9:00 a.m. ET
+Contents:
+ 
+ 
+Prepared Remarks
+ 
+Questions and Answers
+ 
+Call Participants
+ 
+ 
+Prepared Remarks:
+ 
+ 
+Operator
+Good day, and thank you for standing by. Welcome to the Ally Financial third quarter 2024 earnings conference call. [Operator instructions] Please be advised that today's conference is being recorded. I'd now like to hand the conference over to Sean Leary, head of investor relations.
+ 
+Please go ahead.
+Sean Leary
+ -- 
+Head of Investor Relations
+ 
+Thank you, Elizabeth. Good morning, and welcome to Ally Financial's third quarter 2024 earnings call. This morning our CEO, Michael Rhodes; and our CFO, Russ Hutchinson, will review Ally's results before taking questions. The presentation we'll reference can be found on the Investor Relations section of our website at ally.com.
+ 
+Forward-looking statements and risk factor language governing today's call are on Slide 2. GAAP and non-GAAP measures pertaining to our operating performance and capital results are on Slide 3. As a reminder, non-GAAP or core metrics are supplemental to and not a substitute for U.S. GAAP measures.
+Definitions and reconciliations can be found in the appendix. And with that, I'll turn the call over to Michael. 
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+Thank you, Sean. Good morning, everyone, and thank you for joining the call. I'll begin on Slide 4. Before we get into the quarter, I want to share my perspective on a few key items.
+ 
+After almost six months in the role, I'm incredibly excited about the future of Ally but recognize we face some earnings challenges over the next few quarters. Russ will get into the details of this in a few moments. As for the future, I'm very encouraged by many of the underlying trends in our core businesses. We have outstanding franchises in dealer financial services, Ally Bank, and corporate finance.
+ 
+On the auto side, we continue to win business with compelling risk-adjusted margins, and growth in our insurance business continues to create strong fee revenue. At the bank, deposits are contributing more margin than at any point in the company's history, and corporate finance is on pace for its highest annual earnings ever. In terms of financial results, adjusted EPS of $0.95 includes significant tax credits within the period. This is related to EV lease volumes, which we'll cover shortly.
+ 
+That said, core pre-tax income of $108 million does not reflect what the company is capable of. We can do better. We continue to navigate a dynamic operating environment that includes volatility in interest rates and a consumer that has been strained by cumulative inflationary pressures. The unique environment has contributed to more volatility in our near-term outlook, particularly on credit costs and margins.
+ 
+Stepping back from quarterly fluctuations, our medium-term outlook is predicated on a few simple drivers in which I have a lot of confidence. First, we have taken and continue to take action to reduce the loss content of our originations. We believe these actions will result in lower losses over time. Second, we have a liability-sensitive balance sheet heading into a falling rate environment.
+ 
+In addition, we're running off low-yielding assets that are a drag on margin today, so we continue to have momentum on both sides of the balance sheet. Now we can't predict the exact path of Fed funds or when market rates for deposits will move, but we expect they will move lower which will accelerate margin expansion. In addition to margin and credit improvements, we continue to be relentlessly focused on capital and expense discipline. I'm so proud of the way our team is driving controllable expenses down this year following many years of increases, and we've been successful taking actions to move CET1 higher to ensure we support our customers and build excess capital.
+ 
+Rest assured, our focus on expenses and capital management will remain a top priority. We're looking very closely at resource allocation, and we'll continue to prioritize what's in the best interest of our shareholders. So let's put it all together. Ally has a strong franchise positioned for margin expansion and revenue growth, combined with improving loss trends and tightly managed expenses and capital.
+ 
+I expect that this will translate into a mid-teens return over time. Let's turn to Slide 5 and talk about our market-leading franchises. In auto, we decisioned 3.6 million consumer applications. This gives us the ability to be selective in the loans we book in terms of pricing and credit.
+ 
+With respect to pricing, we generated $9.4 billion of consumer volume, and our auto origination yield of 10.5% was consistent with prior quarter despite a meaningful reduction in swap rates over the past several months. In terms of credit, we originated more than 40% of volume in our highest credit tier again this quarter. Our ability to sustain strong margins and consistent credit quality in a competitive market demonstrates the strength of this franchise. Insurance written premiums of $384 million represents a quarterly record since our IPO and highlight the opportunities we have in F&I and P&C products.
+ 
+Turning to Ally Bank. Retail deposits of $141 billion are 92% FDIC insured, and we are proud to serve 3.3 million customers. We've been very intentional about creating a comprehensive value proposition that goes well beyond our consistently competitive rates. We offer best-in-class customer service and convenient digital experiences and over time have added additional features and products, and we've seen consistently high levels of satisfaction, engagement, and retention.
+ 
+The combination of a strong national brand and a comprehensive value proposition allows us to leverage our deposit franchise to drive NIM expansion from here. Given our funding needs, retail deposits declined $600 million within the quarter, which is in line with our expectations as loan balances also declined on a linked-quarter basis. Deposit customer growth remained strong, up 57,000 within the quarter. New accounts continue to show high levels of engagement, which should result in less price-sensitive balances in the portfolio.
+ 
+Corporate finance assets increased modestly quarter over quarter, and the portfolio continues to generate strong returns and solid credit performance. Within credit card, I'm pleased with how the team proactively managed risk, resulting in a decline in losses from the prior quarter. The business has an attractive cardholder base, a great digital experience, and is producing a double-digit risk-adjusted margin, even in this environment. Underlying business trends were strong, and our customer-centric approach positions us to continue winning in the marketplace.
+ 
+And with that, I'll turn it over to Russ.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Thanks, Michael. Good morning, everyone. I'll begin on Slide 6. In the third quarter, net financing revenue, excluding OID of $1.5 billion, was lower year over year, driven by lower average earning assets and higher cost of funds.
+ 
+The decline in benchmark rates as the Fed continues to move rates lower will be a tailwind over the medium term given the liability-sensitive nature of our balance sheet. But as we've covered previously, we are modestly asset sensitive in the near term as floating-rate assets and hedges will contractually reprice faster than deposits. We expect to achieve our medium-term NIM target of 4%, but the rapid change in Fed funds implied by the forward curve will create some volatility in the next few quarters if those cuts materialize. I'll discuss margin dynamics in more detail shortly.
+ 
+Adjusted other revenue of $556 million is up 13% from the prior year as we continue to benefit from the momentum within insurance and other revenue streams. Provision expense of $645 million increased from the prior year, driven by higher net charge-offs and a 15-basis-point reserve build in retail auto to reflect our outlook on net charge-offs going forward, including potential losses from Hurricane Helene. As I previewed at a recent conference, net charge-offs continued to be elevated in the quarter, driven by pressure in late-stage delinquent accounts. I'll cover retail, auto credit, and vintage dynamics in more detail later.
+ 
+Adjusted net interest expense of $1.2 billion reflects our continued focus on tightly managing expenses even while continuing to make accretive investments to support the growth of our insurance business and necessary investments in areas such as cybersecurity. Continued momentum in EV lease originations drove $179 million in EV tax credit and a negative tax rate within the quarter. We will also provide more on EV originations later. GAAP and adjusted EPS for the quarter were $1.06 and $0.95, respectively.
+ 
+Moving to Slide 7. Net interest margin, excluding OID of 3.25%, decreased 5 basis points from the prior quarter. Earning asset yields decreased 6 basis points quarter over quarter, driven by lower lease revenue. Retail auto portfolio yields, excluding the impact from hedges, increased 13 basis points this quarter.
+ 
+The linked-quarter expansion slowed relative to prior periods as late-stage delinquency buckets drove a higher proportion of loans moving to non-accrual status. On liabilities, cost of funds increased 3 basis points quarter over quarter. Retail deposit yields were flat quarter over quarter, while broker deposits drove a modest increase in total deposit costs. Notwithstanding near-term choppiness, the pricing dynamics on both sides of our balance sheet support NIM expansion to our 4% medium-term target.
+ 
+Let's discuss net interest margin in more detail on Slide 8. Over the medium term, we're well-positioned for NIM expansion as the deposit portfolio, including consumer CDs, reprices lower. In addition to the tailwinds from our liability-sensitive balance sheet, the favorable asset mix shift of the balance sheet will support margin expansion throughout 2025. So in the medium term, we're confident NIM will move higher but want to provide context on the timing dynamics that will factor into NIM progression.
+ 
+The graphic on the bottom of the page illustrates NIM drivers as we move through the Fed's easing cycle. This is not a specific forecast, rather it's a simple way to think about the dynamics impacting our NIM if the Fed moves rates materially lower over the next few quarters. As you'd expect, changes in the pace and magnitude of Fed cuts will impact each of these variables, particularly in the shorter term. On deposits, we continue to expect a through-the-cycle beta of around 70%, which is consistent with our experience during the tightening cycle and prior easing cycles, but we expect that downward beta to be lower to start and then increase over time.
+ 
+Again, that's consistent with what we saw in 2022 and 2023 on the way up. We have begun to move deposits down, including 20 basis points last month and 35 basis points in total, including the actions we took earlier this year. In retail auto, our origination yields remain higher than the back book, and we expect the portfolio yield, excluding hedging, to move higher over the next few quarters. And the continued shift from mortgage loans and securities into retail, auto, and corporate finance loans will be a consistent tailwind going forward.
+ 
+Across those three primary drivers, we have significant margin tailwinds. Floating-rate assets in our hedge position are temporary offsets. Floating-rate assets are mainly commercial loans in both auto and corporate finance. We also include cash balances in this bucket.
+ 
+Those assets will reprice quickly which represents an immediate headwind that grows over time as the Fed is expected to reduce rates further. Hedges have been an effective mechanism to reduce exposure to rising rates. Hedging activity has contributed more than $1 billion in NII since the tightening cycle and continues to generate significant positive carry. That benefit has come down over time, which will continue, given the decline in benchmark rates and natural maturity of the swaps.
+ 
+So in the near term, we have contractual repricing of floating-rate exposures. The expected move in deposit rates will more than offset that headwind over time, but the next few quarters may see margins contract modestly. The direction of NIM movement over the next few quarters is heavily dependent on competitive dynamics and deposits. NIM in the near term may be choppy.
+ 
+But over a variety of rate paths, we expect NIM expansion in the medium term to reflect favorable dynamics on both sides of our balance sheet. Turning to Page 9. CET1 of 9.8% was up quarter over quarter. We operate with a significant buffer to required CET1 with over $4 billion of excess capital above our SCB minimum of 7.1% that went into effect October 1st.
+ 
+Within the quarter, we saw over $600 million of after-tax AOCI accretion given the move lower in interest rates. We expect natural AOCI accretion of $400 million per year based on the forward curve. Excluding the impacts of AOCI, adjusted tangible book value per share is $48, up more than two times from 2014. We are confident in our ability to continue driving shareholder value and tangible book value per share growth over the next several years.
+ 
+We recently announced our quarterly dividend of $0.30 for the fourth quarter, which remains consistent with the prior quarter. In the first quarter of 2025, we expect a 19-basis-point impact to CET1 from the final phasing of CECL, and we'll talk shortly about a potential change in accounting treatment on EV leases which would temporarily reduce CET1. Let's turn to Slide 10 to review asset quality trends. The consolidated net charge-off rate of 150 basis points was up 24 basis points quarter over quarter.
+ 
+Consistent with the first and second quarters of 2024, our commercial portfolio has continued to perform well with no charge-off activity in corporate finance or commercial auto during the quarter. The credit card portfolio is performing in line with expectations, and both delinquencies and net charge-offs improved in the quarter. Credit card NCOs of 9.9% were down from 12.6% in the prior quarter. Retail auto net charge-offs of 224 basis points were up 43 basis points quarter over quarter, driven by seasonal patterns and elevated delinquencies.
+ 
+In the bottom right, 30-plus-day delinquencies increased 18 basis points quarter over quarter and were up 66 basis points year over year, slightly higher than our expectations a few months ago. I'll cover auto credit trends in more detail in a couple of slides. Retail auto and consolidated coverage rates were up 15 and 12 basis points, respectively. The increase in coverage rates reflects our updated outlook for retail auto credit loss trends, including potential impacts from Hurricane Helene.
+ 
+The retail auto coverage rate will remain elevated until we see loss performance normalize. Let's turn to Page 12 to discuss retail auto underwriting actions. The curtailment and pricing actions we've taken over the past two years have meaningfully reduced the risk content of originations and protected risk-adjusted returns. We opportunistically tightened underwriting and took pricing actions in the second quarter of 2023 that resulted in an increase to 40% in S-Tier originations, our highest credit quality tier.
+ 
+While the move-up tier in credit in 2Q 2023 was a meaningful pivot, we're always evaluating strategies to refine the credit buy box. We continue to identify segments of underperformance and have taken further action, which includes curtailment of originations and higher pricing. More recent examples of additional curtailment include tightening credit policy for contracts with higher monthly payments or PTI. We've increased the frequency with which we require income and employment verification and are more selective around trade equity.
+ 
+We've also lowered approvals for applicants in higher debt-to-income segments and those that have limited credit history. These are just a few simple examples, but the broader point is while our origination mix may look very consistent over the past 12-plus months, we continue to take very granular actions to optimize risk-adjusted returns. The effectiveness of these actions is reflected in the loan characteristics on the bottom left. Our move up in credit was most pronounced in 2023 with our S-tier mix increasing from around 25% in prior years to more than 40%.
+ 
+And within the past year, we've seen an increase in FICO. Also, you can see our PTI took a step down from 2022 to 2023 and again over the last year. We continue to be more selective in what we're putting on the balance sheet. The continued tightening gives us confidence our loss rate will decline over time.
+ 
+On Slide 13, let's discuss retail auto vintage credit trends. Retail auto origination trends are on the top half of the page. Our origination trends reflect a deliberate strategy to be increasingly selective in our underwriting with a focus on prioritizing risk-adjusted returns over origination volume. We have moved up significantly in terms of borrower credit quality since early 2023 which will be a tailwind to delinquency and frequency over time.
+ 
+We expect less severity pressure as we move further away from peak collateral values in early 2022. While losses remain elevated, we are seeing benefits from our underwriting changes. Our 2023 vintage continues to outperform 2022 in the aggregate, despite a more challenging macro environment after equivalent months on book. While not shown on the page, the quarterly vintage comparisons from those years show even more separation, and the very early signs on the 2024 vintage are also encouraging.
+ 
+As we move past peak losses on the 2022 vintage, we expect the rate of change in delinquency and charge-offs to continue to move lower and ultimately decline on a year-over-year basis. The exact timing of improvement in credit performance is difficult to forecast in this environment, particularly as we are managing a larger pool of late-stage delinquent accounts, but our continuous refinement of the buy box and the results of our detailed vintage analysis give us confidence in lower losses over time. Moving to Slide 14 to review auto segment highlights. Pretax income of $175 million was down from the prior year, driven by higher funding costs and provision expense.
+ 
+Provision reflected typical seasonality, elevated net charge-offs, and a 15-basis-point increase in the coverage rate. On the bottom left, we've highlighted the steady progression of retail auto portfolio yields. Excluding the impact from hedges, yields were up 83 basis points year over year. Strong application volume drove high credit quality originations, including 43% in our S-tier while maintaining a yield above 10.5%, which is consistent with the prior quarter.
+ 
+We continue to prioritize risk-adjusted spread over retail loan origination volume, and our originated yield has been resilient, even as two- and three-year swap rates have moved over 100 basis points lower from the peak earlier this year, while we have prioritized credit quality through further curtailment actions. We expect originated yields to move lower in the fourth quarter but remain above the back book, leading to continued expansion in portfolio yield ex-hedges. Lease trends are in the bottom right. Gains of $24 million in the third quarter reflect lower lease termination volume and softer lease gains per vehicle.
+ 
+We expect lease termination volume to decrease further in 4Q and 2025, reflective of the industry decline in origination volume three years ago for each respective period. Turning to Slide 15. We've provided an update on EV lease trends. EV originations in the third quarter of $1.1 billion represented 12% of our total 3Q origination volume.
+ 
+Consistent with the prior quarter, increased lease volume is driven by the new OEM agreement we entered into in March and includes residual guarantees that provide significant protection against the decline in values. Higher EV lease origination volume generated significant tax credits within the quarter. Under our current accounting treatment, these credits flow through the income statement at the time of origination. In addition, we also made an adjustment to align our year-to-date tax credit recognition with year-to-date earnings as a percentage of full-year expectation.
+ 
+The combined impact from EV volume and the quarterly true-up was $179 million within the quarter. In the prior-year quarter, EV tax credits impacted our effective tax rate by single-digit percentage points. In the third quarter, the impact of EV tax credits was larger, resulting in a negative tax rate. With the ongoing momentum in EV lease volume and to mitigate future tax rate volatility, we are evaluating a change in the election of accounting methods from flow-through method accounting to deferral method accounting.
+ 
+A switch to deferral method of accounting would result in the EV tax credit benefit being realized in net interest margin over the life of the lease instead of tax expense on day one under the existing flow-through map. Deferral method of accounting for EV lease tax credits would align the recognition of the credit with the economics of a traditional internal combustion engine, or ICE, lease contract. A potential change in accounting methods would be made retroactively and reduce retained earnings by approximately $310 million and CET1 by approximately 20 basis points as of Q3. Importantly, the impact to Ally would be offset over the life of the lease with higher reported NIM.
+ 
+In the third quarter, NIM would have been 6 basis points higher under the deferral method of accounting. We expect to decide on the accounting methodology at some point in the fourth quarter, and it remains subject to approval from our external auditors. Turning to insurance on Slide 16. Core pre-tax income was up $15 million year over year, driven by higher earned premiums and investment income.
+ 
+Total written premiums of $384 million are a quarterly record for Ally since the IPO and reflective of the momentum we see across this business. P&C written premiums of $115 million are also a record, driven by new OEM relationships and higher inventory exposure. The success we've had growing our insurance business is driving higher losses, which were up $28 million year over year. These losses are more than offset by revenue.
+ 
+Hurricane Helene occurred during the final week of the quarter, and we expect the storm to be among our largest historical hurricane events in terms of gross losses. Our Q3 results reflect our current estimate of insurance losses from Helene. Our reinsurance program is expected to cover most of the loss. As we look ahead, insurance is a key driver of fee revenue expansion, and we remain focused on generating strong premium volume by leveraging relationships in auto finance.
+ 
+Corporate finance results are on Slide 17. Core pre-tax income of $94 million was another strong quarter for corporate finance and highlights the steady return profile of the business. End-of-period HFI loans of $10.3 billion are up $600 million quarter over quarter. Our portfolio remains well diversified, virtually all first lien, and we remain well-positioned from a credit standpoint.
+ 
+On the bottom of the page, we highlight the accretive return profile of the corporate finance business. While balances can fluctuate, depending on market dynamics and competition, we'll look to prudently deploy capital into corporate finance to continue serving customers and generating strong returns. Turning to mortgage on Slide 18. Mortgage recorded pre-tax income of $27 million and $256 million of DTC originations.
+ 
+Consistent with prior quarters, held-for-investment assets continue to decrease as virtually all DTC originations are held for sale. Our focus remains on providing a great customer digital experience while simultaneously demonstrating efficiency by adapting to different operating environments. I'll provide an update on our 2024 outlook on Slide 19. We are updating our full-year 2024 NIM outlook to approximately 3.2%.
+ 
+The update assumes another 50-basis-point decrease in Fed funds by year end and the assumption that deposit betas will be slow to start. Given the near-term asset sensitivity we discussed earlier, this puts temporary pressure on margin exiting the year. Momentum in insurance, earned premiums through new OEM relationships, and continued success in diversified auto channels, such as SmartAuction and Passthrough, position us to grow adjusted other revenue by 12% year over year. That's consistent with our update in July and well above the 5% to 10% we guided to in January.
+ 
+We see retail auto NCOs of 2.25% to 2.3% for the year, which results in a total consolidated loss rate of 1.5% to 1.55%. Adjusted noninterest expense guidance is unchanged, with controllable expenses expected to be down more than 1% year-over-year and total expenses up less than 2%. We expect average earning assets to increase on a linked-quarter basis, but still expect to be down approximately 1% this year, reflecting our disciplined approach to optimizing risk-adjusted returns over origination volume and growth. We have adjusted our full year guide on tax rate to negative 25% to 30% based on the momentum in EV lease and the update to earnings outlook.
+ 
+Before I turn it over to Michael, I want to again reiterate our focus on delivering a mid-teens return over time. We have significant tailwinds based on the strength of our auto and deposit franchises that will drive net interest margin sustainably higher, and we've taken the appropriate steps to drive losses lower over time. The exact timing of mid-teens will depend on several factors. It will not be a straight line, and the combination of temporary margin pressure and elevated losses will be a headwind for the next few quarters, but we're confident in what the business can deliver.
+ 
+And with that, I'll turn it back over to Michael.
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+Thank you, Russ. Before we get to questions, I want to acknowledge the next few quarters will be choppy. I remain confident in our franchise and our ability to deliver compelling returns. Our deep-rooted history in auto is set on relationships with dealer customers.
+ 
+Our value proposition remains simple: consistently help our dealers succeed in all aspects of their business. We have seen the success of this model to record application flows, driving strong risk-adjusted margins on originations. At Ally Bank, our quality retail deposit portfolio is a source of strength. What Ally has been able to achieve in 15 years is remarkable, and the team didn't just build another bank.
+ 
+They built a better bank. As a leader in the digital banking space, I'm encouraged by the opportunities we have in front of us to remain disruptive and innovative, creating differentiated value for our more than 3 million deposit customers. Our deposits will make us liability sensitive. And now the Fed has begun in the easing cycle, we are well-positioned for earnings growth over the medium term.
+ 
+We continue to diversify our revenue streams in insurance and auto. Insurance will generate $1.5 billion of written premiums this year, reflective of new OEM relationships and synergies with our auto finance business. In auto, we continue to further monetize our application volume and see the benefits from our online vehicle auction platform, SmartAuction. Between NIM and fee revenue, momentum we have in total revenues will drive meaningful shareholder value over the medium term.
+ 
+Credit costs are elevated in a macro environment that's challenging after continued pressure from inflation and low personal savings rates. We have managed auto originations through selective underwriting and pricing strategies. These changes have been meaningful, continuous, and informed by granular performance data. And with relatively short duration, that should drive losses down over the medium term in this environment.
+ 
+While we expect net revenues to expand, we will continue to be disciplined with expense management. We will manage capital dynamically. We're focused on allocating resources to our highest returning businesses and continuing to organically grow our capital buffer in anticipation of Basel 3. So let me be clear.
+ 
+I am confident in our franchise and the ability to deliver compelling returns. Given the level of macro uncertainty we're managing, the exact timing of getting those returns will be fluid. As CEO, I'm evaluating all aspects of our business, and I am committed to growing shareholder value and delivering compelling financial results. We will take the actions necessary to accomplish this.
+ 
+And with that, I'll turn it over to Sean for Q&A.
+Sean Leary
+ -- 
+Head of Investor Relations
+ 
+Thank you, Michael. [Operator instructions] Elizabeth, please begin the Q&A.
+ 
+Questions & Answers:
+ 
+Operator
+[Operator instructions] Our first question will come from the line of Ryan Nash with Goldman Sachs.
+Ryan Nash
+ -- 
+Analyst
+ 
+Hey, good morning, guys.
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+Good morning, Ryan. How are you?
+Ryan Nash
+ -- 
+Analyst
+ 
+Good. So I appreciate that the next few quarters are going to be choppy. And maybe just to start on credit, I think, Russ, you noted that you expect the rate of change on losses to move lower over time. However, if I start in the near term, if I look at the midpoint of the guidance, I think it implies a fourth quarter loss rate in retail auto could actually see an increase in the year-over-year loss rate, something north of 2.6%.
+ 
+Can you maybe just help us think about where we go from here? And then I know you both mentioned that you're confident that losses will come down over time as '22 peaks, the tighter underwriting from the second half of '23 and '24 come through. But do you expect losses to actually be down in '25? And I have a follow-up.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Great. Thanks, Ryan. Maybe I'll start with 4Q. I think we do anticipate the majority of the 4Q increase will be seasonality.
+ 
+We've also -- we also include, of course, the impact of the recent storms, which will create some noise. Granted, we've reserved for that. And so when you kind of think about delinquencies, certainly over the next quarter -- next quarter or so, there is some noise there. That being said, as we discussed, we made significant curtailment actions over the course of 2023 and '24, and we're seeing that in terms of the vintage dynamics.
+ 
+And so we do it, and that gives us confidence in terms of eventually seeing losses normalize. Also, when you think about used car prices, the further we get from peak used car prices back in 2022, that's also helpful to us in terms of severity going forward. So I think we see a lot of things in terms of credit that we're positive about and give us confidence around the medium-term picture. All that being said, we're carrying an elevated level of DQs, gives us more sensitivity to changes in the macro environment.
+ 
+And kind of when we think about this year and fourth quarter, we're -- our full-year guide is for 2.25% to 2.30%. We're probably exiting a little bit higher than that, and so that all kind of factors into how we think about 2025. As you know, as you're accustomed to, we typically don't give our 2025 guidance until January when we report the full year, and we're going to stick to that this year as well. But I guess to kind of hit to the gist of your question, we expect normalization in NCO levels over time.
+ 
+We're not going to call it in terms of a particular quarter, just given the volatility that we've talked about and some of the factors in the macro and the delinquencies. But again, just kind of given what we're seeing as we look at the vintage dynamics and just kind of looking at the some of the curtailment that we've put in place, we feel confident that we'll see that reduction in NCOs over the medium term.
+Ryan Nash
+ -- 
+Analyst
+ 
+Got it. And as my follow-up, I appreciate all the new disclosures on the rate sensitivity. Russ, I thought you noted that you expect expansion at some point through '25. If we were to use the forward curve and whatever your deposit pricing expectations are, and let's assume there's no changes in the lease accounting for now, when do you actually see this NIM inflection occurring? And can you maybe just talk about the pace of improvement when we do see it? Historically, you talked about 5% to 15%.
+ 
+What is that new dynamic look like now? And I fully recognize that we won't get full-year guidance until next year but just trying to understand how you're thinking about the inflection and the pacing over time. Thanks.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. Look, maybe I'll start just by saying nothing's changed in our medium-term outlook. For all the factors we described in the prepared remarks, as far as the medium term goes, the benefit we see from the rollover of the portfolio, continued expansion in the portfolio yield, just the overall asset mix away from mortgages and securities toward retail auto and corporate finance. The -- just the overall kind of pricing of our deposits as we approach a 70% beta in a lower rate environment.
+ 
+All of these things point to the same 4% NIM that we've talked about before, and so there's nothing that's really changed in that respect. I think what we wanted to highlight for everyone, just kind of given the uncertainty around the rate outlook and how quickly it's moved over the last few months, is there are these near-term pressures. And these near-term pressures depend very much on the size of any potential rate cuts, the pace of rate cuts, as well as just the overall competitive environment for deposits and therefore on the speed at which we get to our 70% deposit beta. And so we're being careful not to give quarterly guidance in that environment and not to kind of pin ourselves to any particular quarter.
+ 
+But I just want to reiterate that fundamentally, nothing has changed here, and it's still our view that we're going to get to our 4% NIM guide in the medium term.
+Ryan Nash
+ -- 
+Analyst
+ 
+Thanks, Russ.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Thanks, Ryan.
+Operator
+Our next thanks, Ryan. Our next question comes from the line of John Pancari with Evercore ISI.
+John Pancari
+ -- 
+Analyst
+ 
+Good morning. On the retail auto charge-off guidance, I know you bumped that up to 2.25% to 2.30% from the 2.10% prior. We've seen a steady updrift here in that charge-off expectation. And what gives you confidence in this revision that it's appropriate? And then maybe can you just elaborate a little bit on the vintage side? In the 2023 vintage, how do you expect that to fare versus the 2022 vintage, given the worst macro backdrop that the 2023 vintage was facing?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. Those are both great questions, John. I think in terms of your first question on the revisions, you're correct. We have revised from the 2.1% to now a full-year outlook of 2.25% to 2.30%.
+ 
+And look, I don't think what we're seeing is that kind of any different than what others are seeing in the auto book. Of course, respectful of the fact that we are a full spectrum lender and that we are primarily used vehicles, I think we're all kind of dealing with a unique set of circumstances that arise coming out of the pandemic in terms of what we saw in 2022 where we saw consumer that was faced with kind of higher prices at the dealership, higher used car prices and also just some of the dynamics around excess savings coming out of the pandemic and the inflation that we've seen since in terms of the cumulative impact of inflation on people's overall budgets. And so I think we're all dealing with that, and we're all dealing with kind of elevated loss content across our vintages, but in particular, with the 2022 vintage. And that was a large vintage for us here at Ally, as you know.
+ 
+I think as we look at credit bureau data, what we see with the credit bureau data for -- on a like-for-like basis, kind of very similar. And so again, kind of gives us confidence that what we're seeing isn't different from the industry. I think our expectations, the expectations that kind of form the view of the 2.1% loss rate for the year assumed some improvement in credit on the basis of the vintage rollover from '22 to '23, that was optimistic. And I think that's a key point here is that that -- those expectations were optimistic.
+ 
+And so I think nothing's changed. Our expectation is still that we'll see improvement as we roll forward the vintages from '22 to '23 and '24. We are still seeing separation in terms of delinquency rates at similar time on book, and so we are still seeing the '23 vintage outperform '22. And now the early read on '24 is that that is outperforming '23, all consistent with the level of underwriting changes that we made over time.
+ 
+And in fact, when we look at these vintages on a quarterly basis, that separation is even more clear to us. And so I think on the overall direction of losses, nothing's changed. But in terms of timing, we do acknowledge that there's more uncertainty around the timing of it. There's probably more sensitivity to the macro and some volatility in the near term, and it's probably a longer road to get to more normalized NCO levels going forward.
+ 
+We're not going to put a particular timeline or a particular quarter on when we see a turn at this point. But obviously, we'll come back in January and give you and everyone else a more fulsome update in terms of where we are and what we see at that point in time with the benefit of seeing the close of 2024.
+John Pancari
+ -- 
+Analyst
+ 
+Thanks for that, Russ. I appreciate it. And then just on capital, I know you expressed your intent to continue to build capital off the 9.8% level CET1. Can you just remind us where you would like to see that go to, where your target is at this point? Thanks.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. It's a good question. I'm glad you asked because I do want to clarify one point or at least put a footnote on the 9.8%. We've got some headwinds coming over the next couple of quarters.
+ 
+As you know, we've got the final phase-in of CECL coming, and that will kind of take approximately 20 basis points. And then we talked about a potential accounting change around how we treat EV lease tax credits. If we were to go ahead with that accounting change, there would be a CET1 impact there that we talked about in the prepared remarks, about 20 basis points. And so I did just want to point out that we've got some headwinds that we've got to care for in terms of capital with respect to that 9.8%.
+ 
+I think as we think about the 9.8%, we feel good that it gives us a degree of flexibility as we think about capital going forward. We are not looking at capital necessarily in terms of exactly where we are today. We're looking at capital in anticipation of what's coming with Basel 3. And as you know, the most impactful part of that for us is the inclusion of AOCI and CET1.
+ 
+We are awaiting final details of Basel 3, and we're waiting to get the final transition timing, the final phase-in timing of Basel 3. We feel good about our ability to manage through that organically. But obviously, that's a factor that we think about as we think about our capital from a quarter-to-quarter period.
+John Pancari
+ -- 
+Analyst
+ 
+Great. Thank you, Russ.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Thanks, John.
+Operator
+Our next question will come from the line of Sanjay Sakhrani with KBW.
+Sanjay Sakhrani
+ -- 
+Analyst
+ 
+Thanks. Good morning. Sorry to beat a dead horse on this credit. But maybe just moving to how the cohorts are doing, you obviously pivoted to a more conservative underwriting stance second quarter 2023 onwards.
+ 
+I mean, are those cohorts behaving like you expected them to? Like I know you're 40% S-Tier or has something changed, even in the behavior of your S-Tier?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. It's a good question. And, Sanjay, I would say just -- as the exhibits that we presented indicates, we continue to see kind of better performance as we roll through the quarters of '23, starting kind of second quarter '23, and going on even through the early quarters of 2024 and gives us confidence that the underwriting changes we made were effective. And also, as we look at the progressive separation as we go through the quarters, which we didn't show, but we look at obviously and pay a lot of attention to internally, again provides reassurance that the underwriting changes are effective in terms of seeing that separation grow as you progress through the quarters.
+ 
+That being said -- and we talked about this at a recent investor conference. In terms of kind of what we've seen in terms of delinquency over the course of July, August, September, that -- the delinquency we saw in the NCOs underperformed our expectations. And I think part of that, as I mentioned in response to an earlier question on credit, was just a reflection of -- I think we had assumptions about improvement based on the rollover of the vintages that we're optimistic. All that being said, the vintages do show that progressive improvement in performance, but I'd say they kind of missed our expectations in terms of just the overall level.
+ 
+And that informs our sensitivity around providing any kind of guidance around timing. But it also informs again -- just continuing to see that improvement by vintage also informs our view that we will see NCOs come down over time.
+Sanjay Sakhrani
+ -- 
+Analyst
+ 
+Russ, it's probably worth talking about -- a lot of focus, obviously, here on vintages. There's also the notion of severity. And one of the unique factors of '22 is just where used car prices where car prices, in general, or vehicle prices and where they're trending. Maybe just a little color on severity also because when you put the two together, I think it's what gives some confidence.
+ 
+I think it gives us a lot of confidence in terms of the fact that these trends will shift.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah, absolutely. And we showed on an exhibit in the presentation the AUVI index as it transitioned through the quarters, and you can see we hit peak used car prices in the second quarter of 2022. And I'd say in that environment, new car prices were also elevated, and consumer selection was very limited. And so as we move further away from those peak prices in terms of new and used vehicles, we get a good guy from severity.
+ 
+And you combine the good guy from severity, as well as the impact of progressive changes to our underwriting, and again, that gives us reassurance and confidence around eventually improving NCO levels.
+Sanjay Sakhrani
+ -- 
+Analyst
+ 
+My follow-up question, Michael, maybe it's for you. You've obviously come into this. I'm just curious of what your take on it is. And maybe the question I get from investors or -- is your feelings on the long-term targets, do you think that they might be aggressive? Or do you feel like that makes sense? Thanks.
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+Thanks for the question. And maybe I'll address the long-term targets first and then the -- kind of my approach to kind of understanding, if you will, second. Like in terms of long-term targets, we talk about a mid-teens return on capital. And so I guess the question is what needs to be true in or to achieve that.
+ 
+And to me, it actually boils down to three factors. One, credit needs to normalize in the way that we expect. Second is margin needs to expand, something that looks like around 4%, and there are a number of paths to get there. We think the most likely path is that we retrace betas in a falling rate environment, and that would be pretty consistent with what we've seen in prior easening and tightening cycles.
+ 
+And so that's the second factor. And the third is that we need to manage both expenses and capital well. And hopefully, you will see that we've actually done that, I think, very well this year, and we're committed to continue doing that. And so this kind of links back to the first part of your question, which is on credit, and so kind of your new enroll.
+ 
+And so what do you do, you come in, you ask lots of questions. And lots of questions on credit. You clearly pay attention to the vintages, roll rates, collateral values. You pay attention at a portfolio level and also a segment level.
+ 
+And I think it's important. Averages can be deceiving, and so you have to really kind of deaverage the business in many, many ways to really get comfortable with what's going on. And as we kind of look and we deaverage the base of the business, I don't want to kind of get too far to the weeds here. But you do need to look at the '23 origination really by quarter and then also really by segment.
+ 
+And I think someone earlier asked the question about the performance of '23 vintage relative to expectation. And you do see on a like-for-like credit basis that the '23 vintage actually, in some cases, looks worse than '22, but the mix impacts have been well met. And so the underwriting changes that were made in '23, we're actually seeing that come through in the roll rates, and we're seeing that coming through in the vintages. And I think that's going to be bolstered by the collateral values as well.
+ 
+And so trust me, when I'm here, and we came in, we talked about mid-teens return. Look, I've done my own math. I've challenged the math we have here, and there is a path here. We're being less prescriptive about the timing.
+ 
+And the reason of being less prescriptive with timing because a lot can happen with the shape of the yield curve and the forward rates, and I'm no better at predicting that than anyone else. And the credit normalization, we have confidence it's going to occur. We've probably been a bit optimistic right now, and then so we're kind of being cautious in terms of being too prescriptive on when that's going to happen. When you look at the underlying data, when you look at the vintages, and you can actually see what's going on in collateral values, it gives the confidence there.
+ 
+And then hopefully, you see that on the expense and capital side, we're doing what's required in order to be good custodians of this business.
+Sanjay Sakhrani
+ -- 
+Analyst
+ 
+Thank you.
+Operator
+Our next question will come from the line of Mark DeVries with Deutsche Bank.
+Mark Devries
+ -- 
+Analyst
+ 
+Yeah, thanks. So the geography of where the economics of your EV leasing business fall through the income statement is obviously very different from the other kind of lending and leasing businesses. Could you just talk about how that impacts your ability to get to the 4% NIM?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yes. It's a fair question. So maybe just a quick review of the geography. So right now, we use what's known as the flow-through method of accounting, which we put in place in the first quarter of 2023.
+ 
+Under the flow-through method, the geography and the timing of the lease are such that -- of the EV lease tax credit is such that we basically take the benefit of the tax credit, almost all of it, upfront on day one and in the tax line. And so when you kind of think about the lease contract itself and the overall economics, we underwrite that lease to very similar economics that we underwrite on an internal combustion or ICE lease. But unlike the internal combustion or ICE lease, instead of the economics coming through the NIM line, they're coming through the tax line. And so the NIM line in that respect is -- it just is lower relative to a comparable ICE lease.
+ 
+The change in accounting that we're contemplating would have a switch to what's known as the deferral method. Under the deferral method, the accounting for the EV lease looks a lot more like an ICE lease. That is we take the benefit of the tax credit over time over the life of the lease through the net interest line, and so you get the benefit of basically higher NIM. As of third quarter, it would have added 6 basis points to NIM.
+ 
+But you don't get the -- but it comes over time as opposed to coming upfront in the tax line, and so we'd have a tax rate that looks more normal. And you'd effectively have the same earnings but over the life of the lease as opposed to kind of taking it all upfront. So again, that added up to about 6 basis points in the third quarter if our EV leases were treated the same as ICE leases or ICE leases. Yes, I'd say, look, when we think about our 4%, we're not looking at it to a level of precision where I think this kind of changes our view on getting there.
+ 
+Again, we feel confident on getting there on the basis of just the overall drivers of our business in terms of looking at our origination yield on auto versus our portfolio yield and looking at the continued roll-on of new vintages. Looking at our outlook for deposit pricing in light of a 70% beta and a lower rate environment and in terms of just thinking of the overall asset mix on our balance sheet, moving away from the mortgage and securities and toward more retail auto loans and corporate finance. And so yes, they are kind of more big-picture drivers that get us to our 4% NIM target over time, and it's not at a level of precision where we can really kind of talk about 6 basis points here or there.
+Mark Devries
+ -- 
+Analyst
+ 
+OK. Great. That's helpful. And then just looking at your originated yield, it still looks pretty strong.
+ 
+But can you talk about any impact that recent curtailments may have in your ability to continue to originate at such an accretive yield for your NIM?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. Look, I'd say -- look, we've continued to be effective at being selective, taking advantage of the application volume that we've got to be able to put in place the curtailments and continue to get the yields that we're delivering. All that being said, I would say that we have seen a significant move in two- and three-year swap rates over the course of this year. They're down over 100 basis points since their peak in the spring, and that is a factor that we think is going to impact us somewhat on pricing going forward.
+ 
+I'd say we expect that 10.5% originated yield to come down in the fourth quarter. That being said, we expect kind of based on our pricing discipline that we'll continue to price an originated yield that exceeds our portfolio yield, and so we'll continue to see originations that are accretive to our overall yield. But just kind of given the rate environment as rates come down, we'll see pressure. Now I would point out, as you think about curtailment in underwriting, over the medium term, we do have the benefit of, at some point, starting to unwind some of these curtailments, and in effect, capture more yield going forward.
+ 
+So we sit here today, we're north of 40% S-Tier. That's our highest credit quality tier. As we kind of look and think about the forward as we look at the front book and as we see improving our credit performance, we'll look to start unwinding that. I won't put a timeline on that.
+ 
+It's certainly not something that we're doing right away. It's not something that I would look at -- look for in the next couple of quarters. But certainly, in the go forward, you can expect that we'll get some support from the unwinding of curtailment in terms of our originated yield as well.
+Mark Devries
+ -- 
+Analyst
+ 
+Got it. Appreciate the comments.
+Operator
+Our next question comes from the line of Robert Wildhack with Autonomous Research.
+Rob Wildhack
+ -- 
+Analyst
+ 
+Good morning, guys. Bigger picture question on the curtailment, do you expect that those decisions will lead to a meaningful reduction in your near prime and below exposure? And if so, what's the dealer reaction to that? Because I know you've talked about wanting a lot of application flow from dealers, so I'm curious if the curtailment decisions could have any impact on the flow from dealers and your broader relationship with the dealers as well.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Great. Look, so far, our relationships with dealers are very good, and that's part of the reason why we're able to draw the application flow that we're getting. I'd say dealers have a lot of respect for the fact that as the business has gone through different cycles and as different players in the auto finance market have ebbed and flowed, we've been very consistent. And so our ability to show up in size to underwrite a broad spectrum of credits to help them in terms of just making their businesses better in terms of helping them with the used product, which is a very important product for them, helping them on the F&I side through our insurance products, and then also providing solutions for them through SmartAuction and through our Passthrough programs, which allow us -- the Passthrough programs allow us to speak for an even broader box than what we're necessarily willing to underwrite for our balance sheet.
+ 
+And so I think all those things together support a very strong relationship with our dealers.
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+And also, if you think about -- if you kind of take a step back and look at our total application volume and the loans that we're booking, the changes that we're making are -- we're seeing the effects in our balance sheet. I think from a dealer perspective, it's going to be a pretty modest adjustment as they kind of look at it because our look-to-book ratio gives us the ability to really be pretty thoughtful about which loans we're going to book.
+Rob Wildhack
+ -- 
+Analyst
+ 
+OK. Thanks. And then just on the competitive intensity, you've been benefiting from a softer competitive environment for a little while now. There might be some indication that at least certain competitors are reentering.
+ 
+Are you seeing that? And what do you think that could mean for both originated yield and risk-adjusted returns going forward?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Maybe you want to take that one?
+Michael Rhodes
+ -- 
+Chief Executive Officer
+ 
+OK. So we've seen some folks looking to come back to the market. You have to look at the segments where the folks who are reentering are playing in. A lot of them are in the prime, even super prime type space where we get a little less of our volume.
+ 
+And the other notion is we talked about curtailing here and there, but like we're here through the cycle, and being here through this cycle really matters to our dealer customers. And so we're seeing that benefit as well. And then in terms of pricing overall, yes, pricing will go down as rates go down. But look, I spend a lot of time looking at the risk-adjusted margin and clearly take into account swap rates and then our kind of pro forma view on what credit losses are going to be, and we feel good about the business we're booking.
+Rob Wildhack
+ -- 
+Analyst
+ 
+OK. Thank you.
+Operator
+Our last question will come from the line of Jeff Adelson with Morgan Stanley.
+Jeff Adelson
+ -- 
+Analyst
+ 
+Hey, good morning. Thanks for taking my questions. Russ, I guess just maybe another one on credit. I apologize, I know we've all focused on this so much today.
+ 
+But relative to your update last month on the underperformance versus your expectations, the 10 basis points in charge-offs, 20 basis points in delinquencies in July and August, I was sort of hoping you'd be able to help us understand how the performance has migrated since that. Has the underperformance versus prior expectations sort of stabilized here as you look at September and early October? Or are there any shifts there? And then as it relates to late stage, I think you've been quite clear about that. I was curious about what maybe you're seeing or or noticing more in the early stage side of things as we start to think about 2025 here. Thanks.
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Great. Thanks, Jeff. In terms of performance relative to expectations, I'd say it's been stable. Coming out of September and the early October read, it's been pretty stable.
+ 
+Again, I think that gives us some degree of confidence as we kind of think about the forward. Again, not kind of giving anyone kind of specific timing on when we expect credit to crest, but at the same time, again, we continue to see encouraging signs as we look through the vintages. And so all that, I think, feels pretty good. Sorry, what was your second question?
+Jeff Adelson
+ -- 
+Analyst
+ 
+Just an update on what you're seeing in the early stage delinquency side?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yes. Early stage delinquencies have been reasonably stable.
+Jeff Adelson
+ -- 
+Analyst
+ 
+OK. And then just on the potential accounting changes, is that something that you're hearing externally from external parties? Or is that some -- represent more proactivity on your part to try to present a smoother earnings path and just try to drive more conservatism in the earnings profile?
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+ 
+Yeah. Look, I'd say it's something that we've been discussing for a little while. And essentially, if you kind of look at the volume of EV leases that we've done, they obviously picked up significantly after entering into the agreement with the OEM earlier this year. And you do kind of do the comparison between this year and last year, last year third quarter, it was probably a -- the EV lease tax credit was probably a single-digit impact on our overall tax rate.
+ 
+And so it was there. It was something -- but it wasn't something that we spent a lot of time kind of thinking through in terms of how that impacted the presentation of our overall income statement, in terms of NIM and tax, and just kind of the overall kind of quarterly ebb and flow. But obviously, with this new OEM relationship in place, our lease volume has gotten larger, and so its impact similarly has gotten larger in terms of when you kind of look at that tax rate in particular. And I'd say this quarter is a case in point in terms of seeing the impact, not only from the tax credit in terms of the day-one impact when you book the lease, but also the tax credit methodology requires us to do these quarterly true-ups as we progress through the year.
+ 
+And so that kind of introduces another variable. And so as you can imagine, as we foresaw this kind of getting to be a bigger thing, we started having a lot of discussions that, quite frankly, were initiated by us around just kind of what's the right way to think about the accounting here and what's the right way to present this in terms of kind of presenting our financials in a way that we think kind of best represents our economics. And quite honestly, we're not kind of committing to any level of EV volume or EV lease volume over coming quarters. But so far, the flow of EV leases has been pretty good, and we don't really have any reason to see why it changes over the next few quarters.
+ 
+And so looking at all that and taking all that together, that's really caused us to initiate a lot of discussions around different accounting treatments. Now ultimately it's a conversation we have, obviously, internally and also with our auditors. Any final decision we make has to be blessed by our auditors, and so we continue to run the traps on that process over -- we'll continue to run the traps on that process over the coming several weeks, and we expect to kind of get to an answer in the fourth quarter.
+Jeff Adelson
+ -- 
+Analyst
+ 
+OK, great. Thank you, Russ.
+Sean Leary
+ -- 
+Head of Investor Relations
+ 
+Thanks, Russ. That's all the time we have for today. As always, if you have any additional questions, please feel free to reach out to investor relations. Thank you for joining us this morning.
+ 
+That concludes today's call.
+Operator
+[Operator signoff]
+ 
+Duration: 0 minutes
+Call participants:
+Sean Leary
+ -- 
+Head of Investor Relations
+Michael Rhodes
+ -- 
+Chief Executive Officer
+Russ Hutchinson
+ -- 
+Chief Financial Officer
+Ryan Nash
+ -- 
+Analyst
+John Pancari
+ -- 
+Analyst
+Sanjay Sakhrani
+ -- 
+Analyst
+Mark Devries
+ -- 
+Analyst
+Mark DeVries
+ -- 
+Analyst
+Rob Wildhack
+ -- 
+Analyst
+Jeff Adelson
+ -- 
+Analyst
+
+
+More ALLY analysis
+
+
+All earnings call transcripts

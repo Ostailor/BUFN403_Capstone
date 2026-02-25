@@ -1,0 +1,440 @@
+Image source: The Motley Fool.
+
+
+
+
+SoFi Technologies
+ 
+(
+SOFI
+ 
++2.39%
+)
+Q4 2024 Earnings Call
+Jan 27, 2025
+, 
+8:00 a.m. ET
+Contents:
+ 
+ 
+Prepared Remarks
+ 
+Questions and Answers
+ 
+Call Participants
+ 
+ 
+Prepared Remarks:
+ 
+ 
+Operator
+Good morning or good afternoon. My name is Adam, and I will be your conference operator today. At this time, I would like to welcome everyone to the SoFi Technologies Q4 and full year 2024 earnings conference call. All lines have been placed on mute to prevent any background noise.
+ 
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] Thank you. With that, you may begin your conference.
+Unknown speaker
+ -- 
+-- Analyst
+ 
+Thank you, and good morning. Welcome to SoFi's fourth quarter and full year 2024 earnings conference call. Joining me today to talk about our results and recent events are Anthony Noto, CEO; and Chris Lapointe, CFO. You can find the presentation accompanying our earnings release on the Investor Relations section of our website.
+ 
+Unless otherwise stated, we'll be referring to adjusted results for the fourth quarter and full year of 2024 versus fourth quarter and full year of 2023. Our remarks today will include forward-looking statements that are based on our current expectations and forecasts and involve risks and uncertainties. These statements include, but are not limited to, our competitive advantage and strategy, macroeconomic conditions and outlook, future products and services, and future business and financial performance. Our GAAP consolidated income statement and all reconciliations can be found in today's earnings release and the subsequent 10-K filing, which will be made available next month.
+Actual results may differ materially from those contemplated by these forward-looking statements. Factors that could cause these results to differ materially are described in today's press release and our subsequent filings made with the SEC, including our upcoming Form 10-K. Any forward-looking statements that we make on this call are based on assumptions as of today. We undertake no obligation to update these statements as a result of new information or future events.
+ 
+And now, I'd like to turn the call over to Anthony. 
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Thank you, and good morning, everyone. 2024 was undoubtedly SoFi's best year ever. Our ability to consistently deliver durable growth and strong returns was, once again, the direct result of our relentless focus on innovation and brand building. I'll begin by covering our key results for 2024, which significantly exceeded our expectations heading into the year.
+ 
+Starting with our durable growth. Members and products are leading drivers of our performance, and we achieved record growth on both fronts. SoFi now has more than 10 million members. That's up 34% year over year and up 10x over the past five years.
+ 
+We had another record quarter of new member adds in the fourth quarter at 785,000 new members. In Q4, we also had another record quarter of new product adds at 1.1 million new products, resulting in 32% year-over-year growth to over 14.7 million. Financial services products drove over 89% of our total product growth. This reflects the deliberate diversification of our business toward more capital-light, fee-based revenue sources, which we expect to continue in 2025.
+ 
+Our strong member and product growth powered record revenue growth in 2024. Adjusted net revenue was $2.6 billion, up 26% year over year. Together, our financial services and technology platform segments generated $1.2 billion of revenue, up 54% year over year. These two segments accounted for 47% of our adjusted net revenue, up from 38% last year.
+ 
+It's safe to say SoFi is not just a lender anymore, and we continue to see significant growth opportunity across our financial services and technology platform segments. In our lending segment, adjusted net revenue grew 11% to nearly $1.5 billion, well ahead of our initial expectations of being flat to down. This strong growth was driven by record originations of over $23 billion, up 33% from the prior year. Our total fee-based revenue across our business was a record $907 million for the year, up 74% from the prior year.
+ 
+This was driven by strong performance from our origination fees, loan platform business, referrals, as well as interchange and brokerage. Importantly, improved monetization continues its strong contribution to growth. Financial services revenue per product increased from $59 in the fourth quarter of '23 to $81 in the fourth quarter of '24. That's up 37%, and we see continued upside as our newer products mature.
+ 
+In addition to delivering durable growth, we delivered strong returns and profitability. In 2024, adjusted EBITDA was a record at over $665 million. All three of our segments achieved record contribution profit at strong margins. In fact, financial services posted its first full-year profitability, and we are still just scratching the surface of the massive opportunity that exists.
+ 
+Our EBITDA margin for the year was 26%, up nearly 500 basis points year over year. This improvement was driven by an incremental EBITDA margin of 44%, well above our target of around 30%. Net income was $499 million or $227 million excluding nonrecurring benefits related to deferred taxes, which Chris will discuss momentarily. Even without these benefits, 2024 was our first full year of GAAP profitability, and we have now delivered five consecutive profitable quarters.
+ 
+While we remain focused on achieving our long-term aspirations, we continue to deliver strong performance each day in each quarter. Earnings per share were $0.39 or $0.15 when excluding nonrecurring benefits related to deferred taxes. Intangible book value ended the year at $4.9 billion, a year-over-year increase of nearly $1.4 billion. This includes $271 million from nonrecurring benefits related to deferred taxes.
+ 
+Our strong financial performance is a direct result of our investments in innovation and brand building. These investments attract new members and clients into our ecosystem and lead them to adopt more products over time. This fuels our growth and, ultimately, our returns as we scale. Looking ahead, our opportunity to scale remains massive, and it feels like it's day one of our journey.
+ 
+People want innovative solutions delivered seamlessly and digitally, yet most traditional financial services firms are encumbered by physical locations, internal bureaucracy, and outdated technology. They've struggled to evolve. Since day one, technology and innovation have been part of our DNA. It's how we build and scale products more rapidly, creating the digital one-stop shop for financial services in just seven years.
+ 
+Our members often come to us for a specific product, then adopt others over time. As satisfied members do more with us, it creates a flywheel that we call our Financial Services Productivity Loop. Here's how we know it's working. In 2024, 30% of new products were opened by existing SoFi members, and nearly 40% of new members opened a second product in the first 30 days.
+ 
+More recent cohorts are taking a second product even faster than what we've seen in the past. This performance is a clear indication of our success in getting members to the right product and a validation of our one-stop shop model. Bringing new members into our productivity loop starts by having a trusted household brand name. A key part of our marketing strategy is working with like-minded partners that help us reach new audiences and build awareness of how we help our members get their money right.
+ 
+For example, we recently unveiled a first-of-its-kind partnership where our brand is presented side-by-side with a sports league's brand in TGL presented by SoFi, a new tech-driven golf league broadcasted live on the Internet from the new state of the art SoFi center in South Florida. Given SoFi as part of the league's brand, we get millions of impressions everywhere that TGL brand goes, allowing us to reach a broader audience over and over. Overall, our brand building efforts are yielding strong results. In 2024, our unaided brand awareness reached its highest-ever level at over 7% of nearly 170 basis points from last year.
+ 
+We are also innovating to strengthen and diversify our business so we can serve members with less balance sheet risk, supporting both our growth and returns over the long term. Our loan platform business, or LPB, is one example. Over the years, we've built a powerful lending platform with strong member acquisition, underwriting, and servicing capabilities. But prior to 2024, we had two options: hold loans in our balance sheet to generate net interest income or to sell loans to manage our balance sheet size, risk, and capital.
+ 
+This past year, we created greater optionality to meet the strong demands from our members and capital markets buyers through LPB. Here's how it works: We partner with buyers like Fortress to originate loans fitting their predefined criteria, and we earn fee income as we fill the orders. These loans are originated on the buyer's behalf so they don't sit on our balance sheet. And importantly, we keep the servicing rights.
+ 
+This model is a game changer. It allows us to serve more members, including people that we might have otherwise declined for a variety of factors without taking on incremental risk or capital. It further diversifies our revenue with additional fee-based income, and because we keep the relationship, we have the opportunity to provide the members with additional products and services. In 2024, we originated $2.1 billion of loans through LPB, which brought our total company loan originations to $23 billion.
+ 
+Beyond LPB, we've continued to build and enhance products in our financial services segment. In just a few weeks, we'll introduce a variety of new benefits across our one-stop shop and a new fee-based subscription option for SoFi Plus. Our premium membership tier, SoFi Plus, has been incredibly popular but only available to those members who enroll on direct deposit. For the first time, members can access our highest APY, a 1% match on recurring invest deposits, extra cash back on SoFi Travel, interest rate discounts, and more for a low monthly fee.
+ 
+We will provide SoFi Plus members with more than $1,000 of value annually unlocked by paying a monthly subscription or doing a monthly direct deposit. In Q4, our investments expanded access to alternative investments through partnerships with three new private market funds, including the Templum Cosmos Fund, which offers sole exposure to SpaceX; and through our new robo-advisor platform developed in partnership with BlackRock. Having access to alternative investments is a top priority for many retail investors and one way we're helping our members achieve their ambitions. SoFi now has 2.5 million invest products with 70% of the growth coming from existing SoFi members.
+ 
+We continue to iterate on the value proposition, which is driving two dimensions of growth, engagement and monetization, both of which we believe will double in the intermediate term. In credit card, we continue to thoughtfully position our business for future growth. We improved our underwriting and rolled out two new products tailored to our members' needs, the Everyday Cash Rewards and Essential Credit Card, helping more members earn rewards and build their credit. Our financial services segment also operates as a marketplace where we connect members to third parties and collect referral fees.
+ 
+For example, we make loan and banking referrals for borrowers we don't currently serve, including small and medium-sized businesses. We also refer members to partner insurance carriers through our Protect product. While still small in the context of SoFi, these referral revenue streams that are high margin grew significantly in 2024. That takes me to SoFi Money, our most successful financial services product which serves as an example of what these other businesses can become.
+ 
+Since 2020, Money has scaled significantly. Products grew from 646,000 to 5.1 million products today and increased 51% just this year. Money helped drive nearly a 9x increase in revenue per product for financial services overall. Since acquiring our bank license in 2022, we've grown our deposits to $26 billion by iterating, learning, and iterating to make our product, marketing, and service better every day.
+ 
+For example, we know that frictionless money movement is top of mind for our members. So, in 2024, we introduced Zelle and improved our self-service wire transfers. We believe Invest is the next business to follow the footsteps of Money, and we plan to allocate greater resources in 2025 to scale this business. Turning now to tech platform, another fee-based segment.
+ 
+Our tech platform gives a broad range of clients from banks to fintechs to consumer brands, the ability to create, launch, and run financial products. In 2024, tech platform reached 168 million total accounts, up 15% year over year. Entering 2025, we are seeing strong demand from new potential partners. Let me give a few examples from the past few months that demonstrate the diversity of our client base and the strength of our offering.
+ 
+First, we recently were selected by the U.S. Department of Treasury for Direct Express, a prepaid debit card program that approximately 3.4 million people use to access their federal benefits. This is a testament to our tech platform's differentiated offering as well as our strength and reliability. We're excited about the integration that will take place in 2025 and the financial impact that we will see in 2026.
+ 
+Second, we just signed a large U.S.-based financial services provider that offers short-term consumer loans, card services, check cashing, and other financial products. They've built a large, loyal, and highly active debit card portfolio over the past two decades and will now rely on our technology to power existing and new capabilities. Once they fully transition to our platform in early 2026, they will be a top 10 client on a revenue basis. Third, we've signed a partnership with a leading hotel rewards brand for a co-branded debit card program launching in the first half of '25.
+ 
+This is a new differentiated offering that will expand our footprint among consumer brands. These deals represent more predictable revenue from larger established brands with notably higher average deal sizes. We're excited about these wins and would note that the implementation and the integration cycles will be gradual, and the revenue impacts will most likely be felt in 2026. As you can see, 2024 was a tremendous year overall.
+ 
+Our record revenue, profit, members, products, and returns all demonstrate the success of our innovation and brand building and are a testament to the absolute grit of our team. I have never been prouder of a year-long performance than I am of 2024. Even with how great 2024 was, the future has never been brighter for SoFi than it is in 2025. The operating environment is the strongest it has been since I joined with lower interest rates, strong employment, active capital markets, and we have a vibrant brand and the only digital one-stop shop offering in the U.S., resulting in a diversified business model that is well positioned to capture the opportunity ahead.
+ 
+With that, let me turn the call over to Chris who'll provide more detail about the quarter and year and to share our detailed guidance for '25.
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Thank you, Anthony. 2024 was indeed our best year ever, and we finished strong with an exceptional fourth quarter. Adjusted net revenue for the quarter was a record at $739 million, up 24% year over year and 7% sequentially. Adjusted EBITDA was also a record at $198 million with a 27% margin.
+ 
+Excluding the nonrecurring benefits related to deferred taxes, adjusted net income was $61 million, and adjusted EPS was $0.05. This was our fifth consecutive profitable quarter and first profitable year. As noted, our fourth-quarter GAAP results included nonrecurring tax benefits of $271 million. These were primarily related to the release of the majority of the valuation allowance against our deferred tax assets.
+ 
+Each quarter, we assess the recoverability of our net deferred assets, most of which are related to net operating loss and tax credit carryforwards from prior years. The timing of this release was due to our recent strong financial performance and forecast of continued profitability. Moving forward, we expect a normalized effective tax rate of approximately 26%, which can be impacted by future discrete tax items and mix of income. Turning now to our segment performance, starting with our nonlending segment, which comprised a record 49% of total adjusted net revenue during the quarter, reflecting the continued diversification of our business.
+ 
+Starting with financial services. For the fourth quarter, net revenue was $257 million, up 84% year over year. Contribution profit was $115 million, up 4.6x year over year. Contribution margin improved significantly to 45%, up from 18% last year.
+ 
+Net interest income for the segment was $160 million, up 47% year over year, which was primarily driven by growth in consumer deposits. Importantly, noninterest income grew 3.2x to $96 million in the quarter, which equates to nearly $385 million in annualized revenue. In Q4, our LPB business generated $63 million in fees, driven by $1.1 billion of personal loans originated on behalf of third parties as well as referrals. Additionally, LPB generated $4 million in servicing cash flow, which is recorded in our lending segment.
+ 
+In total, our loan platform business added $67 million to our adjusted net revenue across these two segments. We are off to a strong start in Q1 as well. Our loan platform business recently agreed to initial terms with Blue Owl Capital Funds for up to $5 billion of personal loans over two years. Once finalized, this arrangement will represent our largest LPB agreement to date.
+ 
+In addition to our LPB revenue, we continued to see healthy growth in interchange, up 63% year over year, driven by $14 billion in total annualized spend in the quarter across Money and Credit Card. Shifting to our tech platform. For the fourth quarter, we delivered net revenue of $103 million, up 6% year over year. Contribution profit was $32 million at a contribution margin of 31%.
+ 
+Revenue growth was driven by continued monetization of existing clients, along with new deals signed in new client segments. Our recent client wins have been more diverse, including major consumer and commercial brands, as well as large enterprises in Latin America. Turning now to our lending segment. For the fourth quarter, adjusted net revenue was $423 million, up 22% from the same period last year.
+ 
+Contribution profit was $246 million with a 58% adjusted margin. These strong results were primarily driven by growth in net interest income, which increased 31% year over year to $345 million. This included a 23% increase in average interest-earning assets and a 68-basis-point decrease in cost of funds, which was mostly offset by a 62-basis-point decrease in average yields. During the quarter, we achieved record loan originations of $7.2 billion, up 66% year over year.
+ 
+Personal loan originations were a record at $5.3 billion, of which $1.1 billion was originated on behalf of third parties through LPB. Collectively, personal loan originations were up 63% year over year. Student and home loan lending both had their best quarter since 2021. Student loan originations were $1.3 billion, up 71% from the same period last year.
+ 
+Home loan originations were $577 million, an 87% year-over-year increase. The fourth quarter was our best quarter of capital markets activity since going public. Overall, we sold or transferred through LPB over $3.4 billion of personal loans, home loans, and secured loans. In terms of personal loans, we closed $950 million of sales in whole loan form at a blended execution of 105.5%.
+ 
+We also closed a $525 million private ABS transaction that included significantly lower WACC collateral relative to our balance sheet at an execution of 102.3%. All deals had similar structures to other recent personal loan sales with cash proceeds at or near par and the majority of the premium consisting of contractual servicing fees that are capitalized. These sales included a small loss share provision that is above our base assumption of losses and immaterial relative to the exposure we would have otherwise had if we held the loans. In terms of home loan sales, we closed $507 million at a blended execution of 100.7%.
+ 
+Additionally, we sold $90 million of late-stage delinquent personal loans. By selling these loans, we're able to generate positive incremental value over time versus selling after they charge off, both from our improved recovery capabilities and by maintaining servicing. Finally, we sold $243 million of secured loans at a par execution, while also executing $199 million of new secured financing. Net-net, inclusive of all new issuances, paydowns, and loans sold in period, our secured loan balance decreased by $189 million sequentially.
+ 
+Turning to credit performance. The health of our consumer remains strong. Our personal loan borrowers have a weighted average income of $158,000 and a weighted average FICO score of 744, while our student loan borrowers have a weighted average income of $134,000 with a weighted average FICO score of 765. Our credit trends continue to improve after seeing delinquencies peak in the first quarter of '24.
+ 
+For personal loans, the on-balance sheet 90-day delinquency rate was 55 basis points in the quarter, a slight decrease from 57 basis points in Q3. The annualized charge-off rate declined to 3.37% versus 3.52% in the prior quarter. Had we not sold any late-stage delinquencies, we estimate that including recoveries, we would have had an all-in annualized net charge-off rate for personal loans of approximately 4.9% versus 5% last quarter. For student loans, the on-balance sheet 90-day student loan delinquency rate remained flat sequentially at 12 basis points, while our annualized charge-off rate decreased 7 basis points to 62 basis points from 69 basis points last quarter.
+ 
+The data continues to support our 7% to 8% maximum life-of-loan loss assumptions for personal loans, in line with our underwriting tolerance, although we continue to trend below these levels. Our recent vintages originated from Q4 2022 to Q1 2024 have net cumulative losses of 3.8% with 45% unpaid principal balance remaining. This is well below the 5.25% observed at the same point in time for the 2017 vintage, the last vintage that approached our 7% to 8% tolerance. The gap between the newer cohort curve and the 2017 cohort curve widened by 15 basis points, demonstrating continued improvement.
+ 
+Additionally, looking at our Q1 2020 through Q3 2024 origination, 58% of principal has already been paid down, with 6.5% in net cumulative losses. Therefore, for life-of-loan losses on its entire cohort of loans to reach 8%, the charge-off rate on the remaining 42% of unpaid principal would need to exceed 10%. This would be well above past levels, further underscoring our confidence in achieving loss rates below our 8% tolerance. Turning to our fair value marks and key assumptions.
+ 
+As a reminder, we mark our loans at fair value each quarter, which considers a number of factors, including: the weighted average coupon; the constant default rate; the conditional prepayment rate; and the discount rate comprised of benchmark rates and spreads. At the end of the fourth quarter, our personal loans were marked at 104.9%, down 80 basis points from the end of the prior quarter. This change was a function of the discount rate increasing by 51 basis points to 5.29%, mostly due to the underlying benchmark rate increasing by 63 basis points, partially offset by 12 basis points from spreads tightening. As we've previously noted, both of these changes are empirical based on the actual market data, not assumptions.
+ 
+Additionally, any fair value impacts that resulted from interest rates increasing were offset nearly one for one by hedge gains. Furthermore, we saw a 10-basis-point decrease in the weighted average coupon. Slightly offsetting those negative impacts, we had a slight decrease in our conditional prepayment rate from 26.1% to 26%, which has an immaterial impact on the overall change in the mark. When a borrower prepays, we are still capturing the principal, and the impact to the value of the asset is only based on the premium above par at a given point in time, which is very small relative to the principal outstanding.
+ 
+At the end of the fourth quarter, our student loans are marked at 104.1%, down 133 basis points from the end of the prior quarter. This change was a function of the discount rate increasing by 41 basis points to 4.4%, driven by the underlying benchmark rate increasing by 76 basis points, partially offset by 35 basis points from spreads tightening. Additionally, we saw a 28-basis-point increase in the conditional prepayment rate from 10.7% to 11%. There were no material changes to the weighted average coupon rate or the conditional prepayment rate.
+ 
+Turning to our balance sheet where we remain very well capitalized. In the fourth quarter, total assets grew by $1.9 billion, driven by approximately $910 million of loan growth, approximately $830 million of growth in other assets, and approximately $80 million of growth in cash, cash equivalents, and investment securities. Total liabilities grew by $1.5 billion. This was driven by member deposit growth of $2.6 billion quarter over quarter, while nonmember deposits were reduced by $1.2 billion.
+ 
+Total deposits reached nearly $26 billion in the quarter. Over the past year, our strong organic deposit growth has further strengthened our balance sheet. Currently, there is a 193-basis-point difference between the interest we pay on deposits and the interest we pay on warehouse lines, which translates to approximately $500 million in annualized interest expense savings from growing our deposit base over the past year. We continue to benefit from the mix shift toward deposit funding, along with our ability to sustain healthy deposit versus lending betas.
+ 
+As a result, we reported an average net interest margin of 5.91% for the quarter, up 34 basis points sequentially. This is a function of maintaining asset yields and reducing our overall cost of deposits. This continues to be in line with our expectation of maintaining NIM above 5% for the foreseeable future. In terms of our regulatory capital ratios, our total capital ratio of 16.2% at year-end remains comfortably above the regulatory minimum of 10.5%.
+ 
+Tangible book value grew $465 million sequentially to $4.9 billion, including the nonrecurring benefits related to deferred taxes. While these are nonrecurring benefits, it is value retained in the business. Tangible book value per share at year-end is $4.47, up from $3.61 a year ago. Looking forward to 2025, after a year of bolstering our capital base, reaching GAAP profitability as well as the scale required to drive continued profitability, we want to better tilt our incremental revenue growth toward investment.
+ 
+We have significant untapped addressable markets in front of us, and we have proven that the more we invest, the more we produce durable growth and strong returns. In 2025, we plan to manage toward an incremental EBITDA margin of around 30% as we reinvest in the business to drive that durable growth of 25% again in 2025 and, ultimately, strong returns well into the future. Let me finish by providing our outlook for 2025, starting with the macro assumptions that underpin our financial guide. In line with market expectations, our assumptions are as follows: an interest rate outlook consistent with the forward curve and just north of 1.5 rate cuts; GDP expansion of 1% to 2%; normalization of unemployment in the 5% range; and continuation of normalized credit spread across capital markets and stabilization of consumer credit.
+ 
+Now for our specific guidance. For the full year 2025, we expect to add at least 2.8 million members, which represents at least 28% year-over-year growth. We expect adjusted net revenue of $3.20 billion to $3.275 billion, which equates to year-over-year growth of approximately 23% to 26%. We expect an adjusted EBITDA of $845 million to $865 million, which equates to an incremental EBITDA margin of approximately 30%, in line with our investment philosophy that I just outlined.
+ 
+We expect adjusted GAAP net income in the range of $285 million to $305 million, which equates to an incremental margin of 20% when excluding the 2024 net gain of $63 million related to the exchange of a portion of our 2026 convertible notes for equity. We expect adjusted GAAP EPS in the range of $0.25 to $0.27 per share. As I mentioned, this guidance assumes a tax rate of 26%, which we currently believe to be our effective tax rate in 2025. We expect growth in tangible book value of $550 million to $575 million for the year and to end the year with a total capital ratio above 15%.
+ 
+For the first quarter of 2025, we expect to deliver adjusted net revenue of $725 million to $745 million, adjusted EBITDA of $175 million to $185 million, GAAP net income of $30 million to $40 million, and GAAP EPS of $0.03. It's important to note two items when comparing Q1 2025 to Q4 2024. First, we expect to have a 26% effective tax rate versus an immaterial impact from taxes on pre-tax income prior to releasing our valuation allowance. This translates to approximately $15 million of expected taxes in Q1.
+ 
+Second, each year we have seasonal payroll taxes during the first two and a half quarters of the year. This translates to approximately $10 million of incremental operating expenses in each of the first two quarters. Looking beyond 2025, we now expect to exceed our medium-term guidance of delivering 20% to 25% compounded annual revenue growth through 2026, and we remain confident in delivering 2026 EPS in the range of $0.55 to $0.80 per share. Moreover, we are well positioned to deliver 20% to 25% annual EPS growth beyond 2026.
+ 
+Overall, 2024 has been a remarkable year for SoFi. We are proud of the strong results we've delivered and remain confident in our ability to build on this momentum as we move into the year ahead. With that, let's begin the Q&A.
+ 
+Questions & Answers:
+ 
+Operator
+[Operator instructions] Please keep in mind, we'll only take one question per person at a time. Please rejoin the queue for any additional questions. And our first question comes from Kyle Peterson from Needham & Co. Kyle, please go ahead.
+ 
+Your line is open.
+Kyle Peterson
+ -- 
+Analyst
+ 
+Great. Thanks, guys. Good morning. Appreciate you taking the question.
+ 
+I want to start on the funding side of the equation that really helps in NIM this quarter. You guys added quite a few deposits, and it looks like you've taken a little more action on the deposit side in terms of lowering APYs as compared to some your competitors but are still growing at a really nice clip here. So, I just wanted to see if you could give any more color on how you guys have been able to drive back the costs a little more than some peers despite the perception that we might be in a higher-for-longer type of environment than it looks like even three or four months ago.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Yeah. I'm not sure I understand the question, so clarify if we don't get it right. I think the first part of your question was we've lowered interest rates on our APYs for SoFi Money, and what impact does that have, and how do we think about our funding costs overall and maintaining them. First, on the APY, we want to have a top-tier APY.
+ 
+It's an important element of our value proposition. SoFi Money has been a phenomenal product. It's the gold standard of what we're going to do with each one of our businesses. When we started, we had negative unit economics.
+ 
+Then we got the variable profitability. And then from there, we scaled the variable profitability above our contribution -- our cost to get a positive contribution margin. And now, it's really cranking, and we're acquiring a significant number of customers. Obviously, the payback period is not instant, so we're funding that within the business and still driving really high margin.
+ 
+We are seeing really strong trends in growth with our APY changes that we've made, both in terms of members and deposits. And we think we can maintain really strong member growth, even if our deposit growth slows as we think about managing our assets and liabilities on the balance sheet and our funding costs. I'll let Chris add some additional color on the funding side.
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Yeah, absolutely. So, what I would say is we're now currently at the point where we're close to our long-term funding target of 85% to 90%. That's been a rate that we've talked about consistently over the course of the last few years. So, while all else being equal, we'd like to grow deposits at a similar pace to our overall loans, which we expect to be in the single-digit billions in 2025, which will be slightly less than what we did in 2024.
+ 
+However, as Anthony just noted, if we're seeing exceptionally strong member demand, we can grow a bit faster and deploy that funding through incremental loans or other assets. Additionally, we have other ways to obviously manage deposits on the balance sheet through pricing and other means. Finally, the only other point I would note is that we're still expecting really strong member growth north of 28%, and that's going to be a function of the continued momentum that we're seeing in Money, but also an acceleration in Credit Card, Invest, and other financial services products.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+And I would just make one other point about SoFi Money and its role strategically in our overall strategy. It's the tip of the sword, so to speak, in the first product many of our members take. And then they gain that trust and reliability with SoFi, and then they take on other products. So, the lifetime value from a Money member grows over time as they use more products and services, which is also a consideration when we think about that product.
+ 
+The last thing I'd say is what we've seen is that the value prop of SoFi Money is much more than the APY. Having Zelle was really critical. People want a safe and secure way to be able to send money person to person. We also provide person-to-person payments via just a phone number or email, in addition to bill pay, free overdraft, the two-day early paycheck.
+ 
+And we'll continue to add other features and functionalities to make that really valuable. The reason for SoFi Plus in the subscription is to actually provide more than $1,000 of value annually through subscription of 999 or through direct deposit. And so, that value prop will just continue to increase because we have lower cost, better margin that we can reinvest in a greater appeal.
+Operator
+The next question comes from Dan Dolev from Mizuho. Dan, your line is open. Please go ahead.
+Dan Dolev
+ -- 
+Analyst
+ 
+Hey, guys. Great results here. And I was going to ask you a question about the lending platform, but we are getting a lot of questions this morning from investors regarding your medium-term EPS guidance. So, maybe I just -- it's really great to see you reiterate the guidance.
+ 
+But now, given that you're leaning into investments, can you give us some examples of like operating leverage, items that you have that would maybe increase the confidence on investor side that that EPS target can be actually beaten? That would be great.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Yeah. So, I'm going to take a step back and elevate out for a second to give people perspective. We think the winning formula is to drive durable growth and strong returns, and we do that by driving innovation and brand building. We couldn't be more confident in the long-term margins of the business.
+ 
+What we said historically is that our EBITDA margin long term will be 30%, and our net income margin long term will be 20%, and we believe we can drive to a very high ROE well above other financial institutions with those margins and our high fee-based business as well as we think about the capital elements of the business. In 2023, we had set guidance with a 30% incremental EBITDA margin. We said our margins long term will be 30%. So, in that time period, we wanted to show evidence of that and manage the balance of growth and profitability by delivering a 30% incremental margin.
+ 
+You do that over time, asymptotically, your margin becomes 30%. In 2024, we took a very conservative stance at the same point last year relative to others based on interest rates, the economy, inflation, geopolitical, etc. And because we took that very conservative stance, we drove margin expansion at the expense of revenue growth. And we delivered well more than 30% incremental EBITDA margins, which is evidence that we can do that and maintain growth, having just grown 25%, which is well above the revenue expectations that we established last year in January.
+ 
+So, we couldn't be more confident that our long-term margins are 30% for EBITDA and 20% for net income. And in 2025, we're just tilting the balance back to where we were in '23, which is a 30% incremental EBITDA margin, because that allows us to ensure we're investing today to drive durable growth beyond today into the future in revenue, in products, and in members. The thing that's most important about our guidance, which we just provided, our revenue expectations are higher in '25 than the Street had and what we had previously had, and our revenue expectations for growth into '26 are now higher as well. And that's possible because the resource we have to invest in the business and the open opportunity in front of us.
+ 
+So, we couldn't be more confident in the long-term outlook for the company from a margin standpoint, and we want to make sure we're taking a long-term view to drive revenue growth for as long as we can. And when it slows, then we will drive the margin growth.
+Operator
+The next question comes from Terry Ma from Barclays. Terry, your line is open. Please go ahead.
+Terry Ma
+ -- 
+Barclays -- Analyst
+ 
+Hey, thank you. Good morning. I just want to ask about the lending business overall. Your originations in the fourth quarter were quite a bit ahead of our estimates.
+ 
+So, I'm just curious how you're thinking about the lending business in 2025 with respect to originations and balance sheet growth. And then also, what's kind of contemplated in your guide with respect to the loan platform business?
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Yeah, absolutely. In terms of the overall revenue growth for our lending business, what we expect for 2025 is that we're going to grow low double digits to teens as we continue to see strong borrower demand across both our personal and student loans and we start to scale our whole loans business in a more meaningful way. We now have our back-end fulfillment capabilities in place, and we have a full suite of products that we're able to work with. And then in terms of our medium-term guide for the lending business, we're still on track to hit that mid-teens of compound -- mid-teens growth compounded 2023 to 2026.
+ 
+As I mentioned before as it relates to our balance sheet, we're expecting to grow the balance sheet modestly in terms of single-digit billions, but that doesn't mean that we won't be able to grow other parts of the business at a more rapid pace through all of our fee-based income streams. In terms of how we're thinking about the loan platform business going forward, we couldn't be more optimistic about it. We believe the business is just getting started today. We have that $2 billion agreement that we signed with Fortress last quarter, and that relationship continues to expand.
+ 
+And we also agreed to terms for a $5 billion two-year deal with Blue Owl Capital Funds, as well as having commitments for the rest of 2025 with other partners, including top investment banks as well as private equity funds. We're obviously one of the very few partners who has the marketing and operational capabilities to deliver assets at scale with the characteristics and return profile that investors are seeking. So, really good momentum in demand that we're seeing from -- from loan buyers there.
+Operator
+The next question comes from John Hecht of Jefferies. John, your line is open. Please go ahead.
+John Hecht
+ -- 
+Analyst
+ 
+Good morning, guys. Thanks very much for taking my question. I guess just a little bit of a tack-on from the last response, Chris. The loan platform business, obviously, really strong results, really good growth, but also pretty supportive capital markets.
+ 
+How do you guys think about that in a more volatile interest rate or a volatile kind of capital markets environment?
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Thanks, John. So, I would say we have good visibility into the appetite for our paper as well as loan buyer demand is remaining extremely strong. As I just mentioned, we have commitments for the rest of 2025 from Fortress, Blue Owl, and some of the others that I mentioned. More broadly speaking though, we've built a resilient, diversified business with multiple avenues for borrower loan demand, including loans -- holding loans on our balance sheet, selling loans either through whole loan format or through ABS structures and referring loans to third parties.
+ 
+So, we're really confident that we'll be able to efficiently monetize the demand that we're seeing from borrowers today. Additionally, we have other ways that we can drive fee income growth. You'll continue to see strong growth in interchange, which ended up increasing 63% this quarter. Also, the brokerage business as we continue to improve our monetization with Invest and then fees related to tech platform and fees from our new SoFi Plus offering that Anthony discussed during the prepared remarks.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+And one of the things that we broke out in the prepared remarks, in case you missed it, is that we're now providing a perspective on what our total fee-based revenue was across all of our businesses. And for the year, it was $970 million, which was up 74%. And again, that's driven by origination fees, loan platform business, referrals, as well as interchange and brokerage. And for those that may not be familiar with the accounting, the loan platform business is cash upfront as opposed to gain-on-sale accounting.
+ 
+So, it has an additional characteristic to it that's very favorable for us, especially on the credit and capital side.
+Operator
+The next question comes from Mihir Bhatia from Bank of America. Mihir, your line is open. Please go ahead.
+Mihir Bhatia
+ -- 
+Analyst
+ 
+Good morning. Thank you for taking my questions. I was just wondering if you could provide -- as we think about 2025, maybe provide a little bit more on your expectations at a segment level, both from a revenue but also a contribution margin standpoint. Particularly curious about the financial services segment, where I think Anthony said it might be -- in the Invest business, there's going to be some investments there.
+ 
+So, just trying to understand how those evolve next year. Thank you.
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Absolutely. So, overall, we're expecting 23% to 26% revenue growth this year. We now expect to exceed our medium-term guidance that we laid out at the beginning of last year of 20% to 25% compounded annual growth. So, we're really optimistic about the opportunity that we have ahead of us.
+ 
+In terms of the specific segment level guidance, for financial services, we're expecting very strong growth in the range of 60% to 65% as we continue to grow products and overall monetization. But we're currently trending well ahead of our medium-term 23 to 26 guide of 50% annually. And now we expect closer to around 65% over that same period. For lending, as I just mentioned, we're expecting to grow 2025 low double digits to teens as we continue to see good demand, both on the personal loans and student loan side and we start scaling home loans.
+ 
+In terms of the medium-term guide for lending, we're still on track for the mid-teens growth 2023 through 2026. And then for tech platform, we expect to grow 2025 low double digits to teens. And given that lead times and implementation cycles have been longer than expected, we now expect to grow revenue at a mid-teens CAGR from 2023 to 2026. In terms of the margin profile, you can expect financial services, we're at about a 45% margin and $81 of annualized revenue per product.
+ 
+We're still undermonetized in Invest, so there's opportunity. And we're starting to scale our loan platform business, which is generating margins at around 50%, slightly north of that. So, you can expect to see continued margin expansion in that business. Within lending, we've been consistently in the mid-50s to mid-60s range.
+ 
+You should expect that trend to persist going forward. And then from a tech platform perspective, we expect healthy margins in the 30% range in the medium term.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+And then just elaborating on the investments that we're going to make in the financial services. We announced, obviously launching at the end of this month, SoFi Plus. That's going to expand the availability of this great value equation of more than $1,000 in annual value to more people, especially those that may not have direct deposit capabilities because they're self-employed, but also other people that are younger and aren't actually in the workforce today. It's a great value for the price point on a monthly basis, and you more than recoup your subscription fee for the year.
+ 
+So, that will have a significant amount of investment. In addition to that, we really want to accelerate our growth in Invest. We think it's the next business like Money to follow the same path. It's well on its way.
+ 
+But it's still really early days. We've seen great growth in all the key metrics there in terms of account openings, fundings, average deposits per account, average assets per account. And our monetization is also improving there, so we'll continue to get those dual drivers of growth. In addition to that, we've invested in small and medium business capabilities over -- in 2024.
+ 
+We fully integrated the application process into our app, the SoFi app. And we're using partners to fulfill that demand for loans, and that's grown quite nicely. Similar approach to our insurance business, which we call Protect, home, auto and life, also a big contributor where we want to grow much faster than it has. Saw a really good growth in '24.
+ 
+Small growth relative to SoFi overall but a big area for us. And then last, our credit card business, we'll be very methodical about our approach there. We think we have the right formula. But it is a business that you have to really manage methodically given the J-curve investment, and so that will continue to be losing significant amounts of money in the tens of millions of dollar range.
+ 
+So, significant investment to make sure we have continuous S curves of growth beyond 2025, and the formula is really working. We said on the call that we -- 30% of our products are from existing members, and 40% of our members take a second product within 30 days. So, we want that flywheel to keep flying.
+Operator
+Next question comes from Reggie Smith from JPMorgan. Reggie, your line is open. Please go ahead.
+Reggie Smith
+ -- 
+Analyst
+ 
+Hey, good morning. Thanks for taking the question. I want to dig into the loan platform business a little bit. I think you guys said that those are primarily loans that did not meet SoFi standards, at least today.
+ 
+Was curious if this could become a channel where you do sell loans that are higher quality to partners. And then secondarily, do you charge origination fees on those platform loans? Thank you.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Let me answer the first part, and I'll turn it over to Chris. It should be clear to everyone that we are actually selling loans that are high quality, but we're also selling loans that are outside our credit box, and they are also high quality. So, there are two things that caused us to do the loan platform business. One, someone wants a credit profile that's actually within our credit box, but it's at volumes that we wouldn't otherwise produce.
+ 
+And so, once we have the commitment for them, we'll go out and originate that volume, leveraging our origination platform, our underwriting platform, marketing and servicing platform and get paid a fee for that. So, there's two things that drive it. One, someone will want volume above what we would actually produce ourselves and look to sell. That's within our credit box.
+ 
+And two, things that are outside of our credit box. So, it's both of those criteria. And in our view, they're all high quality. Some of them are more high quality, i.e., prime profile, which is what our profile is.
+ 
+I'll turn over to Chris on the fee side.
+Chris Lapointe
+ -- 
+Chief Financial Officer
+ 
+Yeah. In terms of how we think about structuring these deals, all of the deals where we're doing originations on behalf of third parties consists of two components. We have a flat fee per loan that we receive upfront at time of transfer. We not only get the flat fee from the -- those that we are originating on behalf of, but we also charge origination fees for a portion of the loans that we're originating.
+ 
+And then we also get a modest servicing fee that gets capitalized at the time of transfer. Both of those are recognized under noninterest income.
+Operator
+The next question comes from Andrew Jeffrey from William Blair. Andrew, your line is open. Please go ahead.
+Andrew Jeffrey
+ -- 
+Analyst
+ 
+Hi, good morning. Appreciate you taking the question. Anthony, great to see the mix shift in revenue and the rise in fees as a percent of the total. Can you, sort of looking longer term, talk about perhaps where you'd like to see fees as a percent of the total given your long-term ROE aspirations and what the composition of that fee-based business might look like, say, either in an intermediate term time frame or even a little longer time frame?
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Yes. It's really hard to give you a specific number, given it's being driven by five different sources of revenue. We would want it to be very significant. We recognize that it's capital light, it's less credit risk obviously, and it's cash upfront, so it's high -- it's also a high ROE.
+ 
+We want to grow it as large as we can. One of the things that we contemplate is could we push all of our lending into the loan platform business over time, and I'm not opposed to that at all. The economics are very attractive. The velocity is much higher.
+ 
+The capital is lower. You have a lighter balance sheet. It would really support high ROE. Listen, we're students of the industry, and we see what drives high multiples, whether it's revenue or earnings or book value, whatever the multiple would be, it's high ROE.
+ 
+So, we have, I think, a great mix of businesses that we've told you will have a high ROE. The more we can drive fee revenue, the more visible that will be come to you. So, it was $970 million in the year. I hope it continues to increase as a percent of the mix, which I think it will based on our outlook.
+ 
+So, you'll continue to see it increase and the benefits that I just mentioned.
+Operator
+The next question comes from Jeff Adelson from Morgan Stanley. Jeff, your line is open. Please go ahead.
+Jeff Adelson
+ -- 
+Analyst
+ 
+Hey, good morning, Anthony and Chris. You've talked a lot already about the opportunity in SoFi Invest following the footsteps of SoFi Money. And it sounds like the SoFi Plus enhancements are a key part of that strategy. But any other specifics into your plans to really ramp up that business? Like is it really just about allocating more marketing and generating more awareness, or are there any other features that we should be expecting? And maybe just talk a little bit about sizing the monetization.
+ 
+I think you're only doing, on a quarterly basis, about 6 million of brokerage revenues there. And then just sort of related to that, does that include any potential plans for maybe a reentry into crypto just given the current administration's thinking around that? Thank you.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+So, first, I would say the same thing about Invest as the rest of our business. The biggest gate to our growth is awareness and becoming a household trusted brand name. And so, we're super focused on driving unaided brand awareness of the business overall and for each one of the products. And SoFi Invest itself, 70% of SoFi Invest products and growth in the quarter are coming from existing members.
+ 
+So, the biggest driver for SoFi Invest is investing in broader awareness to our existing members, but also outside the platform. And so, it's a great value proposition. We're differentiating them fast on selection, on content and convenience, and we'll keep iterating on those four variables as well as our products working better together. But the biggest driver of growth, given we do have a really attractive value prop, is driving more awareness of the product both to members and nonmembers.
+ 
+We have over 10 million members now. You can see how many products we have on Invest. We haven't even penetrated our member base the way that I think we can, in addition to going outside the walls. But we will continue to add more and more selection.
+ 
+This quarter, we added more alternative assets. Alternative assets were originally launched at the beginning of '24. It had a pretty big impact on the growth of both accounts, funded accounts and AUM. Because like a grocery store, people come in to get the milk and they see everything else is there.
+ 
+And so, it has an indirect benefit that's really paid dividends. And so, we'll continue to invest in that business, both directly, as well as part of SoFi Plus. And there's a lot of features and functionalities we don't offer today that will continue to add value and differentiation. And then on your point -- your question on crypto, listen, when we architected SoFi Invest, one of our differentiators was we wanted SoFi Invest to be a one-stop shop on its own.
+ 
+So, we launched with no commission equities. We pioneered fractional shares. We created ETFs at a $10 price point because we wanted our members to have a diverse portfolio they can invest in a dollar-cost way, and $10 was a great price point to do that and S&P 500 types of index in ETFs. In addition to that, we have our robo-accounts.
+ 
+We pioneered IPOs in a turnkey way. We've added alternative assets. When we launched, we really debated do we need crypto; do we not need crypto? We went out to our member base back in 2018, did a survey of our member base. And they absolutely wanted crypto, and we provided it in a safe and sound way and a responsible way.
+ 
+As the regulation change -- changes, we will be incredibly aggressive tied to crypto and be in as many businesses as we can be across the entire platform. Previously, we're just doing trading. You can see us go well beyond that, depending on the regulation, including custody and clearing, trading platforms, asset-backed lending, and so many other areas. So, we hope the administration and the regulators come up with clarity on what the outlook will be, but we'll move as aggressively as anyone else once that is determined.
+Operator
+At this time, I would like to turn the call back over to Anthony Noto for closing remarks.
+Anthony Noto
+ -- 
+Chief Executive Officer
+ 
+Thank you. And thank you for everyone for joining the call today. Over the past seven years, we faced challenge after challenge in external environment impacting our business, our members, and our team. In each time, through our innovation and tenacity, we were able to run to daylight and come out even stronger than before.
+ 
+The result is a more diversified, resilient, battle-tested business, and, most critically, a gritty team that finds a way to win. As I've said before, we love hard. Hard is the path to durability. Hard is the path to differentiation.
+ 
+And hard is the path of being the absolute best. We entered 2025 with the best business environment we've had in my time at SoFi. But regardless of that outlook, rest assured, we are battle ready. And while I'm confident our best days are yet to come, you should rest assured we will work harder and smarter than ever before to be the best in everything we do and to continue to build the SoFi way.
+ 
+Thank you for your interest and support in our great company.
+Operator
+[Operator signoff]
+ 
+Duration: 0 minutes
+Call participants:
+Unknown speaker
+ -- 
+-- Analyst
+Anthony Noto
+ -- 
+Chief Executive Officer
+Chris Lapointe
+ -- 
+Chief Financial Officer
+Kyle Peterson
+ -- 
+Analyst
+Dan Dolev
+ -- 
+Analyst
+Terry Ma
+ -- 
+Barclays -- Analyst
+John Hecht
+ -- 
+Analyst
+Mihir Bhatia
+ -- 
+Analyst
+Reggie Smith
+ -- 
+Analyst
+Andrew Jeffrey
+ -- 
+Analyst
+Jeff Adelson
+ -- 
+Analyst
+
+
+More SOFI analysis
+
+
+All earnings call transcripts

@@ -1,0 +1,139 @@
+Image source: The Motley Fool.
+
+
+
+
+DATE
+Wednesday, August 13, 2025 at 10 a.m. ET
+CALL PARTICIPANTS
+Chief Executive Officer — Michael DePasquale
+Chief Financial Officer — Cecilia Welch
+Need a quote from a Motley Fool analyst? Email pr@fool.com
+TAKEAWAYS
+Total Revenue
+-- $1.7 million in revenue for Q2 2025, up 49% year-over-year and 6% sequentially, reflecting broad segment growth.
+Hardware Revenue Increase
+-- Hardware revenue increased by $458,000 in Q2 2025, driven by new finger biometric scanner deployments for a major longstanding customer.
+License Fee Revenue
+-- License fee revenue increased 4% in Q2 2025, supported by a growing subscription contract base.
+Service Revenue
+-- Service revenue rose 11% in Q2 2025, mostly due to customer service activities for a significant upgrade project.
+Gross Profit
+-- Gross profit increased by $350,054 to $1.2 million (40% growth) in Q2 2025, despite gross margin declining to 73% from 77% a year earlier, due to a higher hardware mix.
+Operating Expenses
+-- Operating expenses decreased by $217,000 (8.5%) to $2.3 million in Q2 2025, largely due to a 13.5% reduction in SG&A expenses, which balanced increased R&D investment.
+Net Loss
+-- Net loss reduced to $1.2 million ($0.20 per share) from $1.7 million ($1.00 per share) in Q2 2025 compared to Q2 2024, as a result of higher revenues and expense control.
+Shares Outstanding
+-- Weighted average shares outstanding were 5.8 million in Q2 2025, down from 17 million in Q2 2024, reflecting financing-related changes.
+Current Assets
+-- Current assets totaled $4 million, including $2.3 million in cash as of June 30, 2025, up from $1.9 million and $438,000 in cash at year-end 2024.
+Accounts Receivable
+-- Accounts receivable increased 37% to $984,000 as of June 30, 2025, from $718,000 at year-end 2024.
+Note Payable
+-- Note payable reduced to $447,000 from $1,000,000 at December 2024 (GAAP).
+Defense and Intelligence Market Activity
+-- Secured multi-year contracts, including with the National Bank of Mozambique, a new international defense agency, and ongoing foreign defense ministry orders, totaling over $3 million in revenue over the last few years.
+Cyber Defense Initiative
+-- Launched to expand defense sector reach in Europe, with focus on hiring military- and intelligence-experienced sales leaders.
+Strategic Business Refocus
+-- Transitioned away from licensed Swivel Secure products towards solely BIO-key branded solutions in EMEA, citing improved pricing control and margin potential.
+Inventory Strategy
+-- Company confirmed ongoing reduction of reserve inventory, aiming to monetize bulk of excess hardware by year-end; sales are "all margin" per CEO DePasquale.
+Cash Position
+-- CEO DePasquale stated, "Yes, we do." when asked if BIO-key has enough cash and equivalents to last through year-end.
+SUMMARY
+New multi-year defense sector contracts and recurring customer follow-ons are expected to drive revenue contributions in the coming quarters. Management highlighted newly launched initiatives, such as the Cyber Defense Initiative in the EU, to target the growing defense and cybersecurity market resulting from increased European and NATO spending mandates. International banking and public sector wins, including two banking contracts in Africa, are supplementing expansion in EMEA and diversifying the revenue base. The ongoing shift to in-house branded product offerings, together with operational expense management and active monetization of hardware inventory, is designed to improve gross margins and reduce breakeven levels.
+CEO DePasquale said, These are real contracts that have already generated revenue and will continue to do so into next year
+Defense intelligence sector sales cycles may be less impacted by seasonal European slowdowns than other verticals, according to management discussion.
+The company is moving toward an in-office model for business development, sales, and marketing, a return to pre-pandemic practices aimed at stronger team coordination.
+INDUSTRY GLOSSARY
+IAM (Identity and Access Management)
+: Technology solutions for controlling and managing user access to systems and data in enterprise environments.
+MFA (Multi-Factor Authentication)
+: Security process requiring users to provide multiple forms of verification before gaining access to a system or service.
+SG&A (Selling, General & Administrative Expenses)
+: Operating expenses apart from direct production costs, including sales, administrative, and overhead costs.
+EMEA
+: Geographic region encompassing Europe, Middle East, and Africa.
+Full Conference Call Transcript
+Michael DePasquale:
+ Thanks, William, and thank you all for joining us today. After my brief remarks and Cecilia Welch's financial review, we will open the call to investor questions. BIO-key had a solid Q2 performance with revenue rising 49% versus last year and 6% on a sequential basis. We also advanced our expense reduction initiatives, trimming SG&A expenses by 13.5% versus last year, more than offsetting increased investments in R&D to further enhance the capabilities of our solutions. We've also reduced our note payable to a balance of $447,000 from $1,000,000 at December 2024. Turning to business highlights in the quarter, BIO-key and our partner Run Level secured a major identity and access management deployment with the National Bank of Mozambique.
+Also in Q2, we extended our penetration of the defense intelligence market based on the capabilities and strength of our IAM, in particular, our biometric-enabled solutions. We are highly limited in what we can say about security and defense customer engagements, but what I can say is that we completed the first phase of a deployment for a new international defense agency customer, and a respected Middle East police force commenced a three-year PortalGuard deployment. In addition, we secured $600,000 of follow-on orders for a prominent foreign defense ministry that bring this ongoing project to over $3,000,000 total revenue over the last few years.
+Building on our success with a growing list of foreign military and defense customers, today we announced the formation of the BIO-key Cyber Defense Initiative. We plan to staff this effort with sales and support executives that have strong military and intelligence experience to guide our efforts and to expand our market reach by building engagement with leading defense industry contractors. The initial focus of the Cyber Defense Initiatives will be in the EU in Europe, where we have key reference accounts and member countries have committed to substantially expanding military and defense investments. Europe's Readiness 2030 framework and ReARM Europe plans aim to mobilize over €800 billion in defense investment over the next four years.
+Included within these efforts is the Security Action for Europe or SAFE loan mechanism, raising €150 billion for defense readiness, including missile defense, drones, and of course, cybersecurity. Similarly, NATO members recently agreed to increase their defense and security spending to at least 5% of their GDP by 2035, more than doubling the previous long-standing target of 2% of GDP. Of the new 5% spending target, 1.5% is explicitly allocated to cybersecurity and security-related investments, including strengthening network defenses against cyber attacks. The EU complements these efforts through initiatives to secure 5G networks and critical infrastructures, as well as a dedicated action plan for cybersecurity in vital services like hospitals and healthcare providers.
+This unprecedented increase in spending is deemed essential for deterring aggression and countering complex hybrid threats. Outside the defense sector, we are particularly encouraged about overall growth opportunities in the EMEA regions of Europe, the Middle East, and Africa, where we have been seeing improved traction and a particular interest in our differentiated identity-bound by capabilities. We've refocused our efforts on BIO-key branded solutions in those markets following our transition away from the former licensed Swivel Secure Solutions and Services that we were selling in 2024 and previous to that.
+Though it takes time to rebuild the opportunity pipeline and channel strategy to focus solely on the BIO-key product suite, we are seeing good traction and positive year-over-year revenue comparisons as we progress through the year. From a margin perspective, our focus on BIO-key solutions provides us greater control and stronger gross margins, supporting our expectations for growth and enhanced margins from the EMEA Group in 2025. Finally, across the business, we have been developing a new marketing program to better articulate our unique capabilities and compelling value proposition.
+Given the complexity and competition that exists in our space, we realized it was time to bring a new voice and focus to our core value proposition to better support our channel partners and direct sales efforts. In North America, we continue to build on our strong position in higher ed, healthcare, and other public sector segments, as well as finance and insurance. Benefiting from our growing base of reference accounts and IT professionals, who have experienced firsthand the competitive strengths and value that we provide, in particular with our biometrics.
+In addition, we are taking steps to revitalize our North American direct and channel sales efforts by recruiting new leadership and cultivating a more collaborative and competitive sales culture to drive improved results. We are also moving back to an in-office model for our sales, business development, and marketing teams once again, which is identical to the way we operated before the COVID pandemic. In closing, we believe these strategic business development initiatives, coupled with our growing base of global channel partners, customers, and reference accounts, put BIO-key in a strong position to deliver improved top and bottom-line results in 2025 and beyond.
+We also continue to seek opportunities to reduce costs across the business to lower our breakeven level and support our path to positive cash flow and profitability. I'm excited about our potential over the coming quarters and appreciate the patience and support of our investors who have helped us get to this place. Now I will pass the call to Cecilia Welch to review BIO-key financials.
+Cecilia Welch:
+ Thank you, Michael. Our results were released this morning via press release, and I will now talk about some of the highlights. Our Q2 2025 revenue increased 49% to $1.7 million versus $1.1 million in Q2 2024, with improvements in each segment. The most significant contributor was a $458,000 increase in hardware revenue, principally due to additional deployment of finger biometric scanners for a large long-time customer. License fee revenue increased 4% in Q2 2025, reflecting our growing base of subscription contracts. Our service revenue increased 11%, largely due to the benefit of customer service for a large customer upgrade.
+Q2 2025 gross profit increased by $350,054 or 40% to $1.2 million from $0.9 million in Q2 2024, due to the increase in total revenue offset by a modest decline in gross margin to 73% in Q2 2025 versus 77% in Q2 2024. The year-over-year margin decrease was the result of a large increase in hardware revenue as a percentage of sales in the current year period, as it carries a lower margin than license fees and services. BIO-key reduced operating expenses by approximately $217,000 or 8.5% to $2.3 million in Q2 2025 versus $2.5 million in Q2 2024, due to a 13.5% reduction in SG&A expenses resulting from reductions in administrative, sales personnel costs, and professional service fees.
+As Michael mentioned, the SG&A improvement was partially offset by higher research and development costs in support of the development of next-generation products, such as our PortalGuard upgrade, the exploration of new products, and new product lines. Reflecting higher revenues and lower operating costs, BIO-key's Q2 2025 net loss improved to $1.2 million or $0.20 per share from a net loss of $1.7 million or $1.00 per share in Q2 2024. Our per-share amounts are based on 5.8 million weighted average shares outstanding in Q2 2025 compared to 17 million in Q2 2024, principally related to the share issuances from the warrant exercise and other financing-related activity.
+As of June 30, 2025, BIO-key had current assets of $4 million, including $2.3 million in cash, up from the year-end current assets of $1.9 million, which included $438,000 of cash. Accounts receivable also increased 37% to $984,000 in June 2025 from $718,000 at year-end 2024. And now, operator, at this time, please prepare for the Q&A session.
+Operator:
+ We will now begin the question and answer session. To ask a question, you may press star. The first question today comes from Dan Kamas, who is a private investor. Please go ahead.
+Dan Kamas:
+ Hi, guys. With the increased costs for this, I guess, sales and support team on the cyber defense and increased R&D, should we expect the recent trend towards reduced operating expenses to reverse?
+Michael DePasquale:
+ No. Well, again, I want to answer that question the right way, Dan. By the way, good morning. So no, the answer to that question is, we had a, I'll call it a blip in the second quarter due to a few things. Number one, some restructuring in sales. I mentioned in my prepared remarks, we were doing some changes in leadership and sales and business development resourcing. So that's number one. Number two, events, and that's just the timing. We attend a couple of core events each year. One of them is Gartner, one is Identiverse, ISC, Squared. We attend that event as well. And so the timing of and the payment, right, for those events is one element.
+And I think we believe that the expense run rate that we started the year at will pretty much be the way we proceed through the third and fourth quarter. Again, it was about a $300,000 blip in Q2.
+Dan Kamas:
+ Okay. Can you give us any at all additional color on what meaningful contract activity in the first half of next year means? Cybersecurity in Europe.
+Michael DePasquale:
+ Yes, it's pretty significant. I think our challenge, in fact, we have contracts that we've closed already this quarter, late last quarter and this quarter, that we really just can't discuss. It's a very robust market, in particular for us, for our very specific solutions. So we provide not only an MFA but an identity and access management platform with PortalGuard. And we're pretty much the only vendor that has a solid proven biometric attachment to ratchet up the level of security for access management for these defense contractors and ultimately the end-use defense agencies. And so because of our powerful references, that business is going to grow for us. And so we announced the formal initiative.
+I mean, we've been working this for the past year, but we announced the formal initiative this morning to go after that business in a bigger way, and we'll be doing some marketing and some other things to ensure that all of the contractors and the end-use agencies know about BIO-key. Because many of these large contracts are hosted and managed by large primes, right? And on an international basis, we know who all of them are. We have very good partner relationships already in EMEA. And this is just making it more significant for us. It's no secret, right, that the U.S. has forced the EU and the Middle East to step up and spend more to defend themselves.
+And to also acquire product missiles, weapons, all kinds of drones and other technology from the U.S. as well. So there's no doubt that the money is there. There's no doubt that the need is there. And with our references, in particular with some very high-level agencies that we haven't even discussed or announced and we can't yet, we think we're in a really good position to capture that. And that's again on the government side, but we also have a very robust enterprise business. I mean, look at our business in banking and in healthcare, in education, we have well over 100 customers that represent millions and millions of users every day that use our technology.
+So, you know, I don't want anyone to think that we're moving away in any way, shape, or form from the enterprise business. But I think what we're trying to say here is we're going to take advantage of the thermals that exist now because of this increase in the defense and intelligence markets that's recently evolved.
+Dan Kamas:
+ Okay. When you say you have contracts that you can't mention or I'm just wondering, have you received the income from those contracts already in the second quarter? Or are those contracts scheduled to come in, in the first half of next year or something? I'm just trying to get a feel for how
+Michael DePasquale:
+ No, both. Both. I was very clear. I mentioned we have already contracts that we've again closed at the end of last quarter, this quarter in Q3. And they'll be reflected in the Q3 results. Right? I mean, again, we can't really announce the names or any of that at this point. At some point, perhaps we will be able to do that. But at this point, we can't. And so I think even in Q2, certainly, at least I look at the stock price, and I don't think it's reflective of our performance today. And I think that the market just yet at this point doesn't realize again, our opportunity. And unfortunately, it's going to happen.
+It's going to be shown in the results. Because a lot of the things that we are involved in right now are just not announceable. It's just the way it is. And I don't think we're the only company in this position, but certainly for us right now, that's our situation.
+Dan Kamas:
+ Okay. But you're saying that these things you haven't announced that they'll be providing income in the next year. And that's some of what you're basing this idea of meaningful contract activity? Or are you just expecting that because of the increased market in Europe and EMEA? That's what I'm
+Michael DePasquale:
+ No, no, no. This is a pipe dream. There will be results this quarter from some of these contracts in Q3. This is Q3. We're in Q3. And Q4 and obviously beyond. But these are real contracts that have generated revenue already and will continue to generate revenue through the end of this year and into next year. And beyond, right? Obviously, these are spending initiatives that are in particular in the EU and in the Middle East are multiyear, right? These are not just, you know, one-time kind of blips. These are investments that are going to go on for five plus years, maybe even longer.
+Dan Kamas:
+ Okay. Do you expect these to ramp, I guess? I guess I'm trying to understand I mean we've lost a million dollars. I think in this quarter. So these have to ramp for you to get to breakeven. So are you expecting like a growth significant growth from these in the first half? Is that what's going on?
+Michael DePasquale:
+ Oh, absolutely. There's no question. I mean, again, it's iterative. Right? These things will grow. The quantity of opportunities and customers will grow as will the size. And typically, these things start and then they iterate. If you look at that first, our largest defense ministry, right, we've iterated to multimillion dollar to multiple millions of dollars in sales, both hardware and software with them. Over the last few years. And so these are the things that continue, right? They start and then they iterate. They get bigger. More users get added. More touch points get added. I.e., that represents hardware. But one other point that I want to make our blended gross margins still are 70 plus percent.
+Which is very, very strong. They float right between seventy percent and eighty. But at the end of the day, those are very, very strong and powerful gross margins. I think a testament to the quality and the nature of our solution set. Customers want one throat to choke. They want to be able to buy everything from us. And know that we're there to support everything. So again, that's also very powerful for us.
+Dan Kamas:
+ Okay. You mentioned some of this has happened in the third quarter. I think last call you mentioned that during the summer, I guess, shuts down in August and whatnot. Do we have a feel at all for whether we'll get growth in the third quarter or whether we might see a little bit of a slowdown before a ramp back up in the fourth quarter? Anything like that?
+Michael DePasquale:
+ Yes. Well, we don't provide guidance, so I'm not going there. But there's no question that Europe right now, right, we're in the dead portion of the summer in Europe and that will continue through the end of the month. But in September, things will wake back up again. So we're encouraged by our pipeline and the number of opportunities we have. And in the context of also on this kind of defense intelligence segment, it's typically a priority. So it's less impacted by the I'll call it the malaise that you see typically in the European summer. Because these things are mission critical. Right?
+So they may obviously have less staff or a diminished focus, but the focus doesn't go away. As it will sometimes you'll see that in the enterprise or commercial markets in Europe. But you'll see less of that in the defense and intelligence sectors.
+Dan Kamas:
+ Okay. That's helpful. How much of the reserve inventory did you sell? Can you give us that?
+Michael DePasquale:
+ Yes. We're selling it basically every quarter. We sold a bunch already this quarter in Q3. We continue to move that inventory and our goal and objective is to again, by the end of the year to move the bulk of it. So keep mentioning, and I've mentioned this on a number of calls, that we have a few larger opportunities to move higher volumes of those units and that's starting to come to pass for us. So you'll see that reflected in the numbers as we evolve forward. And of course, as you know, all been written down. So it's revenue and it's also all cash. So it's good for us. And all margin.
+Dan Kamas:
+ Right. Right. But can you tell us how much you have left?
+Michael DePasquale:
+ No.
+Dan Kamas:
+ Do these hardware sales lead or lag software sales? I a big increase.
+Michael DePasquale:
+ They usually come together. So typically, the initial contract or sale will include software and the hardware to get the solution up going users registered, deployed. And then the expansion will typically include software and maybe some hardware. So there might be less, there might be more. In the context of our large defense ministry customer, they've deployed I believe 40,000 touch points meaning they've deployed 40,000 finger scanners. In different locations throughout their infrastructure. And they continue now to add users. Right?
+More and more larger portions of their population are now getting enrolled because they have a wide distribution of touch points and they fundamentally have mandated that anyone who accesses anything that has to do with their intelligence infrastructure must utilize the BIO-key solution. And every one of those touch points has a BIO-key logo on it just FYI.
+Dan Kamas:
+ You give us any update on Nigeria or Africa?
+Michael DePasquale:
+ We still operate there and we really have turned our focus to supporting our core products right now. We have a number of partners that we've signed up through our EMEA group in Africa that will be representing us, but more for our core technology and core products. The volatility on the other side of the market I call it the civil ID market, it's just not worth our effort at this point. We do believe though in Africa as an emerging market, but more on the as you see, we closed the two deals in two banking deals in Africa in the first half, right?
+The Bank of Mozambique and Egypt, we have another one in the pipeline that we hope will close this quarter or next. So going after the commercial enterprise market, in particular with our biometric solutions, it seems like a very powerful opportunity. So that's our focus right now in Greater Africa.
+Dan Kamas:
+ I see. Last question. You think you have enough cash and equivalents to get you through the end of the year?
+Michael DePasquale:
+ Yes, we do.
+Dan Kamas:
+ Okay. I'll get back in the queue. Thank you for the time.
+Michael DePasquale:
+ Thanks, Dan.
+Operator:
+ There are no further questions at this time. I'd like to turn the call back over for any closing remarks.
+Michael DePasquale:
+ Thank you, everyone, for taking the time with us today. You may reach out to our IR team whose contact information is in today's press release with any follow-up questions. Also, we expect to participate in a number of conferences as we evolve forward through the end of the year. And stay tuned for those announcements. We certainly will keep you posted. With that, have a great day, a great rest of the week, and a great rest of the summer. We look forward to updating you on our call after in the late fall, in the mid-fall in October. Have a great day.
+Operator:
+ Conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

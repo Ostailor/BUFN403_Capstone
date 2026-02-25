@@ -1,0 +1,538 @@
+Image source: The Motley Fool.
+
+
+
+
+GoodRx
+ 
+(
+GDRX
+ 
++4.63%
+)
+Q1 2024 Earnings Call
+May 09, 2024
+, 
+8:00 a.m. ET
+Contents:
+ 
+ 
+Prepared Remarks
+ 
+Questions and Answers
+ 
+Call Participants
+ 
+ 
+Prepared Remarks:
+ 
+ 
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the GoodRx first-quarter 2024 earnings call. At this time, a reminder, today's conference is being recorded. I would now like to introduce your host for today's call, Whitney Notaro, vice president of investor relations. Ms.
+ 
+Notaro, you may begin.
+Whitney Notaro
+ -- 
+Vice President, Investor Relations
+ 
+Thank you, operator. Good morning, everyone. And welcome to GoodRx's earnings conference call for the first quarter of 2024. Joining me today are Scott Wagner, our interim chief executive officer, and Karsten Voermann, our chief financial officer.
+ 
+Before we begin, I'd like to remind everyone that this call will contain forward-looking statements. All statements made on this call that do not relate to matters of historical facts should be considered forward-looking statements, including without limitation statements regarding management's plans, strategies, goals and objectives, our market opportunity, our anticipated financial performance, underlying trends in our business, our value proposition, our potential for growth, our hybrid retail direct and PBM contracting approach, collaborations, and partnerships with third parties. Including our integrated savings program, anticipated impacts of the deprioritization of certain solutions under our pharma manufacturer solutions offering and our cost savings initiative, expected impacts of the sunsetting of progress savings clubs, anticipated impacts of the change healthcare outage, our capital allocation priorities and the amount, timing and benefits of our share repurchase program. These statements are neither promises nor guarantees but involve known and unknown risks, uncertainties, and other important factors.
+These factors may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements. Factors discussed in the risk factors section of our annual report on Form 10-K for the year ended December 31st, 2023, and other filings with the Security and Exchange Commission could cause actual results to differ materially from those indicated by the forward-looking statements made on this call. Any such forward-looking statements represent management's estimates as of the date of this call, and we disclaim any obligation to update these statements, even if subsequent events cause our views to change. In addition, we will be referencing certain non-GAAP metrics in today's remarks.
+ 
+We have reconciled each non-GAAP metric to the nearest GAAP metric in the company's earnings press release, which can be found on the overview page of our investor relations website at investors.goodrex.com. I'd also like to remind everyone that a replay of this call will become available there shortly as well. With that, I'll turn it over to Scott. 
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Thanks, Whitney, and thanks to everyone joining us today to discuss our first quarter results. Today, I'd like to highlight the meaningful headway we've made over the last 12 months, and more specifically in the first quarter. Then, Karsten will take you through our Q1 financials and expectations for Q2 in full year 2024. I'd like to open by saying that we'll be keeping our prepared remarks focused during this call, because as many of you are likely aware, we announced our first Investor Day, which is taking place next Wednesday, May 15th.
+ 
+We hope those of you listening today will join us for that event, which will be webcast via our investor relations website. We'd like to use that opportunity to discuss several things. First, the market context in which we operate, specifically the persistent and growing need for prescription affordability solutions, including ARPS. Second, the power of the GoodRx value proposition, elements that make us the preferred destination for consumers and healthcare professionals to find affordable prescriptions.
+ 
+Third, GoodRx's position within the healthcare value chain details on the strength and durability of our pharmacy network as we focused on rebalancing pharmacy and PVM economics with our own, while incentivizing joint growth with our retail partners. Fourth, our expected growth levers, including B2B integrated savings program that allows us to aggregate prescription demand efficiently, as well as continued growth and pharma manufacturer solutions, fifth, our financial trajectory and growth prospects. Our plan is to lay out medium-term revenue expectations for both our prescription marketplace and manufacturer solution segments, as well as earnings flow through, and finally, growth inflectors. Additional upsides and opportunities that aren't in our base trajectory, but give us the opportunity to accelerate growth by leveraging our existing and differentiated assets to enable extensions of the offerings that we have today.
+ 
+We look forward to our Investor Day and using this as an opportunity to increase our transparency for all of those in the investor community. While I look forward to discussing these further, I do want to take a moment to discuss my views on my first year at GoodRx and what I see as our significant accomplishments during that time. When I arrived here a year ago, there were a number of questions about the company's position in the broader healthcare ecosystem. At the outset, I worked with the team to establish a set of clear priorities that reinforce our core value proposition, saving people money on prescriptions with the goal of strengthening the durability of our business model and reignite growth.
+ 
+Looking back, I'm encouraged and energized by the strides we've made. First, we've strengthened our retail pharmacy relationships and accelerated the uptake of our hybrid model, which includes both retail direct and our historical PBM contracting. Our retail direct approach is where some of the largest pharmacies, as well as smaller grocers and other retailers, work closely with us to offer consumer savings while we help retailers manage their revenue and category profitability. We believe this is complementary to our existing PBM relationships and create significant additional value for retail pharmacies, opening up the potential for GoodRx is a true marketing platform and reducing friction both for consumers and for pharmacies themselves.
+ 
+During Q1, we continued to sign direct contracts with new pharmacies and expand the drugs covered by direct contracts. In Q1 2023, approximately 5% of our claims were through retail direct contracts, and in Q1 2024, they made up over 20% of our claims. Our second priority has been to hone our growth plans for our core prescription transaction offering, which includes extending the benefit of GoodRx to commercial insurance programs or funded plans. We've done this through our integrated savings program, or ISP, with PBM partners like CVS Caremark, Express Scripts, MedImpact and Navitus, who efficiently aggregate demand for our prescription discounts.
+ 
+We're driving real value with payers and their members by seamlessly lowering the cost of their prescriptions automatically at the point of sale. We're quickly becoming a leader in the commercial market for integrated benefits, and while our programs are currently only available to a subset of our partner PBM eligible members, these PBMs do cover over 60% of eligible U.S. lives, so the market opportunity remains a key area of focus for us. We estimate that the potions and prescriptions filled in ISP have negligible overlap with those in our direct to consumer offering, which means that our ISP product line is almost entirely SAM expanding.
+ 
+So far this year, ISP is tracking in line with our expectations, and the traction that we're seeing is exciting as we continue to gain more lives and types of transactions. We look forward to working to continue to ramp this program over time with both our PBM partners and retailers and types of prescription transactions in the program. Third, we've been bringing GoodRx savings to brand drugs through pharma manufacturer solutions. In 2023, we prioritized deal quality with a focus on forgoing one-off deals and instead creating standardized go-to-market programs that we expect to scale sustainably.
+ 
+The restructuring of our pharma manufacturer solutions offering, including the rationalization of vitaCare, is complete. We've already begun to see margin accretion in the first quarter of 2024, which we expect will continue. Over the last year, we've also strengthened our management team and organized ourselves to execute effectively. More specifically, we've made a great executive addition with Dorothy Gemmell as our chief commercial officer.
+ 
+We welcomed Andrew Slutsky back as our chief marketing officer and promoted several high-performing executives, including Mike Walsh, who's now our President and EVP of Prescription Marketplace. These are all fantastic executives who are helping the business execute with speed and quality. Our team has a nice balance of healthcare and consumer internet expertise, a combination that I believe enables us to create elegant and distinctive experiences for our 25 million plus consumers and add real value in healthcare. During the first quarter, we continued to see positive momentum in the business, both financially and operationally.
+ 
+Q1 year-over-year adjusted revenue growth accelerated to 8% up compared to our Q4 growth trade, and our Q1 adjusted EBITDA margin was 31.7%, up 280 basis points year over year, with adjusted EBITDA growing 18% year over year. This financial performance is the direct result of our efforts in executing against our priorities over the last 12 months. Looking ahead, we expect adjusted revenue growth to continue into Q2 and for the full year 2024. We anticipate adjusted revenue to be between $800 and $810 million for the full year 2024, with adjusted EBITDA over $250 million.
+ 
+We believe we're gaining momentum from a top-line and adjusted EBITDA standpoint. We're expecting high flow through from incremental top-line growth to cash flow, which would believe puts us on track to return to a rule of 40 Company. Karsten will speak to our all looking more detail. However, I will say the confidence that our priorities are the right ones to deliver growth and contribute to shareholder value creation.
+ 
+With that, I'll hand it over to Karsten.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Thank you, Scott. I'll speak briefly to our 1Q, '24 financial results before turning to guidance. In summary, during the first quarter, revenue and adjusted revenue were in the upper end of the guidance range we provided on our Q4 earnings call in February, and adjusted EBITDA margin was a beat exceeding the guidance we provided. Total revenue and adjusted revenue for the quarter increased 8% year over year to $197.9 million, primarily driven by organic growth and prescription transactions revenue, including expansion of our integrated savings program, as well as growth in pharma manufacturer solutions.
+ 
+I'll also note that the first quarter of last year included more revenue from Kroger Savings Club subscription offering, which we are sunsetting in July 2024, as compared to this year's Q1, and Q1 2023 also included revenue from our vitaCare offering within manufacturer solutions, which we restructured last fall and did not contribute any revenue at all in this Q1. To quantify this impact on growth, Kroger Savings Club and vitaCare together contributed approximately mid-single digit billions of dollars more revenue in the first quarter of 2023 than in the first quarter of 2024. The point here is that on a like-for-like basis, growth is even stronger. Moving on to the revenue lines, prescription transactions revenue grew 8% year over year to $145.4 million, which was primarily driven by a 10% increase in monthly active consumers.
+ 
+On our 4Q, '23 earnings call, we discussed that an immaterial impact from the change outage was incorporated in the Q1 guidance we provided. At the time of the call, we'd had a couple of days of impact. While we were back up and running quickly, the outage persisted more broadly across the industry for multiple weeks, impacting benefit plans, pharmacies, and others. On our 4Q23 earnings call, we discussed the immaterial effects of the change outage, which were incorporated in the Q1 guidance we provided.
+ 
+We were back up and running quickly, and having now had time to evaluate the continually impact, we believe the full year 2024 quantification is likely to also be immaterial in the low single digit millions of dollars, including the outage's effect on refills. Subscriptions revenue declined 6% as expected to $22.6 million due to the wind down of Kroger Savings Club. Kroger Savings Club revenue was almost $2 million less in the first quarter of 2024 than in the prior year period, and our own gold offering was essentially flat quarter over quarter. As I mentioned a moment ago, we expect a continued wind down of Kroger Savings Club subscribers from now to July, and given the relative subscription fee is much higher for GoodRx than for the Kroger Savings Club, the wind down will be more impactful to the total number of subscription plans than subscriptions revenue.
+ 
+Pharma manufacturer solutions increased 20% year over year to $24.5 million, driven by organic growth as we continue to expand our market penetration, including continued growth in our point of sale programs, with more than an offset the low single-digit million dollar reduction in revenue from vitaCare. Net loss was $1.0 million compared to a net loss of $3.3 million from the first quarter of 2023. Adjusted net income was $32.6 million compared to $29.5 million in the first quarter of 2023. Adjusted EBITDA increased 18% year over year to $22.8 million.
+ 
+Adjusted EBITDA our total number of our guidance rate was 31.7% and was up quarter over quarter and up 280 basis points year over year. The year-over-year improvement was primarily driven by top-line growth and run rate savings from the restructuring of our vitaCare pharma manufacturer solutions offering in the second half of 2023. We generated net cash provided by operating activities of $42.6 million, compared to $32.3 million in the prior year period. Our capital allocation priorities are unchanged and will continue to focus on high-return investments and maximizing value for shareholders.
+ 
+Our balance sheet remained strong and we ended the quarter with $533 million in cash and cash equivalents on the balance sheet and $658 million of outstanding debt. During the quarter we executed approximately $155 million of share repurchases at an average price of approximately $7.26 per share on a blended basis. As of March 31st, 2024 we had $295 million of unused authorized share repurchase capacity under our $450 million share repurchase program approved by our board of directors during the first quarter of 2024. Our revolving credit facilities untapped except for letters of credit and had $92 million of unused capacity as of March 31st, 2024 representing total liquidity of $625 million.
+ 
+Now turning to guidance. Our outlook for Q2 revenue and adjusted revenue is approximately $200 million representing approximately 5% year-over-year growth. We expect revenue and adjusted revenue to be identical in the second quarter because we believe the third quarter 2023 adjustment to revenue in relation to the pharma manufacturer solutions restructuring related to vitaCare was one time a non-recurring. Similar to my commentary earlier on 1Q '24's results, we expect our 2Q '24 growth to be tempered because of the vitaCare offering we restructured last fall and Kroger Savings Club which were sunsetting in July, which together contributed approximately mid-single-digit millions of dollars more revenue in the second quarter of 2023 than they'll contribute in the second quarter of 2024.
+ 
+For the full year 2024, we continue to expect revenue and adjusted revenue to be identical and expect to come in between $800 and $810 million representing approximately 6% growth on an adjusted revenue basis at the midpoint. Like 1Q '24 and 2Q '24, the anticipated full-year 2024 adjusted revenue growth rate has been tempered by approximately $15 million of full-year top-line impact associated with a deep prioritization of vitaCare which contributed to revenue and adjusted revenue in 2023, but is not contributing at all in 2024 as well as the anticipated sunset of the Kroger Savings Club. Also we expect counter revenue related to consumer incentives to increase by almost $10 million this year. In aggregate, this $25 million of top-line impact is reflected in our full-year $800 million to $810 million revenue and adjusted revenue guidance as is the ongoing full-year effect of the change outage with its low single-digit million impact I mentioned earlier.
+ 
+We expect our prescriptions marketplace portion of our anticipated 2024 adjusted revenue growth to be about $25 million to 35 million. As a reminder, our prescriptions marketplace is made up of prescriptions transactions, subscriptions, and other revenue. We expect pharma manufacturer solutions to contribute about $10 million to $20 million to anticipated 2024 adjusted revenue growth. This implies a year-over-year growth rate for our pharma manufacturer solutions offering that exceeds the growth rate of the digital pharma ad spend market which has been in the low-teen percentages the last few years.
+ 
+Based on what we've seen historically, we expect there to be seasonality in some quarter-over-quarter variability in each of our prescription marketplace and pharma manufacturer solutions offerings and potentially in our business more broadly. That said, given our scale relative to the very large TAMs for our prescription marketplace and our pharma manufacturer solutions offering, we're confident in the anticipated 2024 growth trajectory and our guide of $800 million to $810 million in revenue and adjusted revenue. From a margin perspective, during the last few quarters we've delivered adjusted EBITDA margins from a high 20% range and most recently in the low 30s in Q1. We expect adjusted EBITDA margin to be in the low 30% range again in the second quarter and expect to achieve over $250 million of adjusted EBITDA for the full year, up 15% from 2023 based on our expectations of a high degree of adjusted EBITDA flow through from revenue growth and our continued focus on the cost structure and efficiency generally.
+ 
+With that, I'll now turn over to the operator for Q&A.
+ 
+Questions & Answers:
+ 
+Operator
+Thank you. [Operator instructions] Now, our first question comes from Michael Cherny with Leerink Partners. Please proceed.
+Mike Cherny
+ -- 
+Leerink Partners -- Analyst
+ 
+Good morning. Congrats on a good quarter here. Maybe if I can just ask a question on ISP. As you think about the ramping effects, think about the integrations that you've had so far with the PBMs you're working with, where have been the greatest opportunities where you've seen the contribution? And in terms of the guidance for the rest of the year, how do you see ISP ramping as a either percent of volumes, a percent of growth, any other additional color we can look into as you think about where this goes over time would be great? Thank you.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Hey, Michael. It's Karsten speaking here. I think there are two parts to your question. The first part was where we see the opportunity and how do we see the rest of the year.
+ 
+With respect to both of those matters, I think we see the opportunity in four major areas. The first major area is continuing to add incremental PBMs. The second area is to add incremental plan sponsors from each PBM. The third area is formulary expansion.
+ 
+So the inclusion of, for example, completely off formulary medications. And then the final area of expansion is that there are still certain retailers who haven't been elected to participate in ISP. Of those for us, the really big ones are around expanding the number of sponsors associated with particular PBM and formulary and, of course, adding new PBMs because that creates a big positive effect indeed, even though we already have PBMs covering approximately 60% of U.S. lives.
+ 
+With respect to trajectory through the rest of the year, traditionally we would see ISP be expected to shrink in its contribution as the year progresses because folks hit their deductibles, for example, and have less need for ISP at certain points in the year. I think what we're noticing now is that is probably going to be less of an effect in 2024 because of the growth vectors I described, namely PBMs continuing to add members and add formulary in particular that are in our already existing PBM base of business today. So I think the seasonality that we've historically talked about will likely be less pronounced or not that pronounced at all this year relative to what we would have expected and saw, for example, last year. Hopefully, that's helpful.
+Mike Cherny
+ -- 
+Leerink Partners -- Analyst
+ 
+Great. Thanks.
+Operator
+Thank you. One moment for our next question, please. And it's from Jailendra Singh with Truist Securities. Please proceed.
+Jailendra Singh
+ -- 
+Truist Securities -- Analyst
+ 
+Thank you and good morning. And thanks for taking my questions. First, a quick clarification around change healthcare. You guys call impact being ongoing.
+ 
+Just want to make sure, is there a risk that impact could be higher than low single digit in millions? But then my main question is that MAC and PTR per MAC trends in the quarter, MAC were ahead, PTR per MAC were slightly below comparatively speed expectations. Just curious, how would you describe trends on those metrics compared to your internal expectations? And any color you can provide around PTR per MAC in the quarter, were there any puts and takes from ISP impact or direct contacting pharmacy? And how should we think about the trend there for us of the year?
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Hi. It's Scott. Thanks. On change, this won't be a persistent issue that's going through the rest of the year, but I think relative to the last time we were on with everybody, there was an outage.
+ 
+We got our own service back up. But obviously, I think change has lasted longer than anybody else in the industry would have thought throughout the quarter. And so there were persistent effects that are really centered more around Q2, both around the system and the industry in general, and then some things that it did certain amounts of cards on file with retailers. But the punchline is, as we go into the second half, it shouldn't be a big thing.
+ 
+But it obviously has been meaningful for the industry in Q2. I'll let Karsten handle your MAC and PTR question.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Hey, Jailendra. On PTR per MAC, I think we did see some small single-digit degradation in Q1 on a year-over-year basis. But you saw, for example, in 4Q that it was up by a similar amount. I think PTR per MAC has been relatively linear over the past few quarters.
+ 
+It's got up a little on some, down a little on some. I think there's no specific driver related to ISP or direct contracting that it necessarily point to on that. Both of those things have been in effect for several quarters now, as this PTR per MAC has continued to fluctuate within a very narrow range.
+Jailendra Singh
+ -- 
+Truist Securities -- Analyst
+ 
+Thank you.
+Operator
+Thank you. One moment for our next question. And it's from the line of Stephanie Davis with Barclays. Please proceed.
+Stephanie Davis
+ -- 
+Barclays -- Analyst
+ 
+Hey, guys. Thank you for my question. You mentioned talking to some midterm targets at the upcoming Analyst Day. And if I do the math and I scrub out some of the headwinds that you've had in the quarter and year to date, you get to a low double digit both rates.
+ 
+Is there any reason to think there is something you need in this year or this quarter that would make that higher than your longer-term trend?
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Stephanie, I think the dynamic of a marketplace just inherently says in a given quarter, a growth rate might bounce around in a range and that's kind of what we're going to lay out for everybody with more detail than 30 seconds or a minute on a conference call. So we'll lay that out, but appreciate the math and what it means for us. But I think to specifically answer your question, it could be just the dynamics of a marketplace where you just do have some degree of variance in lapping year-over-year things that can happen, but overall longer term, that's the zone or the goalpost that the business can operate in.
+Stephanie Davis
+ -- 
+Barclays -- Analyst
+ 
+Thank you.
+Operator
+Thank you. One moment for our next question. And it's from the line of Daniel Grosslight with Citi. Please proceed.
+Daniel Grosslight
+ -- 
+Citi -- Analyst
+ 
+Hi. Thanks for taking the question. Scott, I think you mentioned that now over 20% of the volume is coming through direct contracts. I'm curious, where do you think that trends over the next year? So do you think you'll ever get to kind of a majority of volume flowing through direct contract? And maybe if you can comment on how that might change your relationships or dynamic with the PBMs? Thanks.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+I think the most important point to note is that we're following our retail partners as we go through this journey. And what that dynamic means is that in some cases, we're going to have a portion or all of the volume being direct. And in some cases, we're going to work in our hybrid model. And it's going to be both.
+ 
+And again, the point being we're following where retailers are going and meeting the needs of frankly, the value chain in general. And so, I don't want to throw it a number because I think again, this is something where we're kind of following the value chain as it goes, which is great. And there's going to be both in the system for a long, long time. I think that's the biggest point to think about on it.
+ 
+And relative to your PBM commentary or question, the PBMs, we're going to have a business relationship with the PBMs for a long, long time for all the reasons that we had one at the inception of this business, which is it's a way of working together, adding incremental lives. ISP is obviously, a new evolution where the GoodRx benefit, which is really off insurance is being brought closer to plans, not just in integrated savings, but I do think and hope that over the next not just quarters, but a couple years, integrated savings is going to evolve into a series of different efforts that sort of bridge that gap. And we're going to do that hand-in-hand with our PBM partners.
+Daniel Grosslight
+ -- 
+Citi -- Analyst
+ 
+Got it. Thank you.
+Operator
+Thank you. One moment for our next question, please. And it comes from the line of Lisa Gill with J.P. Morgan.
+ 
+Please proceed.
+Lisa Gill
+ -- 
+J.P. Morgan -- Analyst
+ 
+Hi. Thanks very much. Good morning. I just want to understand a few things on the retail side and the answer to the first question when you talked about growth in ISP, you talked about retail participation.
+ 
+Are there retailers today that aren't participating? And then secondly, large companies like CVS have talked about moving toward cost-plus reimbursement. And I'm just curious as to what that means to your model of anything as they move forward. And then if I can just squeeze one in just as a clarification, the EBITDA was $6 million higher than consensus in the quarter. Is there any reason -- was that different than what you were projecting internally? Just thinking about the flow through from the rest of the year of that, that beat versus the street in the first quarter?
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+So, Lisa. Thanks. Well, I'm going to go in reverse order top of mind. So the EBITDA beat and flow through, it's actually great.
+ 
+I mean, it really is an outcome of return to growth and good flow through as things are happening. So EBITDA, great. In terms of the cost-plus situation, again, as you well know, cost-plus is a different way for a retail pharmacy of pricing itself relative to the PBMs, but the need for value relative to people's insurance doesn't change at all. And so, not just our own value and the GoodRx value prop, which is really being able to add value relative to gaps and insurance that still exists in a cost-plus world, gosh, and it might even be enhanced depending upon how retailers are operating.
+ 
+And I'm going to tease our Investor Day a little bit, but the best way to actually talk about this is to show it. And there's a set of drugs where if you go into GoodRx and you're looking at price points of different drugs across retailers, there's several on cost-plus models today. And there are several that are not or in a traditional world. And nobody can tell the difference.
+ 
+And there's a fundamental benefit at GoodRx that applies across both. So I think that's a cost plus thing. We'll dive into that more next week with everybody. On retail acceptance, yes, the answer is a couple of several retailers are working through the dynamics of ISP, which as you might expect, have to do more with their funded contracts than it does necessarily at ISP.
+ 
+But we and our PBM partners in particular are working through that with retail. So there's nothing fundamentally different about retailers who are in or not. It has to do with more of the balance of the program relative to their funded book.
+Lisa Gill
+ -- 
+J.P. Morgan -- Analyst
+ 
+Great. Thanks so much. I'll see you next week.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Thanks.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of Charles Rhyee with TD Cowen. Please proceed.
+Charles Rhyee
+ -- 
+TD Cowen -- Analyst
+ 
+Yes. Thanks for taking the question. I wanted to ask a little bit more, I think he talked about sort of the big areas for growth, particularly in ISP is among them, right, the types of transactions, particularly off-formulary generics. Can you talk about sort of what the process is with the various PBMs on how those decisions are made? And maybe if you have an estimation of what percentage of the formulas you are being used for today.
+ 
+Is there a formal process in there or is it just as they are testing through it? And just trying to get a little bit more sense on that. And then it's just a clarification. I think when you read the guidance for EBITDA, $250 million, did I hear that you expect greater than $250 million for the year? Just to clarify that. Thanks.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Charles, let me, hopefully I hit the mark with my answer to this. I'm understanding your question is the process of how we're ramping or working through with the PBMs. And I would say this is a mutual effort with a couple of people on our end and a couple of people on theirs actually flowing through lives and then actually looking at some of the price point and data. And what that means is that we're doing it together, but it's very much an incremental rollout.
+ 
+I think in a manner that we've tried to communicate to people, and again, on this one, we are following the lead of our PBM partners. So I think the punchline audit is we're working together, and it has, if you might think about it as a step-by-step and an incremental approach to all of these. And I'll let Karsten address the EBITDA question.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Yes.That's an easy one, Charles. On the EBITDA side, yes, we did say we expected to achieve over $250 million for adjusted EBITDA, so approximately greater than 15% YoY.
+Charles Rhyee
+ -- 
+TD Cowen -- Analyst
+ 
+Thank you.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of Stan Berenshteyn with Wells Fargo Securities. Please proceed.
+Stan Berenshteyn
+ -- 
+Wells Fargo Securities -- Analyst
+ 
+Hi. Thanks for taking my questions. Maybe on pharma manufacturing solutions, you have called us out as an area of focus. Seems like Q1 was a bit stronger than what you had guided for.
+ 
+Anything to call out in terms of upside to the expectations or drove that? And then perhaps related to this, can you just give us some updates on the sales pipeline here, the type of traction you're seeing within the segment? Thanks so much.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Yes. That's great. And look forward to going into more detail on this whole area next week. I think what you're seeing is the results of effort that we were talking about at the end of last year.
+ 
+We're going to hone in on what we're really good at and distinctive at with these brand partners. And in pharma land, that's access solutions in the parlance, which is there's all of these co-pay and patient assistance programs that every brand runs, and they all act differently. When you embed that workflow into GoodRx, the whole system works better. In many cases, we get 5 to 15 times the organic page views at a brand than the natural brand does.
+ 
+And so if you think about us being the destination for affordability, boy, there's real value for each brand connecting their affordability programs through GoodRx. And when we talk about access, that's pretty much what it is. And the effort last year was really honing our discussions with marketers on those things, and it's starting to bear fruit. The thing five to numbers, Q1 was up 20% year over year.
+ 
+Obviously, this is a selling cycle, so the growth rates are going to bounce around a little bit. But I believe because I've been in conversations with not only our teams, but a lot of these brand pharma companies over the last quarter, there's real value we add here. There's real value we add that's scalable. And I would hope that this trajectory is going to continue.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of Scott Schoenhaus with KeyBanc. Please proceed.
+Scott Schoenhaus
+ -- 
+KeyBanc Capital Markets -- Analyst
+ 
+Hey, team. Thanks for taking my question. So I wanted to talk about gross margins, they really accelerated here, almost 94%. We haven't seen that since the grosser issue two years ago.
+ 
+And you called out in the press release, the restructuring impact on the pharma man sol. Should we expect these kind of gross margins going forward? And is there any more room to squeeze out of more cost savings out of the pharma man sol business? Thanks.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+I'm going to make two points on this. I'm going to tie on to Scott's last point on pharma man sol because it directly connects to this point. So Scott was talking about the pharma man sol growth rates at sort of 20% and I think whatever in these to remember is that on a like for like basis, last year's quarter included revenue from vitaCare, which we restructured out, that's not in this year. So on a like-for-like, you see a growth rate that if anything on a forward-looking basis might be a bit higher.
+ 
+Second point I'd make is with respect to gross margin, it ties in too, because the cost of revenue that went away, went away in connection with that vitaCare restructuring as well. That is now gone. So again, revenue gone on a like-for-like basis, but cost also gone. And that's one of the reasons Scott and the rest of the team elected to undertake the restructuring is because we felt like it would be a perpetual, not just a one-time increase in gross margin as cost of revenue drops.
+Scott Schoenhaus
+ -- 
+KeyBanc Capital Markets -- Analyst
+ 
+Great. Is that something that we should expect structurally to continue throughout the rest of the year?
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Absolutely. Yes. That's the short answer. But that cost of revenue generating offering is gone.
+ 
+So the answer is absolutely yes, Shane.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+And I'll pile on that question and Karsten's comments. I think you are seeing the value of GoodRx relative to brands now, which is starting to show up in the numbers financially, both growth rate trajectory and margin flow through and the ability to help this, create the profitable growth that it's nice to be at this point.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of Jack Wallace with Guggenheim Partners. Please proceed.
+Unknown speaker
+ -- 
+Guggenheim Partners -- Analyst
+ 
+Hi. This is Mitchell on for Jack. So you bought back over 21 million shares and have 295 million of repurchase authorization remaining. Just trying to understand how are you thinking about capital deployment for the rest of the year and is repurchasing shares opportunistically still at the top of the list? And is there anything else you're considering? Thank you.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Sure. I'll take this on. This is Karsten. You're totally right about the share repurchases.
+ 
+We're very focused on taking advantage of situations where we view the stock is cheap. So that's the basis for what we've done historically. Going forward, I'm going to take your question as what else might we be doing on the capital side to deploy capital. And I can tell you that Scott and the team are at this point not contemplating any M&A and not contemplating any material investments that would reduce their ability to produce cash flow on behalf of investors at all.
+ 
+So I think on a forward-looking basis, the two elements that potentially continue to exist are if we continue to see the stock is cheap to your point, we'll do something about that there. And the other element is that we have opportunities to repay debt and as interest rates have increased, we continue to evaluate those very carefully in the context of refinancing.
+Unknown speaker
+ -- 
+Guggenheim Partners -- Analyst
+ 
+Great. Thank you.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of Sean Dodge with RBC Capital Markets. Please proceed.
+Sean Dodge
+ -- 
+RBC Capital Markets -- Analyst
+ 
+Yes. Thanks. Scott, maybe going back to your comments around ISP being rolled out in increments. When it comes to expanding the new employer's responses or expanding the drugs included or covered under the ISP.
+ 
+Are those changes PBMs want to make more around the beginning of plan years or those things that can be kind of phased in increments over the course of a year?
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+I'm going to grab it first, if that's OK, Sean. It sort of both is the short answer. I think we originally anticipated that we'd see significant impacts at the start of the year. But in my commentary related to the ISP seasonality question being less pronounced than we might have expected.
+ 
+Historically, one of the reasons for that is exactly this point that we continue to see lives come on, for example, and other benefits of ISP occur even during the year. So that was the basis for my comment that seasonality is flatter, less downward sloping than we might have otherwise expected on ISP.
+Sean Dodge
+ -- 
+RBC Capital Markets -- Analyst
+ 
+OK. Great. Thank you.
+Operator
+Thanks. One moment for our next question. And it comes from the line of Allen Lutz with Bank of America. Please proceed.
+Allen Lutz
+ -- 
+Bank of America Merrill Lynch -- Analyst
+ 
+Good morning, and thanks for taking the questions. Karsten, thanks for all the color on the ISP opportunities. I want to follow up on that last question. You mentioned a few different opportunities, adding PBMs, adding incremental members, adding formulary, adding retailers.
+ 
+And I think in response to the last question you said, there's been some members that have come on since last quarter. Has anything else changed since the update in February? And then, as it relates to retailers that are currently not accepting ISP, is that a lot? Like, what percent of retailers is that? Are there any large retailers in there? And then could retailers come on over the course of 2024? Thanks.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Sure. Thanks. First of all, the performance of ISP is largely consistent with our modeling. So grateful to our FP&A team on that.
+ 
+It's coming in aligned with expectations, hence you saw us performing aligned with the expectations we set are a little more than the business overall, including in PTR. I think in terms of levers, probably the one I didn't mention earlier that I think is a great area of inflection for us too, and that I might not have expected as much a quarter ago is our ability to win transactions. So the win rate associated with the app as we get, as you know, and I think everyone else in the call knows, the way ISP works is a member as a funded benefit goes to the pharmacy and it goes to the lower cost of GoodRx or what that member might otherwise pay to their funded benefit plan. And as we work with all of the constituents in the value chain to optimize ISP, that winner conversion rate ends up getting better.
+ 
+With respect to your question about pharmacy acceptance, a significant majority of the big pharmacies, like I'm trying to think back, I mean, I get this perfectly right, but pretty much all of them are in. But we do have a tale of pharmacies that are smaller that we can continue to pick up on.
+Allen Lutz
+ -- 
+Bank of America Merrill Lynch -- Analyst
+ 
+Great. Thank you.
+Operator
+Thank you. One moment for our next question, please. And it's from the line of John Ransom with RJF. Please proceed.
+John Ransom
+ -- 
+Raymond James -- Analyst
+ 
+Good morning. So one kind of CFO type question and one kind of bigger picture question. So looking at PTR per MAC, it's declined every year since 2018 in your legacy business. Is this just following the natural slope of generic deflation? And we should expect that to continue going forward.
+ 
+I assume that's the first question. The second question is, I guess I was kind of surprised and a little happy you guys are doing an analyst day, I know you've been teasing us out, but what was the catalyst for wanting to do this analyst day next week? And, just maybe highlight the two or three big themes you're trying to drive home as the story is -- certainly the story isn't transition. And I think there are some points that could lead for better elimination? Thanks.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Yes. Hey, John, it's Scott. Well, I think the logic for getting together with everybody is to spend three hours laying out, hey, the need we serve value prop, go through detail in each of the areas that we're doing, lay out financial goal post between the marketplace and [Inaudible] that we haven't done. And, speaking a little selfishly and for myself that a year in, everybody outside was asking for all those things.
+ 
+We were doing it ourselves internally. We're ready to do that with consistent with some visibility on, hey, here's the opportunities and the growth levers that we're working on now. Here's a set of secondary things that these are going to lead into as they continue to work and some financial goal post so we can communicate to everybody that we have high confidence in. And so the point is the business is ready.
+ 
+And it's nice to be able to do that with a half a day's worth of time and people actually focused on and able to answer questions. And it's nice. It's a nice point that we're ready to do that. And with respect to the PTR per MAC question, I think there are a couple of concepts that are pretty important.
+ 
+We don't expect any sort of non-linearity and I expect it to be largely flat for the year. You'll probably see the percentages fluctuate around zero, meaning flat slope, John. So this time was down a couple percent. Next quarter could very well be slightly up.
+ 
+It's not a metric we actively managed to, but it will point out two things. One thing is that we have increased our use of consumer incentives in order to drive consumers to take action. For example, their first fill or, for example, if we see them fill a few times in a chronic script and then look like they might be at trading, we can incent them with a discount on fill number X to bring them back into the fold. That is contra revenue in the same sense that for CPG brands, coupons are contra revenue.
+ 
+So you see a drag this year that's up, sort of call it low double digit millions with respect to increased contra revenue that reduces revenue and therefore when divided by MAX reduces PTR per MAC. I think the realities are not spending more. It's just a matter of it shifting out of marketing and into this sort of consumer incentives arena. I think the second point is that when you look back over the time horizon you're talking about, that's also the time horizon when one of our retail partners where we made quite nice margin, I'm thinking of Kroger here, constituted a significant amount of our business, like 24%-ish, 25%-ish, PTR volume.
+ 
+And so, I think that was the other factor that created a headwind. But now that that's fully flowed through, right? It's just the latter one, the contra rev one that is materially impactful. Hopefully, that's helpful. I'll put in one part.
+ 
+It's a long commentary of this, but one last plug for next week. I do want to acknowledge and recognize that externally the pacing of the company, which we've had feedback from investors on, it's been harder to follow. People are going to come away from time with us next week and investors will with a very clear understanding of here's market, here's the company, here's what we're working on, here's how it translates into financials. And you'll be able to judge sort of what and how that trajectory is that everybody will come away with transparency and understanding coming out next Wednesday.
+John Ransom
+ -- 
+Raymond James -- Analyst
+ 
+Thank you.
+Operator
+Thank you. One moment for our next question, please. And it comes from the line of John Parke with Morgan Stanley. Please proceed.
+John Parke
+ -- 
+Morgan Stanley -- Analyst
+ 
+Hey, guys. Thank you for taking my question. I'm here for on behalf of Craig. Besides any acceleration on top-line growths that would provide operating leverage in the model.
+ 
+Are there any productivity or cost initiatives that would drive margin expansion? I think you mentioned, going away from vital care will help with gross margins, but would love any color on that?
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+I think you're seeing, it's Scott, Karsten's going to jump into. But what you're really seeing is just the power of the model itself, which is as you return the top-line growth, the flow through is great. And the vitaCare was a very specific action on restructuring something that just wasn't a great use of resources and it's great for the business and great for investors. Now, if you think about our flow through, just as we return to growth, you're naturally getting it.
+ 
+And I will say, we're certainly prudent with resources, but it isn't that hard. And in some ways we're looking to lean into things that will continue to drive growth. So the topic of marketing hasn't come up on the call, but I will say there are things that we're finding and doing that we'll talk about next week where we'll push the gas out. And the nice thing for everybody listening in the call is we can do those things and we can do that, whether it's marketing or surging, engineering effort in certain areas that we are doing, and guess what the revenue growth still flows through.
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Yes. And in terms of the sort of quant part of your question, I think there are areas where we've over the past few quarters shown some efficiency, like for example, if you go back and look over a multi-quarter sort of longitudinal perspective, you see incremental marketing efficiencies even adjusting for the contra revenue that I talked about with respect to John Ransom's question. You see on product development technology that as folks shift from maintenance mode to really being deployed against building new growth-oriented technology and platform attributes that the capitalization rate on, that goes up too, right? So there are certain dynamics in the business that we would expect to allow us to continue to accrete margin incremental to just the flow through, particularly as we look forward on a multi-year basis and we'll talk about that more next week as Scott alluded to.
+John Parke
+ -- 
+Morgan Stanley -- Analyst
+ 
+Great. Thank you.
+Operator
+Thank you so much. One moment for our last question, please. And it comes to the line of George Hill with Deutsche Bank. Please proceed.
+George Hill
+ -- 
+Deutsche Bank -- Analyst
+ 
+Yes. Good morning, guys, and thanks for sneaking me in. I guess two quick ones. One, Karsten is, are you able to unpack from a gross margin perspective for us the impact of 20% of scripts going to retail direct from 5% in the year-ago period? I think a lot of us are trying to do the gross margin impact here.
+ 
+And then, Scott, I think a lot of us that are kind of drug supply chain wonks are looking at the Part D program as seeing a lot of disruption next year. We're just wondering if you guys would kind of quantify your exposure to that. I know you're not supposed to have a lot of direct exposure, but maybe a lot of indirect and kind of how you're thinking that could impact the business next year?
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Sure. I heard the first part of the question, the second indirect part. Would you mind repeating that one for us, George?
+George Hill
+ -- 
+Deutsche Bank -- Analyst
+ 
+So like, a lot of us are expecting Part D disruption next year. I know that you guys aren't supposed to have a ton of direct exposure to Part D, but I imagine you probably, there's probably a lot of beneficiaries who are using the GoodRx card, while either in their deductible or to avoid parts of copays or what have you. But a lot of those people could wind up bouncing around next year. Just wondering how you guys are thinking about what happens in that market?
+Karsten Voermann
+ -- 
+Chief Financial Officer
+ 
+Sure. So in the interest of time, I'll try and be quick here. To the Part D question, I think the reality is that as we continue to analyze all of the potential changes, we haven't found any that we anticipate and that we view at this point as impactful to us and material to us. So I don't think on that dimension impacts our forward-looking view.
+ 
+Certainly, over the time periods and reference periods that we're looking at, so, coming, call it couple, three years, so, not just next year. So I think on that dimension, nothing really to add. With respect to direct contracting and margins, the direct contracting hasn't had any kind of a negative material effect on our margins. Like we talked about a little with John on PTR per MAC.
+ 
+There has been a slight downward slope to that over time, but that downward slope isn't really direct contracting. The downward slope is primarily driven by the contra-revenue aspects of marketing, shifting from SM to sort of the couponing or consumer incentives that I mentioned, number one. And number two, the fact that Kroger volume, which is again a little higher margin for us and some other retailers, that the Kroger volume decreased. So I think from that perspective, we view direct contracting as effectively, materially neutral to us.
+ 
+So good thing, because retailers like it more. And from our perspective, we're happy to help them merchandise, driving incremental volume, etc. For us, it's all about the dollars of EBITDA and the dollars of gross margin. And that's exactly what direct contracting helps us drive.
+George Hill
+ -- 
+Deutsche Bank -- Analyst
+ 
+Thank you.
+Operator
+Thank you. And this concludes the Q&A session. I will pass it back to Scott Wagner for final comments.
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+ 
+Thanks so much. Thanks all. Appreciate it and most importantly, look forward to spending time with people next week. I think it'll be super productive just to lay out some more context on the things we're working on with real color on what they are, what that can, how that can go forward, and most importantly for investors on the call, the goalposts at a segment level and an overall level that we think you can think about for the business certainly for the next several years.
+ 
+So we're looking forward to it. Thanks, everybody.
+Operator
+[Operator signoff]
+ 
+Duration: 0 minutes
+Call participants:
+Whitney Notaro
+ -- 
+Vice President, Investor Relations
+Scott Wagner
+ -- 
+Interim Chief Executive Officer
+Karsten Voermann
+ -- 
+Chief Financial Officer
+Mike Cherny
+ -- 
+Leerink Partners -- Analyst
+Jailendra Singh
+ -- 
+Truist Securities -- Analyst
+Stephanie Davis
+ -- 
+Barclays -- Analyst
+Daniel Grosslight
+ -- 
+Citi -- Analyst
+Lisa Gill
+ -- 
+J.P. Morgan -- Analyst
+Charles Rhyee
+ -- 
+TD Cowen -- Analyst
+Stan Berenshteyn
+ -- 
+Wells Fargo Securities -- Analyst
+Scott Schoenhaus
+ -- 
+KeyBanc Capital Markets -- Analyst
+Unknown speaker
+ -- 
+Guggenheim Partners -- Analyst
+Sean Dodge
+ -- 
+RBC Capital Markets -- Analyst
+Allen Lutz
+ -- 
+Bank of America Merrill Lynch -- Analyst
+John Ransom
+ -- 
+Raymond James -- Analyst
+John Parke
+ -- 
+Morgan Stanley -- Analyst
+George Hill
+ -- 
+Deutsche Bank -- Analyst
+
+
+More GDRX analysis
+
+
+All earnings call transcripts

@@ -1,0 +1,273 @@
+UMB Financial Corporation (NASDAQ: UMBF ) Q4 2024 Earnings Call Transcript January 29, 2025
+
+Operator: Good morning. Thank you for attending today’s UMB Financial Fourth Quarter 2024 Financial Results Conference Call. My name is Cole, and I’ll be the moderator for today’s call. All lines will be muted during the presentation portion of the call, with an opportunity for questions and answers at the end. [Operator Instructions] I’d now like to hand the call to Kay Gregory. Please go ahead.
+
+Kay Gregory: Good morning, and welcome to our fourth quarter 2024 call. Mariner Kemper, Chairman and CEO of UMB Financial Corporation, and Ram Shanker, CFO, will share a few comments about our results, and then we’ll open the call for questions from our equity research analysts. Jim Rine, President of the Holding Company and CEO of UMB Bank, along with Tom Terry, Chief Credit Officer, will be available for the question-and-answer session. Before we begin, let me remind you that today’s presentation contains forward-looking statements, including the discussion of future financial and operating results, benefits, synergies, gains, and costs that the company expects to realize from the pending acquisition, as well as other opportunities management foresee.
+
+Forward-looking statements and any pro-forma metrics are subject to assumptions, risks and uncertainties, as outlined in our SEC filings and summarized in our presentation beginning on Slide 49. Actual results may differ from those set forth in forward-looking statements, which speak only as of today. We undertake no obligation to update them except to the extent required by securities laws. Presentation materials are available online at investorrelations.umb.com, and include reconciliations of non-GAAP financial measures. Now, I’ll turn the call over to Mariner Kemper.
+
+Mariner Kemper: Thank you, Kay, and good morning, everyone. First off, congratulations to our Kansas City Chiefs returning to the Super Bowl in a couple of weeks. Exciting times in Kansas City. At UMB, we’re very excited to announce earlier in January that we received approval from the OCC and Fed to complete the acquisition of HTLF. We anticipate closing the deal on Friday, January 31st. I’m extremely proud of what our associates have achieved during the past several months, as evidenced by our fourth quarter and full year 2024 results. The team has remained focused on sustaining and growing our day-to-day business activities, while at the same time supporting integration efforts and conversion planning. I want to express my appreciation for the huge amount of energy and collaboration from both UMB and Heartland associates, both teams have been working very hard to ensure a successful transition for our new customers and associates.
+
+As you’ve seen, Heartland filed an 8-K yesterday afternoon with a summary of their fourth quarter results. We’ve included some of the key performance indicators in the appendix of our deck on Slide 46. The strong value proposition of the deposit franchise was evident, as seen by the 6% linked-quarter annualized increase in customer deposits and attractive 2.13% cost of total deposits. In anticipation of the merger close, Heartland preemptively affected the resolution of certain non-core loans and bonds, resulting in lower loan balances and higher levels of net charge-offs during the fourth quarter. These credits, including those on Heartland’s watchlist and all of the bonds were identified during our due diligence process, including the bonds we had earmarked for sale at close.
+
+The favorable resolution of these assets better positions our pro forma balance sheet at close, including a reduction in non-performing loans. Additionally, the deleveraging of the balance sheet included a near 50-basis-point boost in Heartland’s regulatory capital ratios and further improved its loan-to-deposit ratio. As we discussed in our original acquisition modeling, we will maintain a conservative credit mark on Heartland’s loans. And as a combined entity, we expect our ACL coverage ratio will also increase. Now, turning to our results released yesterday afternoon, we had a phenomenal quarter to end 2024 on a strong note. Our results, which contain several record-setting metrics, are even more impressive given the extra integration work completed by so many of our teams.
+
+We set new company records, with 2024 annual operating income of $461.7 million, net interest income that surpassed $1 billion, and fee income of $628.1 million. For the fourth quarter, we reported GAAP earnings of $120 million or $2.44 per share, driven by strong performance across the board. On an operating basis, we earned $2.49 per share. Net interest income increased 8.7% from the third quarter, driven by an 11-basis-point increase in net interest margin and strong earning asset growth. As expected, we benefited from strong balance sheet growth as well as deposit cost reductions on our index deposit book as short-term rates have come down. On a linked-quarter basis, the total cost of funds beta was 58% and our earning asset beta was just 37%.
+
+The beta on interest-bearing deposits was 55%. Balance sheet growth included a very strong 14.8% linked-quarter annualized increase in average loan balances, driven by yet another quarter of record top-line production of $1.6 billion. While C&I led the growth for the quarter, we also saw a solid increase in CRE and in consumer real estate. For comparison, banks that have reported so far have had a median annualized increase in average loan balances of just 3.1%. Credit quality in our portfolio remains excellent, with 14 basis points of net charge-offs for the quarter and just 10 basis points for the full year. C&I continues to perform well with just 3 basis points of net charge-offs for the full year. Non-owner-occupied CRE has had a net charge-off ratio of zero for the past four years.
+
+And in fact, our charge-offs are less than $900,000 in total in this category since 2016. Our non-performing ratio remained flat at 8 basis points for the fourth quarter. On a longer-term basis, I’m proud of our track record that puts us near the top of the industry. From 2004 to 2024, our non-performing loan ratio has averaged just 0.38% compared to 0.92% for our peers and approximately 1.9% for the industry as a whole. On the other side of the balance sheet, our average total deposits grew $2.7 billion or nearly 31% on a linked-quarter annualized basis, largely driven by the activity in our commercial and institutional customer base. Average DDA balances increased 48% linked-quarter annualized to $10.6 billion. For comparison, banks that have reported fourth quarter results so far have a median annualized average deposit increase of just 7.3%.
+
+The strength of our diversified financial model was evident this quarter with the continued fee income growth across all segments. The top contributors include 12b-1 fees, money market revenue, and trust and securities processing income. To highlight a couple of successes behind that growth, private wealth teams brought in a net new asset level of $1.3 billion in 2024, a 75% increase over ’23, and institutional assets under administration continued to expand, up 18% year-over-year to stand at $526 billion. Corporate trust assets, part of the institutional totals, have grown significantly over the past 10 years to $42.4 billion, representing a compound annual growth rate of 14%. And in our healthcare business, the number of HSA accounts grew steadily from just 588,000 accounts at the end of 2014 to more than 1.6 million accounts at the end of 2024 for a CAGR of 11%.
+
+As you know, we focused on operating leverage rather than specific expense growth targets. Compared to the fourth quarter a year ago, we posted positive operating leverage of 3.8% on an operating basis. Ram will provide more detail on income and expense drivers shortly. Finally, our capital levels continue to build. We ended the quarter with a CET1 ratio of 11.29%, an increase of 7 basis points from the third quarter and 35 basis points from a year ago 2023. As a reminder, our capital levels don’t include the $232 million forward equity offering agreement that we announced in April, which we expect to settle in full during the first quarter of 2025. We’re very pleased with our strong results for the quarter, coupled with the opportunities we see for a combined UMB and HTLF in the first quarter.
+
+We’re very excited about what 2025 and beyond will bring. We continue to believe that the addition of HTLF is a great fit from a strategic, financial and cultural perspective, and we look forward to reporting on a combined basis at the end of the first quarter. Now, I’ll turn it over to Ram for more detail.
+
+Ram Shankar: Thanks, Mariner. Net interest income of $269 million represented a linked-quarter increase of $21.6 million or 8.7%, reflecting balance sheet growth, favorable reinvestment yields, lower interest expense on index deposits that reprice, and a mix shift in funding composition including the strong DDA growth that we experienced during the quarter. These benefits were partially offset by the repricing of variable rate loans. The $1.6 billion or 3.9% increase in average earning assets was driven by strong loan growth Mariner mentioned, along with an additional $586 million in average securities and $102 million in Fed funds sold and resale agreements. During the last two quarters, we began pre-purchases of nearly $1 billion of U.S. treasuries and agency mortgage-backed securities in advance of our planned de-levering of certain bonds held by Heartland.
+
+The average impact of these pre-purchases was approximately $168 million in the fourth quarter. Average interest-bearing liabilities increased 1.6% from the linked-quarter, with increases in interest-bearing deposits, partially offset by the decrease of $1.1 billion in borrowed funds, reflecting the repayment of borrowings under the BTFP plan and FHLB advances. Average DDA growth was driven primarily by corporate trust and capital markets, where DDA can fluctuate based on tax or bond payments and other trustee activities, particularly at quarter- and year-end. The percentage of index deposits remained relatively flat, with approximately 35% of total deposits hard index to short-term interest rates. As Fed fund rate changes, these deposits reprice immediately.
+
+An additional 17% of our deposits are soft index, balances negotiated at current prevailing market rates. On these soft index deposits, we will generally move rates pretty quickly following Fed rate moves. Overall, we continue to expect our deposit betas on the way down to be steeper than peer banks as we experienced this quarter. Net interest margin for the fourth quarter increased 11 basis points sequentially to 2.57%. The primary drivers of the increase were the positive impacts of 31 basis points from repricing of interest-bearing deposits, 9 basis points from reduction in borrowing levels, partially offset by a negative 16 basis points related to loan repricing and mix, 6 basis points related to excess liquidity levels and 5 basis points related to changes in the benefit of free funds.
+
+Looking into the next quarter, given the anticipated closing date of January 31st, our first quarter results will include three months of UMB operations and two months of Heartland, and all the yet-to-be-determined impacts from purchase accounting accretion associated with the merger. Based on our outlook for no additional rate cuts this quarter, we expect UMB standalone core margin to be relatively flat to fourth quarter ’24 levels. As shown on the right side of that Page 32, 70% of loans reprice within the next 12 months, with the majority of those indexed to short-term rates and adjusting monthly. Details on the hedges we have in place are also on that slide. During the fourth quarter, we added two floor spreads, each with $250 million of notional value.
+
+At year-end, we had $3 billion of notional value hedges comprised of three floor contracts and 10 floor spreads. Based on the forward start arrangements, $2.25 billion of these $3 billion hedges are within their payment windows, with the remainder becoming effective over the next 60 days. Assuming no additional rate cut, the net impact of these hedges on our net interest income is expected to be fairly modest. The combined AFS and HTM portfolios averaged $12.8 billion, an increase of 4.6% from the prior quarter. As I mentioned about in the third and fourth quarters, we preemptively bought additional securities in advance of closing the HTLF acquisition. As discussed at the time of the announcement, we had identified a pool of securities in HTLF’s portfolio that didn’t match our investment profile, currently standing at approximately $2 billion.
+
+We expect to sell any remaining bonds in this pool at close, likely reinvesting the proceeds into agency mortgage-backed securities or U.S. treasuries. The average purchase yield in our portfolio was 4.54% for the quarter, while securities rolling-off had a yield of 3.39%. We expect $1.5 billion of securities with an average yield of 2.62% to roll-off over the next 12 months. The reinvestment of these cash flows at the current accretive yield in bonds or loans will help net interest margin regardless of any Fed action. Turning back to the income statement, noninterest income was $165.2 million, a linked-quarter increase of 4.1%. We recognized a pre-tax gain of $4.1 million in the fourth quarter on the sale of UMB Distribution Services, part of our asset servicing business.
+
+Fee income in the quarter also included $1 million in gains on the sale of other non-core assets. Excluding these two items, our core fee income of approximately $160 million reflected strong traction in our institutional and private wealth business lines. Brokerage income increased $2.9 million linked-quarter, driven by higher 12b-1 fees and money market revenue. Corporate trust’s off-balance sheet money market balances have increased by nearly 35% in the past 12 months and now stand at $16.3 billion. This quarter has further demonstrated our ability to garner both on-balance sheet and off-balance sheet deposits, thanks to the strength of our diversified business model. Trust and securities processing income, where the strong private wealth and asset servicing activity Mariner mentioned is captured, increased $2.6 million or 3.6% from the third quarter.
+
+Partial offsets include some market-related variances in investment security gains and COLI income, which each decreased $2 million from the third quarter. Reported noninterest expense of $270.4 million for the quarter included pre-tax acquisition expenses of $3.7 million. Additionally, within the other expense line, we had $4.5 million of additional operating losses in the fourth quarter. On an operating basis, which excludes the merger charges, noninterest expense increased $15.8 million linked-quarter and included a $15.4 million increase in salary and bonus expense as our strong performance in several businesses continued, resulting in higher incentive accruals. While we calibrate our accruals on these performance-based measures throughout the year based on expected performance, our strong second half results, particularly our fourth quarter, meant that these accruals needed to be revised higher.
+
+Expense offsets included lower bankcard expense and lower supplies expense. The $1.8 million decrease in deferred compensation expense is the offset related to COLI income. Excluding some of the items I mentioned, we would put our quarterly normalized starting point for expenses closer to $250 million. Additional details are available in our slides and press release. Separately, in the first quarter, we expect to pay approximately $2 million in dividends on preferred stock that we will assume from Heartland. Finally, our effective tax rate was 18.5% for both the fourth quarter and full year 2024 compared to 17% for full year 2023. The 2024 increase is primarily related to a smaller portion of income from tax-exempt municipal securities and higher non-deductible acquisition costs versus 2023.
+
+For full year 2025, our preliminary estimate, including the HTLF acquisition, is an effective tax rate of 20% to 24%. Now, I’ll turn it over to the operator for the Q&A session.
+
+Q&A Session
+
+Operator: Great. [Operator Instructions] Our first question is from Jared Shaw with Barclays. Your line is now open.
+
+Jared Shaw: Hey, good morning.
+
+Ram Shankar: Hey, good morning, Jared.
+
+Mariner Kemper: Good morning.
+
+Jared Shaw: Yeah. Maybe just starting with the Heartland deal and the impact of their fourth quarter on, I guess, how that compares to the marks that you had assumed at the beginning. Can you just sort of walkthrough what’s — if the change in non-performers, if that changes your total assumed mark, or how we should think about that? And then, the $2 billion of securities that you said that were identified, how much is still left to sell versus what they’ve already cleaned up?
+
+Mariner Kemper: Yeah, Jared, this is Mariner. Thanks for the question. We remain super excited about the impact that Heartland is going to have, I would start by saying, and then I’ll answer directly just to kind of set the stage for any future questions that might come on the call around Heartland. Obviously, there are some stringent rules about how we operate separately as companies. And we have given you guys in the deck, there’s a slide in there that sort of summarizes all that happened and in our prepared remarks. I’m not really going to be giving you a whole lot more than what we already disclosed just because we are operating as separate companies until we close on Friday. But I will try to give you a little more high-level color in the sense that basically, if you think about when we announced this transaction in April of ’24, the pro forma assumptions we made around $72 billion of securities and capital levels of approximately 10% and the importance of the demand — or the overall customer deposits sticking and being the reason that we’re really doing this transaction, all remain very much intact.
+
+So, I guess that would — what I would say is that when you think about all that we assumed in April with some puts and takes, some things were better, some things were worse. At the end of the day, the major drivers of this transaction remain very much intact, whether it’s capital levels or customer deposits being intact. As a matter of fact, customer deposits you see in the deck have actually grown since we announced the deal. And by the time we close, non-performing loans will be down from where we announced.
+
+Jared Shaw: Okay. All right. Thanks for that color. And then, looking at the expenses, I think you said that $250 million is a good — is that a good starting point did you say or that’s a good base for ’25? And how should we think about incentive accruals starting off the year and sort of moving through the year on the UMB?
+
+Mariner Kemper: Yeah, Ram, why don’t you take that?
+
+Ram Shankar: Yeah. Hey, Jared, it’s Ram. So, yeah, $250 million is the normalized fourth quarter run rate for all the things that I mentioned, right? So, as we said, $15 million of the $270 million excess is just catch-up and accruals. So, those all get reset on day one to normal levels, typically 100%. And then, the only thing that happens in the first quarter, as you guys know, is about $8 million to $10 million of FICA resets and all the things that are part of the first quarter resets, payroll taxes, and all that. So, $250 million is the steady-state run rate. You might see some elevated expenses just because of the FICA payroll resets. Again, this is I’m talking about core UMB operations before we acquire Heartland. So, that will be slightly higher in the first quarter for core UMB just for usual seasonal resets.
+
+Jared Shaw: Okay. Thanks. And if I could just sneak one more in, you talked a little bit about targeted CRE growth. Where are you — is that more attractive to you now because of better spreads, or are you seeing better terms and conditions, or what’s causing you to be a little more excited about CRE here?
+
+Mariner Kemper: I’m not sure I recall those comments, but I’m more excited about it. I would say, I’m not exactly sure what you’re referring to, but we remain, I would say, in the same place as we have been. We like the category. We were always looking for high-quality developers, partner sponsors, and largely in the industrial and multi-family space. And, I guess, nothing new there. There’s demand — there have been some demand — supply-demand issues there really related to interest rates and activity. But as far as our interest goes, we remain ever the same level of interest in the space.
+
+Jared Shaw: Great. Thanks.
+
+Operator: Our next question is from Brian Wilczynski with Morgan Stanley. Your line is now open.
+
+Brian Wilczynski: Hi. Good morning. Thanks for taking my question. First question is on the net interest margin. So, there’s been a lot of volatility in the forward curve over the past several weeks. Can you just talk about what the range of potential outcomes is for NIM if we get, say, no cuts over the next few months versus the two that a lot of people are expecting for 2025? Thanks.
+
+Ram Shankar: Yeah. Hey, Brian, good morning. This is Ram. I think when you think about the yield curve environment, we’ve said this before, higher for longer is actually a pretty good environment for us, especially when you think about some of the data points we’ve shared in our deck, we have $1.5 billion of securities rolling-off at 2.60% kind of yields that we bought in the fourth quarter at 4.54%, right? So, as long as the slope of the curve remains pretty close to where it is and if there are no additional rate cuts, there’s no more pressure on loan yields. Obviously, there’s not a lot of movement of the deposit costs either. So, that’s not a bad environment for us to be able to grow NII without additional loan growth, and then there’s the component of added loan growth on top of it.
+
+So, if you look at our interest rate simulation, standalone again, we’re slightly liability-sensitive. So, we don’t expect — this is actually a really good rate environment for us. Higher for longer is a good one from an NII and NIM perspective. So, we don’t give specific guidance on range of outcomes, but again, there’s a lot of fixed rate loans that are still repricing, 200 basis points, 300 basis points higher, the $1.5 billion of securities cash flows. And then, the last caveat always is what happens to DDA balances that can impact our deposit growth that can impact any particular quarter’s NII.
+
+Brian Wilczynski: That’s really helpful. Thank you. And then, 4Q was another really strong quarter for loan growth, specifically new loan production. Can you talk about any trends that you’ve noticed post election specifically? Is there anything you’re seeing in borrower sentiment or activity levels or anything that impacts your view on what loan growth looks like going forward?
+
+Mariner Kemper: It’s a little — Brian, it’s a little too early to tell what the new administration’s impact is on that. I would say if you separate activity from sentiment activity, I would say it’s just too early to tell. Sentiment-wise, there is in general a pretty bullish positive sentiment that there will be a better business environment, which should drive more activity, but it’s too early to tell really what that means.
+
+Jim Rine: Yeah. The only thing I would add…
+
+Brian Wilczynski: Okay. Great. Thank you for taking my questions.
+
+Jim Rine: Yeah, this is Jim Rine. The only thing I would add to that just as a quick follow-up is, if you remember, our whole investment thesis is market penetration. So, regardless of the political climate, we are underpenetrated in each market with the exception of Kansas City. So, there’s a runway to grow, which — what I mean by that is, we’re basically taking other banks’ clients through the market penetration versus additional economic activity. So, we feel quite bullish about our position in 2025.
+
+Brian Wilczynski: That’s really helpful. Thank you, again.
+
+Jim Rine: Thanks, Brian.
+
+Operator: We have a question from David Long with Raymond James. Your line is now open.
+
+Ram Shankar: Good morning, David.
+
+David Long: Good morning, everyone. In the fee-based businesses, UMB has shown positive momentum in trust, securities processing, brokerage throughout the year. As we go into 2025, any headwinds that we need to think about in some of these fee-based business that could slow the momentum?
+
+Mariner Kemper: No, no headwinds at all, actually, I would say. So, if you take the funds — take the biggest pieces, so if you take fund services, the growth in fund services largely comes from alternatives, the alternative space, which is — really doesn’t correlate with what’s happening in the public markets. So, regardless of what happens to the public markets, that’s really about flows. So, as funds generate assets and flows into their fund vehicles, that’s where the fees against asset size comes and it doesn’t move up and down with the market as correlated as the public equities and fixed income do. So, that’s where that growth comes from is just fund flows and fund generation, new fund creation, et cetera. So, the profile for that business remains very strong.
+
+And we’ve — as we said in previous quarters, there’s been a lot of disruption in that space with the PE coming in and rolling up fund service providers. That’s been good for us and continues to be good for us and we continue to have exceptional ratings from a customer service and outcomes perspective within the industry. So, very, very good profile, look — forward-looking for that business. We’re also very innovative. So, we control our technology and are helping customers create new ways to go to market. So, very good profile there. Corporate trust, really, also has a very strong forward-looking profile, as the government continues to spend and we do all these infrastructure projects. Our profile just continues to grow for the traditional part of our corporate trust business, as we sit in a pole position within our footprint to do all the infrastructure work from an escrow trustee and paying agent perspective, along with the 12b-1 fees that come along with that business as projects are generated.
+
+Aviation is the other big vertical there within corporate trust. It remains very strong as well as the sort of travel business has turned around and picked up. There is a huge short supply of airplanes. And so, as that releases and the plane — Boeing is able to build and get their planes off the — out of the manufacturing process as well as Airbus and others, stands to really see a nice pipeline of business for us in that space. And then, we launched CLOs this last year, and we’re off to a good start this year. Jim, I think we’ve already done this year what we did last year in January, right? So, the CLO space, we’re very excited about. And then, we have our wealth business, which we’ve already talked about has — we’ve had very, very strong results in our wealth business.
+
+And our investor solutions and HSA business, we gave those results to you in the opening remarks. So, all in all, I’d say profile is fantastic, looking forward for all those businesses, no real headwinds to speak of at all. Do you want to add?
+
+Jim Rine: No, the only thing I would add is, we’ve also continued to invest, as you know, not only in people, but we upgraded operating systems in our 40 Act side of fund services as well as corporate trust. So, we’re making additional investments to handle increased volume.
+
+Mariner Kemper: The new footprint that comes with Heartland should help corporate trust. Also, it’s a very localized business, so doing business with local law firms. And so, as we put our signs up in our offices up across all these new states and markets, that should benefit our corporate trust business as well.
+
+David Long: Perfect. Thanks, Mariner. Appreciate all that color. And then, typically, fourth quarter is strong with deposits. Are you seeing normal seasonal outflows from the public funds at this point? And what other moving parts within deposits should we be thinking about for the standalone bank here?
+
+Ram Shankar: Yeah. Usually — hey, Dave, this is Ram. Yeah, second half of December is when we start seeing public funds inflows. It can be — those range anywhere from $800 million to $1 billion and usually early February is when it starts dissipating when actual municipal payments are made and bond and tax payments are made out of these municipalities. So, that’s the big driver of that. And then, as we said with the fourth quarter, there’s always some seasonality even in the corporate trust business with bond and tax payments. And so, it’s always hard to predict that. So, those are the only two things that can materially change our deposit pipeline on our outlook for the first quarter.
+
+David Long: Great. Thanks, Ram. Appreciate it. Thanks, guys.
+
+Ram Shankar: Yeah.
+
+Operator: We have a question from Ben Gerlinger with Citi. Your line is now open.
+
+Ben Gerlinger: Hey, good morning.
+
+Ram Shankar: Hey, Ben.
+
+Ben Gerlinger: So, for UMB, should I call it legacy UMB, as soon as Friday, that it’s really strong loan growth, good funding mix, some really healthy margin, fees were good, expenses are a little higher than I would have guessed, but all else equal, it’s a pretty healthy result. And I know you have to be a bit tactical with how you respond to Heartland questions. When you just look at Heartland’s kind of last couple of quarters, they seem to be shrinking a bit. The margin came in. As you talked to you on charge-offs and the credit, what they’ve experienced, it seems like you said that kind of what to expect. When I look at your — the initial kind of pro forma at the day of announcement, you assumed $200 million-and-change roughly of net income from Heartland.
+
+And when I look at fourth quarter, I see a pretty big gap, just annualized fourth quarter Heartland to expect for 2025 kind of pro forma. Can you kind of help me out with like squaring that circle of like what you guys are actually expecting for the addition for the pro forma UMB? Like, what should we expect in ’25? I know you have a lot of opportunities for marks and cost-savings in the next 18 months, but just putting two balance sheets together, I’m not seeing the numbers that you previously assumed.
+
+Mariner Kemper: Well, I think — so you’re specifically, I think, focused on the loan balances as a prospective contributor to earnings. I think that’s your specific question there, right? So, loan balances have come down. Is that kind of what you’re specifically getting at?
+
+Ben Gerlinger: Loan balances, and frankly, just — I mean the net income, in general, like even if I back up the provision of Heartland, there’s — annualized, that there’s still a pretty big gap.
+
+Mariner Kemper: So, I think — well, when we talk about the pro forma, I would say that really all that we assumed is still pretty well intact related to, like I said before, the capital levels and all the other puts and takes. The loan balances will, at the front-end of this be a bit of a drag from the pro forma from our expectations. It’s hard to tell what we’ll be able to do. I mean, it’s too early to tell what we’ll be able to do with that on a go-forward basis. Our machine, the legacy machine, as you call it, is very strong. So, I think while their prospects and customers wait for a conversion and likely to slow their historic growth rate a bit, I would think you would expect that, we expect that. We hope to — desire to and hope to make up for that with our abilities to leverage our sales force across their footprint and our footprint.
+
+We’ll see. I don’t — I can’t — until we really get in there and assess what we’ve got and the year unfolds, can’t really tell, but that’s our expectation — we expect and hope to make up for some if not all of that. And then, I think we talked about this from the get-go that is really — we really expected to see the lift in ’26, not in ’25 anyway. So, that really is more of the expectation is that on a combined basis that we’re really rolling on all cylinders in ’26.
+
+Ben Gerlinger: Got you. Okay. That is helpful. And then, when you think about the credit, and I know a lot of the cost savings come with conversion later this year, and then I think you said, like, going into ’26 is where you should kind of really see the pro forma numbers start to dance. But if you think about just the credit experience that they’ve had, and you called out that some of it is to be expected, but the rest of the loan portfolio, I’m assuming underwent the same stringent combing through that you went through, like, would you — should we expect some integration noise on charge-offs as well once you do become that pro forma come Friday?
+
+Mariner Kemper: Well, here’s what I’d say about that. We did our diligence, which we shared with the Street that we had full diligence. What I’d say is what you saw happen in the third and the fourth quarter was all identified through their existing process and our diligence process. So, it was all identified, and so that that’s what you see there. And as far as what’s left that wasn’t identified and resolved, I mean, their process, they had to do it independently, right? They’ve got their accountants, et cetera, and they’re operating their own process and following their own procedures and policies to reserve. That was their process as they were — they use kind of a reserving against potential losses process. And I think as to best of our knowledge, they have it reserved against everything that they’ve identified, right, in conjunction with working with their regulators and their accountants and they’re following the process and procedures, theoretically, they’ve reserved going into ’25, they’ve reserved for everything identified.
+
+So, that’s the best I can tell you before it’s under our watch. And so, we’re — again, we are operating separate companies and they’re following their process. And to the best of our knowledge, what they’ve done that, they’ve done that.
+
+Ben Gerlinger: Got you. That’s really helpful color, Mariner. I appreciate it. Congrats on the 4Q.
+
+Mariner Kemper: Yeah. Thank you.
+
+Operator: Our next question is from Nathan Race with Piper Sandler. Your line is now open.
+
+Nathan Race: Hey, everyone. Good morning. Thanks for taking the questions. Just going back to the loan growth discussion, I appreciate that it seems like you guys were able to get in front of some of the problem credits that maybe don’t fit your credit box ahead of the deal closing later this week. And so, just curious with maybe less intentional run-off of the HTLF post-closing, if you think kind of the addition of HTLF is accretive or maybe just neutral to the overall kind of company’s loan growth outlook going forward? I mean this year, you guys put up 8% loan growth, and historically, it’s been at least in the high-single-digit range. So, just curious any thoughts on kind of the combined loan growth capacity of the combined entity going forward?
+
+Mariner Kemper: Yeah. Nate, I guess I would take you back to one of the comments I just made a minute ago about, that we do expect ’25, that Heartland’s contribution to the overall loan growth will slow from its previous couple of years growth rate, largely just because their prospects and customers will be waiting for a conversion, right? So, I don’t know what that slowing will ultimately be, but we expect some slowing. We expect that our book, we don’t see anything in the way of us continuing to do what we’ve been able to do for the last 21 years, showing, demonstrating near double-digit loan growth every quarter and every year. So, we don’t expect that to change for us. And it is possible that we can take our engine and make up for the slowing that will probably persist in ’25 with their book.
+
+We don’t know that we’ll be able to do that, but that’s possible. And we — I’d reiterate that the expectation really is that on a combined basis after integration and after conversion, the well-oiled machine that we expect to deliver on is — starts more holistically in ’26.
+
+Nathan Race: Got it. That’s helpful. And just going back to expenses, Ram, I think you alluded to like $250 million is kind of the core legacy run rate come out of the fourth quarter. Heartland has been running around $110 million. So, if you get two-thirds of an impact from Heartland in 1Q, is it fair to assume combined kind of core expenses are in that kind of $320 million to $330 million range for 1Q?
+
+Ram Shankar: Generally, doing the math right there, Nate, yeah, I would expect. Again, some of the cost saves are trickling in, right? So, when we did the announcement, we still felt pretty good about it. We’re going to get 27.5% of their cost saves over time, including 40% in the first year, the [stub year] (ph) of 2025. So, obviously, we’re still working through that with the various work streams, but generally, you’re thinking about it right.
+
+Nathan Race: Okay. Great. And is the expectation still that you’ll be able to get 40% of the targeted cost saves completed by the end of this year? Or are you guys maybe tracking ahead of expectations on some of those fronts?
+
+Ram Shankar: At this point, we feel good with what we announced.
+
+Mariner Kemper: It’s early. We still got to execute, right, but that’s still our expectation.
+
+Nathan Race: Okay. Great. I appreciate all the color. Congrats on a great quarter. Thanks, guys.
+
+Ram Shankar: Thanks, Nate.
+
+Mariner Kemper: Thank you.
+
+Operator: Our next question is from Chris McGratty with KBW. Your line is now open.
+
+Chris McGratty: Great. Thanks. Good morning.
+
+Ram Shankar: Good morning, Chris.
+
+Chris McGratty: Mariner or Ram, the UMB balance sheet is coming in bigger. You’ve talked about the smaller Heartland balance sheet, but you also mentioned because Heartland is coming in, they’re coming in with more capital. How are you thinking about uses of capital once you get through the conversion beyond loan growth that you talked about? Is there a scenario where at close, you would look at your own bond portfolio like other banks have done because you’ve got the capital and maybe into ’25, ’26, is there a thought on a buyback?
+
+Mariner Kemper: Well, what I — so lots of things are possible down the road. A year, year and a half, two years from now, where you know us well, we’re very conservative. And I would say that while we’re comfortable with the starting balance sheet capital levels, we certainly would like to get them back to where we are today. And so, we’ve got, call it, a year or so to regenerate that capital. And as long as we continue to perform at that point, we’re going to be generating capital in a very consistent way and then we can start thinking about those things. But I think over the next year or so, we will be regenerating — focused on regenerating that capital.
+
+Ram Shankar: Yeah. And then, the only other thing I would add to your question is, we’ve evaluated bond portfolio restructurings and we’re very comfortable with what we own, including what we’re going to acquire from Heartland after we sell the bonds that we had originally targeted. So, I don’t see a lot of opportunity, especially given our capital levels to take a loss on something and deplete our capital even more. So, don’t see a whole lot of opportunity doing a balance sheet repositioning there.
+
+Chris McGratty: Okay. And if I could…
+
+Mariner Kemper: Our perspective on repositionings, just it’s us, okay, us talking is that, you’re fixing a problem when you do it and we don’t have any problems to fix.
+
+Chris McGratty: No, I wasn’t intimated as a problem. I’m just saying you’re going to have more capital on the smaller balance sheet acquired, but I get the message, I think.
+
+Mariner Kemper: Yeah.
+
+Chris McGratty: In terms, Ram, on Slide 32, your rate sensitivity, you talked about the hedges. You talked about higher for longer being good. But as you kind of go through the merger, does the — can you just remind us of rate — overall rate positioning, ideal curve, ideal rate scenario for the bank?
+
+Ram Shankar: Yeah. I would say, as we said, pro forma, we expect — so we are liability sensitive on our standalone. Heartland was materially asset-sensitive until they terminated some of their hedges that we — they talked about in the fourth quarter release. And so, they began slightly less asset-sensitive. And if you put the — let the two balance sheets together, we’re pretty neutral. So, I’ll go back to my earlier — my answer on the first question, this is actually a pretty good rate environment. We have a higher and steeper curve with reinvestment rates that are significantly higher than what’s going — rolling off. New loan yields are accretive to where we are. So, we feel pretty good about what that means for our margin outlook and NII.
+
+Chris McGratty: Okay. Thank you.
+
+Operator: We have a question from Jon Arfstrom with RBC. Your line is now open.
+
+Jon Arfstrom: Hey, thanks. Good morning.
+
+Ram Shankar: Good morning, Jon.
+
+Jon Arfstrom: Great. Mariner, what are you focused on initially with Heartland? I mean, it’s obviously closing very soon, but what are the first couple of things that you want to get accomplished early?
+
+Mariner Kemper: Well, I think that’s a great question. We’re — I think culture, I would put at the very top of the list, which is to assimilate the teams, make sure that we do as good a job as we can, integrate — making them feel welcome and comfortable, learn our processes, our procedure, our way of doing things. We — pretty much the core foundational component of UMB is risk management and we want to make sure that they understand how we think about risk and then can quickly integrate and help keep that profile intact. So, I would say that, that’s probably number one, at the top of the list is bringing the families together and breaking bread and making sure that everybody is on the same — singing from the same book. And then from there, it’s — it will be assessing sort of the talent for growth and then making sure we’re building the pipeline on our end to add talent to the footprint and help buildout the growth profile.
+
+And then, on a retail basis, one of the things we’re really excited about, right, is we’re doubling our footprint, doubling our branch network, doubling our deposit levels there. And Liz Lewis, who oversees that for us, we’re very excited about the — so we’ll be going through a process of optimizing the branch network. We’re going to make sure that we fill out the markets where we know we can play and we’ll be exercising our muscle basically kind of rebringing all that back to life at UMB with being in the market with campaigns on a regular basis, refreshing branches and expanding the branch footprint in the markets where we feel like we already have a strong presence and fill them out like Arizona, Kansas City, Denver, being the highest profile ones there that we know we have the right to play in a broad major retail way and making sure we hold places together like New Mexico, which is a top player in New Mexico, and make sure that we stay invested there.
+
+And then, we’ll look for ways to do things like what do we do in Central Valley of California, where there are 10 million people from Bakersfield to Sacramento, and how can we buildout a footprint there and take advantage of that 10 million people through maybe bolt-on acquisitions overtime and branch buildout and hiring talent. Similar story in, say, Minneapolis and Milwaukee. And then, there are some other really great markets right outside of, say, the Chicago land like Rockford. We have a nice branch network already in Rockford, Illinois, and sort of expand and buildout and grow and see what we can do around the Chicago land area with that. So, I would say it’s some — I started at the top of the list. The number of opportunities is sort of endless.
+
+So, I think it’s our job is really to stay focused. I’ll have my team kind of banging on me to stay focused, because it’s an enormous amount of opportunity. And I did do that in order of sort of what we want to attack first.
+
+Jon Arfstrom: Okay. How long do you think it — there have been some questions on lending, obviously, in the Heartland balance sheet. So, how long do you think it takes you to bring in, call it, your lending process or lending engines to the Heartland footprint?
+
+Mariner Kemper: Well, that’s one of the things we’re most excited about. I’ll say that the thing I’m most excited about related to the connection between our risk profile and being able to deploy that and then move forward growing the business our way is, we had the depth coming in to be able to deploy our regional credit officer model into their footprint. So, at UMB, we have — in our own footprint, we have regional credit officers with loan authority that are people who worked here 20-plus years who know how we do things. And so, we’ve given them the authority to oversee the people, the process, the product, the customers, stay on top of all of that in the footprint. And so, we identified, in the process of bringing this Heartland into the family, individuals that have that same profile with us, give them opportunities for career development and we’ve identified several regional credit officers to oversee the new parts of the footprint.
+
+And so, we’re going to do that immediately. Byron, we have with somebody who’s here in Kansas City actually is moving this weekend to Madison and he was running our loan review process for UMB and we’re moving him to Madison to be our Regional Credit Officer for the Upper Midwest, as an example. I could go on, but that’s the — I’m super-excited about that, because I think that is the way we’re going to do it. And you ask how long it’s going to take. I’d say that is immediate. So, I think the ability to kind of get in oversee and do it our way will be immediate. The loan growth part will come. I don’t have the answer to how loan growth will come yet, but we certainly expect that we just got to get in there and do the work.
+
+Jon Arfstrom: Okay. And then, Ram, just a quick one, a follow-up on Chris McGratty’s question on Slide 32. On the right side, what’s the message you want us to take away from that? It seems like most of the loans have repriced and you’re protecting against further cuts. Is that what you want us to take away from that or am I misreading that? Thanks.
+
+Ram Shankar: Are you talking about the hedges or are you talking about the top half?
+
+Jon Arfstrom: Both of them, yeah.
+
+Ram Shankar: So, the top half, we’re just stating what our variable rate book looks like. Obviously, when you look at an earning asset basis and liability basis, we’re pretty matched in terms of what percentage of our earning assets are variable versus what percentage of our deposits being indexed are variable. So, it’s a pretty correlation. That’s why we get our neutral position when it looks to interest rates. And so, that’s why I say what we have right now in terms of the rate environment is very ideal for us. And then, on the bottom side is a conservative approach that we’ve taken historically to make sure that we’re protected against rates falling, right? So, we — over the last 18 months, I want to say, we put these $3 billion of notional hedges, synthetic hedges here to protect us from down rates.
+
+And at the end of the day, what my point earlier in the prepared comments was, even if there are no lower rate cuts, the impact from these hedges is not going to be material for our net interest income and net interest margin, because the — as some of these hedges amortize, the benefits also start reaping in. Some of these hedges are already in the money based on the movements in SOFR that we’ve seen so far. And then, if additional rate cuts were to happen, there’s a little bit more upside, again, modest, I would say. Some of these hedges are four-year to five-year terms. So, that’s a long period of time that we basically bought insurance against falling interest rates. So, that’s the message I would say. Hopefully, that’s clear and what you’re looking for.
+
+Jon Arfstrom: Okay. Yeah, that helps. Okay. Well, good luck this weekend, and I guess next weekend as well, Mariner.
+
+Mariner Kemper: Yeah. Thank you, sir. Yeah, I’m going to be there by the way, so look for me in the stance.
+
+Jon Arfstrom: All right.
+
+Ram Shankar: Thanks, Jon.
+
+Operator: [Operator Instructions] Our next question is from Timur Braziler with Wells Fargo. Your line is now open.
+
+Ram Shankar: Good morning, Timur. Timur, are you there?
+
+Timur Braziler: Sorry, yes, do you hear me?
+
+Ram Shankar: Yeah. I can hear you now.
+
+Timur Braziler: Hey, guys. Sorry about that. The first question just on the cadence of the cost saves, the 40% that you’re expecting this year, how much of that hits in 4Q on the systems conversion and then just the remaining 60%, how quickly in ’26 do we see those coming through?
+
+Ram Shankar: It really depends on contract by contract, right? Some of it is people, some of it is obviously vendors, and how long we want those vendors to stay past conversion day, but generally a full-blown conversion that we expect to complete in the fourth quarter means that most, if not all of their systems will be on ours. So, that’s the expectation. And then, it’s just accelerating some of the negotiations we have with our providers and making sure that we can get those cost saves on a run rate basis. And that’s where you’ll see — the biggest one-time costs that you will see will be — it will be in the first quarter and the fourth quarters for those specific reasons, right, between people and the technology contracts that are being unwound.
+
+Timur Braziler: Okay. Thanks. And then, I want to take another shot at Ben’s question. Just looking at the earnings run rate that was put out in the initial deck, it looks like Heartland earnings are down close to 30% from that initial deck. I’m wondering how much of that type of cleanup on the balance sheet had been expected? Are you somewhat surprised by the level of decline? And how are you thinking about potentially filling this hole?
+
+Mariner Kemper: Yeah. Sorry, I’m going to attempt to do a little better for you, but we still have to be pretty careful about the pre and post here and their operations and ours. From a modeling perspective, I think highest level, best thing I can tell you there is from an EPS accretion perspective, our targets are still in place on a combined basis, okay, for what we shared early on in the process. So, that’s all still in place. Some of that comes from us, some of that comes from them, our — some of our outperformance, some of their underperformance, et cetera. But I think what’s important to note is that those EPS accretion targets are in place, are still in check. So, that’s the thing I would focus on. As far as surprises, again, what I’d say is, again, puts and takes, right?
+
+All of what they took — all of what they accomplished was on credits identified in the diligence process. Some of them were worse, some of them were better, but all of it was identified. And again, at the end of the day, the way I think about it is you’ll have the loan levels from an earnings perspective and you’ll have capital levels in line with what we expected to start with. And from that perspective, them reserving and identify everything at the end of the year for their processes and per the regulatory environment, the expectation is all that’s been done and reserved for at the appropriate levels and marked at the appropriate levels. And we’ll start February 1st overseeing it. And then, at the end of the first quarter, you’re going to see a full look at all that from us and you’ll start seeing a much fuller picture at that point.
+
+But from a performance perspective, whether it comes from us or comes from them, all of it is largely intact and within striking distance of everything we announced back in April. The other thing I would say that we didn’t get to earlier, nobody’s asked is about the credit mark. In addition to all that I just said, we will be coming in with a conservative credit mark on top of all that as we roll into the combined entity in February.
+
+Timur Braziler: Okay. So, it sounds like what was laid out in April assumes some level of degradation as the credit process went along, and if the credit mark is conservative, maybe more of that is going to be made up on the accretion side?
+
+Mariner Kemper: Yes. Certainly, that will play a role. That will play a role. What I was getting at, the top of the house was, whether it’s our outperformance or their underperformance, at the end of the day, our EPS accretion expectations are still intact.
+
+Timur Braziler: Okay. Thank you.
+
+Mariner Kemper: Yeah.
+
+Operator: There are no additional questions at this time. So, I’ll pass the call back over to the management team.
+
+Kay Gregory: Thank you, everyone, for joining us today. We appreciate your time and your interest. If you have follow-up questions, you can reach us at 816-860-7106. Thanks, and have a great day.
+
+Operator: That concludes today’s call. Thank you all for your participation. You may now disconnect your line.

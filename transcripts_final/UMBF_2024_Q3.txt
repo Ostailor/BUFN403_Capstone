@@ -1,0 +1,235 @@
+UMB Financial Corporation (NASDAQ: UMBF ) Q3 2024 Earnings Call Transcript October 30, 2024
+
+Operator: Hello and welcome to the UMB Financial Third Quarter 2024 Financial Results Conference Call. My name is Harry and I’ll be coordinating your call today. All lines are currently in a listen-only mode and there’ll be an opportunity for Q&A after management’s prepared remarks. [Operator Instructions]. It is now my pleasure to hand over to Kay Gregory, Investor Relations to begin. Please go ahead.
+
+Kay Gregory : Good morning and welcome to our third quarter 2024 call. Mariner Kemper, Chairman and CEO; and Ram Shankar, CFO will share a few comments about our results and then we’ll open the call for questions from our equity research analysts. Jim Rine, CEO of UMB Bank and Tom Terry, Chief Credit Officer will be available for the question-and-answer session. Before we begin, let me remind you that today’s presentation contains forward-looking statements, including the discussion of future financial and operating results, benefits, synergies, gains and costs that the company expects to realize from the pending acquisition, as well as other opportunities management foresees. Forward-looking statements and any pro forma metrics are subject to assumptions, risks and uncertainties as outlined in our SEC filing and summarized on slides 48 through slides 50 of our presentation.
+
+Actual results may differ from those set forth in forward-looking statements, which would speak only as of today. We undertake no obligation to update them except to the extent required by securities laws. Presentation materials are available online at investorrelations.umb.com and include reconciliations of non-GAAP financial measures. Now I’ll turn the call over to Mariner Kemper.
+
+Mariner Kemper : Thank you, Kay. Good morning, everyone. Thanks for joining us as we discuss our third quarter results announced yesterday afternoon. We had another solid quarter. With strong fee business performance and near double digit annualized loan growth driven by record top line loan production of $1.4 billion. Our line utilization has remained steady at 37% to 39% over the past several quarters and our loan pipeline remains strong heading into the fourth quarter. Overall, we’re pleased with the strength of both sides of our balance sheet, as well as the robust traction in many of our fee income businesses. We reported GAAP earnings of $109.6 million or $2.23 per share, driven by continued momentum across our various lines of business.
+
+On an operating basis, we earned $2.25 per share. The increase in interest income was driven primarily by continued loan growth and higher levels of liquidity partially offset by changes in funding mix. The strength of our diversified financial model was evident this quarter with strong fee income growth from several areas, including within our institutional business where assets under administration exceeded $0.5 trillion. Trading and investment banking volumes increased largely in municipal and mortgage-backed securities driving a 30% link quarter increase in fee income. In corporate trust, higher off balance sheet money market balance has contributed to stronger 12b-1 fees in the quarter. And our private wealth team have brought in $1 billion in net new assets year-to-date or 33% ahead of full year 2023 levels.
+
+We focus on operating leverage rather than specific expense growth targets. So compared to the third quarter a year ago, we posted positive operating leverage of 4.4% on an operating basis. Ram will provide more detail on income and expense drivers shortly. Balance sheet growth included a 9.8% link quarter annualized increase in average loan balances in contrast to many of our peers’ comments on anemic loan growth and slowing utilization. In fact, for banks reported so far the median annualized increase in average loan balances has been just 3.4%. Loan growth was led by commercial real estate with multifamily balances posting 13% link quarter growth and by construction draws on previously approved lines. We also saw a solid C&I activity with some increased M&A activity among our clients.
+
+Credit quality in our loan portfolio remains excellent and a hallmark of our business. As evidenced by just 8 basis points of net charge-offs on a year-to-date basis and non-performing loans of just 8 basis points of total loans. Over the past eight quarters, our non-performing ratio has averaged just 8 basis points, compared to 39 basis points for our peer group and 35 basis points for the industry as a whole. C&I continues to perform well with just 3 basis points of net charge-offs for the quarter and net recovery three out of the last four quarters. Credit card is typically the largest component of our net charge-offs and that was the case again in the third quarter. We have heard some consumer heavy lenders discuss borrowers at risk and several anecdotal comments from retail participants in the retail sector seeming to support that sentiment.
+
+For UMB however, consumer credit card represents just 1% of average total loan balances and typically makes up approximately 5% to 7% of credit card purchase volume. Most of our credit card net charge-offs for the quarter stem from our recent portfolio acquisition, which had a different credit profile than we normally underwrite. For context, these acquired balances averaged $118 million for the third quarter. On the flip side, relative to our original expectation, the portfolio yields on these acquired balances have also outperformed. Excluding losses on credit card, our net charge-off rate this quarter would have been only 2 basis points. The higher provision expense in the quarter largely reflects the impact of loan growth along with some general portfolio trends.
+
+Our coverage ratio increased to 1% of loans. Average total deposits grew $951 million or 11.1% on a lean quarter annualized basis including the intentional reduction of brokered CD balances. For comparison, banks that have reported third quarter results so far had a median analyzed growth in deposits of just 4.9%. While commercial DDA balances increased 11% on annualized basis, overall average DDA balances declined largely driven by tax payments and other activity in asset servicing and corporate trust. As we’ve discussed in the past, these cash distributions by our large institutional clients can be episodic in nature and there is some seasonality in the balances especially among municipal and corporate trustee clients. Finally, we’re on track to complete our pending acquisition of Heartland Financial subject to approvals and have updated milestones and progress on the integration planning in the deck.
+
+Our integration teams are collaborating well with HTLF and we are well on our way with preparations for legal day one still anticipated for sometime in the first quarter. Again, we believe this transaction will accelerate UMB’s growth strategy, further diversify and de-risk in our business model. The addition of this high quality franchise is a great fit from a strategic, financial and cultural perspective. And we look forward to serving our prospective clients and GICs as well as welcoming new associates to UMB. Now I’ll turn it over to Ram.
+
+Ram Shankar : Thanks Mariner. Net interest income of $247 million represented an increase of $2.3 million or just under 1% reflecting continued loan growth and higher levels of liquidity partially offset by the higher cost related to a funding mix shift. The mix shift was driven both by a $1.6 billion increase in average interest bearing deposit balances as well as the $601 million decrease in DDAs, which impacted net interest margin by 5 basis points. As we’ve noted, our DDA balances can fluctuate based on the activity of our institutional clients, which may include tax and bond payments as part of being the trustee or funds that were deployed in the market in the asset servicing business. Additionally, as Mariner noted, activity from our corporate trust and specialty trust clients can be lumpy and episodic in nature.
+
+As a result, our DDA balances were at the lower end of the $9.5 billion to $10 billion range we’ve seen in recent quarters and generally represent the low point of the year from a seasonality perspective. Average interest bearing liabilities increased 4% with increases in interest bearing deposits partially offset by a decrease of $280 million in borrowed funds. As noted on Slide 34 of the deck, we further reduced borrowing levels following quarter end, paying off $800 million in BTFP prior to its contractual maturity in January, 2025. While the BTFP balances contributed $1.1 million in net interest income in the third quarter, it was almost 4 basis points diluted to net interest margin. Additionally, the $250 million in both FHLB advances and brokered CDs matured earlier in October, which should also benefit margin going forward.
+
+Net interest margin for the third quarter decreased 5 basis points sequentially to 2.46% largely due to the decline in average DDA balances. As you can see from our yield tables, net interest spread was unchanged from the link quarter as the benefit of free funds declined 5 basis points and impacted margin. Looking into the fourth quarter, we expect net interest margin to improve a few basis points from the third quarter driven by wholesale funding maturities I noted earlier, as well as the catch-up of repricing actions on index deposits from the mid-September rate cut. This may be partially offset by delayed loan repricing on loans tied to SOFR and PRIME, as well as the impacts of continued contraction in one month SOFR rate in advance of anticipated rate cuts in November and December.
+
+As you’re aware, the one month SOFR rate has declined 20 basis points through last week in advance of the expected 25 basis point cut on November 7. I will add my usual caveat that the trajectory of our margin will depend on the timing and pace of interest rate cuts, levels of activity primarily in our institutional businesses that can impact the mix of our liabilities and the overall pricing environment for loans and deposits. As an additional reminder, approximately 35% of our total deposits are hard indexed to short-term interest rates. As the Fed funds rate changes, these deposits reprice down immediately. An additional 18% of our deposits are soft indexed, balances negotiated at current prevailing market rates. On these soft index deposits, we will generally move rates down pretty quickly following Fed cuts.
+
+Overall, we continue to expect our deposit betas on the way down to be steeper than peer banks, similar to our experience during the tightening cycle. We estimate that for the 50 basis point rate cut that happened in September, we were able to garner close to 90% beta on our index deposits. While the cost of interest bearing deposits increased quarter-over-quarter due to new institutional deposit growth, the cost of rate bearing deposits in September declined 8 basis points from August compared to a 10 basis point decline in loan yields. Our interest rate simulation results on Page 33 of our deck show us benefiting from interest rate cuts in year 1 with a more modest benefit for year 2. Our projections now show a slightly liability sensitive based on a static balance sheet as of September 30 and current market assumptions for interest rates and prepayments.
+
+As a reminder, this analysis does not include any interest income generated from new growth or the HTLF acquisition. At this preliminary stage, we estimate that our pro forma interest rate position will remain relatively neutral. On the right side of Page 33, we’ve added more detail on loan repricing, including timing of rate adjustments for both SOFR and PRIME index loans. The timing of movements and SOFR rates in advance of the FOMC action had an immaterial impact in the third quarter given the mid-September timing. As the FOMC meets and acts sooner in the quarter, it is likely that SOFR also moves ahead of anticipated set actions resulting in some timing differences between when loans and index deposits reprice. We’ve also added details on Slide 33 about the hedges we have in place.
+
+Currently, we have $2.5 billion notional value in payfix, received float cash flow hedges, which include three floor contracts and eight floor spreads. Details and activity in our securities portfolio are shown on Slide 30 and Slide 31 in our deck. The combined AFS and HTM portfolios average $12.3 billion during the quarter, relatively flat from the prior quarter levels. Security levels fluctuate based on our collateral needs for both public funds and trust businesses. The average purchase yield in our portfolio was 4.64% for the third quarter, while securities rolling off had a yield of 3.18%. We expect $1.5 billion of securities with an average yield of 2.62% to roll off over the next 12 months, pricing on new investments in September averaged 4.2% and are subject to change depending on what happens in the middle part of the treasury curve.
+
+Capital levels continue to build with our common equity Tier 1 ratio increasing 8 basis points to 11.22%. As announced yesterday, the Board of Directors declared a 2.6% increase in the quarterly dividend rate to $0.40 per share, payable in January 2025. We’ve seen continued growth in tangible book values per share, which increased $6.28 from June 30 to $66.86. Tangible book value per share has grown more than 28% over the past year. As a reminder, our capital levels do not include the 230 million forward equity offering agreement that we announced in April. Turning back to the income statement, non-interest income was $158.7 million with a link quarter increase of 9.5%. Aside from the impact of market related variances, which includes security valuation changes and [indiscernible] income, the largest driver of fee income was trust and securities processing, where the strong fund services and corporate trust activity Mariner mentioned is captured.
+
+This income line has seen steady increases in recent quarters. Other drivers of the link quarter increase were $1.7 million of additional income from both investment banking and brokerage income and $1.1 million gain on the sale of a building, partially offset by lower healthcare related deposit service charges. Non-interest expense of $252.5 million for the quarter included pre-tax acquisition expenses of $2.6 million and an additional reduction of $1.7 million in previously accrued FDIC assessment charges. On an operating basis, non-interest expense increased $8.3 million link quarter and included a $1.3 million increase in variable bonus and commission expense as strong performance in several businesses resulted in higher incentive accruals.
+
+Salary and benefits expense was also impacted by one more salary day in the third quarter. We purchased additional laptops and computer equipment during the quarter, driving an increase of $1.6 million in supply costs. The $1.9 million increase in deferred compensation expense is the offset related to the higher wholly income. Finally, our effective tax rate was 19.2% for the quarter, compared to 19% of the third quarter of 2023. On a year-to-date basis, the increase in tax rate was primarily related to lower income on tax exempt securities and higher non-deductible acquisition costs in 2024. For the full year of 2024, we would expect the tax rate to range between 18% and 20%. Looking ahead to 2025, our preliminary estimate, including the HTLF acquisition, is an effective tax rate of 21% to 23%.
+
+Now I’ll turn it over to the operator for the Q&A session.
+
+Q&A Session
+
+Operator: Thank you. We will now open the call for your questions. [Operator Instructions]. And our first question today will be from the line of Ben Gerlinger with Citi. Please go ahead. Your line is now open.
+
+Ben Gerlinger : All right. Good morning, everyone.
+
+Ram Shankar : Hey, good morning, Ben.
+
+Ben Gerlinger : I was curious if we could talk through the pricing of deposits a little bit more. I know Ram gave quite a bit of detail on negotiated versus indexed and all that. So with the 50 basis point cut late in 3Q, as we kind of roll through 4Q, I was curious if you can shed some light on any anecdotal or data in terms of pricing that you’ve seen as we’ve kind of flipped into 4Q here, any pricing trends or any thoughts, and then also the mix itself. Any comments would be really helpful.
+
+Mariner Kemper : Can you take that, Ram?
+
+Ram Shankar : Yeah, sure. As I said on the prepared comments, Ben, so about 35% of our deposits are what we call hard indexed, right? So those are very formulaic based on what a pet effective rate might be. So those are done immediately. And then there’s another 18% that are negotiated rates or what we call soft index rates. So if you look at our total deposit pie, 53% between those two have prevailing market rates upwards of 4% today that we have, I said in my prepared remarks, we got anecdotally close to 90% beta on those for the first 50 basis points cut. But the remaining 30% is DDAs, and then there’s a back book call in 25% that are at lower rates. So that kind of gives you a timeframe or a framework for what might happen to deposit costs. Again, these are all based on what happens to short-term interest rates, and they happen within hours, days of when the Fed might build their rates.
+
+Mariner Kemper : And then I might add also third quarter is a low point for DDAs related to seasonality for us. So there’s probably likely a DDA build in the fourth quarter that was not there in third quarter.
+
+Ben Gerlinger : Got you. No, that’s helpful. Let me ask it differently. So when you lower something, obviously there’s a negotiated component to it, but are you seeing any pushback on anything? Are you, I’d say, exception pricing, but as clients see their price or their yield on deposits move lower index, I totally get it’s contractual, and there’s the negotiated aspect. Are you seeing pushback in anything, even though it’s 50 bps or not?
+
+Mariner Kemper : There’s no pushback on the index. There’s very little pushback on the soft index, and then the back book works the way it would work anywhere, but there’s an expectation from the client that rates are dropping. We don’t have any real sense that that’s a challenge. I haven’t heard anything.
+
+Ben Gerlinger : Got you. Okay, that’s helpful. And then I figured I’d ask a question about fee income. It seems like everything was all systems go, like all silos or all the forces seem to be pulling in the same direction for this quarter. I know you highlighted a couple of non-core items in the prepared remarks. You think about the sustainability going into ’25. Do you exclude kind of the couple of one-times items you called out wrong? Is this a fair starting off point as like a base, or would you say, this is a little bit overheated to some extent on the numbers?
+
+Ram Shankar : I wouldn’t call it overheated, Ben. As you had rightly summarized, all systems and all our fee income businesses have been performing well. We had a lot of off-balance sheet deposit growth that gave us additional 12b-1 fees. Now our off-balance sheet deposits are at $16 billion and growing. Our fund services, as I said in my prepared remarks, has been on all cylinders for the last few quarters. Alternative investments, brokerage income, or trading investment management, banking income was another strong quarter because we were seeing a lot of demand for municipal and mortgage-backed securities, both on the bank and non-bank qualified side. So the only non-core, quote-unquote item is the $1.01 million on the gain on sale building.
+
+And then periodically we have [indiscernible], which has an equal offset on the deferred comp side. And then the last one is mark-to-market on equity holdings. That happens all the quarter. So we feel pretty good about our fee income trajectory and how the businesses are doing. Card services is another one where we’ve seen interchange income grow. You see the purchase volume on one of our slides is growing pretty well too. So feeling pretty good entering the 2025.
+
+Mariner Kemper : Profile and pipeline are really strong across all those businesses.
+
+Ben Gerlinger : Got you. Okay, thank you.
+
+Ram Shankar : Thanks, Ben.
+
+Operator: Our next question today is from the line of Jared Shaw with Barclays. Please go ahead, your line is now open.
+
+Jared Shaw : Hey, good morning. Thanks. Maybe for looking at the…
+
+Mariner Kemper : Good morning, Jared.
+
+Jared Shaw : Hey, good morning. I’m just looking at the pay down in some of the wholesale bargains you talked about. Was that, did you just use cash for that or should we be expecting the cash balances trending down here?
+
+Ram Shankar : Yeah, we did use cash for that. We were in an excess liquidity position and we should expect some diminution in cash balances at the Fed account, yes.
+
+Jared Shaw : Okay.
+
+Ram Shankar : Yes.
+
+Jared Shaw : Yeah, yeah, yeah, okay. And then when we look at the DDA accounts, average versus end of period, there’s obviously a lot of variability there, but how should we be thinking about sort of the trending of that average DDA balance over the next few quarters?
+
+Ram Shankar : Yeah, I would focus only on the average just to kind of get a sense of what’s going on. As we always say, our period end balances can be higher, $3 billion, $4 billion, $5 billion, name it. DDAs, I go back to what I said in my prepared comments. In the recent quarters, we’ve seen the range between $9.5 billion and $10 billion. And as Mariner just said, third quarter tends to be our seasonally lowest quarter and it was closer to the $9.5 billion between just organic buildup between our institutional and commercial clients. And then on the interest bearing side, we also see late in the fourth quarter inflow of public funds. That’s about $800 million typically on a typical season that we get in weighted towards December. So we feel pretty good about our deposit pipeline for the fourth quarter, both on the DDA side and the public fund side.
+
+Jared Shaw : Okay, thanks. And then, looking on loan growth, you’ve talked about, you called out the sort of record production levels and the lower utilization rates. Could we see double-digit organic growth on lending in ’25, if we get sort of a normalization in all of utilization rates?
+
+Mariner Kemper : Well, we typically just give a 90-day look forward on loan growth. And so we did that in the prepared remarks, which is that fourth quarter looks strong like the third quarter and the previous quarters before that. Whether I would say that we remain bullish on our prospects or the same way that we’ve been growing business is the same way we see growing business in ’25, which is market share gains and production activity based on individual officer capability capacity. Same ways we’ve always projected and seen loan growth. So what I would say to answer your question about ’25 is there are no impediments to growth that we see in front of us to keep us from doing what we’ve been able to do historically. That doesn’t mean that impediments can’t come along the way, but we expect to continue to perform.
+
+Jared Shaw : Okay, great, thanks. And just finally for me, just any update you can give us on expected accretion as part of NII for ’25 for loans and securities, any sort of update or sharpening the pencil that is as you’ve gone through the quarter?
+
+Ram Shankar : Hey, Jared, I don’t have an update. We don’t typically run rate market accretion. I mean, we obviously did it at due diligence and then the next opportunity will, it’s pretty onerous process. So the next opportunity for us will be at close, but generally, I mean, it really depends on the direction of rates on what happens to interest rate marks. And we’ve seen some volatility in recent days really, right? But when you look back to the announcement day, rates have come down since then. So all of being equal, that’s a positive for what it means up front in terms of interest rate, market and capital. So, but I don’t have exact numbers for you and we don’t typically refresh that analysis until close.
+
+Jared Shaw : Got it, thank you.
+
+Operator: Our next question today will be from the line of Timur Braziler with Wells Fargo. Please go ahead, your line is now open.
+
+Mariner Kemper : Morning, Timur.
+
+Timur Braziler : Hi, good morning. Good morning, guys. Maybe starting on the loan growth side and speaking to some of your competitors in the market, it seems like the competition growth has been intensifying. I’m just wondering, what you guys are seeing in terms of competition around structure, around rates. We heard that there’s maybe some looser terms around recourse, maybe what you’re seeing from a competitive side and your ability to drive the type of loan growth you’ve been getting?
+
+Mariner Kemper : I would say that nothing is new and nothing has ever been new. From our vantage point, it’s always very competitive. We play in an A space, best of quality, so it’s always competitive. Nothing new, it’s always competitive and we’re just really good at winning it.
+
+Timur Braziler : Okay. And then maybe just going back to some of the balance sheet moves this quarter, just looking at the deposit side, it’s going to be a weaker quarter for DDAs. It looks like the institutional client acquisition drove up some of the higher costs this quarter. I guess, what is the end of period kind of transitory component that you would call out? Do these two maybe balance each other out where DDA grows, some of the institutional money maybe rolls off? I guess, what would you classify as being transitory in the third quarter deposit growth?
+
+Ram Shankar : I would, I mean, these are same clients that have excess balances at each month end and quarter end very predictably. So I wouldn’t call it anything non-core. They just have, we have an inflated balance sheet at month end and quarter end because of our clients and what they’re doing in their businesses.
+
+Mariner Kemper : Yeah, it’s just the activity of our larger clients, their transactions are very large and they’re very episodic. So they just never know when they’re going to happen. So it’s not transitory, it’s just episodic. I would say that, like we said earlier, third quarter — go ahead.
+
+Timur Braziler : No, no, finish your part.
+
+Mariner Kemper : Go ahead.
+
+Timur Braziler : Okay, I guess, I mean, the other way I was going to ask that question is period end assets increase $3 billion, some wholesale activity, what’s the starting point for an asset base in 4Q?
+
+Mariner Kemper : Assets or develop, you have assets or liabilities?
+
+Timur Braziler : On the assets.
+
+Mariner Kemper : Are we transitioning to assets? Okay.
+
+Ram Shankar : Yeah, the assets are proven by what’s happening on the deposit side. So as I said earlier, in a normal month end quarter end, we might have $3 billion at quarter end that you see in the period end balance sheet. That leaves within the first week following the end of the quarter. But then it happens every quarter at clockwork. It’s very predictable. It’s the same clients. We have great visibility into those. So again, we can talk all day about end of period balances, but I would focus on what average balances do. That’s more representative of what their operating account with us is without some volatility or episodic nature.
+
+Timur Braziler : Great, thank you.
+
+Ram Shankar : Thanks, Tim.
+
+Operator: Our next question today is from the line of Nathan Race with Piper Sandler. Please go ahead. Your line is now open.
+
+Nathan Race : Yeah. Hi, everyone. Good morning. Thanks for taking the questions.
+
+Ram Shankar : Morning, Nathan.
+
+Nathan Race : I know you guys don’t typically give guidance on NII, but Ram, just going back to the balance sheet comments and just the expectations for the margin to be of a few basis points. And just given what you have repricing in terms of index deposits, is it fair to assume that NII, or at least the pace of growth in NII should increase in 4Q relative to 3Q?
+
+Ram Shankar : Short answer, yes. The balance sheet growth that we saw in third quarter and the anticipated pipeline that Mariner talked about for fourth quarter, coupled with what’s going to happen on the repricing side of the index deposits. If you recall, the last rate cut happened mid-September and we only have 15 days of activity on the repricing of index deposits reflected in our third quarter numbers. So that’s why I gave you the September versus August. That was only 8 basis points out of the 50 basis points. So yeah, I would answer the affirmative. And then as I said, the BTFP was paid down. There might be lower liquidity balances, but those all had very minimal impact on NII. So yeah, I would say, fourth quarter growth in NII at least should be more than what you saw in the third quarter.
+
+Mariner Kemper : And the third quarter is the lowest point for deposit balances too.
+
+Nathan Race : Got it. Makes sense. And just curious as you’re kind of budgeting for expenses next year, as you guys have gotten more familiar with the team at HTLF, are you still feeling comfortable with the 27.5% cost-safe target and getting 40% of that phased in next year or are you guys seeing maybe additional cost synergy opportunities as that process has unfolded?
+
+Mariner Kemper : We are not really refreshing our modeling at this point.
+
+Nathan Race : Okay, great.
+
+Ram Shankar : I feel comfortable, yeah, first question, we feel comfortable about the 27.5%.
+
+Nathan Race : Okay, great. And then just one clarifying question, Ram, on the 12b-1 fee, remind us in terms of the magnitude of rate cuts that we would need to see for those to be impacted materially.
+
+Ram Shankar : Yeah, let’s take another 300 base points, 350 base points of rate cut before those money market waivers kick in. So we got some ways to go, if at all.
+
+Mariner Kemper : Plus there’s the growth. So those businesses continue to grow, all of our institutional businesses continue to grow, so the balances continue to grow. So you’ve got that working against whatever that would happen when it ever happens.
+
+Nathan Race : Got you. And I believe you guys touched on this earlier, but just specifically on the fund services and corporate trust and institutional asset growth — I’m sorry, revenue growth, both of those lines are up low double digits year-over-year. Just curious, if you think that pace of growth in those lines in particular is sustainable as you look into 2025?
+
+Mariner Kemper : Yeah, I’ll take that quickly. And if Jim has anything to add, he certainly can. I mean, the story continues to be the same. Pipelines are very good across all those businesses. We have a proposition in all the businesses. So in corporate trust, we’re number two in the country. Fund services, we’re probably the primary alternative services company in the country. When there’s a lot of M&A activity in that space led by private equity themselves, and that puts the other service providers that are involved in M&A in the penalty box with the boardrooms. So it puts us kind of out front with the ability to book business. And the pipeline just continues to look the same in that business, and we’re really excited about the way that looks.
+
+And institutional custody is also a fast-growing part of our business, and we’ve broadened that business beyond just fund servicing. We have a big, strong institutional custody business that’s booking business outside of fund services. And so that’s, it’s really just coming across the board. And on top of the new business, we have some very successful big platform clients that as they are successful, we are successful. So our client base itself continues to grow and have great success in fund services. So I don’t need to add anything, Jim, but it’s a really great front story.
+
+Jim Rine : Yeah, it’s a great story. And the only thing I would add is you probably saw an announcement that we launched our CLO trustee services. And that, at the end of the day, that really rounds out our offering as far as a full-service corporate trust shop. We’ve upgraded, we added additional software investments, additional upgrades to the services platform. So Mariner has said, it in the past that the business is really on fire, and that holds true.
+
+Mariner Kemper : The only thing I would add is we didn’t, within our comments, we heard comments, we didn’t talk about it, we’re pretty excited. Our wealth business is on fire. So we put on a billion dollars in new assets in the last quarter, or year-to-date rather this year, we’re up a billion dollars, which is more than we had done year-to-date last year. And so that business is really positioned well. All of the work that our team’s been doing there to really start gaining share is really paying off. So we’re really excited about our wealth business kind of going to the next level also.
+
+Nathan Race : Okay, great. I appreciate all the color. Thank you.
+
+Mariner Kemper : Thanks Nat.
+
+Operator: Our next question today is from the line of David Long with Raymond James. Please go ahead, your line is now open.
+
+David Long : Thank you. Good morning, everyone. On the deposit side of things, getting away from your index deposits, maybe looking at new deposit rates. What are you looking at for pricing on new rates? And is the market rational? Would you call your competitors rational on deposit pricing following the 50 basis point cut?
+
+Mariner Kemper : David, are you on mute? Should we? Sorry, can you hear me?
+
+Ram Shankar : Oh, there you go.
+
+David Long : Okay, sorry about that. I don’t know if it was my ear or not, but looking at deposit pricing, wanted to ask about new deposit and what type of yields you’re seeing or rates you’re offering on new deposits and how are competitors reacting? Are they being rational after the 50 basis point cut that the Fed makes?
+
+Mariner Kemper : Yeah, I mean, I think it’s a rational market. I mean, it’s nice, because anything we’re seeing is better than what we were seeing. So we’re kind of gaining on the way down regardless. And, but as you do campaigns, you do reach a little bit with campaigns. So we’ve had some success on the retail front with campaigns and we hope to benefit from those over time as they mature in season. But anything we’re bringing on, we’re bringing on less than we were bringing on before. So there’s a marginal improvement along the way.
+
+Ram Shankar : Yeah, and then I’ll add on the institutional side, it’s always a calculus for us between what we can potentially borrow out. So when we price this, we’re always competing with money market funds. So our rates tend to be Fed effective plus or minus, which is why we have the index deposit book that we have. So I would say, it’s been rational across all our lines of businesses. And we see, we do periodic checks on the market for retail promotions and then same thing with commercial industry.
+
+Mariner Kemper : Yeah, on the commercial institutional side, there’s so much volume and opportunity for us. It’s really just being disciplined about whether we can do better at the window than we can, you know, with what we’re bringing on. So there’s so much opportunity. We’re able to be disciplined about what we’re bringing on the commercial and institutional side. And on the retail side, we’re just playing the, you know, the same game everybody else is, with just being out there and trying to build new relationships. And there’s some marketing costs to that.
+
+David Long : Got it. Thank you. That’s some very good color. I appreciate it. And then on the lending side, when you’re having conversations with your commercial customers, is there a level of rate, another 50 basis points or 100 basis points of cuts that you feel like increases your client’s appetite to borrow and could maybe add another layer of loan growth for UMB?
+
+Mariner Kemper : I think that’s yet to be seen, right? I mean, like we continue to say for us, we budget and forecast our loan growth based on market share gains tied to how penetrated we are in any one market and what our officers’ capabilities and capacities are and what our long-term customers are doing and what their pipelines look like. As far as economic activity, if that gets stronger, I would say for us, certainly there can be some upside to that. I think really the way to think about us, when you think about the peer group is we have for 20 years, we’ve done approximately 2x our peer group in loan growth, regardless of what the economy is. So I think the real way to think about it is, how do we perform on a relative basis as not on an absolute basis? So if things get better, I would suggest that whatever we were going to do would be marginally better, but we still expect to outperform on a relative basis the way we have for 20 years.
+
+David Long : Got it. Thanks guys, appreciate it.
+
+Ram Shankar : Thanks, Dave.
+
+Operator: [Operator Instructions]. And our next question is from the line of Chris McGratty with KBW. Please go ahead, your line is open.
+
+Ram Shankar : Morning, Chris.
+
+Chris McGratty : Great morning. Ram, a question on the balance sheet. I mean, if I look at your earning assets and I add in Heartland, you’re just under 60. I guess as you go into to close, is there anything, I guess on either balance sheet that’s kind of primed for restructuring, exit, optimization? I guess I’m getting that, like what’s the right earning asset base to be looking at as you close this deal early next year? Thanks.
+
+Ram Shankar : Yeah, no plans to restructure anything other than what we said at announcement. We’re just going to swap out some of their bonds for what we would hold on our balance sheet. So other than that, I think the ballpark that you quoted are $40 billion in earning assets and they’re 18 or so. So we’re talking about, you know, yeah, $60 billion of earning assets. That should be in the ballpark before any growth.
+
+Mariner Kemper : Nothing new. Nothing before growth. Nothing new. Really, nothing new to report that we didn’t already expose when we did the deal early.
+
+Chris McGratty : Yeah. Got it. And then Ram, getting back to just the deposit betas for a minute, away from the index, which is I think pretty, you’ve been pretty transparent about the index pieces. What’s the, I guess, what’s the beta you’re assuming either on the rest of the book or the whole book maybe this quarter and then into next year? Just trying to fine tune a little bit on the assumptions.
+
+Ram Shankar : So just to revisit, right, we’re talking about 25% of our deposit book that’s not indexed or DDA. So on this book, the prevailing rates on our balance sheet are about 2%. So, we’ll assume a 30% beta on those. Our beta trajectory on the way down is going to be largely influenced by what’s happening on the hard and soft index. That’s where the opportunity is, just like it was on the way up.
+
+Chris McGratty : Okay. Okay. Okay. All right, great. I think I’m good. Thank you.
+
+Ram Shankar : Thanks, Chris.
+
+Operator: Our next question is from the line of Nathan Race with Piper Sandler. Please go ahead. Your line is now open.
+
+Nathan Race : Yeah, just had a quick follow-up. One question I’ve been getting from investors as it relates to the Heartland acquisition, there’s been a recent FDIC proposal around having to have public hearings when a bank exceeds $50 billion assets. So I was wondering if you could just comment on if that would potentially delay or hinder the timing in terms of closing the deal in the first quarter.
+
+Mariner Kemper : We don’t expect anything to get in the way of the current trajectory. All conversations have been positive and we still expect to close in the same timeframe we have been sharing.
+
+Nathan Race : Great. I appreciate you clarifying. Thanks, Mariner.
+
+Mariner Kemper : Okay.
+
+Ram Shankar : Thanks, Nat.
+
+Operator: With no further questions in the queue at this time, I will now turn the call back over to management for any closing comments.
+
+Kay Gregory : Right, thank you. And thank you everyone for joining us today. As always, if you have further questions, you can reach us at 816-860-7106. Thank you and have a great day.
+
+Operator: This concludes today’s conference call. Thank you all for joining. You may now disconnect your lines.
