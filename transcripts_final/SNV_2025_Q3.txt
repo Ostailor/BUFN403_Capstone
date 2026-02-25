@@ -1,89 +1,404 @@
-Synovus Financial Corp (SNV) Q3 2025 Earnings Call Transcript
-Oct 16, 2025 6:30 AM ET
+Synovus Financial Corp. (SNV) Q3 2025 Earnings Call October 16, 2025 8:30 AM EDT
 
-Transcript excerpt captured from accessible source lines:
+Company Participants
 
-Operator
-Greetings, and welcome to Synovus Third Quarter 2025 Earnings Call.
+Jennifer Demba - Director of Investor Relations
+Kevin Blair - CEO, President & Chairman
+Andrew Gregory - Executive VP & CFO
+Anne Fortner - Executive VP & Chief Credit Officer
 
-At this time, all participants are in a listen-only mode.
+Conference Call Participants
 
-A question-and-answer session will follow the formal presentation.
+Catherine Mealor - Keefe, Bruyette, & Woods, Inc., Research Division
+Jared David Shaw - Barclays Bank PLC, Research Division
+Jon Arfstrom - RBC Capital Markets, Research Division
+Bernard Von Gizycki - Deutsche Bank AG, Research Division
+Michael Rose - Raymond James & Associates, Inc., Research Division
+Gary Tenner - D.A. Davidson & Co., Research Division
+Casey Haire - Autonomous Research Limited
+Anthony Elian - JPMorgan Chase & Co, Research Division
+Christopher Marinac - Janney Montgomery Scott LLC, Research Division
 
-As a reminder, this conference is being recorded.
-
-I would now like to turn the conference over to your host, Katharine C. Freeman, Director of Investor Relations.
-
-Please go ahead.
-
-Katharine C. Freeman
-Thank you, and good morning. Synovus issued our earnings release this morning and it is available on our website at investor.synovus.com. During this call, we will make forward-looking statements, which are intended to be covered by the safe harbor provisions of federal securities law. Our actual results may differ significantly from those contemplated by our forward-looking statements and we caution investors not to place undue reliance on these statements.
-
-Forward-looking statements are based on management's current expectations and assumptions regarding Synovus' business, the economy and other future conditions and are not guarantees of future performance. We also refer you to our recent filings with the SEC, all available at sec.gov, for additional information regarding risk factors that could cause actual results to differ materially from our expectations. This call references certain non-GAAP measures, which we believe provide useful information to evaluate company performance. Reconciliations of those measures to the most directly comparable GAAP measures can be found in the earnings press release and presentation, both available on our website. We will be discussing our current views and expectations around long-term trends in credit and macroeconomic assumptions.
-
-These views are subject to change as economic and market conditions evolve. Joining me on today's call are Synovus Chairman, Chief Executive Officer and President, Kevin Blair; and Chief Financial Officer, Jamie Gregory. Also available for Q&A are Executive Vice President and Chief Credit Officer, Sean Simpson; and Executive Vice President and Chief Accounting Officer, Scott Howell.
-
-Now I'll turn the call over to Kevin.
-
-Kevin S. Blair
-Thank you, Katherine. Q3 marks another quarter of consistent and disciplined execution across Synovus. We delivered solid financial performance, continued to improve our funding profile and maintained strong credit outcomes while supporting our clients and communities.
-
-Revenue trends remained healthy with broad-based contribution across spread and fee income, while expense management continued to reflect focused prioritization and operating rigor. Loan growth was balanced and aligned to our risk appetite, and deposit performance remained constructive as we benefited from franchise strength and ongoing pricing discipline.
-
-Importantly, credit quality metrics remained stable, and our capital position provides flexibility to support growth and shareholder return objectives. While the broader macro environment continues to evolve, our client base remains resilient and our teams are executing with urgency and accountability.
-
-I'll now turn it over to Jamie for the financial details.
-
-Jamie Gregory
-Thanks, Kevin. For the quarter, we generated net income available to common shareholders of $167 million, or $1.18 per diluted share. On an adjusted basis, pre-tax pre-provision income improved linked quarter, reflecting margin expansion and durable fee generation.
-
-Net interest income benefited from lower funding costs and favorable asset repricing dynamics. We continued to see improvement in total deposit costs, supported by mix and pricing actions. Loan balances were modestly higher, with growth concentrated in targeted commercial categories.
-
-Non-interest income was supported by treasury and payment solutions, wealth management and capital markets-related activity. Expense trends were in line with expectations, and we continued to invest selectively in strategic initiatives while maintaining cost discipline.
-
-Credit performance remained stable. Provision expense reflected portfolio trends and macro assumptions. Net charge-offs and criticized migration were manageable, and reserve levels remain appropriate.
-
-Our CET1 ratio ended the quarter at 10.6%, which positions us well as we balance growth and capital return.
-
-With that, operator, let's open the line for questions.
+Presentation
 
 Operator
-Thank you. [Operator Instructions] Our first question comes from Ebrahim Poonawala with Bank of America. Please proceed.
 
-Ebrahim Poonawala
-Good morning. Maybe just starting on the margin outlook. NIM expanded nicely again this quarter. How should we think about sustainability from here, particularly as funding costs continue to adjust?
+Good morning, and welcome to the Synovus Third Quarter 2025 Earnings Call. [Operator Instructions] The call today will be limited to approximately 1 hour. Please note this event is being recorded.
 
-Jamie Gregory
-Thanks, Ebrahim. We were pleased with margin performance this quarter. Going forward, we still see room for modest improvement driven primarily by deposit repricing and mix, though pace will likely moderate versus what we saw in recent quarters. Asset yields remain supportive, but we expect the bigger driver near-term to be continued funding optimization.
+I will now turn the call over to Jennifer Demba, Senior Director, Investor Relations. Please go ahead.
 
-Ebrahim Poonawala
-That's helpful. And just one on credit. Are there any segments where you're seeing incremental stress?
+Jennifer Demba
+Director of Investor Relations
 
-Sean Simpson
-Nothing broad-based at this stage. We continue to monitor borrower-level trends in certain pockets, but overall migration and reserve performance remain within our expectations.
+Thank you, and good morning. During today's call, we will reference the slides and press release that are available within the Investor Relations section of our website, synovus.com. Chairman, CEO and President, Kevin Blair will begin the call. He will be followed by Jamie Gregory, Executive Vice President and Chief Financial Officer, and they will be available to answer your questions at the end of the call.
+
+Our comments include forward-looking statements. These statements are subject to risks and uncertainties, and the actual results could vary materially. We list these factors that might cause results to differ materially in our press release and in our SEC filings, which are available on our website.
+
+We do not assume any obligation to update any forward-looking statements because of new information, early developments or otherwise, except as may be required by law. During the call, we will reference non-GAAP financial measures related to the company's performance. You may see the reconciliation of these measures in the appendix to our presentation. And now Kevin Blair will provide an overview of the quarter.
+
+Kevin Blair
+CEO, President & Chairman
+
+Thank you, Jennifer. Synovus reported strong third quarter 2025 GAAP earnings per share of $1.33 and adjusted earnings per share of $1.46, up 19% year-over-year. Adjusted PPNR growth was also quite healthy, up 5% sequentially and 12% from the third quarter 2024. Our year-over-year earnings growth was primarily attributable to net interest margin expansion, healthy noninterest revenue growth and lower provision for credit losses.
+
+On a linked quarter basis, our net interest margin further expanded, wealth revenue and capital markets income both increased at a strong pace. Net charge-offs remained low and capital ratios moved higher. We also demonstrated continued hiring momentum with 25 new revenue producers added during the third quarter for a total of 74 year-to-date.
+
+While some anticipated that the merger announcement might distract from our near-term performance, our results this quarter tell a different story. We delivered continued strength in loan production, sustained momentum in fee income generation and grew our team member count by 43 this quarter, all clear indicators of our focus, discipline and resilience. We feel highly confident that this momentum should continue in the final quarter of the year as we prepare to close out the merger with Pinnacle Financial Partners.
+
+We continue to expect our pending merger with Pinnacle to close in first quarter 2026. This strategically and financially compelling partnership should create the fast growing most dynamic regional bank in the country. Since the transaction announcement on July 24, we have engaged extensively with team members and clients in order to ensure a smooth transition and maintain momentum during the integration process.
+
+The Pinnacle and Synovus teams have been working diligently over the past few months. As a result, there have been significant tangible progress demonstrated in our merger integration efforts. The entire leadership team has been finalized and communicated and all headcount-related decisions and employee communication should be complete in the fourth quarter. We have communicated retention packages for key employees at both Pinnacle and Synovus. There have been significant technology and process-oriented decisions made as well, which will further reduce uncertainty for our teams as we move forward in the combination.
+
+Our integration management offices, which were established in late August are working together diligently to complete the required work streams that are needed before and after the closing of the transaction, including our LFI readiness. The merger-related financial assumptions we communicated in July are unchanged, but we now expect the company's pro forma CET1 ratio to be approximately 10.1% at the closing of the merger as a result of a more favorable rate environment and the strong third quarter capital generation. We plan to issue 2026 pro forma company guidance after the merger closes early next year.
+
+Now I will turn it over to Jamie, who will review our third quarter results in greater detail. Jamie?
+
+Andrew Gregory
+Executive VP & CFO
+
+Thank you, Kevin. Excluding merger-related expenses, Synovus generated positive operating leverage in the third quarter. Adjusted revenue increased 9% year-over-year, while adjusted noninterest expense rose 6%. On a linked-quarter basis, adjusted revenue increased 4%, while adjusted noninterest expense increased 3%. Net interest margin expansion drove 3% linked quarter and 8% year-over-year net interest income growth.
+
+On a sequential basis, the NIM increased 4 basis points to 3.41% as higher loan yields, hedge maturities and fixed rate asset repricing more than offset higher cash balances. On a linked-quarter basis, average loans increased 1%, while period-end loans rose 0.5%. Our high-growth verticals, particularly specialty lending, continue to drive loan growth, while institutional commercial real estate lending was also a strong contributor.
+
+Loan production jumped 43% year-over-year, but the primary headwinds to our period-end loan growth were lower corporate and investment banking utilization and higher payoffs as a result of strong institutional capital markets activity. While lower CIB utilization and payoffs were a headwind to third quarter loan growth, overall CIB loan commitments increased at a healthy pace.
+
+Period-end core deposits declined $231 million or 1% from the second quarter, largely as a result of a strategic $370 million decline in public funds. Growth in time deposits and interest-bearing demand deposits was more than offset by a decline in money market and noninterest-bearing deposits. Our average cost of deposits was relatively flat at 2.23% in the third quarter.
+
+Synovus continues to grow noninterest revenue at a healthy pace. Adjusted noninterest revenue was $136 million, which increased 4% sequentially and jumped 12% year-over-year. Linked quarter growth was driven by a 4% increase in wealth revenue, largely from brokerage and trust fees and an 8% increase in capital markets income, primarily from client derivative and arranger fees.
+
+On a year-over-year basis, growth was very broad-based. We produced 11% growth in core banking fees, 5% growth in wealth revenue and a 36% increase in capital markets income, primarily from client derivative and arranger fees. We remain disciplined with noninterest expense control. Adjusted noninterest expense rose 3% on a linked-quarter basis and increased 6% year-over-year. There is $24 million of nonrecurring expense related to our pending merger with Pinnacle, mostly for professional fees related to accounting, investment banking, consulting and legal services.
+
+Sequential growth was driven by higher employment expenses, primarily as a result of an additional business day, incentive accruals and technology-related spend. Year-over-year noninterest expense growth was largely attributable to higher employment expense and technology spend. These expenses were partially offset by lower operational losses as fraud-related costs continue to be well managed.
+
+Credit trends remained very healthy in the third quarter. Net charge-offs were $15 million or 14 basis points, while nonperforming assets improved to 0.53% of total loans and real estate owned, down from 0.59% in the second quarter. The allowance for credit losses ended the third quarter at 1.19% compared to 1.18% in June. Finally, the capital position remained strong in the third quarter with the preliminary common equity Tier 1 ratio at 11.24% and preliminary total risk-based capital now at 14.07%. This is the highest CET1 ratio in Synovus' history.
+
+I'll now turn it back to Kevin to discuss our 2025 guidance.
+
+Kevin Blair
+CEO, President & Chairman
+
+Thank you, Jamie. Period-end loan growth for the year is expected to be approximately 4.5% with broad-based growth expected in the fourth quarter. The majority of the 2025 loan growth is from our high-growth verticals, while we are beginning to see momentum in additional asset classes such as CRE, community banking and senior housing that have been headwinds to growth in recent years.
+
+On the deposit front, we project core deposit growth of approximately 0.5 percentage point for the year. In 2025, we have reduced promotional CD pricing, which has resulted in lower CD retention. In addition, we have experienced lower augmentation in public funds balances year-to-date, which has been offset in the P&L by better-than-expected deposit betas, which has driven an expanding margin. The fourth quarter is typically our strongest for growth and should be led by continued focus on core deposit production across our business lines, normal seasonal benefits and investments in deposit specialties.
+
+Our adjusted 2025 revenue growth outlook is 6.5%. And our interest rate sensitivity profile is now modestly more asset sensitive to the front end of the curve as we prepare our balance sheet for the pending merger. During an easing cycle, the margin should still exhibit short-term pressure due to the timing lag between loan and deposit repricing, assuming 225 basis point Fed funds cuts in October and December and a relatively stable 10-year treasury yield, we believe that the net interest margin should be under some modest pressure in the fourth quarter.
+
+We anticipate adjusted noninterest revenue of $515 million to $520 million this year. Execution remains solid in our core fee income categories, and we expect relative stability in the lines of business in the fourth quarter. Adjusted noninterest expense growth should be 2.5% in 2025. We will continue to be very balanced and disciplined in our core expense management. And as always, we will continue to invest in areas that support long-term growth.
+
+The credit loss environment remains favorable. We estimate that net charge-offs should be between 15 and 20 basis points in the fourth quarter compared to 17 basis points in the first 9 months of 2025. On the capital front, we are expecting a CET1 ratio of approximately 11.35% at year-end 2025 with the priority on capital deployment continuing to be loan growth and capital needs related to the merger.
+
+Finally, the effective tax rate was 20% in the third quarter and should be approximately 21% for the full year 2025. In summary, our team delivered strong third quarter financial performance, and we are entering the fourth quarter with confidence and momentum. Our leadership team has consistently delivered on the core principles that underpin financial strength, driving ongoing transformation into a high-performing, client-focused and fiercely competitive organization. With our strategic combination with Pinnacle, this momentum will surge.
+
+Now that our new leadership team is firmly in place, the acceleration of talent acquisition has commenced, which will drive incremental growth in 2026 and beyond. Moreover, our proactive and detailed merger integration efforts with the Pinnacle team are progressing with precision, ensuring we are fully prepared for a successful close in the first quarter of '26 and then turn our attention to systems conversion in the first quarter of '27.
+
+We have made great progress in aligning processes, operating models and cultures. With robust fundamentals and a bold, clearly defined strategic path, we are exceptionally well positioned to transition to the Pinnacle operating model, one that is designed to drive top quartile growth in revenue, earnings per share and tangible book value. While there is still much work ahead, each day I grow more convinced and convicted of the extraordinary potential and the power of our new franchise.
+
+And with that, operator, we'll now open the call for questions. The merger-related financial assumptions we communicated in July are unchanged, but we now expect the company's pro forma CET1 ratio to be approximately 10.1% at the closing of the merger as a result of a more favorable rate environment and the strong third quarter capital generation. We plan to issue 2026 pro forma company guidance after the merger closes early next year.
+
+Question-and-Answer Session
 
 Operator
-Our next question comes from Catherine Mealor with KBW.
+
+[Operator Instructions] Our first question for today comes from Catherine Mealor of KBW.
 
 Catherine Mealor
-Good morning. Could you discuss your appetite for buybacks versus retaining excess capital for growth, particularly given your current CET1 position?
+Keefe, Bruyette, & Woods, Inc., Research Division
 
-Kevin S. Blair
-Our capital framework remains balanced. We want to preserve flexibility to support client growth and strategic investments, while also returning capital when valuation and market conditions make that compelling. So you'll continue to see a measured approach there.
+I want to start maybe with the capital. It was nice to see the capital build and now you're starting capital with a higher level coming into next year post merger. Curious your thoughts on how quickly you think you'll be able to start buying back stock after the merger closes.
+
+Andrew Gregory
+Executive VP & CFO
+
+Thanks, Catherine. We haven't given capital target post close yet, but I'll give you a little bit of context. So we expect to close with 10.1% headline CET1. That's 9.9%, including AOCI. When you look at Category IV banks, 9.9% is right at the second highest of CET1, including AOCI of the Cat IV banks. And so we think those are pretty strong levels. Now it remains our intent to build capital in the early quarters post close, but we think we're starting from a very strong point.
+
+When you look at capital generation through earnings, what I would point to is that the earnings power of this institution is so strong that before you consider risk-weighted asset growth, we believe we will generate 35 to 40 basis points of common equity Tier 1 each quarter. And that strength in capital generation gives us a lot of flexibility in how we deploy it. Obviously, our goal is to deploy it to clients.
+
+We want to grow this bank. We want to go out there and take market share in the Southeast. If you look at what Pinnacle has done for decades, what we've been doing, we believe we have the right to win, and we will do that. And so that's priority one. But there is a lot of capital generated through earnings that we will be balanced. And so in the early quarters, you should expect to see a little bit of capital accretion. But beyond that, we'll be looking at the economy, the economic outlook, the loan growth outlook and deciding what to do.
 
 Catherine Mealor
-Great. And just a quick follow-up on expenses. Any notable puts and takes into year-end?
+Keefe, Bruyette, & Woods, Inc., Research Division
 
-Jamie Gregory
-The broad trajectory is unchanged. We'll continue to manage expenses tightly while investing in areas tied to client delivery, risk and long-term efficiency.
+Okay. That's great. And then my follow-up is just on deposits. And I know, Kevin, you talked a little bit about how fourth quarter is typically your strongest, and so we should see better deposit growth into next quarter. But I was just curious if you could just give us a little bit more color on kind of some of the trends that you saw this quarter. I know public funds drove some of that decline. But what gives you comfort that we'll see better core deposit growth going into the fourth quarter? And maybe what trends you're seeing underneath the surface there?
+
+Kevin Blair
+CEO, President & Chairman
+
+Yes. Catherine, it's a great question. And to your point, when we look at deposits, you got to look at all the factors. We produced about $2.6 billion in new deposit production this quarter. It was actually up 18% versus the second quarter. So we saw good momentum there. As you noted, the majority of the declines are just the seasonality around the public funds. And we generally see a 20% increase from September to November in that category. So we know that will come back in. But we're pleased with the level of production we saw in CDs.
+
+We grew money market and noninterest-bearing or interest-bearing checking this quarter. So if we keep the production levels higher, what we saw on DDA, you saw on a period-end basis, it was down, but on averages, it was flat, and we think that will continue. I think that's the third quarter in a row that we've seen average balances in DDA roughly flat. So with production staying strong with not seeing a lot of diminishment in average accounts, average balance per account declining plus the seasonality coming in with public funds and some other deposits, we're pretty confident that the fourth quarter is going to be very strong.
 
 Operator
-Thank you. There are no further questions in the queue. I would like to turn the conference back over to Kevin Blair for any closing comments.
 
-Kevin S. Blair
-Thank you for joining us today and for your continued interest in Synovus.
+Our next question comes from Jared Shaw of Barclays.
+
+Jared David Shaw
+Barclays Bank PLC, Research Division
+
+Just maybe looking at the hiring pace, you called out being able to add 43 people this quarter and then talked about accelerating talent acquisition as we go forward. What's sort of been the tone of conversations with people that are looking to come to the bank? And what should we expect sort of from the Synovus side of a hiring trend maybe beyond, you know, after this quarter going into fourth quarter and first quarter?
+
+Kevin Blair
+CEO, President & Chairman
+
+Jared, I would categorize the environment as general excitement. And I would start with our own internal team members because as Pinnacle has shown, and I think we've shown as well, the ability to hire bankers starts with the people you have inside the 4 walls of your company, those that can serve as a testament on this being a great company to work for. And so as you can imagine, after the announcement in July, there were some concerns and some of our team members want to understand the org structure, the new comp. And we obviously, as we shared, gave some retention dollars out to our high performers.
+
+But ultimately, once we got our team members comfortable with moving forward and actually excited about the combination, it's easier to go and then talk to those individuals who are prospects to join our company. When they look at the combined company and see that both companies pride themselves on customer service and making sure that we remove any of the red tape that generally comes into play with folks trying to fully manage their relationships and build positive client relationships, when they see that we're able to do that on a larger scale and have more products and capabilities, I think it leads to people wanting to join the company. Ultimately, I think it comes down to execution, but people are generally buying into the fact that this combined organization will be bigger, but also better.
+
+Jared David Shaw
+Barclays Bank PLC, Research Division
+
+Okay. Okay. And then maybe shifting just a little bit on credit. You had pretty good trends in both reduction of nonperformers as well as reduction in classified. What's driving that? Is that improvement in the underlying individual credits? Or is it more that those weaker credits are being able to be moved off the books? And what should we be thinking about sort of as credit trends continuing to season from here?
+
+Anne Fortner
+Executive VP & Chief Credit Officer
+
+Yes. Jared, it's Anne. So thinking about our nonperforming tranche. What we saw was really the latter point that you made, we did have about $30 million of NPL outflows that were related to our C&I portfolio. And that was a combination of various pay-offs as well as pay downs on those loans. And so we were encouraged by just the diversity of that activity in the C&I portfolio.
+
+And then the other impact came out of the foreclosure of our Atlanta office nonperforming loans, as you've heard us talk about previously. And so that's why you'll see the disparity in NPLs versus NPAs for the first time in this quarter that you haven't seen in a while. So we did take that property into OREO, and we are working with the tenants today and coming to a long-term resolution.
+
+Kevin Blair
+CEO, President & Chairman
+
+Jared, just to put a bow on that, to your point, I know there are a lot of credit questions that may have been cropping up in the last week. This is our lowest net charge-off quarter in almost 3 years. Our criticized and classified ratios are the lowest they've been in 2 years. It was the third successive quarter of only having $25 million of inflows into NPLs. So not only is it a positive trend, I think we have some stability in these levels. And as we shared in the guidance, we expect charge-offs to remain relatively stable.
 
 Operator
-This concludes today's conference call. You may disconnect your lines at this time.
 
-Note: full source-page retrieval was bot-restricted; this file contains the captured transcript excerpt.
+Our next question comes from Jon Arfstrom of RBC Capital Markets.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Kevin, one for you, more, I guess, qualitative. What kind of external and internal, I guess, call it, critical feedback are you receiving today compared to maybe what you were hearing 3 months ago? I know it was pretty difficult when the deal was announced. But can you talk a little bit about how that's progressed and kind of what you're focused on and what you're hearing internally and externally today that might still a little bit critical of the deal.
+
+Kevin Blair
+CEO, President & Chairman
+
+Maybe, Jon, the way I'd answer that is let me give you the -- maybe the 5 reasons I made the comment that I'm more convinced and convicted today than I was 90 days ago. And this is maybe the questions we're getting and the responses I'm getting back is, number one, we've had 90 days to build a deeper familiarity with both sides leadership teams. And as we've gone through the due diligence on this, obviously, we didn't get to meet the broader teams on both sides. We've had 90 days to do that. We're building strong relationships with both executive teams. We're reinforcing culture alignment and starting to define what our strategic priorities are.
+
+Secondly, we're making progress on key decisions. We put that in the deck, whether it's talent, we made another press release last night of our geographic banking and LOB org structures. We're also making decisions around technology. Those decisions are well defined. They're coming early in the process, so it's removing uncertainty from many of our team members and associates.
+
+Number three, you've seen retention and excitement within the key talent as the earlier question was asked. Both organizations have retained their critical talent. We believe engagement levels are very high. Terry shared with me on his side that they did a pulse survey with their VOT, and it was actually higher than it was the prior quarter. I think both teams are energized about the opportunities ahead.
+
+And on our side, our team is excited about the new model, the autonomy, the ability to grow. We've selected the best of best from both sides benefits, both sides products and capabilities. And so there's a general excitement about what's to come.
+
+The fourth thing is just revenue growth and synergy cases have been cemented. So we've started to dig in more to the revenue synergies. As you know, we didn't put anything in the model. There's a lot of opportunity there, not just on hold limits, but on sharing the specialties that both sides have built with very little overlap. Jamie and his team have worked with Harold to make sure that the cost synergies are aligned with our priorities and realistic, and they are. And so that's super important.
+
+And then the last thing I would tell you is we are continuing to make progress on the regulatory application process. Everything is on track. I think the discussions have been very constructive. And I think it just reinforces the confidence that we have in our teams in building out a risk management organization that can fully meet the expectations of a Category IV institution. And so those are the questions we're getting, and that's what gives me a great deal of comfort and excitement as to the future.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Yes. Okay. That's helpful. I appreciate that. And then, Jamie, one for you, also a bigger picture. I heard the comments earlier on the accretion math being unchanged other than the capital comment. But as you dig in a little bit more, is there anything that you think could be maybe too conservative or too aggressive in the initial projections or is it just too early to tell, Kevin referenced the revenue synergies, but anything where you're leaning one way or the other?
+
+Andrew Gregory
+Executive VP & CFO
+
+Well, we do feel good about the opportunity for the revenue synergies. I mean there are a lot of different areas where Pinnacle complements Synovus. Synovus complements Pinnacle. We're pretty excited about those. And obviously, they're not in the model. But the other thing I would say is that the model was predicated on consensus in July. It was consensus for Synovus plus consensus for Pinnacle. And I think as you know us well, we try to outperform in all scenarios.
+
+And I think if you had talked to Terry or Kevin in July, excluding this merger conversation, both of them would say, we see those outlooks 2 years forward, and we expect to outperform. I mean that's just inherent in both of these banks. And so I think what you'll see from us as we move forward is that's what -- you see these decisions being made so quickly. You see the people decisions, the systems decisions. We're leaning in to make sure that we hit the ground running on day 1, and we feel really good about how we're positioned. So we're trying to minimize any uncertainty, minimize any lag and be ready for day 1 so that we can really hit the ground running here in the Southeast.
+
+Operator
+
+Our next question comes from Bernard Von Gizycki of Deutsche Bank.
+
+Bernard Von Gizycki
+Deutsche Bank AG, Research Division
+
+Just on hiring. So I think you added low teen hires in the first half of the year and thought you were looking to do similar in the second half. And you noted adding the 25 revenue producers during the quarter. So the combined deal is a catalyst for you to add these incremental hires, but it seems like you already started earlier than expected. So could you just provide a bit more color on what areas the hires are in and how we should be viewing the accelerated hiring going into deal close?
+
+Kevin Blair
+CEO, President & Chairman
+
+Yes. So kind of a new definition, Bernie, on this quarter. We adopted the revenue producer definition that Pinnacle uses, and that's where the 25 comes from. Our initial recommendations where we were talking about adding 45 revenue producers in 2025 were specifically related to commercial, middle market, specialty and private wealth banking. This new definition is expanded, which would include some additional roles. So those are kind of apples and oranges. So I would just reference back to the slide that we put out about a month ago that said each year on commercial, private wealth and our specialty businesses, we were targeting adding 45 FTE.
+
+Next year, we will increase that number by another 35, which will push us up to 80. And then thereafter, depending on our success there, we put 35 plus. So just think 80 plus in 2027. That's the goal. As I mentioned, our teams are in place and those individuals are already beginning the process and running the process that Pinnacle runs for identifying and starting to attract top talent from around the footprint, not only in the geographic banking space, but also in specialty. And again, I'm quite pleased with the leadership team we have. I'm quite pleased in where we are in the org structures. And I think it's going to allow them to begin in fourth quarter starting to make some of those hires.
+
+Bernard Von Gizycki
+Deutsche Bank AG, Research Division
+
+Okay. I appreciate that color. And then maybe just staying on this theme, obviously, the pro forma bank, the growth profile, when we think about legacy Pinnacle hiring over 600 of these revenue producers over the past 5 years, you expect the pro forma bank to hire nearly 500 of these producers over the next 2 years. So the legacy Pinnacle pipeline for those hires were expected to bring in a total of about $19 billion of assets. And from here, it's probably another $9 billion or so. Just what are your expectations for the ramp-up in asset and deposit gathering from your accelerated hiring plans? And any timing you can provide on that?
+
+Kevin Blair
+CEO, President & Chairman
+
+I mean it's going to ramp up. I mean, look, if you just go and look at the 2 consensus numbers and just look at what '26 and '27 would have meant, Pinnacle would be at that high single-digit, low double-digit number and Synovus would have been mid-single digit. And so on aggregate, I would say that we're about 6 percentage points in growth in '26 and '27. What you'll see '26 should be higher than that as some of those new hires start to come on board. And then compounding that into '27, it should be higher than that. And then by year 3, I think we would achieve some level of parity as it relates to growth. And our goal was to have that growth be in that high single-digit area.
+
+Operator
+
+Our next question comes from Michael Rose of Raymond James.
+
+Michael Rose
+Raymond James & Associates, Inc., Research Division
+
+Maybe for Jamie. Just as we look at the paydowns this quarter, was there any kind of acceleration there? And then assuming we could kind of realize the forward curve this quarter and into 2026, do you expect any moderation in that level of paydowns, I think we've generally seen pretty good loan production this quarter but I think the net numbers have disappointed a little bit just given the elevated paydowns. We've had some other banks in the South Asia's comment that they wouldn't expect paydowns to decelerate at all they, in fact, potentially increase.
+
+So you're going to have to run higher -- a little bit harder, but clearly, you guys are hiring at a pretty robust pace that's expected to continue over the next few years as it was just [indiscernible] question. So just wanted to get a sense for production versus payoff trends as we think about the forward curve and potentially on a stand-alone basis, what growth could look like next year?
+
+Andrew Gregory
+Executive VP & CFO
+
+Yes, Michael, it's a great question. The -- as we look at payoffs and paydowns, clearly, they've been elevated, and that's been what's been slowing us down on overall loan growth. It's hard to predict exactly what will happen there. I mean we would expect probably to see a little bit of moderation there, but we would have said that before, too, I believe. But I think the real message here for us is the production.
+
+I mean you look at the production this quarter and last quarter in a lot of our key businesses, and it's a real positive trend. I mean if you look at the wholesale bank, we're really at peak levels, I mean, up 70% from a year ago. Year-to-date numbers up about 100% from prior year. Commercial banking production year-to-date is up 19% versus prior year. And then when we look forward for the fourth quarter, pipelines are up 14% quarter-over-quarter. So we see a lot of tailwinds and momentum as far as the team, which is great to see. I mean, Kevin just walked through everything we're going through, making these decisions on the merger, but the team is focused on our clients, and we're delivering. And so we expect continued strength in production. And hopefully, that leads to accelerated growth.
+
+Michael Rose
+Raymond James & Associates, Inc., Research Division
+
+Very helpful. And then maybe just one more from me for Kevin. Pretty robust expected hiring numbers from the combined company as we move forward. But it seems like every bank, particularly in the Southeast is trying to hire lenders. Can you just talk about the competitive aspect and hiring that many people over the next couple of years? And what impact competition could have in kind of meeting those goals? I think there's just some concern out there that -- obviously, the 2 hiring models are a little bit different. I know you guys are merging. I know there's the base versus bonus consideration there. But as competition kind of heats up for talent, I think there might be a little bit of skepticism that you guys can actually meet those numbers or what the cost would be. Can you kind of step back and address that more broadly?
+
+Kevin Blair
+CEO, President & Chairman
+
+Yes. Michael, it's a fair point. You listen to other banks and there's one strategy. Everybody was going to go out and hire more people. I would just look back at the history of Pinnacle and their ability to continuously do this. And their model is one where they hire individuals from organizations and then they ask those individuals to lift up other folks that work there that are of the same quality and they're able to bring over those individuals in teams, not in onesie-twosie hires. And that's the big difference that we'll make as we enter into that hiring strategy is trying to get teams of individuals versus onesie-twosies.
+
+What gives me great confidence, number one, is, again, the track record that Pinnacle has exhibited. And that includes the comp structure that you referenced, where it's larger base, less variable comp and also tied to the top of house. Number two, what we know, the #1 factor that people are moving is generally not compensation. They want a platform where they can fully serve their clients without having a bunch of bureaucracy. What we are both building is a stronger company that offers that to any prospective team member. We'll have bigger balance sheets. We'll have better product capabilities, and we'll still provide them with an environment that tries to remove all the bureaucracy and red tape that will allow them to do what they're doing. That's the big difference.
+
+And that's why the people that both banks have been able to hire are generally coming from the larger banks that are looking for that environment. And that will not change. Will there be a greater competition? I'm sure. But as long as we offer those value propositions, I think it's going to continue to provide a gateway for people to want to join our company.
+
+Operator
+
+Our next question comes from Gary Tenner of D.A. Davidson.
+
+Gary Tenner
+D.A. Davidson & Co., Research Division
+
+Jamie, you kind of addressed part of my question with the comment about the pipelines being up 14% quarter-over-quarter. But just to dig in a little more on the kind of the fourth quarter growth outlook. I mean to get to that kind of 4.5% number for the year, it puts you somewhere around 6.5%, maybe a little better than that in the fourth quarter. So how much of that assumes a normalization of payoffs closer to the second quarter level, which I think was $1.4 billion versus the $1.8 billion this quarter?
+
+Andrew Gregory
+Executive VP & CFO
+
+Gary, it's a good question. And in our model, we have elevated production levels. We have strength in the fourth quarter. And we have payoffs remaining elevated, but not quite at the level of the third quarter. And so we think that will net to 1% to 2% loan growth, as you said, and we think that, that will come through with our core businesses. I mean the trends have kind of bounced around a little bit over the last couple of quarters. In the third quarter, we saw a lot of strength in our commercial real estate book, diverse kind of term lending, which is a great positive. But then you see the strength in the pipelines in C&I in the fourth quarter. So it's a diverse strategy, but we feel good about our expectations for this quarter.
+
+Gary Tenner
+D.A. Davidson & Co., Research Division
+
+Okay. And maybe just a follow-up. In terms of the pipeline build over the last quarter. Just a sense of how much of that is kind of ongoing -- increased comfort by your customers as it relates to the economy and tariffs, et cetera, versus other growth dynamics? I guess, kind of a tough question, I guess, but how much of it is just increased comfort generally in terms of the underlying economic backdrop?
+
+Kevin Blair
+CEO, President & Chairman
+
+Yes, I'll take that. I don't know that we can go through our pipeline and designate the purpose or the reasoning behind a new capital opportunity. But I always like to go back to our quarterly client survey. And what was interesting for me this quarter, given, again, another quarter of geopolitical risk and more talks around tariffs, generally, our clients feel better today than they felt entering the year. And I say that because one of the questions we ask our clients was, are your expectations for the next 12 months greater, the same or less than it was as we entered 2025. And ironically, 20% of our folks said that they expected it to be worse, while 40% expected it to be better and 40% thought it would be about the same.
+
+So I would submit to you, generally, people are more optimistic. And that coincides with some of the other data points that we look at. We also asked what's your business activity going to look like for the next 12 months, 37% felt it would be the same. 42% of our clients expected business activity to increase. So maybe that's partly because we're in the Southeast that we're continuing to see a constructive environment. The one caveat that I would say that came out of the survey that was maybe concerning is that many people continue to see the raw input prices increase. We saw 46% of our clients said input prices were increasing, but only about 22% could push those increased prices out to their end user.
+
+And so I think what we are hearing and seeing is that you'll see some margin compression. But I don't think that will take capital demand off the table. I think people generally feel constructive. We also have an environment now where people generally think interest rates will decline. And I think that has been correlated to line utilization and a little bit of growth that may stimulate the economy.
+
+So I would submit to you this quarter is consistent with last quarter. People are generally optimistic. I don't think there's anything in our pipeline that suddenly the dam is broken and people are pulling things out of the pipeline or conversely putting things in. I think it's just normal growth, but people are more optimistic than they are pessimistic.
+
+Operator
+
+Our next question comes from Casey Haire of Autonomous Research.
+
+Casey Haire
+Autonomous Research Limited
+
+Question on the pro forma balance sheet. You guys have obviously had a few months here to look at the combined entity. In prior MOEs, we've seen management team say, all right, like maybe we don't need this loan portfolio and sort of make tweaks on the balance sheet. I'm just wondering if you guys have upon further review, seen some things on the pro forma balance sheet that you might not like or might want to divest or just small tweaks for the overall balance sheet.
+
+Andrew Gregory
+Executive VP & CFO
+
+Casey, we have not. We continue -- as we dive into these balance sheets, they really fit well together. We think that the mix of C&I and CRE with a little bit of consumer, we think that it all fits well. There's nothing that we would expect to divest. There's nothing that we, at this point, think that we will restrain or hold back. We think that we're well positioned for the next few years here in the Southeast to drive client growth.
+
+The only thing I would say is our stance, it still holds that we will like -- as you head into crossing $100 billion, there will be liquidity considerations. So we still believe that the debt issuances that we've put in our merge model that those make sense. Obviously, we will assess those as we go through the next few years. But that's really the only balance sheet change would be on the liquidity side. It would be kind of measured pace of debt issuances over time as we kind of look at loan and deposit growth and then potentially a little bit of remixing of the securities portfolio as you think about LCR.
+
+Casey Haire
+Autonomous Research Limited
+
+Okay. Great. And then, Jamie, just one more follow-up for you on the merger math. So the rate marks within Synovus, you guys have it just under $900 million. That's amortized across 10 years, which seems a little long. I think the average term on the Synovus loan book is 3 or 4 years. Just why so conservative? And shouldn't that come in -- shouldn't those rate marks come in a little bit faster?
+
+Andrew Gregory
+Executive VP & CFO
+
+Yes. We have different amortization periods for different parts of the rate marks. If you look at the AOCI, it's an 8-year. If it's held to maturity, it's 15 years. If it's the loan portfolio, it's 10-year. So we try to be as appropriate as possible in how we looked at those. And then I guess on the loan portfolio, it's some of the years digits, so it will be a little bit front-loaded on that. And so we feel like those rate marks are -- remain appropriate. We think that, that's a good indication of how they will come through. Yes, I guess that's all I'll say about that.
+
+Operator
+
+Our next question comes from Anthony Elian from JPMorgan.
+
+Anthony Elian
+JPMorgan Chase & Co, Research Division
+
+On loan growth, you called out production was about $2 billion for a second straight quarter. And I'm wondering if you can give us more color on any specific areas or drivers of that and that has driven the strong production levels? And how sustainable do you think that level is?
+
+Kevin Blair
+CEO, President & Chairman
+
+Yes. Tony, it's really it's not any specific area that's driving the growth. I mean, when I look at our areas and I look at the production by group, we saw strong production in middle market banking this quarter. We saw strong production in our specialty lending area. CIB stayed on par, a little over $100 million. Senior housing had a really strong month in production. CRE has picked up. We had about $500 million of production this quarter, a lot of retail. That was up about 40% quarter-on-quarter. And so what gives me confidence is that when I look down at all of our sublines of business, I don't see big buckets driving the production.
+
+And as Jamie mentioned earlier, as we look into the fourth quarter, we think a lot of these areas will just continue to produce at similar levels. And as he referenced, pipelines are up about 14%, and that's really across a lot of these businesses. So there's not any one area, we're seeing it in both C&I and CRE. I would mention that CRE, even at $500 million is far below where it would have been years ago when rates and cap rates were at a different level. I think as rates come down, we could see that number build exponentially. But across the board, a lot of C&I contributors, and I think that will continue for the foreseeable future.
+
+Anthony Elian
+JPMorgan Chase & Co, Research Division
+
+And then on capital markets income, another good quarter in that line item. I'm wondering if you think, especially with the outlook for lower rates that, that line item can be sustained at the level you saw or if it can even pick up from here?
+
+Kevin Blair
+CEO, President & Chairman
+
+Absolutely, Tony. When you think about $14 million, about 40% of that revenue came from derivatives. And I think as rates move, you're going to still see people wanting to lock in fixed rates, especially as rates come lower. So as production remains elevated and continues to grow, you'll continue to see the derivative income come in. This quarter, we saw about 40% of the revenue from syndication and lead arranger fees. That was a record quarter for Synovus.
+
+And I will remind everyone, we really only entered this business several years ago where we're leading deals participating out to others. And so I think, again, as we continue to grow our businesses, produce larger loans, you're going to see that revenue pick up. About 10% was debt capital markets. That's something that several years ago, we wanted to make sure that if we're providing capital to some of these larger borrowers, we want to make sure that we're getting a piece of some of those debt fees, and we continue to get those numbers. And again, as we go upmarket, we continue to grow our book, we'll see those come in.
+
+The other businesses like FX and small business sales and the small business administration loans, I think those are 2 businesses we plan to grow as well. So when I look at all the categories, I would not say that this quarter was episodic. I would tell you that the momentum continues to build. And as we join Pinnacle, I think there'll be some opportunities to share some of the things we're doing on the Pinnacle side and vice versa.
+
+Operator
+
+Our next question comes from Christopher Marinac of Janney Montgomery.
+
+Christopher Marinac
+Janney Montgomery Scott LLC, Research Division
+
+Kevin and Jamie, can you tell us a little bit more about your loans to private equity funds and other intermediaries? Is there a deposit opportunity that you have with that business that you've been building in the last year plus?
+
+Kevin Blair
+CEO, President & Chairman
+
+No. Look, I would tell you, Chris, in the deposit opportunity, we talked about in the past that if you partner with some of these private credit or private equity funds, can you provide ancillary services because we're competing with them today on capital. And if you don't want to provide warehouse facilities, is there a way to partner, provide some capital but get the benefit of deposits? We probably have a couple of relationships like that, but I would tell you it's not material.
+
+We are not significant lenders into the private credit, private equity markets. I know that NBFIs have picked up a lot of commentary in the last couple of weeks. I'll just remind everyone, about 60% of our exposure there is in our structured lending division. And that group has a stellar track record for credit performance. We've never had a charge-off there. We have no NPLs, no criticized and classified loans, and it's a 100% senior secured. So it's a business that we continue to grow. It's well structured. It's well underwritten. And most importantly, they monitor the collateral. So I'll knock on wood, we won't have events that you've seen happen with others across the industry.
+
+Christopher Marinac
+Janney Montgomery Scott LLC, Research Division
+
+Great. Kevin, that's helpful. So the growth in NBFI really relates back the expansion of that structured group, and that's much more to do with these balances rising than any other focus?
+
+Kevin Blair
+CEO, President & Chairman
+
+Exactly, Chris. And what I would tell you is, remember, when we did our risk-weighted asset optimization exercise, most of those loans, the large majority get preferential risk-weighting treatment at 20%, which shows you how well secured they are and the strong legal protections and the collateral management that's behind those assets.
+
+Christopher Marinac
+Janney Montgomery Scott LLC, Research Division
+
+Great. I appreciate that. And I guess it's safe to presume that your reserves really already kind of captured that growth of that structured business already.
+
+Kevin Blair
+CEO, President & Chairman
+
+Absolutely.
+
+Operator
+
+This concludes our question-and-answer session. I'd like to turn the conference back over to Mr. Kevin Blair for any closing remarks.
+
+Kevin Blair
+CEO, President & Chairman
+
+Thank you, Alex. As we wrap up today's call, I want to thank the entire Synovus team for delivering another exceptional quarter. We are successful because of you. We're entering the fourth quarter with strong momentum as evidenced by this quarter's highlights. Third quarter was yet another quarter of exceeding the Street's expectations. We increased our revenue guidance to the high end of the range and lowered our expense guidance to the low end of the range for the year. We had the lowest net charge-offs in almost 3 years, the lowest criticized and classified ratio in 2 years.
+
+We also had the highest quarter for core fee income and the highest CET1 levels in our company's history. And to add on to that, we had profitability that continues to stand out with an ROAA at 1.42% and an ROTCE at almost 18%. These accomplishments serve as a strong foundation as we prepare to close our strategic merger with Pinnacle Financial Partners.
+
+Together, we are creating the nation's most dynamic regional bank, fast-growing, service-driven, best-in-class in every way. I also want to recognize the hard work of our merger integration offices, both at Synovus and at Pinnacle. Their dedication and collaboration have been instrumental in ensuring we're ready to operate as a larger and more capable financial institution.
+
+And let me be clear, this is hard work and is not lost on anyone. Success will be determined by our execution, and it will require compromise based on a set of common goals and ambitions. Terry and I recognize that this merger will result in changes to both companies, but we're 100% committed to joining together by adopting the best of each.
+
+In that regard, here at Synovus, we are already transitioning to the Pinnacle operating model, which means we will deliver through a strong geographic model, support local delivery with non-siloed expertise and specialty partnerships, add revenue producers at an accelerated pace and have the entire team incentivized and motivated on delivering top-of-house growth and risk management goals. Things are moving at a very swift pace.
+
+I'd also like to use this opportunity to extend my congratulations to Pinnacle on their upcoming 25th anniversary. It's a notable milestone that reflects their decades of success and enduring commitment to service excellence, growth orientation and entrepreneurial spirit, values that will align perfectly with our shared vision.
+
+I also want to express my gratitude to our Board of Directors for their invaluable advice and counsel through this transaction. Their guidance has been critical in helping us navigate complex decisions and positioning Synovus for long-term success.
+
+And lastly, I want to thank our clients. Thank you for your continued trust and support. You're the reason we get out of bed every day, and you're at the center of every decision we are making as we bring these 2 high-performing organizations together. Terry stated that in his career, he has never seen a more advantaged competitive position than the one we will enjoy post merger. I echo that sentiment, and I'm incredibly confident in the path ahead and I'm completely energized by the opportunity we have to shape the future of regional banking. The best is yet to come. And with that, Alex, this concludes our third quarter earnings call.
+
+Operator
+
+Thank you all for joining today's call. You may now disconnect your lines.
