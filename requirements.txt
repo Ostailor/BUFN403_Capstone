@@ -1,0 +1,15 @@
+pandas
+pyarrow
+requests
+PyYAML
+openpyxl
+matplotlib
+chromadb
+duckdb
+torch
+transformers
+sentence-transformers
+pdfplumber
+pypdf
+dspy-ai
+pytest

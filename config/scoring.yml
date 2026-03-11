@@ -1,0 +1,41 @@
+prefilter:
+  anchors:
+    - "artificial intelligence"
+    - "machine learning"
+    - "generative ai"
+    - "genai"
+    - "large language model"
+    - "llm"
+    - "chatbot"
+    - "copilot"
+    - "ai"
+  llm_min_anchor_hits: 1
+
+weights:
+  explicit: 3.0
+  use_case: 2.0
+  weak: 1.0
+  non_ai_penalty: -1.5
+
+scoring:
+  min_score: 1.0
+  max_score: 10.0
+  doc_rule_base: 1.0
+  doc_rule_multiplier: 0.6
+  doc_weight_rule: 0.6
+  doc_weight_llm: 0.4
+  bank_weight_transcript: 0.65
+  bank_weight_10k: 0.35
+  missing_source_penalty: 0.3
+  llm_calibration_enabled: true
+  llm_compression_span_threshold: 2.0
+  llm_compression_std_threshold: 0.55
+  llm_target_std_factor: 0.8
+  llm_target_std_floor: 0.9
+  llm_calibration_rule_blend: 0.3
+  max_hybrid_gap_below_rule_when_llm_compressed: 0.5
+
+text_limits:
+  max_chars_transcript: 12000
+  max_chars_10k: 10000
+  max_evidence_chars: 220

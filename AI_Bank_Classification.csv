@@ -1,0 +1,51 @@
+Bank,Ticker,AI_Score,Rule_AI_Score,LLM_AI_Score,AI_Score_Normalized,Evidence,Evidence_Source,signal_count,llm_confidence,missing_sources,num_transcripts,num_10k_docs
+Ally Financial Inc.,ALLY,3.8,4.3,3.0,6.7,"The company highlighted operational efficiency improvements, including AI and automation deployments, which decreased call volumes. Executives stated that the ongoing technology transformation enabled a significant incre",transcript:2025_Q3,19,0.45,none,8,2
+Associated Banc-Corp,ASB,3.6,4.4,2.5,6.3,"a stipulation that all national banks have a written, board-approved program that is reasonably designed to assure and monitor compliance with the BSA.",10-K:2024_Q4,18,0.43,none,8,2
+American Express Co,AXP,4.1,5.1,2.5,7.6,We are focused on delivering practical value while building toward an ambitious vision of AI that truly amplifies human potential for the customers.,transcript:2025_Q1,49,0.43,none,8,2
+Bank Of America Corp,BAC,5.5,6.6,3.8,9.8,"INDUSTRY GLOSSARY Erica : Bank of America’s artificial intelligence-driven virtual assistant for clients and employees, supporting digital banking and operational tasks. Full Conference Call Transcript The third is we co",transcript:2025_Q2,69,0.51,none,8,2
+Bank of New York Mellon Corp,BK,4.5,5.1,3.7,8.0,"AI platform adoption -- Over 130 digital employees deployed, partnering with Google Cloud and OpenAI to advance capacity and workflow productivity. Expense growth is being closely managed through a combination of efficie",transcript:2024_Q4,43,0.53,none,8,2
+"BankUnited, Inc.",BKU,1.6,1.4,1.8,1.1,n,10-K:2024_Q4,2,0.39,none,8,2
+Bok Financial Corp,BOKF,3.3,3.2,3.5,5.4,n,10-K:2025_Q4,9,0.49,none,8,2
+"Popular, Inc.",BPOP,1.9,1.6,2.3,2.0,n,transcript:2024_Q1,4,0.41,none,8,2
+Citigroup Inc,C,4.9,5.7,3.8,8.5,"Citi may not be able to provide the same or similar products and services for legal or regulatory reasons, which may be exacerbated by rapidly evolving and conflicting regulatory requirements, as well as increased compli",10-K:2024_Q4,31,0.51,none,8,2
+Citizens Financial Group Inc/Ri,CFG,5.3,6.2,4.0,9.4,We are investing deeply in the business to define new AI native workflows and better support our customers.,transcript:2025_Q4,62,0.53,none,8,2
+"Cullen/Frost Bankers, Inc.",CFR,1.8,1.4,2.3,1.6,nRubric n- 1-2: no meaningful AI mentionn- 3-4: passing or vague AI mentionn- 5-6: repeated AI/ML use cases in operationsn- 9-10: AI is a major strategic differentiator with broad rolloutnIf the excerpt contains multiple,10-K:2025_Q4,3,0.39,none,8,2
+Comerica Inc,CMA,2.6,2.3,3.0,3.6,nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn,transcript:2024_Q4,12,0.49,none,8,2
+Capital One Financial Corp,COF,5.0,6.1,3.3,8.7,"a downgrade in our credit ratings, and the impact of incorrectly estimated expected losses.",10-K:2025_Q4,46,0.49,none,8,2
+"Columbia Banking System, Inc.",COLB,3.1,3.1,3.0,4.9,n-- Integration planning is progressing on track for a closing as early as September 1; special shareholder meetings yielded 'overwhelming approval' for the transaction.,transcript:2024_Q2,13,0.47,none,8,2
+Discover Financial Services,DFS,3.3,3.6,2.8,5.4,-147- Table of Contents Glossary of Acronyms • AI : Artificial Intelligence • ALCO : Asset and Liability Management Committee • AOCI : Accumulated Other Comprehensive Income (Loss) • ASC : Accounting Standards Codificati,10-K:2023_Q4,10,0.45,none,8,2
+East West Bancorp Inc,EWBC,1.8,1.7,2.0,1.6,n-- Integration planning is progressing on track for a closing as early as September 1; special shareholder meetings yielded 'overwhelming approval' for the transaction.,transcript:2024_Q2,6,0.43,none,8,2
+First Citizens Bancshares Inc,FCNCA,3.3,3.7,2.6,5.4,nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn,10-K:2024_Q4,14,0.43,none,8,2
+First Horizon Corp,FHN,2.5,2.6,2.3,3.1,"n-- Launched business deposit account origination through the common app, expanded into public finance and corporate investment banking, and added commodities hedging to drive future fee revenue. Digital and AI Organizat",transcript:2024_Q2,10,0.41,none,8,2
+Fifth Third Bancorp,FITB,3.0,3.0,3.1,4.6,Google Ads are a major difference for us.,transcript:2024_Q4,24,0.47,none,8,2
+"Flagstar Financial, Inc.",FLG,2.6,3.0,2.1,3.6,"GEN AI is at the forefront of customer conversations. However, enterprises are also realizing that they cannot have an AI strategy without a data strategy to base it on. We have a head start in this race as the epicenter",transcript:2024_Q2,26,0.43,none,8,2
+Fnb Corp,FNB,4.1,4.1,4.2,7.6,"n-- Launched business deposit account origination through the common app, expanded into public finance and corporate investment banking, and added commodities hedging to drive future fee revenue. Digital and AI Organizat",transcript:2025_Q2,28,0.55,none,8,2
+Goldman Sachs Group Inc,GS,4.6,5.2,3.6,8.2,"SUMMARY The board announced a 33% increase in the quarterly dividend to $4 per share, beginning in Q3 2025. Management emphasized ongoing investments in AI and technology to advance operational efficiency and drive growt",transcript:2025_Q2,31,0.49,none,8,2
+Huntington Bancshares Inc,HBAN,4.0,4.9,2.6,7.2,"• We use AI in connection with our business and operations, which exposes us to inherent risks that may expose us to material harm. Compliance Risks • We operate in a highly regulated industry, and the laws and regulatio",10-K:2025_Q4,21,0.43,none,8,2
+Jpmorgan Chase & Co,JPM,5.2,6.2,3.7,9.0,• risks,10-K:2024_Q4,35,0.51,none,8,2
+Keycorp,KEY,2.9,3.1,2.6,4.3,"Keysight Keysight's financial model enables sustained high free cash flow, supporting large-scale capital returns and continued investment in R&D and product innovation. Chief Executive Officer Satish Dhanasekaran noted ",transcript:2025_Q1,19,0.43,none,8,2
+Morgan Stanley,MS,6.9,8.8,4.1,10.0,surpassed.,transcript:2025_Q1,349,0.55,none,8,2
+M&T Bank Corp,MTB,3.0,3.2,2.6,4.6,"The Company is or may become involved from time to time in suits, legal proceedings, information-gathering requests, investigations and proceedings by governmental and self-regulatory agencies that may lead to adverse co",10-K:2025_Q4,11,0.41,none,8,2
+Northern Trust Corp,NTRS,5.3,6.3,3.9,9.4,"Microsoft Copilot and Copilot stack spanning everyday productivity, business process and developer services to models, data and infrastructure are orchestrating a new era of AI transformation driving better business outc",transcript:2024_Q3,95,0.53,none,8,2
+Old National Bancorp,ONB,3.4,3.5,3.2,6.0,nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn,10-K:2025_Q4,14,0.47,none,8,2
+Prosperity Bancshares Inc,PB,1.8,1.9,1.6,1.6,The Company’s efforts to maintain the security and integrity of its information systems and its measures to manage the risks of a security breach or disruption may not entirely mitigate these risks.,10-K:2024_Q4,4,0.37,none,8,2
+"Pnc Financial Services Group, Inc.",PNC,5.2,6.3,3.6,9.0,"The new Paychex Flex Engage offering, combined with Paychex Flex Perks, is a comprehensive digital solution with generative AI capabilities to help businesses manage their workflows, promote communication within the orga",transcript:2025_Q1,49,0.51,none,8,2
+Pinnacle Financial Partners Inc,PNFP,2.3,2.2,2.5,2.8,n,10-K:2024_Q4,7,0.43,none,8,2
+Regions Financial Corp,RF,2.5,1.9,3.3,3.1,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n,transcript:2025_Q3,17,0.45,none,8,2
+Raymond James Financial Inc,RJF,3.9,4.9,2.5,6.9,"- Approximately $2.5 billion, up $161 million sequentially (7%) and $485 million year over year (24%), largely on the expansion of existing customer relationships and new activity.",transcript:2025_Q2,29,0.43,none,8,2
+Schwab Charles Corp,SCHW,1.9,1.7,2.3,2.0,"Xeon plus Gaudi, and we're seeing a very healthy growth rate, mid-20s as we go through the year.",transcript:2024_Q1,9,0.41,none,8,2
+Stifel Financial Corp,SF,5.3,6.4,3.6,9.4,Salesforce Einstein is the world's first generative AI for CRM.,transcript:2024_Q1,149,0.51,none,8,2
+Synovus Financial Corp,SNV,3.3,3.7,2.6,5.4,Synovus Bank,10-K:2024_Q4,13,0.43,none,8,2
+"SoFi Technologies, Inc.",SOFI,4.7,5.5,3.6,8.3,"Google Cloud, Google Cloud revenue is $15.2 billion, an increase of 34% year-over-year with growth driven by enterprise AI products.",transcript:2025_Q3,35,0.51,none,8,2
+SouthState Bank Corp,SSB,3.6,4.3,2.6,6.3,a lack of liquidity or inability to effectively manage liquidity risk,10-K:2025_Q4,21,0.41,none,8,2
+State Street Corp,STT,4.1,4.7,3.1,7.6,Regulatory and regulatory risks,10-K:2025_Q4,17,0.47,none,8,2
+Synchrony Financial,SYF,3.6,4.2,2.6,6.3,INDUSTRY GLOSSARY,transcript:2025_Q2,16,0.43,none,8,2
+Truist Financial Corp,TFC,4.0,4.0,4.0,7.2,78,10-K:2024_Q4,17,0.53,none,8,2
+Umb Financial Corp,UMBF,2.0,1.8,2.3,2.3,n,transcript:2024_Q2,3,0.41,none,8,2
+Us Bancorp \De\,USB,2.1,1.9,2.4,2.6,nRubric:n- 1-2: no meaningful AI mentionn- 3-4: passing or vague AI mentionn- 5-6: repeated AI/ML use cases in operationsn- 7-8: clear enterprise deployment/investment across functionsn- 9-10: AI is a major strategic dif,transcript:2025_Q1,6,0.43,none,8,2
+Valley National Bancorp,VLY,2.7,2.6,2.8,3.9,n,10-K:2024_Q4,9,0.45,none,8,2
+Western Alliance Bancorporation,WAL,2.8,2.4,3.3,4.1,nRubric:n- 1-2: no meaningful AI mentionn- 3-4: passing or vague AI mentionn- 5-6: repeated AI/ML use cases in operationsn- 7-8: clear enterprise deployment/investment across functionsn- 9-10: AI is a major strategic dif,transcript:2025_Q3,9,0.47,none,8,2
+Webster Financial Corp,WBS,3.3,3.7,2.8,5.4,nRubric:n- 1-2: no meaningful AI mentionn- 3-4: passing or vague AI mentionn- 5-6: repeated AI/ML use cases in operationsn- 7-8: clear enterprise deployment/investment across functionsn- 9-10: AI is a major strategic dif,transcript:2024_Q2,19,0.45,none,8,2
+Wells Fargo & Company/Mn,WFC,1.6,1.3,2.0,1.1,n,transcript:2024_Q2,3,0.43,none,8,2
+Wintrust Financial Corp,WTFC,2.6,2.7,2.4,3.6,generative AI.,transcript:2024_Q2,15,0.43,none,8,2
+"Zions Bancorporation, National Association",ZION,2.1,1.9,2.5,2.6,INDUSTRY GLOSSARY,transcript:2025_Q2,8,0.43,none,8,2
