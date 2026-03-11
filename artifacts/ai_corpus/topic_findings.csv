@@ -1,0 +1,2741 @@
+ticker,bank_name,source_type,period_year,period_quarter,theme_tag,mention_count
+ALLY,Ally Financial Inc.,sec_filing,2023,4,customer_facing_ai,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,governance,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,investment_spend,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,measurable_outcomes,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,operations_efficiency,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,risk_controls,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,use_cases,8
+ALLY,Ally Financial Inc.,sec_filing,2023,4,vendors_partnerships,8
+ALLY,Ally Financial Inc.,sec_filing,2024,1,customer_facing_ai,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,governance,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,investment_spend,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,measurable_outcomes,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,operations_efficiency,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,risk_controls,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,use_cases,1
+ALLY,Ally Financial Inc.,sec_filing,2024,1,vendors_partnerships,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,customer_facing_ai,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,governance,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,investment_spend,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,measurable_outcomes,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,operations_efficiency,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,risk_controls,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,use_cases,1
+ALLY,Ally Financial Inc.,sec_filing,2024,2,vendors_partnerships,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,customer_facing_ai,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,governance,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,investment_spend,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,measurable_outcomes,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,operations_efficiency,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,risk_controls,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,use_cases,1
+ALLY,Ally Financial Inc.,sec_filing,2024,3,vendors_partnerships,1
+ALLY,Ally Financial Inc.,sec_filing,2024,4,customer_facing_ai,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,governance,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,investment_spend,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,measurable_outcomes,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,operations_efficiency,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,risk_controls,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,use_cases,8
+ALLY,Ally Financial Inc.,sec_filing,2024,4,vendors_partnerships,8
+ALLY,Ally Financial Inc.,sec_filing,2025,1,customer_facing_ai,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,governance,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,investment_spend,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,measurable_outcomes,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,operations_efficiency,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,risk_controls,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,use_cases,1
+ALLY,Ally Financial Inc.,sec_filing,2025,1,vendors_partnerships,1
+ALLY,Ally Financial Inc.,sec_filing,2025,2,customer_facing_ai,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,governance,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,investment_spend,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,measurable_outcomes,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,operations_efficiency,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,risk_controls,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,use_cases,4
+ALLY,Ally Financial Inc.,sec_filing,2025,2,vendors_partnerships,4
+ALLY,Ally Financial Inc.,transcript,2025,2,customer_facing_ai,2
+ALLY,Ally Financial Inc.,transcript,2025,2,investment_spend,2
+ALLY,Ally Financial Inc.,transcript,2025,2,measurable_outcomes,2
+ALLY,Ally Financial Inc.,transcript,2025,2,use_cases,2
+ALLY,Ally Financial Inc.,transcript,2025,3,measurable_outcomes,9
+ALLY,Ally Financial Inc.,transcript,2025,3,vendors_partnerships,8
+ALLY,Ally Financial Inc.,transcript,2025,3,customer_facing_ai,6
+ALLY,Ally Financial Inc.,transcript,2025,3,operations_efficiency,6
+ALLY,Ally Financial Inc.,transcript,2025,3,investment_spend,5
+ALLY,Ally Financial Inc.,transcript,2025,3,use_cases,3
+ALLY,Ally Financial Inc.,sec_filing,2025,3,customer_facing_ai,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,governance,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,investment_spend,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,measurable_outcomes,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,operations_efficiency,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,risk_controls,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,use_cases,1
+ALLY,Ally Financial Inc.,sec_filing,2025,3,vendors_partnerships,1
+ALLY,Ally Financial Inc.,transcript,2025,4,customer_facing_ai,4
+ALLY,Ally Financial Inc.,transcript,2025,4,investment_spend,4
+ALLY,Ally Financial Inc.,transcript,2025,4,measurable_outcomes,4
+ALLY,Ally Financial Inc.,transcript,2025,4,use_cases,3
+ALLY,Ally Financial Inc.,transcript,2025,4,vendors_partnerships,3
+ALLY,Ally Financial Inc.,transcript,2025,4,operations_efficiency,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,customer_facing_ai,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,governance,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,investment_spend,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,measurable_outcomes,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,operations_efficiency,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,risk_controls,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,use_cases,1
+ASB,Associated Banc-Corp,sec_filing,2024,2,vendors_partnerships,1
+ASB,Associated Banc-Corp,sec_filing,2024,4,customer_facing_ai,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,governance,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,investment_spend,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,measurable_outcomes,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,operations_efficiency,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,risk_controls,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,use_cases,9
+ASB,Associated Banc-Corp,sec_filing,2024,4,vendors_partnerships,9
+ASB,Associated Banc-Corp,transcript,2024,4,customer_facing_ai,5
+ASB,Associated Banc-Corp,transcript,2024,4,governance,5
+ASB,Associated Banc-Corp,transcript,2024,4,investment_spend,5
+ASB,Associated Banc-Corp,transcript,2024,4,measurable_outcomes,5
+ASB,Associated Banc-Corp,transcript,2024,4,operations_efficiency,5
+ASB,Associated Banc-Corp,transcript,2024,4,vendors_partnerships,5
+ASB,Associated Banc-Corp,transcript,2024,4,risk_controls,2
+ASB,Associated Banc-Corp,transcript,2024,4,use_cases,2
+ASB,Associated Banc-Corp,sec_filing,2025,2,customer_facing_ai,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,governance,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,investment_spend,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,measurable_outcomes,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,operations_efficiency,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,risk_controls,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,use_cases,1
+ASB,Associated Banc-Corp,sec_filing,2025,2,vendors_partnerships,1
+ASB,Associated Banc-Corp,sec_filing,2025,4,customer_facing_ai,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,governance,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,investment_spend,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,measurable_outcomes,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,operations_efficiency,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,risk_controls,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,use_cases,16
+ASB,Associated Banc-Corp,sec_filing,2025,4,vendors_partnerships,16
+ASB,Associated Banc-Corp,transcript,2025,4,customer_facing_ai,5
+ASB,Associated Banc-Corp,transcript,2025,4,governance,5
+ASB,Associated Banc-Corp,transcript,2025,4,investment_spend,5
+ASB,Associated Banc-Corp,transcript,2025,4,measurable_outcomes,5
+ASB,Associated Banc-Corp,transcript,2025,4,operations_efficiency,5
+ASB,Associated Banc-Corp,transcript,2025,4,vendors_partnerships,5
+ASB,Associated Banc-Corp,transcript,2025,4,risk_controls,2
+ASB,Associated Banc-Corp,transcript,2025,4,use_cases,2
+AXP,American Express Co,sec_filing,2023,2,customer_facing_ai,1
+AXP,American Express Co,sec_filing,2023,2,governance,1
+AXP,American Express Co,sec_filing,2023,2,investment_spend,1
+AXP,American Express Co,sec_filing,2023,2,measurable_outcomes,1
+AXP,American Express Co,sec_filing,2023,2,operations_efficiency,1
+AXP,American Express Co,sec_filing,2023,2,risk_controls,1
+AXP,American Express Co,sec_filing,2023,2,use_cases,1
+AXP,American Express Co,sec_filing,2023,2,vendors_partnerships,1
+AXP,American Express Co,sec_filing,2023,3,customer_facing_ai,1
+AXP,American Express Co,sec_filing,2023,3,governance,1
+AXP,American Express Co,sec_filing,2023,3,investment_spend,1
+AXP,American Express Co,sec_filing,2023,3,measurable_outcomes,1
+AXP,American Express Co,sec_filing,2023,3,operations_efficiency,1
+AXP,American Express Co,sec_filing,2023,3,risk_controls,1
+AXP,American Express Co,sec_filing,2023,3,use_cases,1
+AXP,American Express Co,sec_filing,2023,3,vendors_partnerships,1
+AXP,American Express Co,sec_filing,2024,1,customer_facing_ai,3
+AXP,American Express Co,sec_filing,2024,1,governance,3
+AXP,American Express Co,sec_filing,2024,1,investment_spend,3
+AXP,American Express Co,sec_filing,2024,1,measurable_outcomes,3
+AXP,American Express Co,sec_filing,2024,1,operations_efficiency,3
+AXP,American Express Co,sec_filing,2024,1,risk_controls,3
+AXP,American Express Co,sec_filing,2024,1,use_cases,3
+AXP,American Express Co,sec_filing,2024,1,vendors_partnerships,3
+AXP,American Express Co,sec_filing,2024,2,customer_facing_ai,4
+AXP,American Express Co,sec_filing,2024,2,governance,4
+AXP,American Express Co,sec_filing,2024,2,investment_spend,4
+AXP,American Express Co,sec_filing,2024,2,measurable_outcomes,4
+AXP,American Express Co,sec_filing,2024,2,operations_efficiency,4
+AXP,American Express Co,sec_filing,2024,2,risk_controls,4
+AXP,American Express Co,sec_filing,2024,2,use_cases,4
+AXP,American Express Co,sec_filing,2024,2,vendors_partnerships,4
+AXP,American Express Co,sec_filing,2024,3,customer_facing_ai,3
+AXP,American Express Co,sec_filing,2024,3,governance,3
+AXP,American Express Co,sec_filing,2024,3,investment_spend,3
+AXP,American Express Co,sec_filing,2024,3,measurable_outcomes,3
+AXP,American Express Co,sec_filing,2024,3,operations_efficiency,3
+AXP,American Express Co,sec_filing,2024,3,risk_controls,3
+AXP,American Express Co,sec_filing,2024,3,use_cases,3
+AXP,American Express Co,sec_filing,2024,3,vendors_partnerships,3
+AXP,American Express Co,sec_filing,2024,4,customer_facing_ai,25
+AXP,American Express Co,sec_filing,2024,4,governance,24
+AXP,American Express Co,sec_filing,2024,4,investment_spend,24
+AXP,American Express Co,sec_filing,2024,4,measurable_outcomes,24
+AXP,American Express Co,sec_filing,2024,4,operations_efficiency,24
+AXP,American Express Co,sec_filing,2024,4,risk_controls,24
+AXP,American Express Co,sec_filing,2024,4,use_cases,24
+AXP,American Express Co,sec_filing,2024,4,vendors_partnerships,24
+AXP,American Express Co,transcript,2025,1,ai_strategy,34
+AXP,American Express Co,transcript,2025,1,customer_facing_ai,34
+AXP,American Express Co,transcript,2025,1,governance,34
+AXP,American Express Co,transcript,2025,1,investment_spend,34
+AXP,American Express Co,transcript,2025,1,measurable_outcomes,34
+AXP,American Express Co,transcript,2025,1,operations_efficiency,34
+AXP,American Express Co,transcript,2025,1,use_cases,34
+AXP,American Express Co,transcript,2025,1,vendors_partnerships,34
+AXP,American Express Co,sec_filing,2025,1,customer_facing_ai,5
+AXP,American Express Co,sec_filing,2025,1,governance,5
+AXP,American Express Co,sec_filing,2025,1,investment_spend,5
+AXP,American Express Co,sec_filing,2025,1,measurable_outcomes,5
+AXP,American Express Co,sec_filing,2025,1,operations_efficiency,5
+AXP,American Express Co,sec_filing,2025,1,risk_controls,5
+AXP,American Express Co,sec_filing,2025,1,use_cases,5
+AXP,American Express Co,sec_filing,2025,1,vendors_partnerships,5
+AXP,American Express Co,sec_filing,2025,2,customer_facing_ai,7
+AXP,American Express Co,sec_filing,2025,2,governance,7
+AXP,American Express Co,sec_filing,2025,2,investment_spend,7
+AXP,American Express Co,sec_filing,2025,2,operations_efficiency,7
+AXP,American Express Co,sec_filing,2025,2,risk_controls,7
+AXP,American Express Co,sec_filing,2025,2,use_cases,7
+AXP,American Express Co,sec_filing,2025,2,vendors_partnerships,7
+AXP,American Express Co,sec_filing,2025,2,measurable_outcomes,6
+AXP,American Express Co,sec_filing,2025,3,customer_facing_ai,5
+AXP,American Express Co,sec_filing,2025,3,governance,5
+AXP,American Express Co,sec_filing,2025,3,investment_spend,5
+AXP,American Express Co,sec_filing,2025,3,measurable_outcomes,5
+AXP,American Express Co,sec_filing,2025,3,operations_efficiency,5
+AXP,American Express Co,sec_filing,2025,3,risk_controls,5
+AXP,American Express Co,sec_filing,2025,3,use_cases,5
+AXP,American Express Co,sec_filing,2025,3,vendors_partnerships,5
+AXP,American Express Co,sec_filing,2025,4,customer_facing_ai,33
+AXP,American Express Co,sec_filing,2025,4,investment_spend,33
+AXP,American Express Co,sec_filing,2025,4,measurable_outcomes,33
+AXP,American Express Co,sec_filing,2025,4,operations_efficiency,33
+AXP,American Express Co,sec_filing,2025,4,use_cases,33
+AXP,American Express Co,sec_filing,2025,4,vendors_partnerships,33
+AXP,American Express Co,sec_filing,2025,4,governance,32
+AXP,American Express Co,sec_filing,2025,4,risk_controls,32
+AXP,American Express Co,transcript,2025,4,measurable_outcomes,4
+AXP,American Express Co,transcript,2025,4,customer_facing_ai,3
+AXP,American Express Co,transcript,2025,4,governance,3
+AXP,American Express Co,transcript,2025,4,investment_spend,3
+AXP,American Express Co,transcript,2025,4,operations_efficiency,3
+AXP,American Express Co,transcript,2025,4,use_cases,3
+AXP,American Express Co,transcript,2025,4,vendors_partnerships,3
+AXP,American Express Co,sec_filing,2026,1,customer_facing_ai,3
+AXP,American Express Co,sec_filing,2026,1,governance,3
+AXP,American Express Co,sec_filing,2026,1,investment_spend,3
+AXP,American Express Co,sec_filing,2026,1,measurable_outcomes,3
+AXP,American Express Co,sec_filing,2026,1,operations_efficiency,3
+AXP,American Express Co,sec_filing,2026,1,risk_controls,3
+AXP,American Express Co,sec_filing,2026,1,use_cases,3
+AXP,American Express Co,sec_filing,2026,1,vendors_partnerships,3
+BAC,Bank Of America Corp,sec_filing,2023,4,customer_facing_ai,10
+BAC,Bank Of America Corp,sec_filing,2023,4,governance,10
+BAC,Bank Of America Corp,sec_filing,2023,4,investment_spend,10
+BAC,Bank Of America Corp,sec_filing,2023,4,measurable_outcomes,10
+BAC,Bank Of America Corp,sec_filing,2023,4,operations_efficiency,10
+BAC,Bank Of America Corp,sec_filing,2023,4,risk_controls,10
+BAC,Bank Of America Corp,sec_filing,2023,4,use_cases,10
+BAC,Bank Of America Corp,sec_filing,2023,4,vendors_partnerships,10
+BAC,Bank Of America Corp,sec_filing,2024,1,customer_facing_ai,1
+BAC,Bank Of America Corp,sec_filing,2024,1,governance,1
+BAC,Bank Of America Corp,sec_filing,2024,1,investment_spend,1
+BAC,Bank Of America Corp,sec_filing,2024,1,measurable_outcomes,1
+BAC,Bank Of America Corp,sec_filing,2024,1,operations_efficiency,1
+BAC,Bank Of America Corp,sec_filing,2024,1,risk_controls,1
+BAC,Bank Of America Corp,sec_filing,2024,1,use_cases,1
+BAC,Bank Of America Corp,sec_filing,2024,1,vendors_partnerships,1
+BAC,Bank Of America Corp,sec_filing,2024,2,governance,5
+BAC,Bank Of America Corp,sec_filing,2024,2,risk_controls,5
+BAC,Bank Of America Corp,sec_filing,2024,2,use_cases,5
+BAC,Bank Of America Corp,sec_filing,2024,2,customer_facing_ai,4
+BAC,Bank Of America Corp,sec_filing,2024,2,measurable_outcomes,4
+BAC,Bank Of America Corp,sec_filing,2024,2,operations_efficiency,3
+BAC,Bank Of America Corp,transcript,2024,2,customer_facing_ai,3
+BAC,Bank Of America Corp,transcript,2024,2,governance,3
+BAC,Bank Of America Corp,transcript,2024,2,investment_spend,3
+BAC,Bank Of America Corp,transcript,2024,2,measurable_outcomes,3
+BAC,Bank Of America Corp,transcript,2024,2,operations_efficiency,3
+BAC,Bank Of America Corp,transcript,2024,2,use_cases,3
+BAC,Bank Of America Corp,sec_filing,2024,2,investment_spend,2
+BAC,Bank Of America Corp,sec_filing,2024,3,customer_facing_ai,2
+BAC,Bank Of America Corp,sec_filing,2024,3,governance,2
+BAC,Bank Of America Corp,sec_filing,2024,3,investment_spend,2
+BAC,Bank Of America Corp,sec_filing,2024,3,measurable_outcomes,2
+BAC,Bank Of America Corp,sec_filing,2024,3,operations_efficiency,2
+BAC,Bank Of America Corp,sec_filing,2024,3,risk_controls,2
+BAC,Bank Of America Corp,sec_filing,2024,3,use_cases,2
+BAC,Bank Of America Corp,transcript,2024,3,customer_facing_ai,2
+BAC,Bank Of America Corp,transcript,2024,3,governance,2
+BAC,Bank Of America Corp,transcript,2024,3,investment_spend,2
+BAC,Bank Of America Corp,transcript,2024,3,measurable_outcomes,2
+BAC,Bank Of America Corp,transcript,2024,3,operations_efficiency,2
+BAC,Bank Of America Corp,transcript,2024,3,use_cases,2
+BAC,Bank Of America Corp,sec_filing,2024,4,customer_facing_ai,22
+BAC,Bank Of America Corp,sec_filing,2024,4,governance,22
+BAC,Bank Of America Corp,sec_filing,2024,4,investment_spend,22
+BAC,Bank Of America Corp,sec_filing,2024,4,measurable_outcomes,22
+BAC,Bank Of America Corp,sec_filing,2024,4,operations_efficiency,22
+BAC,Bank Of America Corp,sec_filing,2024,4,risk_controls,22
+BAC,Bank Of America Corp,sec_filing,2024,4,use_cases,22
+BAC,Bank Of America Corp,sec_filing,2024,4,vendors_partnerships,21
+BAC,Bank Of America Corp,transcript,2025,1,investment_spend,12
+BAC,Bank Of America Corp,transcript,2025,1,use_cases,12
+BAC,Bank Of America Corp,transcript,2025,1,customer_facing_ai,11
+BAC,Bank Of America Corp,transcript,2025,1,measurable_outcomes,9
+BAC,Bank Of America Corp,transcript,2025,1,operations_efficiency,7
+BAC,Bank Of America Corp,transcript,2025,1,governance,4
+BAC,Bank Of America Corp,sec_filing,2025,1,customer_facing_ai,2
+BAC,Bank Of America Corp,sec_filing,2025,1,governance,2
+BAC,Bank Of America Corp,sec_filing,2025,1,investment_spend,2
+BAC,Bank Of America Corp,sec_filing,2025,1,measurable_outcomes,2
+BAC,Bank Of America Corp,sec_filing,2025,1,operations_efficiency,2
+BAC,Bank Of America Corp,sec_filing,2025,1,risk_controls,2
+BAC,Bank Of America Corp,sec_filing,2025,1,use_cases,2
+BAC,Bank Of America Corp,transcript,2025,2,operations_efficiency,10
+BAC,Bank Of America Corp,transcript,2025,2,investment_spend,9
+BAC,Bank Of America Corp,transcript,2025,2,measurable_outcomes,9
+BAC,Bank Of America Corp,transcript,2025,2,customer_facing_ai,8
+BAC,Bank Of America Corp,transcript,2025,2,use_cases,8
+BAC,Bank Of America Corp,sec_filing,2025,2,customer_facing_ai,3
+BAC,Bank Of America Corp,sec_filing,2025,2,governance,3
+BAC,Bank Of America Corp,sec_filing,2025,2,measurable_outcomes,3
+BAC,Bank Of America Corp,sec_filing,2025,2,operations_efficiency,3
+BAC,Bank Of America Corp,sec_filing,2025,2,risk_controls,3
+BAC,Bank Of America Corp,sec_filing,2025,2,use_cases,3
+BAC,Bank Of America Corp,transcript,2025,2,risk_controls,3
+BAC,Bank Of America Corp,sec_filing,2025,2,investment_spend,2
+BAC,Bank Of America Corp,transcript,2025,2,governance,1
+BAC,Bank Of America Corp,transcript,2025,3,investment_spend,12
+BAC,Bank Of America Corp,transcript,2025,3,use_cases,12
+BAC,Bank Of America Corp,transcript,2025,3,customer_facing_ai,11
+BAC,Bank Of America Corp,transcript,2025,3,measurable_outcomes,9
+BAC,Bank Of America Corp,transcript,2025,3,operations_efficiency,7
+BAC,Bank Of America Corp,transcript,2025,3,governance,4
+BAC,Bank Of America Corp,sec_filing,2025,3,customer_facing_ai,1
+BAC,Bank Of America Corp,sec_filing,2025,3,governance,1
+BAC,Bank Of America Corp,sec_filing,2025,3,investment_spend,1
+BAC,Bank Of America Corp,sec_filing,2025,3,measurable_outcomes,1
+BAC,Bank Of America Corp,sec_filing,2025,3,operations_efficiency,1
+BAC,Bank Of America Corp,sec_filing,2025,3,risk_controls,1
+BAC,Bank Of America Corp,sec_filing,2025,3,use_cases,1
+BAC,Bank Of America Corp,transcript,2025,4,investment_spend,12
+BAC,Bank Of America Corp,transcript,2025,4,use_cases,12
+BAC,Bank Of America Corp,transcript,2025,4,customer_facing_ai,11
+BAC,Bank Of America Corp,transcript,2025,4,measurable_outcomes,9
+BAC,Bank Of America Corp,transcript,2025,4,operations_efficiency,7
+BAC,Bank Of America Corp,transcript,2025,4,governance,4
+BK,Bank of New York Mellon Corp,transcript,2024,1,investment_spend,7
+BK,Bank of New York Mellon Corp,transcript,2024,1,measurable_outcomes,7
+BK,Bank of New York Mellon Corp,transcript,2024,1,governance,1
+BK,Bank of New York Mellon Corp,transcript,2024,1,vendors_partnerships,1
+BK,Bank of New York Mellon Corp,transcript,2024,2,investment_spend,8
+BK,Bank of New York Mellon Corp,transcript,2024,2,measurable_outcomes,8
+BK,Bank of New York Mellon Corp,transcript,2024,2,operations_efficiency,6
+BK,Bank of New York Mellon Corp,sec_filing,2024,2,customer_facing_ai,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,2,governance,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,2,risk_controls,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,2,use_cases,2
+BK,Bank of New York Mellon Corp,transcript,2024,2,governance,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,2,measurable_outcomes,1
+BK,Bank of New York Mellon Corp,transcript,2024,3,governance,6
+BK,Bank of New York Mellon Corp,transcript,2024,3,investment_spend,6
+BK,Bank of New York Mellon Corp,transcript,2024,3,measurable_outcomes,6
+BK,Bank of New York Mellon Corp,transcript,2024,3,operations_efficiency,6
+BK,Bank of New York Mellon Corp,transcript,2024,3,use_cases,6
+BK,Bank of New York Mellon Corp,transcript,2024,3,vendors_partnerships,6
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,governance,3
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,investment_spend,3
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,measurable_outcomes,3
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,risk_controls,3
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,customer_facing_ai,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,operations_efficiency,2
+BK,Bank of New York Mellon Corp,sec_filing,2024,3,use_cases,2
+BK,Bank of New York Mellon Corp,transcript,2024,4,ai_strategy,11
+BK,Bank of New York Mellon Corp,transcript,2024,4,vendors_partnerships,11
+BK,Bank of New York Mellon Corp,transcript,2024,4,investment_spend,9
+BK,Bank of New York Mellon Corp,transcript,2024,4,measurable_outcomes,9
+BK,Bank of New York Mellon Corp,transcript,2024,4,operations_efficiency,9
+BK,Bank of New York Mellon Corp,transcript,2024,4,use_cases,5
+BK,Bank of New York Mellon Corp,transcript,2024,4,customer_facing_ai,3
+BK,Bank of New York Mellon Corp,sec_filing,2024,4,investment_spend,1
+BK,Bank of New York Mellon Corp,sec_filing,2024,4,measurable_outcomes,1
+BK,Bank of New York Mellon Corp,sec_filing,2024,4,operations_efficiency,1
+BK,Bank of New York Mellon Corp,sec_filing,2024,4,risk_controls,1
+BK,Bank of New York Mellon Corp,sec_filing,2024,4,use_cases,1
+BK,Bank of New York Mellon Corp,transcript,2025,1,operations_efficiency,7
+BK,Bank of New York Mellon Corp,transcript,2025,1,customer_facing_ai,6
+BK,Bank of New York Mellon Corp,transcript,2025,1,measurable_outcomes,4
+BK,Bank of New York Mellon Corp,transcript,2025,1,use_cases,4
+BK,Bank of New York Mellon Corp,transcript,2025,1,investment_spend,3
+BK,Bank of New York Mellon Corp,transcript,2025,1,vendors_partnerships,3
+BK,Bank of New York Mellon Corp,transcript,2025,1,risk_controls,2
+BK,Bank of New York Mellon Corp,sec_filing,2025,1,measurable_outcomes,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,1,operations_efficiency,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,1,use_cases,1
+BK,Bank of New York Mellon Corp,transcript,2025,1,governance,1
+BK,Bank of New York Mellon Corp,transcript,2025,2,investment_spend,8
+BK,Bank of New York Mellon Corp,transcript,2025,2,measurable_outcomes,7
+BK,Bank of New York Mellon Corp,transcript,2025,2,governance,4
+BK,Bank of New York Mellon Corp,transcript,2025,2,operations_efficiency,4
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,governance,3
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,risk_controls,3
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,use_cases,2
+BK,Bank of New York Mellon Corp,transcript,2025,2,use_cases,2
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,investment_spend,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,measurable_outcomes,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,2,operations_efficiency,1
+BK,Bank of New York Mellon Corp,transcript,2025,3,investment_spend,8
+BK,Bank of New York Mellon Corp,transcript,2025,3,measurable_outcomes,7
+BK,Bank of New York Mellon Corp,transcript,2025,3,governance,4
+BK,Bank of New York Mellon Corp,transcript,2025,3,operations_efficiency,4
+BK,Bank of New York Mellon Corp,transcript,2025,3,use_cases,2
+BK,Bank of New York Mellon Corp,sec_filing,2025,3,measurable_outcomes,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,3,operations_efficiency,1
+BK,Bank of New York Mellon Corp,sec_filing,2025,3,use_cases,1
+BK,Bank of New York Mellon Corp,transcript,2025,4,ai_strategy,11
+BK,Bank of New York Mellon Corp,transcript,2025,4,vendors_partnerships,11
+BK,Bank of New York Mellon Corp,transcript,2025,4,investment_spend,9
+BK,Bank of New York Mellon Corp,transcript,2025,4,measurable_outcomes,9
+BK,Bank of New York Mellon Corp,transcript,2025,4,operations_efficiency,9
+BK,Bank of New York Mellon Corp,transcript,2025,4,use_cases,5
+BK,Bank of New York Mellon Corp,transcript,2025,4,customer_facing_ai,3
+BKU,"BankUnited, Inc.",sec_filing,2024,4,governance,4
+BKU,"BankUnited, Inc.",sec_filing,2024,4,measurable_outcomes,3
+BKU,"BankUnited, Inc.",sec_filing,2024,4,operations_efficiency,3
+BKU,"BankUnited, Inc.",sec_filing,2024,4,risk_controls,3
+BKU,"BankUnited, Inc.",sec_filing,2024,4,use_cases,3
+BKU,"BankUnited, Inc.",sec_filing,2024,4,customer_facing_ai,2
+BKU,"BankUnited, Inc.",sec_filing,2024,4,investment_spend,2
+BKU,"BankUnited, Inc.",sec_filing,2024,4,vendors_partnerships,2
+BKU,"BankUnited, Inc.",transcript,2025,4,measurable_outcomes,1
+BKU,"BankUnited, Inc.",transcript,2025,4,operations_efficiency,1
+BOKF,Bok Financial Corp,transcript,2024,1,customer_facing_ai,2
+BOKF,Bok Financial Corp,transcript,2024,1,governance,2
+BOKF,Bok Financial Corp,transcript,2024,1,investment_spend,2
+BOKF,Bok Financial Corp,transcript,2024,1,measurable_outcomes,2
+BOKF,Bok Financial Corp,transcript,2024,1,operations_efficiency,2
+BOKF,Bok Financial Corp,transcript,2024,1,use_cases,2
+BOKF,Bok Financial Corp,transcript,2024,1,vendors_partnerships,2
+BOKF,Bok Financial Corp,transcript,2024,2,customer_facing_ai,2
+BOKF,Bok Financial Corp,transcript,2024,2,governance,2
+BOKF,Bok Financial Corp,transcript,2024,2,investment_spend,2
+BOKF,Bok Financial Corp,transcript,2024,2,measurable_outcomes,2
+BOKF,Bok Financial Corp,transcript,2024,2,operations_efficiency,2
+BOKF,Bok Financial Corp,transcript,2024,2,risk_controls,2
+BOKF,Bok Financial Corp,transcript,2024,2,use_cases,2
+BOKF,Bok Financial Corp,transcript,2024,2,vendors_partnerships,2
+BOKF,Bok Financial Corp,transcript,2024,3,customer_facing_ai,2
+BOKF,Bok Financial Corp,transcript,2024,3,governance,2
+BOKF,Bok Financial Corp,transcript,2024,3,investment_spend,2
+BOKF,Bok Financial Corp,transcript,2024,3,measurable_outcomes,2
+BOKF,Bok Financial Corp,transcript,2024,3,operations_efficiency,2
+BOKF,Bok Financial Corp,transcript,2024,3,use_cases,2
+BOKF,Bok Financial Corp,transcript,2024,3,vendors_partnerships,2
+BOKF,Bok Financial Corp,sec_filing,2024,4,governance,3
+BOKF,Bok Financial Corp,sec_filing,2024,4,investment_spend,3
+BOKF,Bok Financial Corp,sec_filing,2024,4,measurable_outcomes,3
+BOKF,Bok Financial Corp,sec_filing,2024,4,use_cases,3
+BOKF,Bok Financial Corp,sec_filing,2024,4,customer_facing_ai,2
+BOKF,Bok Financial Corp,sec_filing,2024,4,operations_efficiency,2
+BOKF,Bok Financial Corp,sec_filing,2024,4,risk_controls,2
+BOKF,Bok Financial Corp,sec_filing,2024,4,vendors_partnerships,2
+BOKF,Bok Financial Corp,transcript,2024,4,customer_facing_ai,2
+BOKF,Bok Financial Corp,transcript,2024,4,governance,2
+BOKF,Bok Financial Corp,transcript,2024,4,investment_spend,2
+BOKF,Bok Financial Corp,transcript,2024,4,measurable_outcomes,2
+BOKF,Bok Financial Corp,transcript,2024,4,operations_efficiency,2
+BOKF,Bok Financial Corp,transcript,2024,4,use_cases,2
+BOKF,Bok Financial Corp,transcript,2024,4,vendors_partnerships,2
+BOKF,Bok Financial Corp,transcript,2025,3,customer_facing_ai,2
+BOKF,Bok Financial Corp,transcript,2025,3,investment_spend,1
+BOKF,Bok Financial Corp,transcript,2025,3,measurable_outcomes,1
+BOKF,Bok Financial Corp,sec_filing,2025,4,governance,4
+BOKF,Bok Financial Corp,sec_filing,2025,4,investment_spend,3
+BOKF,Bok Financial Corp,sec_filing,2025,4,measurable_outcomes,3
+BOKF,Bok Financial Corp,sec_filing,2025,4,operations_efficiency,3
+BOKF,Bok Financial Corp,sec_filing,2025,4,use_cases,3
+BOKF,Bok Financial Corp,sec_filing,2025,4,customer_facing_ai,2
+BOKF,Bok Financial Corp,sec_filing,2025,4,risk_controls,2
+BOKF,Bok Financial Corp,sec_filing,2025,4,vendors_partnerships,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,customer_facing_ai,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,measurable_outcomes,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,operations_efficiency,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,risk_controls,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,use_cases,2
+BPOP,"Popular, Inc.",sec_filing,2023,4,vendors_partnerships,2
+BPOP,"Popular, Inc.",transcript,2024,1,customer_facing_ai,2
+BPOP,"Popular, Inc.",transcript,2024,1,investment_spend,2
+BPOP,"Popular, Inc.",transcript,2024,1,measurable_outcomes,2
+BPOP,"Popular, Inc.",transcript,2024,1,operations_efficiency,2
+BPOP,"Popular, Inc.",transcript,2024,1,use_cases,2
+BPOP,"Popular, Inc.",transcript,2024,1,vendors_partnerships,2
+BPOP,"Popular, Inc.",sec_filing,2024,2,customer_facing_ai,4
+BPOP,"Popular, Inc.",sec_filing,2024,2,governance,4
+BPOP,"Popular, Inc.",sec_filing,2024,2,investment_spend,4
+BPOP,"Popular, Inc.",sec_filing,2024,2,vendors_partnerships,4
+BPOP,"Popular, Inc.",sec_filing,2024,2,operations_efficiency,3
+BPOP,"Popular, Inc.",sec_filing,2024,2,use_cases,3
+BPOP,"Popular, Inc.",sec_filing,2024,2,risk_controls,1
+BPOP,"Popular, Inc.",sec_filing,2024,4,customer_facing_ai,2
+BPOP,"Popular, Inc.",sec_filing,2024,4,measurable_outcomes,2
+BPOP,"Popular, Inc.",sec_filing,2024,4,operations_efficiency,2
+BPOP,"Popular, Inc.",sec_filing,2024,4,use_cases,2
+BPOP,"Popular, Inc.",sec_filing,2024,4,governance,1
+BPOP,"Popular, Inc.",sec_filing,2024,4,risk_controls,1
+BPOP,"Popular, Inc.",sec_filing,2024,4,vendors_partnerships,1
+BPOP,"Popular, Inc.",sec_filing,2025,2,customer_facing_ai,3
+BPOP,"Popular, Inc.",sec_filing,2025,2,governance,3
+BPOP,"Popular, Inc.",sec_filing,2025,2,investment_spend,3
+BPOP,"Popular, Inc.",sec_filing,2025,2,vendors_partnerships,3
+BPOP,"Popular, Inc.",sec_filing,2025,2,risk_controls,2
+BPOP,"Popular, Inc.",sec_filing,2025,2,operations_efficiency,1
+BPOP,"Popular, Inc.",sec_filing,2025,2,use_cases,1
+C,Citigroup Inc,sec_filing,2023,2,customer_facing_ai,1
+C,Citigroup Inc,sec_filing,2023,2,governance,1
+C,Citigroup Inc,sec_filing,2023,2,investment_spend,1
+C,Citigroup Inc,sec_filing,2023,2,measurable_outcomes,1
+C,Citigroup Inc,sec_filing,2023,2,operations_efficiency,1
+C,Citigroup Inc,sec_filing,2023,2,risk_controls,1
+C,Citigroup Inc,sec_filing,2023,2,use_cases,1
+C,Citigroup Inc,sec_filing,2023,2,vendors_partnerships,1
+C,Citigroup Inc,sec_filing,2023,3,customer_facing_ai,1
+C,Citigroup Inc,sec_filing,2023,3,governance,1
+C,Citigroup Inc,sec_filing,2023,3,investment_spend,1
+C,Citigroup Inc,sec_filing,2023,3,measurable_outcomes,1
+C,Citigroup Inc,sec_filing,2023,3,operations_efficiency,1
+C,Citigroup Inc,sec_filing,2023,3,risk_controls,1
+C,Citigroup Inc,sec_filing,2023,3,use_cases,1
+C,Citigroup Inc,sec_filing,2023,3,vendors_partnerships,1
+C,Citigroup Inc,sec_filing,2024,1,customer_facing_ai,1
+C,Citigroup Inc,sec_filing,2024,1,governance,1
+C,Citigroup Inc,sec_filing,2024,1,investment_spend,1
+C,Citigroup Inc,sec_filing,2024,1,measurable_outcomes,1
+C,Citigroup Inc,sec_filing,2024,1,operations_efficiency,1
+C,Citigroup Inc,sec_filing,2024,1,risk_controls,1
+C,Citigroup Inc,sec_filing,2024,1,use_cases,1
+C,Citigroup Inc,sec_filing,2024,1,vendors_partnerships,1
+C,Citigroup Inc,sec_filing,2024,2,governance,8
+C,Citigroup Inc,sec_filing,2024,2,use_cases,8
+C,Citigroup Inc,sec_filing,2024,2,customer_facing_ai,7
+C,Citigroup Inc,sec_filing,2024,2,investment_spend,7
+C,Citigroup Inc,sec_filing,2024,2,risk_controls,7
+C,Citigroup Inc,sec_filing,2024,2,measurable_outcomes,5
+C,Citigroup Inc,sec_filing,2024,2,operations_efficiency,5
+C,Citigroup Inc,sec_filing,2024,2,vendors_partnerships,4
+C,Citigroup Inc,transcript,2024,2,customer_facing_ai,1
+C,Citigroup Inc,transcript,2024,2,governance,1
+C,Citigroup Inc,transcript,2024,2,investment_spend,1
+C,Citigroup Inc,transcript,2024,2,measurable_outcomes,1
+C,Citigroup Inc,transcript,2024,2,operations_efficiency,1
+C,Citigroup Inc,transcript,2024,2,risk_controls,1
+C,Citigroup Inc,transcript,2024,2,use_cases,1
+C,Citigroup Inc,transcript,2024,2,vendors_partnerships,1
+C,Citigroup Inc,sec_filing,2024,3,customer_facing_ai,1
+C,Citigroup Inc,sec_filing,2024,3,governance,1
+C,Citigroup Inc,sec_filing,2024,3,investment_spend,1
+C,Citigroup Inc,sec_filing,2024,3,measurable_outcomes,1
+C,Citigroup Inc,sec_filing,2024,3,operations_efficiency,1
+C,Citigroup Inc,sec_filing,2024,3,risk_controls,1
+C,Citigroup Inc,sec_filing,2024,3,use_cases,1
+C,Citigroup Inc,sec_filing,2024,3,vendors_partnerships,1
+C,Citigroup Inc,sec_filing,2024,4,customer_facing_ai,10
+C,Citigroup Inc,sec_filing,2024,4,governance,10
+C,Citigroup Inc,sec_filing,2024,4,operations_efficiency,10
+C,Citigroup Inc,sec_filing,2024,4,risk_controls,10
+C,Citigroup Inc,sec_filing,2024,4,use_cases,10
+C,Citigroup Inc,sec_filing,2024,4,vendors_partnerships,10
+C,Citigroup Inc,sec_filing,2024,4,measurable_outcomes,9
+C,Citigroup Inc,transcript,2024,4,investment_spend,4
+C,Citigroup Inc,transcript,2024,4,measurable_outcomes,4
+C,Citigroup Inc,transcript,2024,4,operations_efficiency,4
+C,Citigroup Inc,transcript,2024,4,risk_controls,4
+C,Citigroup Inc,transcript,2024,4,use_cases,4
+C,Citigroup Inc,sec_filing,2024,4,investment_spend,3
+C,Citigroup Inc,transcript,2024,4,customer_facing_ai,2
+C,Citigroup Inc,transcript,2024,4,governance,2
+C,Citigroup Inc,transcript,2024,4,vendors_partnerships,2
+C,Citigroup Inc,sec_filing,2025,1,customer_facing_ai,3
+C,Citigroup Inc,sec_filing,2025,1,operations_efficiency,3
+C,Citigroup Inc,sec_filing,2025,1,use_cases,3
+C,Citigroup Inc,sec_filing,2025,1,governance,2
+C,Citigroup Inc,sec_filing,2025,1,investment_spend,2
+C,Citigroup Inc,sec_filing,2025,1,measurable_outcomes,2
+C,Citigroup Inc,sec_filing,2025,1,risk_controls,2
+C,Citigroup Inc,sec_filing,2025,1,vendors_partnerships,2
+C,Citigroup Inc,transcript,2025,1,measurable_outcomes,2
+C,Citigroup Inc,transcript,2025,1,customer_facing_ai,1
+C,Citigroup Inc,transcript,2025,1,investment_spend,1
+C,Citigroup Inc,transcript,2025,1,use_cases,1
+C,Citigroup Inc,sec_filing,2025,2,governance,7
+C,Citigroup Inc,sec_filing,2025,2,use_cases,7
+C,Citigroup Inc,transcript,2025,2,operations_efficiency,7
+C,Citigroup Inc,sec_filing,2025,2,customer_facing_ai,6
+C,Citigroup Inc,sec_filing,2025,2,risk_controls,6
+C,Citigroup Inc,transcript,2025,2,investment_spend,5
+C,Citigroup Inc,transcript,2025,2,measurable_outcomes,5
+C,Citigroup Inc,transcript,2025,2,vendors_partnerships,5
+C,Citigroup Inc,sec_filing,2025,2,investment_spend,4
+C,Citigroup Inc,sec_filing,2025,2,measurable_outcomes,4
+C,Citigroup Inc,sec_filing,2025,2,operations_efficiency,4
+C,Citigroup Inc,transcript,2025,2,use_cases,4
+C,Citigroup Inc,sec_filing,2025,2,vendors_partnerships,3
+C,Citigroup Inc,transcript,2025,2,customer_facing_ai,2
+C,Citigroup Inc,transcript,2025,2,governance,2
+C,Citigroup Inc,transcript,2025,2,risk_controls,1
+C,Citigroup Inc,sec_filing,2025,3,operations_efficiency,6
+C,Citigroup Inc,sec_filing,2025,3,customer_facing_ai,5
+C,Citigroup Inc,sec_filing,2025,3,governance,5
+C,Citigroup Inc,sec_filing,2025,3,investment_spend,5
+C,Citigroup Inc,sec_filing,2025,3,measurable_outcomes,5
+C,Citigroup Inc,sec_filing,2025,3,risk_controls,5
+C,Citigroup Inc,sec_filing,2025,3,use_cases,5
+C,Citigroup Inc,sec_filing,2025,3,vendors_partnerships,5
+C,Citigroup Inc,transcript,2025,3,customer_facing_ai,2
+C,Citigroup Inc,transcript,2025,3,governance,2
+C,Citigroup Inc,transcript,2025,3,investment_spend,2
+C,Citigroup Inc,transcript,2025,3,measurable_outcomes,2
+C,Citigroup Inc,transcript,2025,3,operations_efficiency,2
+C,Citigroup Inc,transcript,2025,3,risk_controls,2
+C,Citigroup Inc,transcript,2025,3,use_cases,2
+C,Citigroup Inc,sec_filing,2025,4,investment_spend,17
+C,Citigroup Inc,sec_filing,2025,4,use_cases,17
+C,Citigroup Inc,sec_filing,2025,4,customer_facing_ai,16
+C,Citigroup Inc,sec_filing,2025,4,governance,16
+C,Citigroup Inc,sec_filing,2025,4,operations_efficiency,16
+C,Citigroup Inc,sec_filing,2025,4,risk_controls,16
+C,Citigroup Inc,sec_filing,2025,4,measurable_outcomes,15
+C,Citigroup Inc,sec_filing,2025,4,vendors_partnerships,14
+C,Citigroup Inc,transcript,2025,4,investment_spend,7
+C,Citigroup Inc,transcript,2025,4,measurable_outcomes,7
+C,Citigroup Inc,transcript,2025,4,governance,6
+C,Citigroup Inc,transcript,2025,4,operations_efficiency,6
+C,Citigroup Inc,transcript,2025,4,risk_controls,6
+C,Citigroup Inc,transcript,2025,4,use_cases,6
+C,Citigroup Inc,transcript,2025,4,customer_facing_ai,5
+C,Citigroup Inc,transcript,2025,4,vendors_partnerships,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,customer_facing_ai,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,investment_spend,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,measurable_outcomes,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,operations_efficiency,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,use_cases,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,vendors_partnerships,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,governance,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,1,risk_controls,3
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,customer_facing_ai,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,governance,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,investment_spend,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,measurable_outcomes,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,operations_efficiency,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,risk_controls,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,use_cases,1
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,2,vendors_partnerships,1
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,customer_facing_ai,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,governance,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,investment_spend,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,measurable_outcomes,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,operations_efficiency,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,risk_controls,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,use_cases,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,3,vendors_partnerships,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,customer_facing_ai,9
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,investment_spend,9
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,measurable_outcomes,9
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,operations_efficiency,9
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,use_cases,9
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,vendors_partnerships,9
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,customer_facing_ai,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,governance,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,investment_spend,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,measurable_outcomes,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,operations_efficiency,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,risk_controls,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,use_cases,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2024,4,vendors_partnerships,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,risk_controls,6
+CFG,Citizens Financial Group Inc/Ri,transcript,2024,4,governance,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,customer_facing_ai,23
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,operations_efficiency,19
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,use_cases,19
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,investment_spend,18
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,risk_controls,17
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,governance,16
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,measurable_outcomes,16
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,vendors_partnerships,15
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,1,ai_strategy,8
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,governance,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,operations_efficiency,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,risk_controls,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,use_cases,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,investment_spend,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,measurable_outcomes,7
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,customer_facing_ai,6
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,vendors_partnerships,6
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,measurable_outcomes,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,use_cases,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,vendors_partnerships,5
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,2,investment_spend,4
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,operations_efficiency,4
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,customer_facing_ai,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,2,governance,1
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,investment_spend,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,measurable_outcomes,7
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,use_cases,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,vendors_partnerships,5
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,operations_efficiency,4
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,customer_facing_ai,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,3,governance,1
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,customer_facing_ai,20
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,vendors_partnerships,18
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,investment_spend,17
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,operations_efficiency,16
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,measurable_outcomes,13
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,governance,11
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,use_cases,11
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,customer_facing_ai,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,governance,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,investment_spend,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,measurable_outcomes,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,operations_efficiency,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,risk_controls,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,use_cases,4
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,risk_controls,4
+CFG,Citizens Financial Group Inc/Ri,sec_filing,2025,4,vendors_partnerships,3
+CFG,Citizens Financial Group Inc/Ri,transcript,2025,4,ai_strategy,1
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2023,4,governance,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2023,4,customer_facing_ai,1
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2023,4,risk_controls,1
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2023,4,use_cases,1
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,customer_facing_ai,3
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,governance,3
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,investment_spend,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,measurable_outcomes,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,operations_efficiency,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,risk_controls,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,use_cases,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2024,4,vendors_partnerships,2
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,customer_facing_ai,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,governance,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,investment_spend,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,measurable_outcomes,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,operations_efficiency,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,risk_controls,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,use_cases,5
+CFR,"Cullen/Frost Bankers, Inc.",sec_filing,2025,4,vendors_partnerships,5
+CMA,Comerica Inc,transcript,2024,1,governance,3
+CMA,Comerica Inc,transcript,2024,1,investment_spend,3
+CMA,Comerica Inc,transcript,2024,1,measurable_outcomes,3
+CMA,Comerica Inc,transcript,2024,1,operations_efficiency,3
+CMA,Comerica Inc,transcript,2024,1,vendors_partnerships,3
+CMA,Comerica Inc,transcript,2024,2,governance,2
+CMA,Comerica Inc,transcript,2024,2,investment_spend,2
+CMA,Comerica Inc,transcript,2024,2,measurable_outcomes,2
+CMA,Comerica Inc,transcript,2024,2,operations_efficiency,2
+CMA,Comerica Inc,transcript,2024,2,use_cases,2
+CMA,Comerica Inc,transcript,2024,2,vendors_partnerships,2
+CMA,Comerica Inc,transcript,2024,3,governance,2
+CMA,Comerica Inc,transcript,2024,3,investment_spend,2
+CMA,Comerica Inc,transcript,2024,3,measurable_outcomes,2
+CMA,Comerica Inc,transcript,2024,3,operations_efficiency,2
+CMA,Comerica Inc,transcript,2024,3,use_cases,2
+CMA,Comerica Inc,transcript,2024,3,vendors_partnerships,2
+CMA,Comerica Inc,transcript,2024,4,measurable_outcomes,9
+CMA,Comerica Inc,transcript,2024,4,vendors_partnerships,7
+CMA,Comerica Inc,transcript,2024,4,customer_facing_ai,6
+CMA,Comerica Inc,sec_filing,2024,4,customer_facing_ai,5
+CMA,Comerica Inc,sec_filing,2024,4,measurable_outcomes,5
+CMA,Comerica Inc,sec_filing,2024,4,operations_efficiency,5
+CMA,Comerica Inc,sec_filing,2024,4,risk_controls,5
+CMA,Comerica Inc,sec_filing,2024,4,use_cases,5
+CMA,Comerica Inc,transcript,2024,4,investment_spend,5
+CMA,Comerica Inc,transcript,2024,4,use_cases,5
+CMA,Comerica Inc,sec_filing,2024,4,governance,4
+CMA,Comerica Inc,transcript,2024,4,governance,4
+CMA,Comerica Inc,sec_filing,2024,4,investment_spend,3
+CMA,Comerica Inc,transcript,2024,4,operations_efficiency,3
+CMA,Comerica Inc,sec_filing,2024,4,vendors_partnerships,2
+CMA,Comerica Inc,transcript,2025,1,customer_facing_ai,10
+CMA,Comerica Inc,transcript,2025,1,measurable_outcomes,9
+CMA,Comerica Inc,transcript,2025,1,operations_efficiency,9
+CMA,Comerica Inc,transcript,2025,1,risk_controls,9
+CMA,Comerica Inc,transcript,2025,1,use_cases,9
+CMA,Comerica Inc,transcript,2025,1,vendors_partnerships,8
+CMA,Comerica Inc,transcript,2025,1,investment_spend,6
+CMA,Comerica Inc,transcript,2025,1,governance,5
+CMA,Comerica Inc,transcript,2025,3,vendors_partnerships,8
+CMA,Comerica Inc,transcript,2025,3,operations_efficiency,7
+CMA,Comerica Inc,transcript,2025,3,customer_facing_ai,6
+CMA,Comerica Inc,transcript,2025,3,investment_spend,5
+CMA,Comerica Inc,transcript,2025,3,measurable_outcomes,5
+CMA,Comerica Inc,transcript,2025,3,governance,3
+CMA,Comerica Inc,sec_filing,2025,3,customer_facing_ai,1
+CMA,Comerica Inc,sec_filing,2025,3,governance,1
+CMA,Comerica Inc,sec_filing,2025,3,investment_spend,1
+CMA,Comerica Inc,sec_filing,2025,3,measurable_outcomes,1
+CMA,Comerica Inc,sec_filing,2025,3,operations_efficiency,1
+CMA,Comerica Inc,sec_filing,2025,3,use_cases,1
+COF,Capital One Financial Corp,sec_filing,2024,1,customer_facing_ai,1
+COF,Capital One Financial Corp,sec_filing,2024,1,governance,1
+COF,Capital One Financial Corp,sec_filing,2024,1,investment_spend,1
+COF,Capital One Financial Corp,sec_filing,2024,1,measurable_outcomes,1
+COF,Capital One Financial Corp,sec_filing,2024,1,operations_efficiency,1
+COF,Capital One Financial Corp,sec_filing,2024,1,risk_controls,1
+COF,Capital One Financial Corp,sec_filing,2024,1,use_cases,1
+COF,Capital One Financial Corp,sec_filing,2024,1,vendors_partnerships,1
+COF,Capital One Financial Corp,sec_filing,2024,2,use_cases,4
+COF,Capital One Financial Corp,sec_filing,2024,2,vendors_partnerships,4
+COF,Capital One Financial Corp,sec_filing,2024,2,customer_facing_ai,3
+COF,Capital One Financial Corp,sec_filing,2024,2,governance,3
+COF,Capital One Financial Corp,sec_filing,2024,2,investment_spend,3
+COF,Capital One Financial Corp,sec_filing,2024,2,operations_efficiency,3
+COF,Capital One Financial Corp,sec_filing,2024,2,risk_controls,3
+COF,Capital One Financial Corp,transcript,2024,2,customer_facing_ai,3
+COF,Capital One Financial Corp,transcript,2024,2,investment_spend,3
+COF,Capital One Financial Corp,transcript,2024,2,measurable_outcomes,3
+COF,Capital One Financial Corp,transcript,2024,2,vendors_partnerships,3
+COF,Capital One Financial Corp,sec_filing,2024,2,measurable_outcomes,2
+COF,Capital One Financial Corp,transcript,2024,2,operations_efficiency,2
+COF,Capital One Financial Corp,sec_filing,2024,2,ai_strategy,1
+COF,Capital One Financial Corp,sec_filing,2024,3,customer_facing_ai,1
+COF,Capital One Financial Corp,sec_filing,2024,3,governance,1
+COF,Capital One Financial Corp,sec_filing,2024,3,investment_spend,1
+COF,Capital One Financial Corp,sec_filing,2024,3,measurable_outcomes,1
+COF,Capital One Financial Corp,sec_filing,2024,3,operations_efficiency,1
+COF,Capital One Financial Corp,sec_filing,2024,3,risk_controls,1
+COF,Capital One Financial Corp,sec_filing,2024,3,use_cases,1
+COF,Capital One Financial Corp,sec_filing,2024,3,vendors_partnerships,1
+COF,Capital One Financial Corp,sec_filing,2024,4,customer_facing_ai,19
+COF,Capital One Financial Corp,sec_filing,2024,4,governance,19
+COF,Capital One Financial Corp,sec_filing,2024,4,investment_spend,19
+COF,Capital One Financial Corp,sec_filing,2024,4,measurable_outcomes,19
+COF,Capital One Financial Corp,sec_filing,2024,4,operations_efficiency,19
+COF,Capital One Financial Corp,sec_filing,2024,4,risk_controls,19
+COF,Capital One Financial Corp,sec_filing,2024,4,use_cases,19
+COF,Capital One Financial Corp,sec_filing,2024,4,vendors_partnerships,19
+COF,Capital One Financial Corp,transcript,2025,1,customer_facing_ai,7
+COF,Capital One Financial Corp,transcript,2025,1,investment_spend,6
+COF,Capital One Financial Corp,transcript,2025,1,measurable_outcomes,6
+COF,Capital One Financial Corp,transcript,2025,1,governance,5
+COF,Capital One Financial Corp,transcript,2025,1,operations_efficiency,3
+COF,Capital One Financial Corp,sec_filing,2025,1,customer_facing_ai,2
+COF,Capital One Financial Corp,sec_filing,2025,1,governance,2
+COF,Capital One Financial Corp,sec_filing,2025,1,investment_spend,2
+COF,Capital One Financial Corp,sec_filing,2025,1,measurable_outcomes,2
+COF,Capital One Financial Corp,sec_filing,2025,1,operations_efficiency,2
+COF,Capital One Financial Corp,sec_filing,2025,1,risk_controls,2
+COF,Capital One Financial Corp,sec_filing,2025,1,use_cases,2
+COF,Capital One Financial Corp,sec_filing,2025,1,vendors_partnerships,2
+COF,Capital One Financial Corp,transcript,2025,1,risk_controls,2
+COF,Capital One Financial Corp,transcript,2025,1,use_cases,2
+COF,Capital One Financial Corp,sec_filing,2025,2,governance,24
+COF,Capital One Financial Corp,sec_filing,2025,2,use_cases,24
+COF,Capital One Financial Corp,sec_filing,2025,2,customer_facing_ai,23
+COF,Capital One Financial Corp,sec_filing,2025,2,investment_spend,23
+COF,Capital One Financial Corp,sec_filing,2025,2,measurable_outcomes,23
+COF,Capital One Financial Corp,sec_filing,2025,2,risk_controls,23
+COF,Capital One Financial Corp,sec_filing,2025,2,vendors_partnerships,23
+COF,Capital One Financial Corp,sec_filing,2025,2,operations_efficiency,22
+COF,Capital One Financial Corp,transcript,2025,2,investment_spend,5
+COF,Capital One Financial Corp,transcript,2025,2,customer_facing_ai,3
+COF,Capital One Financial Corp,transcript,2025,2,use_cases,3
+COF,Capital One Financial Corp,transcript,2025,2,measurable_outcomes,2
+COF,Capital One Financial Corp,transcript,2025,2,operations_efficiency,2
+COF,Capital One Financial Corp,transcript,2025,2,risk_controls,2
+COF,Capital One Financial Corp,sec_filing,2025,2,ai_strategy,1
+COF,Capital One Financial Corp,transcript,2025,3,customer_facing_ai,5
+COF,Capital One Financial Corp,transcript,2025,3,governance,5
+COF,Capital One Financial Corp,transcript,2025,3,investment_spend,5
+COF,Capital One Financial Corp,transcript,2025,3,measurable_outcomes,5
+COF,Capital One Financial Corp,transcript,2025,3,operations_efficiency,5
+COF,Capital One Financial Corp,transcript,2025,3,risk_controls,5
+COF,Capital One Financial Corp,transcript,2025,3,use_cases,5
+COF,Capital One Financial Corp,transcript,2025,3,vendors_partnerships,5
+COF,Capital One Financial Corp,sec_filing,2025,3,customer_facing_ai,2
+COF,Capital One Financial Corp,sec_filing,2025,3,governance,2
+COF,Capital One Financial Corp,sec_filing,2025,3,investment_spend,2
+COF,Capital One Financial Corp,sec_filing,2025,3,measurable_outcomes,2
+COF,Capital One Financial Corp,sec_filing,2025,3,operations_efficiency,2
+COF,Capital One Financial Corp,sec_filing,2025,3,use_cases,2
+COF,Capital One Financial Corp,sec_filing,2025,3,vendors_partnerships,2
+COF,Capital One Financial Corp,sec_filing,2025,3,risk_controls,1
+COF,Capital One Financial Corp,sec_filing,2025,4,customer_facing_ai,33
+COF,Capital One Financial Corp,sec_filing,2025,4,investment_spend,33
+COF,Capital One Financial Corp,sec_filing,2025,4,measurable_outcomes,33
+COF,Capital One Financial Corp,sec_filing,2025,4,operations_efficiency,33
+COF,Capital One Financial Corp,sec_filing,2025,4,use_cases,33
+COF,Capital One Financial Corp,sec_filing,2025,4,vendors_partnerships,33
+COF,Capital One Financial Corp,sec_filing,2025,4,governance,32
+COF,Capital One Financial Corp,sec_filing,2025,4,risk_controls,32
+COF,Capital One Financial Corp,transcript,2025,4,investment_spend,8
+COF,Capital One Financial Corp,transcript,2025,4,customer_facing_ai,7
+COF,Capital One Financial Corp,transcript,2025,4,governance,6
+COF,Capital One Financial Corp,transcript,2025,4,measurable_outcomes,6
+COF,Capital One Financial Corp,transcript,2025,4,use_cases,6
+COF,Capital One Financial Corp,transcript,2025,4,risk_controls,5
+COF,Capital One Financial Corp,transcript,2025,4,vendors_partnerships,5
+COF,Capital One Financial Corp,transcript,2025,4,operations_efficiency,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,customer_facing_ai,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,governance,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,investment_spend,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,measurable_outcomes,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,operations_efficiency,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,risk_controls,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,use_cases,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2023,4,vendors_partnerships,3
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,customer_facing_ai,6
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,investment_spend,6
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,measurable_outcomes,6
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,operations_efficiency,6
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,use_cases,6
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,customer_facing_ai,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,governance,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,investment_spend,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,operations_efficiency,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,risk_controls,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,use_cases,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,2,vendors_partnerships,2
+COLB,"Columbia Banking System, Inc.",transcript,2024,2,vendors_partnerships,2
+COLB,"Columbia Banking System, Inc.",transcript,2024,3,customer_facing_ai,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,3,investment_spend,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,3,measurable_outcomes,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,3,operations_efficiency,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,3,vendors_partnerships,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,customer_facing_ai,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,governance,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,investment_spend,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,measurable_outcomes,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,operations_efficiency,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,risk_controls,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,use_cases,3
+COLB,"Columbia Banking System, Inc.",sec_filing,2024,4,vendors_partnerships,3
+COLB,"Columbia Banking System, Inc.",transcript,2024,4,customer_facing_ai,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,4,investment_spend,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,4,measurable_outcomes,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,4,operations_efficiency,1
+COLB,"Columbia Banking System, Inc.",transcript,2024,4,vendors_partnerships,1
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,customer_facing_ai,2
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,operations_efficiency,2
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,customer_facing_ai,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,governance,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,investment_spend,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,risk_controls,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,use_cases,1
+COLB,"Columbia Banking System, Inc.",sec_filing,2025,2,vendors_partnerships,1
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,governance,1
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,investment_spend,1
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,use_cases,1
+COLB,"Columbia Banking System, Inc.",transcript,2025,2,vendors_partnerships,1
+DFS,Discover Financial Services,sec_filing,2023,4,governance,4
+DFS,Discover Financial Services,sec_filing,2023,4,investment_spend,4
+DFS,Discover Financial Services,sec_filing,2023,4,operations_efficiency,4
+DFS,Discover Financial Services,sec_filing,2023,4,risk_controls,4
+DFS,Discover Financial Services,sec_filing,2023,4,use_cases,4
+DFS,Discover Financial Services,sec_filing,2023,4,customer_facing_ai,3
+DFS,Discover Financial Services,sec_filing,2023,4,measurable_outcomes,3
+DFS,Discover Financial Services,sec_filing,2023,4,vendors_partnerships,3
+DFS,Discover Financial Services,sec_filing,2024,2,governance,5
+DFS,Discover Financial Services,sec_filing,2024,2,operations_efficiency,4
+DFS,Discover Financial Services,sec_filing,2024,2,risk_controls,4
+DFS,Discover Financial Services,sec_filing,2024,2,use_cases,4
+DFS,Discover Financial Services,transcript,2024,2,investment_spend,3
+DFS,Discover Financial Services,transcript,2024,2,measurable_outcomes,3
+DFS,Discover Financial Services,transcript,2024,2,operations_efficiency,3
+DFS,Discover Financial Services,transcript,2024,2,use_cases,3
+DFS,Discover Financial Services,transcript,2024,2,vendors_partnerships,3
+DFS,Discover Financial Services,sec_filing,2024,2,customer_facing_ai,2
+DFS,Discover Financial Services,transcript,2024,2,customer_facing_ai,1
+DFS,Discover Financial Services,transcript,2024,2,governance,1
+DFS,Discover Financial Services,sec_filing,2024,4,governance,7
+DFS,Discover Financial Services,sec_filing,2024,4,measurable_outcomes,7
+DFS,Discover Financial Services,sec_filing,2024,4,risk_controls,7
+DFS,Discover Financial Services,sec_filing,2024,4,use_cases,7
+DFS,Discover Financial Services,sec_filing,2024,4,customer_facing_ai,6
+DFS,Discover Financial Services,sec_filing,2024,4,investment_spend,6
+DFS,Discover Financial Services,sec_filing,2024,4,operations_efficiency,6
+DFS,Discover Financial Services,sec_filing,2024,4,vendors_partnerships,6
+DFS,Discover Financial Services,transcript,2025,1,customer_facing_ai,2
+DFS,Discover Financial Services,transcript,2025,1,investment_spend,2
+DFS,Discover Financial Services,transcript,2025,1,measurable_outcomes,2
+DFS,Discover Financial Services,transcript,2025,1,operations_efficiency,2
+DFS,Discover Financial Services,transcript,2025,1,vendors_partnerships,2
+DFS,Discover Financial Services,transcript,2025,2,customer_facing_ai,2
+DFS,Discover Financial Services,transcript,2025,2,investment_spend,2
+DFS,Discover Financial Services,transcript,2025,2,measurable_outcomes,2
+DFS,Discover Financial Services,transcript,2025,2,use_cases,2
+EWBC,East West Bancorp Inc,transcript,2024,2,customer_facing_ai,6
+EWBC,East West Bancorp Inc,transcript,2024,2,investment_spend,6
+EWBC,East West Bancorp Inc,transcript,2024,2,measurable_outcomes,6
+EWBC,East West Bancorp Inc,transcript,2024,2,operations_efficiency,6
+EWBC,East West Bancorp Inc,transcript,2024,2,use_cases,6
+EWBC,East West Bancorp Inc,transcript,2024,2,vendors_partnerships,2
+EWBC,East West Bancorp Inc,sec_filing,2024,2,governance,1
+EWBC,East West Bancorp Inc,sec_filing,2024,2,risk_controls,1
+EWBC,East West Bancorp Inc,sec_filing,2024,2,use_cases,1
+EWBC,East West Bancorp Inc,transcript,2024,3,customer_facing_ai,1
+EWBC,East West Bancorp Inc,transcript,2024,3,investment_spend,1
+EWBC,East West Bancorp Inc,transcript,2024,3,measurable_outcomes,1
+EWBC,East West Bancorp Inc,transcript,2024,3,vendors_partnerships,1
+EWBC,East West Bancorp Inc,transcript,2024,4,customer_facing_ai,1
+EWBC,East West Bancorp Inc,transcript,2024,4,investment_spend,1
+EWBC,East West Bancorp Inc,transcript,2024,4,measurable_outcomes,1
+EWBC,East West Bancorp Inc,transcript,2024,4,vendors_partnerships,1
+EWBC,East West Bancorp Inc,sec_filing,2025,2,governance,2
+EWBC,East West Bancorp Inc,sec_filing,2025,2,investment_spend,2
+EWBC,East West Bancorp Inc,sec_filing,2025,2,risk_controls,2
+EWBC,East West Bancorp Inc,sec_filing,2025,2,use_cases,2
+EWBC,East West Bancorp Inc,transcript,2025,4,customer_facing_ai,1
+EWBC,East West Bancorp Inc,transcript,2025,4,operations_efficiency,1
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,customer_facing_ai,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,governance,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,investment_spend,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,measurable_outcomes,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,operations_efficiency,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,risk_controls,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,use_cases,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2023,4,vendors_partnerships,2
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,governance,7
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,investment_spend,7
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,measurable_outcomes,7
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,customer_facing_ai,6
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,operations_efficiency,6
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,risk_controls,6
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,use_cases,6
+FCNCA,First Citizens Bancshares Inc,sec_filing,2024,4,vendors_partnerships,6
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,investment_spend,7
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,measurable_outcomes,7
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,use_cases,5
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,vendors_partnerships,5
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,operations_efficiency,4
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,customer_facing_ai,3
+FCNCA,First Citizens Bancshares Inc,transcript,2025,2,governance,1
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,investment_spend,7
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,measurable_outcomes,7
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,use_cases,5
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,vendors_partnerships,5
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,operations_efficiency,4
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,customer_facing_ai,3
+FCNCA,First Citizens Bancshares Inc,transcript,2025,3,governance,1
+FHN,First Horizon Corp,sec_filing,2023,4,investment_spend,5
+FHN,First Horizon Corp,sec_filing,2023,4,use_cases,5
+FHN,First Horizon Corp,sec_filing,2023,4,measurable_outcomes,4
+FHN,First Horizon Corp,sec_filing,2023,4,vendors_partnerships,4
+FHN,First Horizon Corp,sec_filing,2023,4,customer_facing_ai,3
+FHN,First Horizon Corp,sec_filing,2023,4,operations_efficiency,2
+FHN,First Horizon Corp,sec_filing,2023,4,risk_controls,2
+FHN,First Horizon Corp,sec_filing,2023,4,governance,1
+FHN,First Horizon Corp,transcript,2024,2,investment_spend,7
+FHN,First Horizon Corp,transcript,2024,2,customer_facing_ai,6
+FHN,First Horizon Corp,transcript,2024,2,governance,6
+FHN,First Horizon Corp,transcript,2024,2,measurable_outcomes,5
+FHN,First Horizon Corp,transcript,2024,2,operations_efficiency,5
+FHN,First Horizon Corp,transcript,2024,2,risk_controls,3
+FHN,First Horizon Corp,transcript,2024,2,use_cases,3
+FHN,First Horizon Corp,sec_filing,2024,4,use_cases,6
+FHN,First Horizon Corp,sec_filing,2024,4,vendors_partnerships,6
+FHN,First Horizon Corp,sec_filing,2024,4,governance,3
+FHN,First Horizon Corp,sec_filing,2024,4,investment_spend,3
+FHN,First Horizon Corp,sec_filing,2024,4,customer_facing_ai,2
+FHN,First Horizon Corp,sec_filing,2024,4,measurable_outcomes,2
+FHN,First Horizon Corp,sec_filing,2024,4,risk_controls,2
+FHN,First Horizon Corp,sec_filing,2024,4,operations_efficiency,1
+FHN,First Horizon Corp,sec_filing,2025,2,governance,2
+FHN,First Horizon Corp,sec_filing,2025,2,investment_spend,2
+FHN,First Horizon Corp,sec_filing,2025,2,measurable_outcomes,2
+FHN,First Horizon Corp,sec_filing,2025,2,operations_efficiency,2
+FHN,First Horizon Corp,sec_filing,2025,2,use_cases,2
+FHN,First Horizon Corp,sec_filing,2025,2,risk_controls,1
+FHN,First Horizon Corp,sec_filing,2025,2,vendors_partnerships,1
+FITB,Fifth Third Bancorp,sec_filing,2023,4,governance,2
+FITB,Fifth Third Bancorp,sec_filing,2023,4,operations_efficiency,2
+FITB,Fifth Third Bancorp,sec_filing,2023,4,risk_controls,2
+FITB,Fifth Third Bancorp,sec_filing,2023,4,use_cases,2
+FITB,Fifth Third Bancorp,sec_filing,2023,4,vendors_partnerships,2
+FITB,Fifth Third Bancorp,transcript,2024,3,customer_facing_ai,1
+FITB,Fifth Third Bancorp,transcript,2024,3,investment_spend,1
+FITB,Fifth Third Bancorp,transcript,2024,3,measurable_outcomes,1
+FITB,Fifth Third Bancorp,transcript,2024,3,operations_efficiency,1
+FITB,Fifth Third Bancorp,transcript,2024,3,vendors_partnerships,1
+FITB,Fifth Third Bancorp,transcript,2024,4,customer_facing_ai,39
+FITB,Fifth Third Bancorp,transcript,2024,4,investment_spend,39
+FITB,Fifth Third Bancorp,transcript,2024,4,operations_efficiency,39
+FITB,Fifth Third Bancorp,transcript,2024,4,use_cases,39
+FITB,Fifth Third Bancorp,transcript,2024,4,vendors_partnerships,39
+FITB,Fifth Third Bancorp,transcript,2024,4,measurable_outcomes,37
+FITB,Fifth Third Bancorp,transcript,2024,4,ai_strategy,22
+FITB,Fifth Third Bancorp,transcript,2024,4,governance,15
+FITB,Fifth Third Bancorp,sec_filing,2024,4,operations_efficiency,7
+FITB,Fifth Third Bancorp,sec_filing,2024,4,risk_controls,7
+FITB,Fifth Third Bancorp,sec_filing,2024,4,use_cases,7
+FITB,Fifth Third Bancorp,sec_filing,2024,4,vendors_partnerships,7
+FITB,Fifth Third Bancorp,sec_filing,2024,4,customer_facing_ai,5
+FITB,Fifth Third Bancorp,sec_filing,2024,4,investment_spend,5
+FITB,Fifth Third Bancorp,sec_filing,2024,4,measurable_outcomes,5
+FITB,Fifth Third Bancorp,sec_filing,2024,4,governance,2
+FITB,Fifth Third Bancorp,sec_filing,2025,1,customer_facing_ai,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,investment_spend,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,measurable_outcomes,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,operations_efficiency,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,risk_controls,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,use_cases,1
+FITB,Fifth Third Bancorp,sec_filing,2025,1,vendors_partnerships,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,customer_facing_ai,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,investment_spend,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,measurable_outcomes,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,operations_efficiency,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,risk_controls,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,use_cases,1
+FITB,Fifth Third Bancorp,sec_filing,2025,2,vendors_partnerships,1
+FITB,Fifth Third Bancorp,transcript,2025,2,customer_facing_ai,1
+FITB,Fifth Third Bancorp,transcript,2025,2,investment_spend,1
+FITB,Fifth Third Bancorp,transcript,2025,2,measurable_outcomes,1
+FITB,Fifth Third Bancorp,transcript,2025,2,operations_efficiency,1
+FITB,Fifth Third Bancorp,transcript,2025,2,vendors_partnerships,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,customer_facing_ai,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,investment_spend,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,measurable_outcomes,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,operations_efficiency,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,risk_controls,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,use_cases,1
+FITB,Fifth Third Bancorp,sec_filing,2025,3,vendors_partnerships,1
+FITB,Fifth Third Bancorp,transcript,2025,4,measurable_outcomes,6
+FITB,Fifth Third Bancorp,transcript,2025,4,customer_facing_ai,5
+FITB,Fifth Third Bancorp,transcript,2025,4,investment_spend,5
+FITB,Fifth Third Bancorp,transcript,2025,4,operations_efficiency,5
+FITB,Fifth Third Bancorp,transcript,2025,4,governance,4
+FITB,Fifth Third Bancorp,transcript,2025,4,risk_controls,4
+FITB,Fifth Third Bancorp,transcript,2025,4,use_cases,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,customer_facing_ai,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,investment_spend,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,measurable_outcomes,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,operations_efficiency,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,risk_controls,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,use_cases,2
+FITB,Fifth Third Bancorp,sec_filing,2026,1,vendors_partnerships,2
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,customer_facing_ai,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,governance,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,investment_spend,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,measurable_outcomes,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,operations_efficiency,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,vendors_partnerships,16
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,risk_controls,5
+FLG,"Flagstar Financial, Inc.",transcript,2024,1,use_cases,5
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,ai_strategy,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,customer_facing_ai,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,governance,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,investment_spend,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,measurable_outcomes,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,operations_efficiency,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,risk_controls,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,use_cases,23
+FLG,"Flagstar Financial, Inc.",transcript,2024,2,vendors_partnerships,23
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,measurable_outcomes,3
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,operations_efficiency,3
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,vendors_partnerships,3
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,customer_facing_ai,1
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,governance,1
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,investment_spend,1
+FLG,"Flagstar Financial, Inc.",sec_filing,2024,2,use_cases,1
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,investment_spend,6
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,customer_facing_ai,5
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,measurable_outcomes,4
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,use_cases,4
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,operations_efficiency,3
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,governance,1
+FLG,"Flagstar Financial, Inc.",transcript,2024,4,risk_controls,1
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,investment_spend,4
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,measurable_outcomes,4
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,operations_efficiency,4
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,governance,3
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,use_cases,1
+FLG,"Flagstar Financial, Inc.",transcript,2025,3,vendors_partnerships,1
+FNB,Fnb Corp,sec_filing,2023,4,customer_facing_ai,1
+FNB,Fnb Corp,sec_filing,2023,4,governance,1
+FNB,Fnb Corp,sec_filing,2023,4,investment_spend,1
+FNB,Fnb Corp,sec_filing,2023,4,measurable_outcomes,1
+FNB,Fnb Corp,sec_filing,2023,4,operations_efficiency,1
+FNB,Fnb Corp,sec_filing,2023,4,risk_controls,1
+FNB,Fnb Corp,sec_filing,2023,4,use_cases,1
+FNB,Fnb Corp,sec_filing,2023,4,vendors_partnerships,1
+FNB,Fnb Corp,transcript,2024,1,measurable_outcomes,2
+FNB,Fnb Corp,transcript,2024,1,operations_efficiency,2
+FNB,Fnb Corp,transcript,2024,1,investment_spend,1
+FNB,Fnb Corp,transcript,2024,1,use_cases,1
+FNB,Fnb Corp,transcript,2024,1,vendors_partnerships,1
+FNB,Fnb Corp,transcript,2024,2,customer_facing_ai,3
+FNB,Fnb Corp,transcript,2024,2,investment_spend,3
+FNB,Fnb Corp,transcript,2024,2,measurable_outcomes,3
+FNB,Fnb Corp,transcript,2024,2,vendors_partnerships,3
+FNB,Fnb Corp,sec_filing,2024,2,investment_spend,2
+FNB,Fnb Corp,sec_filing,2024,2,measurable_outcomes,2
+FNB,Fnb Corp,sec_filing,2024,2,operations_efficiency,2
+FNB,Fnb Corp,sec_filing,2024,2,use_cases,2
+FNB,Fnb Corp,sec_filing,2024,2,vendors_partnerships,2
+FNB,Fnb Corp,transcript,2024,2,operations_efficiency,2
+FNB,Fnb Corp,sec_filing,2024,2,governance,1
+FNB,Fnb Corp,transcript,2024,3,investment_spend,3
+FNB,Fnb Corp,transcript,2024,3,measurable_outcomes,3
+FNB,Fnb Corp,transcript,2024,3,operations_efficiency,3
+FNB,Fnb Corp,transcript,2024,3,governance,2
+FNB,Fnb Corp,transcript,2024,3,vendors_partnerships,2
+FNB,Fnb Corp,transcript,2024,3,customer_facing_ai,1
+FNB,Fnb Corp,transcript,2024,3,use_cases,1
+FNB,Fnb Corp,sec_filing,2024,4,customer_facing_ai,2
+FNB,Fnb Corp,sec_filing,2024,4,governance,2
+FNB,Fnb Corp,sec_filing,2024,4,investment_spend,2
+FNB,Fnb Corp,sec_filing,2024,4,measurable_outcomes,2
+FNB,Fnb Corp,sec_filing,2024,4,operations_efficiency,2
+FNB,Fnb Corp,sec_filing,2024,4,risk_controls,2
+FNB,Fnb Corp,sec_filing,2024,4,use_cases,2
+FNB,Fnb Corp,sec_filing,2024,4,vendors_partnerships,2
+FNB,Fnb Corp,transcript,2024,4,measurable_outcomes,2
+FNB,Fnb Corp,transcript,2024,4,operations_efficiency,2
+FNB,Fnb Corp,transcript,2024,4,investment_spend,1
+FNB,Fnb Corp,transcript,2024,4,use_cases,1
+FNB,Fnb Corp,transcript,2024,4,vendors_partnerships,1
+FNB,Fnb Corp,transcript,2025,1,customer_facing_ai,7
+FNB,Fnb Corp,transcript,2025,1,investment_spend,6
+FNB,Fnb Corp,transcript,2025,1,measurable_outcomes,6
+FNB,Fnb Corp,transcript,2025,1,governance,5
+FNB,Fnb Corp,transcript,2025,1,operations_efficiency,3
+FNB,Fnb Corp,transcript,2025,1,risk_controls,2
+FNB,Fnb Corp,transcript,2025,1,use_cases,2
+FNB,Fnb Corp,transcript,2025,2,investment_spend,7
+FNB,Fnb Corp,transcript,2025,2,customer_facing_ai,6
+FNB,Fnb Corp,transcript,2025,2,governance,6
+FNB,Fnb Corp,transcript,2025,2,measurable_outcomes,5
+FNB,Fnb Corp,transcript,2025,2,operations_efficiency,5
+FNB,Fnb Corp,transcript,2025,2,risk_controls,3
+FNB,Fnb Corp,transcript,2025,2,use_cases,3
+FNB,Fnb Corp,sec_filing,2025,2,governance,2
+FNB,Fnb Corp,sec_filing,2025,2,investment_spend,2
+FNB,Fnb Corp,sec_filing,2025,2,customer_facing_ai,1
+FNB,Fnb Corp,sec_filing,2025,2,operations_efficiency,1
+FNB,Fnb Corp,sec_filing,2025,2,risk_controls,1
+FNB,Fnb Corp,sec_filing,2025,2,use_cases,1
+FNB,Fnb Corp,sec_filing,2025,2,vendors_partnerships,1
+FNB,Fnb Corp,transcript,2025,3,measurable_outcomes,13
+FNB,Fnb Corp,transcript,2025,3,operations_efficiency,12
+FNB,Fnb Corp,transcript,2025,3,investment_spend,8
+FNB,Fnb Corp,transcript,2025,3,governance,6
+FNB,Fnb Corp,transcript,2025,3,use_cases,6
+FNB,Fnb Corp,transcript,2025,3,customer_facing_ai,5
+FNB,Fnb Corp,transcript,2025,3,vendors_partnerships,5
+FNB,Fnb Corp,transcript,2025,3,risk_controls,3
+FNB,Fnb Corp,sec_filing,2025,3,investment_spend,1
+FNB,Fnb Corp,sec_filing,2025,3,measurable_outcomes,1
+FNB,Fnb Corp,sec_filing,2025,3,operations_efficiency,1
+FNB,Fnb Corp,sec_filing,2025,3,risk_controls,1
+FNB,Fnb Corp,sec_filing,2025,3,use_cases,1
+FNB,Fnb Corp,sec_filing,2025,3,vendors_partnerships,1
+FNB,Fnb Corp,transcript,2025,4,measurable_outcomes,2
+FNB,Fnb Corp,transcript,2025,4,operations_efficiency,2
+FNB,Fnb Corp,transcript,2025,4,investment_spend,1
+FNB,Fnb Corp,transcript,2025,4,use_cases,1
+FNB,Fnb Corp,transcript,2025,4,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,3,governance,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,3,investment_spend,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,3,measurable_outcomes,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,3,risk_controls,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,3,use_cases,1
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,measurable_outcomes,9
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,use_cases,9
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,operations_efficiency,8
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,risk_controls,8
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,vendors_partnerships,5
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,customer_facing_ai,4
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,investment_spend,4
+GS,Goldman Sachs Group Inc,sec_filing,2023,4,governance,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,measurable_outcomes,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,governance,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,investment_spend,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,operations_efficiency,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,risk_controls,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,use_cases,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,customer_facing_ai,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,1,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,measurable_outcomes,4
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,governance,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,investment_spend,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,operations_efficiency,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,risk_controls,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,use_cases,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,customer_facing_ai,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,2,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,measurable_outcomes,4
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,governance,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,operations_efficiency,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,risk_controls,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,use_cases,3
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,investment_spend,2
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,customer_facing_ai,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,3,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,operations_efficiency,16
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,measurable_outcomes,15
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,use_cases,15
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,risk_controls,14
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,investment_spend,10
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,customer_facing_ai,8
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,governance,8
+GS,Goldman Sachs Group Inc,transcript,2024,4,measurable_outcomes,6
+GS,Goldman Sachs Group Inc,transcript,2024,4,operations_efficiency,6
+GS,Goldman Sachs Group Inc,sec_filing,2024,4,vendors_partnerships,5
+GS,Goldman Sachs Group Inc,transcript,2024,4,customer_facing_ai,4
+GS,Goldman Sachs Group Inc,transcript,2024,4,investment_spend,4
+GS,Goldman Sachs Group Inc,transcript,2024,4,use_cases,4
+GS,Goldman Sachs Group Inc,transcript,2024,4,vendors_partnerships,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,governance,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,measurable_outcomes,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,operations_efficiency,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,risk_controls,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,use_cases,3
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,customer_facing_ai,1
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,investment_spend,1
+GS,Goldman Sachs Group Inc,sec_filing,2025,1,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,transcript,2025,2,measurable_outcomes,7
+GS,Goldman Sachs Group Inc,transcript,2025,2,operations_efficiency,7
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,measurable_outcomes,6
+GS,Goldman Sachs Group Inc,transcript,2025,2,investment_spend,6
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,governance,5
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,operations_efficiency,5
+GS,Goldman Sachs Group Inc,transcript,2025,2,customer_facing_ai,5
+GS,Goldman Sachs Group Inc,transcript,2025,2,governance,5
+GS,Goldman Sachs Group Inc,transcript,2025,2,use_cases,5
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,risk_controls,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,investment_spend,3
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,use_cases,3
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,customer_facing_ai,2
+GS,Goldman Sachs Group Inc,sec_filing,2025,2,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,transcript,2025,2,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,measurable_outcomes,5
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,operations_efficiency,5
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,governance,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,risk_controls,4
+GS,Goldman Sachs Group Inc,transcript,2025,3,investment_spend,4
+GS,Goldman Sachs Group Inc,transcript,2025,3,measurable_outcomes,4
+GS,Goldman Sachs Group Inc,transcript,2025,3,operations_efficiency,4
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,use_cases,3
+GS,Goldman Sachs Group Inc,transcript,2025,3,governance,3
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,customer_facing_ai,2
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,investment_spend,2
+GS,Goldman Sachs Group Inc,sec_filing,2025,3,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,transcript,2025,3,use_cases,1
+GS,Goldman Sachs Group Inc,transcript,2025,3,vendors_partnerships,1
+GS,Goldman Sachs Group Inc,transcript,2025,4,measurable_outcomes,6
+GS,Goldman Sachs Group Inc,transcript,2025,4,operations_efficiency,6
+GS,Goldman Sachs Group Inc,transcript,2025,4,customer_facing_ai,4
+GS,Goldman Sachs Group Inc,transcript,2025,4,investment_spend,4
+GS,Goldman Sachs Group Inc,transcript,2025,4,use_cases,4
+GS,Goldman Sachs Group Inc,transcript,2025,4,vendors_partnerships,4
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,customer_facing_ai,3
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,governance,3
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,investment_spend,3
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,measurable_outcomes,2
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,use_cases,2
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,vendors_partnerships,2
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,operations_efficiency,1
+HBAN,Huntington Bancshares Inc,sec_filing,2024,2,risk_controls,1
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,governance,6
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,customer_facing_ai,5
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,measurable_outcomes,5
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,operations_efficiency,5
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,risk_controls,5
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,use_cases,5
+HBAN,Huntington Bancshares Inc,sec_filing,2024,4,vendors_partnerships,5
+HBAN,Huntington Bancshares Inc,transcript,2025,1,customer_facing_ai,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,governance,3
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,risk_controls,3
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,use_cases,3
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,customer_facing_ai,2
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,measurable_outcomes,2
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,operations_efficiency,2
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,vendors_partnerships,2
+HBAN,Huntington Bancshares Inc,sec_filing,2025,2,investment_spend,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,customer_facing_ai,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,governance,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,investment_spend,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,measurable_outcomes,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,risk_controls,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,use_cases,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,3,vendors_partnerships,1
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,customer_facing_ai,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,governance,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,measurable_outcomes,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,risk_controls,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,use_cases,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,vendors_partnerships,7
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,operations_efficiency,6
+HBAN,Huntington Bancshares Inc,transcript,2025,4,investment_spend,3
+HBAN,Huntington Bancshares Inc,sec_filing,2025,4,investment_spend,2
+HBAN,Huntington Bancshares Inc,transcript,2025,4,measurable_outcomes,2
+HBAN,Huntington Bancshares Inc,transcript,2025,4,operations_efficiency,2
+HBAN,Huntington Bancshares Inc,transcript,2025,4,customer_facing_ai,1
+HBAN,Huntington Bancshares Inc,transcript,2025,4,vendors_partnerships,1
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,governance,7
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,customer_facing_ai,5
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,investment_spend,4
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,measurable_outcomes,4
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,risk_controls,4
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,operations_efficiency,3
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,use_cases,2
+JPM,Jpmorgan Chase & Co,sec_filing,2024,2,vendors_partnerships,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,customer_facing_ai,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,governance,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,investment_spend,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,measurable_outcomes,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,operations_efficiency,1
+JPM,Jpmorgan Chase & Co,transcript,2024,2,use_cases,1
+JPM,Jpmorgan Chase & Co,transcript,2024,3,governance,3
+JPM,Jpmorgan Chase & Co,transcript,2024,3,investment_spend,3
+JPM,Jpmorgan Chase & Co,transcript,2024,3,measurable_outcomes,3
+JPM,Jpmorgan Chase & Co,transcript,2024,3,operations_efficiency,3
+JPM,Jpmorgan Chase & Co,transcript,2024,3,use_cases,3
+JPM,Jpmorgan Chase & Co,transcript,2024,3,vendors_partnerships,3
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,use_cases,9
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,governance,8
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,measurable_outcomes,8
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,operations_efficiency,8
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,risk_controls,8
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,vendors_partnerships,8
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,customer_facing_ai,6
+JPM,Jpmorgan Chase & Co,sec_filing,2024,4,investment_spend,5
+JPM,Jpmorgan Chase & Co,transcript,2025,1,measurable_outcomes,12
+JPM,Jpmorgan Chase & Co,transcript,2025,1,vendors_partnerships,12
+JPM,Jpmorgan Chase & Co,transcript,2025,1,investment_spend,11
+JPM,Jpmorgan Chase & Co,transcript,2025,1,operations_efficiency,11
+JPM,Jpmorgan Chase & Co,transcript,2025,1,use_cases,10
+JPM,Jpmorgan Chase & Co,transcript,2025,1,customer_facing_ai,8
+JPM,Jpmorgan Chase & Co,transcript,2025,1,risk_controls,3
+JPM,Jpmorgan Chase & Co,transcript,2025,1,governance,1
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,customer_facing_ai,24
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,governance,23
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,investment_spend,19
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,risk_controls,19
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,operations_efficiency,16
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,vendors_partnerships,15
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,measurable_outcomes,14
+JPM,Jpmorgan Chase & Co,sec_filing,2025,2,use_cases,7
+JPM,Jpmorgan Chase & Co,transcript,2025,2,customer_facing_ai,1
+JPM,Jpmorgan Chase & Co,transcript,2025,2,investment_spend,1
+JPM,Jpmorgan Chase & Co,transcript,2025,3,measurable_outcomes,14
+JPM,Jpmorgan Chase & Co,transcript,2025,3,customer_facing_ai,12
+JPM,Jpmorgan Chase & Co,transcript,2025,3,investment_spend,11
+JPM,Jpmorgan Chase & Co,transcript,2025,3,operations_efficiency,10
+JPM,Jpmorgan Chase & Co,transcript,2025,3,use_cases,10
+JPM,Jpmorgan Chase & Co,transcript,2025,3,vendors_partnerships,10
+JPM,Jpmorgan Chase & Co,transcript,2025,3,governance,5
+JPM,Jpmorgan Chase & Co,transcript,2025,3,risk_controls,4
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,use_cases,13
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,governance,12
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,measurable_outcomes,11
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,risk_controls,11
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,investment_spend,10
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,operations_efficiency,10
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,customer_facing_ai,9
+JPM,Jpmorgan Chase & Co,sec_filing,2025,4,vendors_partnerships,7
+JPM,Jpmorgan Chase & Co,transcript,2025,4,investment_spend,6
+JPM,Jpmorgan Chase & Co,transcript,2025,4,customer_facing_ai,3
+JPM,Jpmorgan Chase & Co,transcript,2025,4,measurable_outcomes,3
+JPM,Jpmorgan Chase & Co,transcript,2025,4,governance,1
+JPM,Jpmorgan Chase & Co,transcript,2025,4,operations_efficiency,1
+JPM,Jpmorgan Chase & Co,transcript,2025,4,use_cases,1
+JPM,Jpmorgan Chase & Co,transcript,2025,4,vendors_partnerships,1
+JPM,Jpmorgan Chase & Co,sec_filing,2026,1,governance,1
+JPM,Jpmorgan Chase & Co,sec_filing,2026,1,investment_spend,1
+JPM,Jpmorgan Chase & Co,sec_filing,2026,1,measurable_outcomes,1
+JPM,Jpmorgan Chase & Co,sec_filing,2026,1,use_cases,1
+KEY,Keycorp,sec_filing,2024,4,customer_facing_ai,4
+KEY,Keycorp,sec_filing,2024,4,governance,4
+KEY,Keycorp,sec_filing,2024,4,investment_spend,4
+KEY,Keycorp,sec_filing,2024,4,measurable_outcomes,4
+KEY,Keycorp,sec_filing,2024,4,operations_efficiency,4
+KEY,Keycorp,sec_filing,2024,4,risk_controls,4
+KEY,Keycorp,sec_filing,2024,4,use_cases,4
+KEY,Keycorp,sec_filing,2024,4,vendors_partnerships,4
+KEY,Keycorp,transcript,2025,1,investment_spend,14
+KEY,Keycorp,transcript,2025,1,customer_facing_ai,9
+KEY,Keycorp,transcript,2025,1,operations_efficiency,8
+KEY,Keycorp,transcript,2025,1,governance,7
+KEY,Keycorp,transcript,2025,1,measurable_outcomes,7
+KEY,Keycorp,transcript,2025,1,use_cases,7
+KEY,Keycorp,transcript,2025,1,risk_controls,6
+KEY,Keycorp,transcript,2025,1,vendors_partnerships,6
+KEY,Keycorp,sec_filing,2025,2,customer_facing_ai,1
+KEY,Keycorp,sec_filing,2025,2,governance,1
+KEY,Keycorp,sec_filing,2025,2,investment_spend,1
+KEY,Keycorp,sec_filing,2025,2,operations_efficiency,1
+KEY,Keycorp,sec_filing,2025,2,risk_controls,1
+KEY,Keycorp,sec_filing,2025,2,use_cases,1
+KEY,Keycorp,sec_filing,2025,2,vendors_partnerships,1
+KEY,Keycorp,transcript,2025,4,investment_spend,14
+KEY,Keycorp,transcript,2025,4,customer_facing_ai,9
+KEY,Keycorp,sec_filing,2025,4,customer_facing_ai,8
+KEY,Keycorp,sec_filing,2025,4,governance,8
+KEY,Keycorp,sec_filing,2025,4,investment_spend,8
+KEY,Keycorp,sec_filing,2025,4,measurable_outcomes,8
+KEY,Keycorp,sec_filing,2025,4,operations_efficiency,8
+KEY,Keycorp,sec_filing,2025,4,risk_controls,8
+KEY,Keycorp,sec_filing,2025,4,use_cases,8
+KEY,Keycorp,sec_filing,2025,4,vendors_partnerships,8
+KEY,Keycorp,transcript,2025,4,operations_efficiency,8
+KEY,Keycorp,transcript,2025,4,governance,7
+KEY,Keycorp,transcript,2025,4,measurable_outcomes,7
+KEY,Keycorp,transcript,2025,4,use_cases,7
+KEY,Keycorp,transcript,2025,4,risk_controls,6
+KEY,Keycorp,transcript,2025,4,vendors_partnerships,6
+MS,Morgan Stanley,transcript,2024,1,customer_facing_ai,40
+MS,Morgan Stanley,transcript,2024,1,investment_spend,40
+MS,Morgan Stanley,transcript,2024,1,measurable_outcomes,40
+MS,Morgan Stanley,transcript,2024,1,operations_efficiency,40
+MS,Morgan Stanley,transcript,2024,1,use_cases,40
+MS,Morgan Stanley,transcript,2024,1,vendors_partnerships,40
+MS,Morgan Stanley,transcript,2024,1,governance,24
+MS,Morgan Stanley,transcript,2024,1,risk_controls,24
+MS,Morgan Stanley,transcript,2024,2,customer_facing_ai,40
+MS,Morgan Stanley,transcript,2024,2,investment_spend,40
+MS,Morgan Stanley,transcript,2024,2,measurable_outcomes,40
+MS,Morgan Stanley,transcript,2024,2,operations_efficiency,40
+MS,Morgan Stanley,transcript,2024,2,use_cases,40
+MS,Morgan Stanley,transcript,2024,2,vendors_partnerships,40
+MS,Morgan Stanley,transcript,2024,2,governance,23
+MS,Morgan Stanley,transcript,2024,2,risk_controls,23
+MS,Morgan Stanley,sec_filing,2024,2,customer_facing_ai,1
+MS,Morgan Stanley,sec_filing,2024,2,governance,1
+MS,Morgan Stanley,sec_filing,2024,2,investment_spend,1
+MS,Morgan Stanley,sec_filing,2024,2,measurable_outcomes,1
+MS,Morgan Stanley,sec_filing,2024,2,risk_controls,1
+MS,Morgan Stanley,sec_filing,2024,2,vendors_partnerships,1
+MS,Morgan Stanley,transcript,2024,3,customer_facing_ai,42
+MS,Morgan Stanley,transcript,2024,3,governance,42
+MS,Morgan Stanley,transcript,2024,3,investment_spend,42
+MS,Morgan Stanley,transcript,2024,3,measurable_outcomes,42
+MS,Morgan Stanley,transcript,2024,3,operations_efficiency,42
+MS,Morgan Stanley,transcript,2024,3,use_cases,42
+MS,Morgan Stanley,transcript,2024,3,vendors_partnerships,42
+MS,Morgan Stanley,transcript,2024,3,risk_controls,22
+MS,Morgan Stanley,transcript,2024,4,customer_facing_ai,38
+MS,Morgan Stanley,transcript,2024,4,investment_spend,38
+MS,Morgan Stanley,transcript,2024,4,measurable_outcomes,38
+MS,Morgan Stanley,transcript,2024,4,operations_efficiency,38
+MS,Morgan Stanley,transcript,2024,4,use_cases,38
+MS,Morgan Stanley,transcript,2024,4,vendors_partnerships,38
+MS,Morgan Stanley,transcript,2024,4,governance,23
+MS,Morgan Stanley,transcript,2024,4,risk_controls,23
+MS,Morgan Stanley,sec_filing,2024,4,customer_facing_ai,6
+MS,Morgan Stanley,sec_filing,2024,4,governance,6
+MS,Morgan Stanley,sec_filing,2024,4,investment_spend,6
+MS,Morgan Stanley,sec_filing,2024,4,measurable_outcomes,6
+MS,Morgan Stanley,sec_filing,2024,4,operations_efficiency,6
+MS,Morgan Stanley,sec_filing,2024,4,risk_controls,6
+MS,Morgan Stanley,sec_filing,2024,4,use_cases,6
+MS,Morgan Stanley,sec_filing,2024,4,vendors_partnerships,6
+MS,Morgan Stanley,transcript,2025,1,customer_facing_ai,40
+MS,Morgan Stanley,transcript,2025,1,investment_spend,40
+MS,Morgan Stanley,transcript,2025,1,measurable_outcomes,40
+MS,Morgan Stanley,transcript,2025,1,risk_controls,40
+MS,Morgan Stanley,transcript,2025,1,use_cases,40
+MS,Morgan Stanley,transcript,2025,1,vendors_partnerships,40
+MS,Morgan Stanley,transcript,2025,1,operations_efficiency,24
+MS,Morgan Stanley,transcript,2025,1,ai_strategy,16
+MS,Morgan Stanley,sec_filing,2025,2,governance,3
+MS,Morgan Stanley,sec_filing,2025,2,investment_spend,3
+MS,Morgan Stanley,sec_filing,2025,2,measurable_outcomes,3
+MS,Morgan Stanley,sec_filing,2025,2,vendors_partnerships,3
+MS,Morgan Stanley,sec_filing,2025,2,risk_controls,2
+MS,Morgan Stanley,transcript,2025,2,investment_spend,2
+MS,Morgan Stanley,sec_filing,2025,2,customer_facing_ai,1
+MS,Morgan Stanley,transcript,2025,3,customer_facing_ai,42
+MS,Morgan Stanley,transcript,2025,3,investment_spend,42
+MS,Morgan Stanley,transcript,2025,3,measurable_outcomes,42
+MS,Morgan Stanley,transcript,2025,3,operations_efficiency,42
+MS,Morgan Stanley,transcript,2025,3,risk_controls,42
+MS,Morgan Stanley,transcript,2025,3,use_cases,42
+MS,Morgan Stanley,transcript,2025,3,vendors_partnerships,42
+MS,Morgan Stanley,transcript,2025,3,ai_strategy,23
+MS,Morgan Stanley,transcript,2025,3,governance,23
+MS,Morgan Stanley,transcript,2025,4,investment_spend,13
+MS,Morgan Stanley,sec_filing,2025,4,customer_facing_ai,10
+MS,Morgan Stanley,sec_filing,2025,4,governance,10
+MS,Morgan Stanley,sec_filing,2025,4,investment_spend,10
+MS,Morgan Stanley,sec_filing,2025,4,measurable_outcomes,10
+MS,Morgan Stanley,sec_filing,2025,4,operations_efficiency,10
+MS,Morgan Stanley,sec_filing,2025,4,risk_controls,10
+MS,Morgan Stanley,sec_filing,2025,4,use_cases,10
+MS,Morgan Stanley,sec_filing,2025,4,vendors_partnerships,10
+MS,Morgan Stanley,transcript,2025,4,operations_efficiency,10
+MS,Morgan Stanley,transcript,2025,4,measurable_outcomes,9
+MS,Morgan Stanley,transcript,2025,4,use_cases,7
+MS,Morgan Stanley,transcript,2025,4,customer_facing_ai,4
+MS,Morgan Stanley,transcript,2025,4,vendors_partnerships,4
+MS,Morgan Stanley,transcript,2025,4,governance,3
+MTB,M&T Bank Corp,sec_filing,2024,2,customer_facing_ai,2
+MTB,M&T Bank Corp,sec_filing,2024,2,governance,2
+MTB,M&T Bank Corp,sec_filing,2024,2,investment_spend,2
+MTB,M&T Bank Corp,sec_filing,2024,2,risk_controls,2
+MTB,M&T Bank Corp,sec_filing,2024,2,vendors_partnerships,2
+MTB,M&T Bank Corp,sec_filing,2024,4,governance,9
+MTB,M&T Bank Corp,sec_filing,2024,4,investment_spend,9
+MTB,M&T Bank Corp,sec_filing,2024,4,use_cases,9
+MTB,M&T Bank Corp,sec_filing,2024,4,customer_facing_ai,8
+MTB,M&T Bank Corp,sec_filing,2024,4,measurable_outcomes,8
+MTB,M&T Bank Corp,sec_filing,2024,4,operations_efficiency,8
+MTB,M&T Bank Corp,sec_filing,2024,4,risk_controls,8
+MTB,M&T Bank Corp,sec_filing,2024,4,vendors_partnerships,8
+MTB,M&T Bank Corp,sec_filing,2025,2,customer_facing_ai,2
+MTB,M&T Bank Corp,sec_filing,2025,2,governance,2
+MTB,M&T Bank Corp,sec_filing,2025,2,investment_spend,2
+MTB,M&T Bank Corp,sec_filing,2025,2,risk_controls,2
+MTB,M&T Bank Corp,sec_filing,2025,2,vendors_partnerships,2
+MTB,M&T Bank Corp,transcript,2025,3,investment_spend,1
+MTB,M&T Bank Corp,sec_filing,2025,4,governance,10
+MTB,M&T Bank Corp,sec_filing,2025,4,investment_spend,10
+MTB,M&T Bank Corp,sec_filing,2025,4,use_cases,10
+MTB,M&T Bank Corp,sec_filing,2025,4,customer_facing_ai,9
+MTB,M&T Bank Corp,sec_filing,2025,4,measurable_outcomes,9
+MTB,M&T Bank Corp,sec_filing,2025,4,operations_efficiency,9
+MTB,M&T Bank Corp,sec_filing,2025,4,risk_controls,9
+MTB,M&T Bank Corp,sec_filing,2025,4,vendors_partnerships,9
+NTRS,Northern Trust Corp,sec_filing,2023,4,measurable_outcomes,2
+NTRS,Northern Trust Corp,sec_filing,2023,4,risk_controls,2
+NTRS,Northern Trust Corp,sec_filing,2023,4,use_cases,2
+NTRS,Northern Trust Corp,sec_filing,2023,4,investment_spend,1
+NTRS,Northern Trust Corp,sec_filing,2023,4,operations_efficiency,1
+NTRS,Northern Trust Corp,sec_filing,2023,4,vendors_partnerships,1
+NTRS,Northern Trust Corp,transcript,2024,1,customer_facing_ai,12
+NTRS,Northern Trust Corp,transcript,2024,1,governance,12
+NTRS,Northern Trust Corp,transcript,2024,1,investment_spend,12
+NTRS,Northern Trust Corp,transcript,2024,1,measurable_outcomes,12
+NTRS,Northern Trust Corp,transcript,2024,1,operations_efficiency,12
+NTRS,Northern Trust Corp,transcript,2024,1,vendors_partnerships,12
+NTRS,Northern Trust Corp,transcript,2024,1,risk_controls,6
+NTRS,Northern Trust Corp,transcript,2024,1,use_cases,6
+NTRS,Northern Trust Corp,transcript,2024,2,operations_efficiency,8
+NTRS,Northern Trust Corp,transcript,2024,2,measurable_outcomes,5
+NTRS,Northern Trust Corp,transcript,2024,2,use_cases,5
+NTRS,Northern Trust Corp,transcript,2024,2,vendors_partnerships,5
+NTRS,Northern Trust Corp,transcript,2024,2,customer_facing_ai,4
+NTRS,Northern Trust Corp,transcript,2024,2,governance,4
+NTRS,Northern Trust Corp,transcript,2024,2,investment_spend,4
+NTRS,Northern Trust Corp,transcript,2024,2,risk_controls,3
+NTRS,Northern Trust Corp,transcript,2024,3,customer_facing_ai,42
+NTRS,Northern Trust Corp,transcript,2024,3,governance,42
+NTRS,Northern Trust Corp,transcript,2024,3,investment_spend,42
+NTRS,Northern Trust Corp,transcript,2024,3,measurable_outcomes,42
+NTRS,Northern Trust Corp,transcript,2024,3,operations_efficiency,42
+NTRS,Northern Trust Corp,transcript,2024,3,use_cases,42
+NTRS,Northern Trust Corp,transcript,2024,3,vendors_partnerships,42
+NTRS,Northern Trust Corp,transcript,2024,3,risk_controls,22
+NTRS,Northern Trust Corp,transcript,2024,4,customer_facing_ai,12
+NTRS,Northern Trust Corp,transcript,2024,4,governance,12
+NTRS,Northern Trust Corp,transcript,2024,4,investment_spend,12
+NTRS,Northern Trust Corp,transcript,2024,4,measurable_outcomes,12
+NTRS,Northern Trust Corp,transcript,2024,4,operations_efficiency,12
+NTRS,Northern Trust Corp,transcript,2024,4,vendors_partnerships,12
+NTRS,Northern Trust Corp,sec_filing,2024,4,measurable_outcomes,11
+NTRS,Northern Trust Corp,sec_filing,2024,4,use_cases,11
+NTRS,Northern Trust Corp,sec_filing,2024,4,operations_efficiency,9
+NTRS,Northern Trust Corp,sec_filing,2024,4,governance,7
+NTRS,Northern Trust Corp,sec_filing,2024,4,risk_controls,7
+NTRS,Northern Trust Corp,transcript,2024,4,risk_controls,6
+NTRS,Northern Trust Corp,transcript,2024,4,use_cases,6
+NTRS,Northern Trust Corp,sec_filing,2024,4,investment_spend,5
+NTRS,Northern Trust Corp,sec_filing,2024,4,customer_facing_ai,4
+NTRS,Northern Trust Corp,sec_filing,2024,4,vendors_partnerships,3
+NTRS,Northern Trust Corp,transcript,2025,1,customer_facing_ai,12
+NTRS,Northern Trust Corp,transcript,2025,1,governance,12
+NTRS,Northern Trust Corp,transcript,2025,1,investment_spend,12
+NTRS,Northern Trust Corp,transcript,2025,1,measurable_outcomes,12
+NTRS,Northern Trust Corp,transcript,2025,1,operations_efficiency,12
+NTRS,Northern Trust Corp,transcript,2025,1,vendors_partnerships,12
+NTRS,Northern Trust Corp,transcript,2025,1,risk_controls,6
+NTRS,Northern Trust Corp,transcript,2025,1,use_cases,6
+NTRS,Northern Trust Corp,transcript,2025,2,operations_efficiency,8
+NTRS,Northern Trust Corp,transcript,2025,2,measurable_outcomes,5
+NTRS,Northern Trust Corp,transcript,2025,2,use_cases,5
+NTRS,Northern Trust Corp,transcript,2025,2,vendors_partnerships,5
+NTRS,Northern Trust Corp,transcript,2025,2,customer_facing_ai,4
+NTRS,Northern Trust Corp,transcript,2025,2,governance,4
+NTRS,Northern Trust Corp,transcript,2025,2,investment_spend,4
+NTRS,Northern Trust Corp,transcript,2025,2,risk_controls,3
+NTRS,Northern Trust Corp,sec_filing,2025,2,governance,1
+NTRS,Northern Trust Corp,sec_filing,2025,2,investment_spend,1
+NTRS,Northern Trust Corp,sec_filing,2025,2,measurable_outcomes,1
+NTRS,Northern Trust Corp,sec_filing,2025,2,operations_efficiency,1
+NTRS,Northern Trust Corp,sec_filing,2025,2,risk_controls,1
+NTRS,Northern Trust Corp,sec_filing,2025,2,use_cases,1
+NTRS,Northern Trust Corp,transcript,2025,3,customer_facing_ai,5
+NTRS,Northern Trust Corp,transcript,2025,3,investment_spend,5
+NTRS,Northern Trust Corp,transcript,2025,3,measurable_outcomes,5
+NTRS,Northern Trust Corp,transcript,2025,3,operations_efficiency,5
+NTRS,Northern Trust Corp,transcript,2025,3,use_cases,5
+NTRS,Northern Trust Corp,transcript,2025,3,governance,4
+NTRS,Northern Trust Corp,transcript,2025,3,vendors_partnerships,4
+ONB,Old National Bancorp,transcript,2024,3,customer_facing_ai,1
+ONB,Old National Bancorp,transcript,2024,3,investment_spend,1
+ONB,Old National Bancorp,transcript,2024,3,measurable_outcomes,1
+ONB,Old National Bancorp,transcript,2024,3,operations_efficiency,1
+ONB,Old National Bancorp,transcript,2024,3,vendors_partnerships,1
+ONB,Old National Bancorp,sec_filing,2024,4,customer_facing_ai,1
+ONB,Old National Bancorp,sec_filing,2024,4,governance,1
+ONB,Old National Bancorp,sec_filing,2024,4,investment_spend,1
+ONB,Old National Bancorp,sec_filing,2024,4,measurable_outcomes,1
+ONB,Old National Bancorp,sec_filing,2024,4,operations_efficiency,1
+ONB,Old National Bancorp,sec_filing,2024,4,risk_controls,1
+ONB,Old National Bancorp,sec_filing,2024,4,use_cases,1
+ONB,Old National Bancorp,sec_filing,2024,4,vendors_partnerships,1
+ONB,Old National Bancorp,transcript,2025,2,investment_spend,1
+ONB,Old National Bancorp,transcript,2025,2,vendors_partnerships,1
+ONB,Old National Bancorp,transcript,2025,3,customer_facing_ai,2
+ONB,Old National Bancorp,transcript,2025,3,governance,2
+ONB,Old National Bancorp,transcript,2025,3,investment_spend,2
+ONB,Old National Bancorp,transcript,2025,3,measurable_outcomes,2
+ONB,Old National Bancorp,transcript,2025,3,operations_efficiency,2
+ONB,Old National Bancorp,transcript,2025,3,risk_controls,2
+ONB,Old National Bancorp,transcript,2025,3,vendors_partnerships,2
+ONB,Old National Bancorp,sec_filing,2025,4,customer_facing_ai,8
+ONB,Old National Bancorp,sec_filing,2025,4,governance,8
+ONB,Old National Bancorp,sec_filing,2025,4,investment_spend,8
+ONB,Old National Bancorp,sec_filing,2025,4,measurable_outcomes,8
+ONB,Old National Bancorp,sec_filing,2025,4,operations_efficiency,8
+ONB,Old National Bancorp,sec_filing,2025,4,risk_controls,8
+ONB,Old National Bancorp,sec_filing,2025,4,use_cases,8
+ONB,Old National Bancorp,sec_filing,2025,4,vendors_partnerships,8
+ONB,Old National Bancorp,transcript,2025,4,investment_spend,5
+ONB,Old National Bancorp,transcript,2025,4,measurable_outcomes,5
+ONB,Old National Bancorp,transcript,2025,4,operations_efficiency,5
+ONB,Old National Bancorp,transcript,2025,4,use_cases,5
+ONB,Old National Bancorp,transcript,2025,4,customer_facing_ai,3
+ONB,Old National Bancorp,transcript,2025,4,governance,3
+ONB,Old National Bancorp,transcript,2025,4,vendors_partnerships,3
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,customer_facing_ai,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,governance,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,investment_spend,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,measurable_outcomes,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,operations_efficiency,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,use_cases,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,vendors_partnerships,5
+PB,Prosperity Bancshares Inc,sec_filing,2024,4,risk_controls,4
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,customer_facing_ai,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,governance,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,investment_spend,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,measurable_outcomes,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,operations_efficiency,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,use_cases,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,1,vendors_partnerships,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,customer_facing_ai,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,governance,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,investment_spend,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,measurable_outcomes,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,operations_efficiency,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,use_cases,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,2,vendors_partnerships,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,customer_facing_ai,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,governance,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,investment_spend,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,measurable_outcomes,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,operations_efficiency,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,use_cases,1
+PB,Prosperity Bancshares Inc,sec_filing,2025,3,vendors_partnerships,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,ai_strategy,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,customer_facing_ai,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,governance,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,investment_spend,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,measurable_outcomes,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,operations_efficiency,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,use_cases,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,1,vendors_partnerships,12
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,customer_facing_ai,6
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,governance,6
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,investment_spend,5
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,measurable_outcomes,5
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,operations_efficiency,2
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,vendors_partnerships,2
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,2,risk_controls,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,customer_facing_ai,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,governance,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,investment_spend,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,measurable_outcomes,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,operations_efficiency,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,risk_controls,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,use_cases,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2024,3,vendors_partnerships,11
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,governance,7
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,investment_spend,7
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,measurable_outcomes,7
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,operations_efficiency,7
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,use_cases,7
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,customer_facing_ai,6
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,risk_controls,6
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2024,4,vendors_partnerships,6
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,use_cases,11
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,customer_facing_ai,10
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,investment_spend,10
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,measurable_outcomes,8
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,operations_efficiency,8
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,risk_controls,3
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,1,governance,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,investment_spend,4
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,measurable_outcomes,3
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,governance,2
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,operations_efficiency,2
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,vendors_partnerships,2
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,operations_efficiency,2
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,use_cases,2
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,customer_facing_ai,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,investment_spend,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,2,measurable_outcomes,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,customer_facing_ai,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,2,governance,1
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,measurable_outcomes,13
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,operations_efficiency,12
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,investment_spend,8
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,governance,6
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,use_cases,6
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,customer_facing_ai,5
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,vendors_partnerships,5
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,governance,3
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,investment_spend,3
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,measurable_outcomes,3
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,3,risk_controls,3
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,customer_facing_ai,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,operations_efficiency,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,risk_controls,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,use_cases,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,3,vendors_partnerships,1
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,governance,13
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,investment_spend,13
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,measurable_outcomes,12
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,use_cases,11
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,customer_facing_ai,10
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,operations_efficiency,10
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,risk_controls,10
+PNC,"Pnc Financial Services Group, Inc.",sec_filing,2025,4,vendors_partnerships,10
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,4,investment_spend,7
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,4,measurable_outcomes,6
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,4,operations_efficiency,6
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,4,customer_facing_ai,2
+PNC,"Pnc Financial Services Group, Inc.",transcript,2025,4,use_cases,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,customer_facing_ai,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,governance,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,investment_spend,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,measurable_outcomes,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,operations_efficiency,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,risk_controls,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,use_cases,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2023,4,vendors_partnerships,1
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,customer_facing_ai,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,governance,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,investment_spend,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,measurable_outcomes,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,operations_efficiency,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,risk_controls,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,use_cases,3
+PNFP,Pinnacle Financial Partners Inc,sec_filing,2024,4,vendors_partnerships,3
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,customer_facing_ai,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,governance,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,investment_spend,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,measurable_outcomes,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,operations_efficiency,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,use_cases,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2024,4,vendors_partnerships,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,investment_spend,4
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,measurable_outcomes,3
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,operations_efficiency,2
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,use_cases,2
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,customer_facing_ai,1
+PNFP,Pinnacle Financial Partners Inc,transcript,2025,2,governance,1
+RF,Regions Financial Corp,sec_filing,2023,4,customer_facing_ai,4
+RF,Regions Financial Corp,sec_filing,2023,4,governance,4
+RF,Regions Financial Corp,sec_filing,2023,4,investment_spend,4
+RF,Regions Financial Corp,sec_filing,2023,4,measurable_outcomes,4
+RF,Regions Financial Corp,sec_filing,2023,4,operations_efficiency,4
+RF,Regions Financial Corp,sec_filing,2023,4,risk_controls,4
+RF,Regions Financial Corp,sec_filing,2023,4,use_cases,4
+RF,Regions Financial Corp,sec_filing,2023,4,vendors_partnerships,4
+RF,Regions Financial Corp,sec_filing,2024,2,governance,7
+RF,Regions Financial Corp,sec_filing,2024,2,operations_efficiency,6
+RF,Regions Financial Corp,sec_filing,2024,2,risk_controls,6
+RF,Regions Financial Corp,sec_filing,2024,2,use_cases,6
+RF,Regions Financial Corp,sec_filing,2024,2,customer_facing_ai,4
+RF,Regions Financial Corp,sec_filing,2024,2,investment_spend,1
+RF,Regions Financial Corp,sec_filing,2024,2,measurable_outcomes,1
+RF,Regions Financial Corp,sec_filing,2024,4,customer_facing_ai,5
+RF,Regions Financial Corp,sec_filing,2024,4,governance,5
+RF,Regions Financial Corp,sec_filing,2024,4,investment_spend,5
+RF,Regions Financial Corp,sec_filing,2024,4,measurable_outcomes,5
+RF,Regions Financial Corp,sec_filing,2024,4,operations_efficiency,5
+RF,Regions Financial Corp,sec_filing,2024,4,risk_controls,5
+RF,Regions Financial Corp,sec_filing,2024,4,use_cases,5
+RF,Regions Financial Corp,sec_filing,2024,4,vendors_partnerships,5
+RF,Regions Financial Corp,transcript,2025,1,measurable_outcomes,4
+RF,Regions Financial Corp,transcript,2025,1,customer_facing_ai,3
+RF,Regions Financial Corp,transcript,2025,1,investment_spend,3
+RF,Regions Financial Corp,transcript,2025,1,operations_efficiency,3
+RF,Regions Financial Corp,transcript,2025,1,vendors_partnerships,3
+RF,Regions Financial Corp,sec_filing,2025,1,customer_facing_ai,2
+RF,Regions Financial Corp,sec_filing,2025,1,investment_spend,2
+RF,Regions Financial Corp,sec_filing,2025,1,measurable_outcomes,2
+RF,Regions Financial Corp,sec_filing,2025,1,operations_efficiency,2
+RF,Regions Financial Corp,sec_filing,2025,1,risk_controls,2
+RF,Regions Financial Corp,sec_filing,2025,1,use_cases,2
+RF,Regions Financial Corp,sec_filing,2025,1,vendors_partnerships,2
+RF,Regions Financial Corp,sec_filing,2025,2,use_cases,12
+RF,Regions Financial Corp,sec_filing,2025,2,operations_efficiency,11
+RF,Regions Financial Corp,sec_filing,2025,2,risk_controls,11
+RF,Regions Financial Corp,sec_filing,2025,2,governance,10
+RF,Regions Financial Corp,sec_filing,2025,2,customer_facing_ai,9
+RF,Regions Financial Corp,sec_filing,2025,2,investment_spend,5
+RF,Regions Financial Corp,sec_filing,2025,2,measurable_outcomes,5
+RF,Regions Financial Corp,sec_filing,2025,2,vendors_partnerships,4
+RF,Regions Financial Corp,transcript,2025,2,investment_spend,1
+RF,Regions Financial Corp,transcript,2025,2,measurable_outcomes,1
+RF,Regions Financial Corp,transcript,2025,2,operations_efficiency,1
+RF,Regions Financial Corp,transcript,2025,3,measurable_outcomes,19
+RF,Regions Financial Corp,transcript,2025,3,operations_efficiency,19
+RF,Regions Financial Corp,transcript,2025,3,investment_spend,17
+RF,Regions Financial Corp,transcript,2025,3,customer_facing_ai,14
+RF,Regions Financial Corp,transcript,2025,3,vendors_partnerships,11
+RF,Regions Financial Corp,transcript,2025,3,use_cases,6
+RF,Regions Financial Corp,transcript,2025,3,governance,5
+RF,Regions Financial Corp,sec_filing,2025,3,customer_facing_ai,2
+RF,Regions Financial Corp,sec_filing,2025,3,investment_spend,2
+RF,Regions Financial Corp,sec_filing,2025,3,measurable_outcomes,2
+RF,Regions Financial Corp,sec_filing,2025,3,operations_efficiency,2
+RF,Regions Financial Corp,sec_filing,2025,3,risk_controls,2
+RF,Regions Financial Corp,sec_filing,2025,3,use_cases,2
+RF,Regions Financial Corp,sec_filing,2025,3,vendors_partnerships,2
+RF,Regions Financial Corp,transcript,2025,3,ai_strategy,1
+RJF,Raymond James Financial Inc,transcript,2024,2,customer_facing_ai,1
+RJF,Raymond James Financial Inc,transcript,2024,2,use_cases,1
+RJF,Raymond James Financial Inc,sec_filing,2024,4,customer_facing_ai,6
+RJF,Raymond James Financial Inc,sec_filing,2024,4,operations_efficiency,6
+RJF,Raymond James Financial Inc,sec_filing,2024,4,risk_controls,6
+RJF,Raymond James Financial Inc,sec_filing,2024,4,use_cases,6
+RJF,Raymond James Financial Inc,sec_filing,2024,4,vendors_partnerships,6
+RJF,Raymond James Financial Inc,sec_filing,2024,4,investment_spend,5
+RJF,Raymond James Financial Inc,sec_filing,2024,4,governance,4
+RJF,Raymond James Financial Inc,sec_filing,2024,4,measurable_outcomes,3
+RJF,Raymond James Financial Inc,transcript,2025,2,customer_facing_ai,16
+RJF,Raymond James Financial Inc,transcript,2025,2,vendors_partnerships,16
+RJF,Raymond James Financial Inc,transcript,2025,2,measurable_outcomes,13
+RJF,Raymond James Financial Inc,transcript,2025,2,use_cases,12
+RJF,Raymond James Financial Inc,transcript,2025,2,investment_spend,6
+RJF,Raymond James Financial Inc,transcript,2025,2,governance,5
+RJF,Raymond James Financial Inc,transcript,2025,2,operations_efficiency,3
+RJF,Raymond James Financial Inc,transcript,2025,2,risk_controls,2
+RJF,Raymond James Financial Inc,sec_filing,2025,4,customer_facing_ai,5
+RJF,Raymond James Financial Inc,sec_filing,2025,4,operations_efficiency,5
+RJF,Raymond James Financial Inc,sec_filing,2025,4,risk_controls,5
+RJF,Raymond James Financial Inc,sec_filing,2025,4,use_cases,5
+RJF,Raymond James Financial Inc,sec_filing,2025,4,governance,4
+RJF,Raymond James Financial Inc,sec_filing,2025,4,investment_spend,3
+RJF,Raymond James Financial Inc,sec_filing,2025,4,vendors_partnerships,3
+RJF,Raymond James Financial Inc,sec_filing,2025,4,measurable_outcomes,2
+RJF,Raymond James Financial Inc,sec_filing,2026,2,governance,1
+RJF,Raymond James Financial Inc,sec_filing,2026,2,measurable_outcomes,1
+RJF,Raymond James Financial Inc,sec_filing,2026,2,operations_efficiency,1
+RJF,Raymond James Financial Inc,sec_filing,2026,2,risk_controls,1
+RJF,Raymond James Financial Inc,sec_filing,2026,2,use_cases,1
+SCHW,Schwab Charles Corp,sec_filing,2023,4,customer_facing_ai,2
+SCHW,Schwab Charles Corp,sec_filing,2023,4,investment_spend,2
+SCHW,Schwab Charles Corp,sec_filing,2023,4,measurable_outcomes,2
+SCHW,Schwab Charles Corp,transcript,2024,1,ai_strategy,36
+SCHW,Schwab Charles Corp,transcript,2024,1,customer_facing_ai,36
+SCHW,Schwab Charles Corp,transcript,2024,1,governance,36
+SCHW,Schwab Charles Corp,transcript,2024,1,investment_spend,36
+SCHW,Schwab Charles Corp,transcript,2024,1,measurable_outcomes,36
+SCHW,Schwab Charles Corp,transcript,2024,1,operations_efficiency,36
+SCHW,Schwab Charles Corp,transcript,2024,1,vendors_partnerships,36
+SCHW,Schwab Charles Corp,sec_filing,2024,4,investment_spend,2
+SCHW,Schwab Charles Corp,sec_filing,2024,4,use_cases,2
+SCHW,Schwab Charles Corp,sec_filing,2024,4,governance,1
+SCHW,Schwab Charles Corp,sec_filing,2024,4,measurable_outcomes,1
+SCHW,Schwab Charles Corp,sec_filing,2024,4,operations_efficiency,1
+SCHW,Schwab Charles Corp,sec_filing,2024,4,risk_controls,1
+SCHW,Schwab Charles Corp,sec_filing,2024,4,vendors_partnerships,1
+SF,Stifel Financial Corp,sec_filing,2023,4,customer_facing_ai,1
+SF,Stifel Financial Corp,sec_filing,2023,4,governance,1
+SF,Stifel Financial Corp,sec_filing,2023,4,investment_spend,1
+SF,Stifel Financial Corp,sec_filing,2023,4,measurable_outcomes,1
+SF,Stifel Financial Corp,sec_filing,2023,4,operations_efficiency,1
+SF,Stifel Financial Corp,sec_filing,2023,4,risk_controls,1
+SF,Stifel Financial Corp,sec_filing,2023,4,use_cases,1
+SF,Stifel Financial Corp,sec_filing,2023,4,vendors_partnerships,1
+SF,Stifel Financial Corp,transcript,2024,1,customer_facing_ai,43
+SF,Stifel Financial Corp,transcript,2024,1,governance,43
+SF,Stifel Financial Corp,transcript,2024,1,investment_spend,43
+SF,Stifel Financial Corp,transcript,2024,1,measurable_outcomes,43
+SF,Stifel Financial Corp,transcript,2024,1,operations_efficiency,43
+SF,Stifel Financial Corp,transcript,2024,1,risk_controls,43
+SF,Stifel Financial Corp,transcript,2024,1,use_cases,43
+SF,Stifel Financial Corp,transcript,2024,1,vendors_partnerships,43
+SF,Stifel Financial Corp,transcript,2024,1,ai_strategy,29
+SF,Stifel Financial Corp,transcript,2024,2,customer_facing_ai,48
+SF,Stifel Financial Corp,transcript,2024,2,investment_spend,48
+SF,Stifel Financial Corp,transcript,2024,2,measurable_outcomes,48
+SF,Stifel Financial Corp,transcript,2024,2,operations_efficiency,48
+SF,Stifel Financial Corp,transcript,2024,2,risk_controls,48
+SF,Stifel Financial Corp,transcript,2024,2,use_cases,48
+SF,Stifel Financial Corp,transcript,2024,2,vendors_partnerships,48
+SF,Stifel Financial Corp,sec_filing,2024,2,customer_facing_ai,2
+SF,Stifel Financial Corp,sec_filing,2024,2,governance,2
+SF,Stifel Financial Corp,sec_filing,2024,2,vendors_partnerships,2
+SF,Stifel Financial Corp,sec_filing,2024,2,operations_efficiency,1
+SF,Stifel Financial Corp,sec_filing,2024,2,risk_controls,1
+SF,Stifel Financial Corp,sec_filing,2024,2,use_cases,1
+SF,Stifel Financial Corp,transcript,2024,3,customer_facing_ai,34
+SF,Stifel Financial Corp,transcript,2024,3,governance,34
+SF,Stifel Financial Corp,transcript,2024,3,investment_spend,34
+SF,Stifel Financial Corp,transcript,2024,3,measurable_outcomes,34
+SF,Stifel Financial Corp,transcript,2024,3,operations_efficiency,34
+SF,Stifel Financial Corp,transcript,2024,3,use_cases,34
+SF,Stifel Financial Corp,transcript,2024,3,vendors_partnerships,34
+SF,Stifel Financial Corp,transcript,2024,4,ai_strategy,54
+SF,Stifel Financial Corp,transcript,2024,4,customer_facing_ai,54
+SF,Stifel Financial Corp,transcript,2024,4,investment_spend,54
+SF,Stifel Financial Corp,transcript,2024,4,measurable_outcomes,54
+SF,Stifel Financial Corp,transcript,2024,4,operations_efficiency,54
+SF,Stifel Financial Corp,transcript,2024,4,use_cases,54
+SF,Stifel Financial Corp,transcript,2024,4,vendors_partnerships,54
+SF,Stifel Financial Corp,transcript,2024,4,governance,32
+SF,Stifel Financial Corp,sec_filing,2024,4,customer_facing_ai,5
+SF,Stifel Financial Corp,sec_filing,2024,4,governance,5
+SF,Stifel Financial Corp,sec_filing,2024,4,investment_spend,5
+SF,Stifel Financial Corp,sec_filing,2024,4,measurable_outcomes,5
+SF,Stifel Financial Corp,sec_filing,2024,4,operations_efficiency,5
+SF,Stifel Financial Corp,sec_filing,2024,4,risk_controls,5
+SF,Stifel Financial Corp,sec_filing,2024,4,use_cases,5
+SF,Stifel Financial Corp,sec_filing,2024,4,vendors_partnerships,5
+SF,Stifel Financial Corp,sec_filing,2025,2,customer_facing_ai,2
+SF,Stifel Financial Corp,sec_filing,2025,2,governance,2
+SF,Stifel Financial Corp,sec_filing,2025,2,vendors_partnerships,2
+SF,Stifel Financial Corp,sec_filing,2025,2,risk_controls,1
+SF,Stifel Financial Corp,transcript,2025,3,ai_strategy,22
+SF,Stifel Financial Corp,transcript,2025,3,customer_facing_ai,22
+SF,Stifel Financial Corp,transcript,2025,3,governance,22
+SF,Stifel Financial Corp,transcript,2025,3,investment_spend,22
+SF,Stifel Financial Corp,transcript,2025,3,measurable_outcomes,22
+SF,Stifel Financial Corp,transcript,2025,3,operations_efficiency,22
+SF,Stifel Financial Corp,transcript,2025,3,risk_controls,17
+SF,Stifel Financial Corp,transcript,2025,3,use_cases,17
+SF,Stifel Financial Corp,transcript,2025,3,vendors_partnerships,17
+SF,Stifel Financial Corp,transcript,2025,4,customer_facing_ai,2
+SF,Stifel Financial Corp,transcript,2025,4,investment_spend,2
+SF,Stifel Financial Corp,transcript,2025,4,measurable_outcomes,2
+SNV,Synovus Financial Corp,sec_filing,2023,4,governance,4
+SNV,Synovus Financial Corp,sec_filing,2023,4,investment_spend,4
+SNV,Synovus Financial Corp,sec_filing,2023,4,measurable_outcomes,4
+SNV,Synovus Financial Corp,sec_filing,2023,4,operations_efficiency,4
+SNV,Synovus Financial Corp,sec_filing,2023,4,use_cases,4
+SNV,Synovus Financial Corp,sec_filing,2023,4,risk_controls,3
+SNV,Synovus Financial Corp,sec_filing,2023,4,vendors_partnerships,3
+SNV,Synovus Financial Corp,sec_filing,2023,4,customer_facing_ai,1
+SNV,Synovus Financial Corp,transcript,2024,2,measurable_outcomes,3
+SNV,Synovus Financial Corp,transcript,2024,2,operations_efficiency,3
+SNV,Synovus Financial Corp,transcript,2024,2,use_cases,3
+SNV,Synovus Financial Corp,transcript,2024,2,investment_spend,1
+SNV,Synovus Financial Corp,sec_filing,2024,4,governance,10
+SNV,Synovus Financial Corp,sec_filing,2024,4,investment_spend,9
+SNV,Synovus Financial Corp,sec_filing,2024,4,measurable_outcomes,9
+SNV,Synovus Financial Corp,sec_filing,2024,4,operations_efficiency,9
+SNV,Synovus Financial Corp,sec_filing,2024,4,risk_controls,9
+SNV,Synovus Financial Corp,sec_filing,2024,4,use_cases,9
+SNV,Synovus Financial Corp,sec_filing,2024,4,vendors_partnerships,8
+SNV,Synovus Financial Corp,sec_filing,2025,1,customer_facing_ai,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,governance,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,investment_spend,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,measurable_outcomes,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,operations_efficiency,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,risk_controls,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,use_cases,1
+SNV,Synovus Financial Corp,sec_filing,2025,1,vendors_partnerships,1
+SNV,Synovus Financial Corp,transcript,2025,2,measurable_outcomes,3
+SNV,Synovus Financial Corp,transcript,2025,2,operations_efficiency,3
+SNV,Synovus Financial Corp,transcript,2025,2,use_cases,3
+SNV,Synovus Financial Corp,sec_filing,2025,2,governance,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,investment_spend,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,measurable_outcomes,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,operations_efficiency,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,risk_controls,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,use_cases,2
+SNV,Synovus Financial Corp,sec_filing,2025,2,vendors_partnerships,2
+SNV,Synovus Financial Corp,transcript,2025,2,investment_spend,1
+SNV,Synovus Financial Corp,sec_filing,2025,3,governance,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,investment_spend,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,measurable_outcomes,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,operations_efficiency,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,risk_controls,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,use_cases,2
+SNV,Synovus Financial Corp,sec_filing,2025,3,vendors_partnerships,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,governance,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,operations_efficiency,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,use_cases,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,2,vendors_partnerships,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,3,investment_spend,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,3,measurable_outcomes,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,3,operations_efficiency,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,3,use_cases,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2023,3,vendors_partnerships,2
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,investment_spend,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,measurable_outcomes,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,operations_efficiency,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,use_cases,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,vendors_partnerships,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,customer_facing_ai,3
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,risk_controls,3
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,1,governance,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,1,customer_facing_ai,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,1,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,1,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,1,use_cases,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,investment_spend,9
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,operations_efficiency,9
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,use_cases,9
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,vendors_partnerships,8
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,customer_facing_ai,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,governance,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,measurable_outcomes,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,2,risk_controls,5
+SOFI,"SoFi Technologies, Inc.",transcript,2024,2,customer_facing_ai,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,2,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,2,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,2,use_cases,1
+SOFI,"SoFi Technologies, Inc.",transcript,2024,2,vendors_partnerships,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,investment_spend,8
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,operations_efficiency,8
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,use_cases,8
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,measurable_outcomes,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,vendors_partnerships,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,governance,5
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,customer_facing_ai,4
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,3,risk_controls,3
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,operations_efficiency,12
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,use_cases,12
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,measurable_outcomes,11
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,investment_spend,9
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,vendors_partnerships,8
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,risk_controls,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,governance,6
+SOFI,"SoFi Technologies, Inc.",sec_filing,2024,4,customer_facing_ai,5
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,1,customer_facing_ai,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,1,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,1,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,1,operations_efficiency,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,1,use_cases,1
+SOFI,"SoFi Technologies, Inc.",transcript,2025,1,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",transcript,2025,1,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,investment_spend,8
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,measurable_outcomes,8
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,operations_efficiency,8
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,vendors_partnerships,8
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,customer_facing_ai,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,governance,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,risk_controls,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,2,use_cases,7
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,investment_spend,5
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,operations_efficiency,5
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,use_cases,5
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,customer_facing_ai,4
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,governance,4
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,risk_controls,3
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,vendors_partnerships,3
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,2,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,measurable_outcomes,39
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,vendors_partnerships,34
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,investment_spend,28
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,customer_facing_ai,27
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,operations_efficiency,27
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,ai_strategy,20
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,use_cases,17
+SOFI,"SoFi Technologies, Inc.",transcript,2025,3,governance,11
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,customer_facing_ai,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,investment_spend,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,measurable_outcomes,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,operations_efficiency,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,use_cases,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,3,vendors_partnerships,1
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,use_cases,20
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,measurable_outcomes,18
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,operations_efficiency,18
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,customer_facing_ai,15
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,investment_spend,14
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,risk_controls,12
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,vendors_partnerships,12
+SOFI,"SoFi Technologies, Inc.",sec_filing,2025,4,governance,10
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,investment_spend,8
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,customer_facing_ai,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,measurable_outcomes,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,operations_efficiency,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,vendors_partnerships,7
+SOFI,"SoFi Technologies, Inc.",transcript,2025,4,use_cases,6
+SSB,SouthState Bank Corp,sec_filing,2024,2,customer_facing_ai,1
+SSB,SouthState Bank Corp,sec_filing,2024,2,governance,1
+SSB,SouthState Bank Corp,sec_filing,2024,2,operations_efficiency,1
+SSB,SouthState Bank Corp,sec_filing,2024,2,risk_controls,1
+SSB,SouthState Bank Corp,sec_filing,2024,2,use_cases,1
+SSB,SouthState Bank Corp,sec_filing,2024,4,governance,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,investment_spend,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,measurable_outcomes,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,operations_efficiency,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,risk_controls,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,use_cases,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,vendors_partnerships,12
+SSB,SouthState Bank Corp,sec_filing,2024,4,customer_facing_ai,9
+SSB,SouthState Bank Corp,sec_filing,2025,1,customer_facing_ai,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,governance,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,investment_spend,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,measurable_outcomes,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,operations_efficiency,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,risk_controls,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,use_cases,1
+SSB,SouthState Bank Corp,sec_filing,2025,1,vendors_partnerships,1
+SSB,SouthState Bank Corp,sec_filing,2025,2,customer_facing_ai,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,governance,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,investment_spend,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,measurable_outcomes,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,operations_efficiency,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,risk_controls,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,use_cases,2
+SSB,SouthState Bank Corp,sec_filing,2025,2,vendors_partnerships,2
+SSB,SouthState Bank Corp,sec_filing,2025,3,customer_facing_ai,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,governance,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,investment_spend,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,measurable_outcomes,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,operations_efficiency,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,risk_controls,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,use_cases,1
+SSB,SouthState Bank Corp,sec_filing,2025,3,vendors_partnerships,1
+SSB,SouthState Bank Corp,sec_filing,2025,4,governance,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,investment_spend,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,measurable_outcomes,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,operations_efficiency,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,risk_controls,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,use_cases,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,vendors_partnerships,16
+SSB,SouthState Bank Corp,sec_filing,2025,4,ai_strategy,15
+SSB,SouthState Bank Corp,sec_filing,2025,4,customer_facing_ai,15
+SSB,SouthState Bank Corp,transcript,2025,4,investment_spend,1
+SSB,SouthState Bank Corp,transcript,2025,4,measurable_outcomes,1
+STT,State Street Corp,sec_filing,2024,1,governance,1
+STT,State Street Corp,sec_filing,2024,1,investment_spend,1
+STT,State Street Corp,sec_filing,2024,1,measurable_outcomes,1
+STT,State Street Corp,sec_filing,2024,1,operations_efficiency,1
+STT,State Street Corp,sec_filing,2024,1,use_cases,1
+STT,State Street Corp,sec_filing,2024,2,governance,2
+STT,State Street Corp,sec_filing,2024,2,investment_spend,2
+STT,State Street Corp,sec_filing,2024,2,measurable_outcomes,2
+STT,State Street Corp,sec_filing,2024,2,operations_efficiency,2
+STT,State Street Corp,sec_filing,2024,2,use_cases,2
+STT,State Street Corp,transcript,2024,2,customer_facing_ai,1
+STT,State Street Corp,transcript,2024,2,use_cases,1
+STT,State Street Corp,sec_filing,2024,3,governance,2
+STT,State Street Corp,sec_filing,2024,3,investment_spend,2
+STT,State Street Corp,sec_filing,2024,3,measurable_outcomes,2
+STT,State Street Corp,sec_filing,2024,3,operations_efficiency,2
+STT,State Street Corp,sec_filing,2024,3,use_cases,2
+STT,State Street Corp,sec_filing,2024,4,use_cases,10
+STT,State Street Corp,sec_filing,2024,4,governance,9
+STT,State Street Corp,sec_filing,2024,4,measurable_outcomes,9
+STT,State Street Corp,sec_filing,2024,4,risk_controls,9
+STT,State Street Corp,sec_filing,2024,4,investment_spend,8
+STT,State Street Corp,sec_filing,2024,4,operations_efficiency,8
+STT,State Street Corp,sec_filing,2024,4,vendors_partnerships,7
+STT,State Street Corp,sec_filing,2024,4,customer_facing_ai,5
+STT,State Street Corp,transcript,2024,4,customer_facing_ai,1
+STT,State Street Corp,transcript,2024,4,use_cases,1
+STT,State Street Corp,sec_filing,2025,1,investment_spend,1
+STT,State Street Corp,sec_filing,2025,1,measurable_outcomes,1
+STT,State Street Corp,sec_filing,2025,1,operations_efficiency,1
+STT,State Street Corp,sec_filing,2025,1,use_cases,1
+STT,State Street Corp,sec_filing,2025,2,investment_spend,2
+STT,State Street Corp,sec_filing,2025,2,measurable_outcomes,2
+STT,State Street Corp,sec_filing,2025,2,operations_efficiency,2
+STT,State Street Corp,sec_filing,2025,2,use_cases,2
+STT,State Street Corp,transcript,2025,2,investment_spend,2
+STT,State Street Corp,transcript,2025,2,measurable_outcomes,2
+STT,State Street Corp,transcript,2025,2,operations_efficiency,2
+STT,State Street Corp,sec_filing,2025,2,risk_controls,1
+STT,State Street Corp,sec_filing,2025,2,vendors_partnerships,1
+STT,State Street Corp,transcript,2025,2,governance,1
+STT,State Street Corp,transcript,2025,2,risk_controls,1
+STT,State Street Corp,transcript,2025,2,use_cases,1
+STT,State Street Corp,transcript,2025,2,vendors_partnerships,1
+STT,State Street Corp,sec_filing,2025,3,investment_spend,2
+STT,State Street Corp,sec_filing,2025,3,measurable_outcomes,2
+STT,State Street Corp,sec_filing,2025,3,operations_efficiency,2
+STT,State Street Corp,sec_filing,2025,3,use_cases,2
+STT,State Street Corp,transcript,2025,3,investment_spend,2
+STT,State Street Corp,transcript,2025,3,measurable_outcomes,2
+STT,State Street Corp,transcript,2025,3,operations_efficiency,2
+STT,State Street Corp,sec_filing,2025,3,risk_controls,1
+STT,State Street Corp,sec_filing,2025,3,vendors_partnerships,1
+STT,State Street Corp,transcript,2025,3,governance,1
+STT,State Street Corp,transcript,2025,3,risk_controls,1
+STT,State Street Corp,transcript,2025,3,use_cases,1
+STT,State Street Corp,transcript,2025,3,vendors_partnerships,1
+STT,State Street Corp,sec_filing,2025,4,use_cases,15
+STT,State Street Corp,sec_filing,2025,4,governance,13
+STT,State Street Corp,sec_filing,2025,4,investment_spend,13
+STT,State Street Corp,sec_filing,2025,4,measurable_outcomes,13
+STT,State Street Corp,sec_filing,2025,4,operations_efficiency,13
+STT,State Street Corp,sec_filing,2025,4,risk_controls,13
+STT,State Street Corp,sec_filing,2025,4,vendors_partnerships,11
+STT,State Street Corp,sec_filing,2025,4,customer_facing_ai,5
+SYF,Synchrony Financial,sec_filing,2024,2,customer_facing_ai,1
+SYF,Synchrony Financial,sec_filing,2024,2,governance,1
+SYF,Synchrony Financial,sec_filing,2024,2,risk_controls,1
+SYF,Synchrony Financial,sec_filing,2024,2,use_cases,1
+SYF,Synchrony Financial,sec_filing,2024,2,vendors_partnerships,1
+SYF,Synchrony Financial,sec_filing,2024,4,customer_facing_ai,3
+SYF,Synchrony Financial,sec_filing,2024,4,governance,3
+SYF,Synchrony Financial,sec_filing,2024,4,investment_spend,3
+SYF,Synchrony Financial,sec_filing,2024,4,measurable_outcomes,3
+SYF,Synchrony Financial,sec_filing,2024,4,operations_efficiency,3
+SYF,Synchrony Financial,sec_filing,2024,4,risk_controls,3
+SYF,Synchrony Financial,sec_filing,2024,4,use_cases,3
+SYF,Synchrony Financial,sec_filing,2024,4,vendors_partnerships,3
+SYF,Synchrony Financial,transcript,2025,2,investment_spend,5
+SYF,Synchrony Financial,transcript,2025,2,measurable_outcomes,4
+SYF,Synchrony Financial,transcript,2025,2,operations_efficiency,4
+SYF,Synchrony Financial,transcript,2025,2,use_cases,4
+SYF,Synchrony Financial,transcript,2025,2,vendors_partnerships,4
+SYF,Synchrony Financial,transcript,2025,2,customer_facing_ai,2
+SYF,Synchrony Financial,transcript,2025,2,governance,2
+SYF,Synchrony Financial,sec_filing,2025,2,customer_facing_ai,1
+SYF,Synchrony Financial,sec_filing,2025,2,governance,1
+SYF,Synchrony Financial,sec_filing,2025,2,investment_spend,1
+SYF,Synchrony Financial,sec_filing,2025,2,measurable_outcomes,1
+SYF,Synchrony Financial,sec_filing,2025,2,risk_controls,1
+SYF,Synchrony Financial,sec_filing,2025,2,use_cases,1
+SYF,Synchrony Financial,sec_filing,2025,2,vendors_partnerships,1
+SYF,Synchrony Financial,sec_filing,2025,4,customer_facing_ai,11
+SYF,Synchrony Financial,sec_filing,2025,4,governance,11
+SYF,Synchrony Financial,sec_filing,2025,4,investment_spend,11
+SYF,Synchrony Financial,sec_filing,2025,4,measurable_outcomes,11
+SYF,Synchrony Financial,sec_filing,2025,4,operations_efficiency,11
+SYF,Synchrony Financial,sec_filing,2025,4,risk_controls,11
+SYF,Synchrony Financial,sec_filing,2025,4,use_cases,11
+SYF,Synchrony Financial,sec_filing,2025,4,vendors_partnerships,11
+SYF,Synchrony Financial,transcript,2025,4,investment_spend,4
+SYF,Synchrony Financial,transcript,2025,4,customer_facing_ai,3
+SYF,Synchrony Financial,transcript,2025,4,measurable_outcomes,3
+SYF,Synchrony Financial,transcript,2025,4,operations_efficiency,3
+SYF,Synchrony Financial,transcript,2025,4,vendors_partnerships,3
+SYF,Synchrony Financial,transcript,2025,4,governance,2
+SYF,Synchrony Financial,transcript,2025,4,risk_controls,2
+TFC,Truist Financial Corp,sec_filing,2023,4,customer_facing_ai,4
+TFC,Truist Financial Corp,sec_filing,2023,4,governance,4
+TFC,Truist Financial Corp,sec_filing,2023,4,investment_spend,4
+TFC,Truist Financial Corp,sec_filing,2023,4,measurable_outcomes,4
+TFC,Truist Financial Corp,sec_filing,2023,4,operations_efficiency,4
+TFC,Truist Financial Corp,sec_filing,2023,4,risk_controls,4
+TFC,Truist Financial Corp,sec_filing,2023,4,use_cases,4
+TFC,Truist Financial Corp,sec_filing,2023,4,vendors_partnerships,4
+TFC,Truist Financial Corp,transcript,2024,1,customer_facing_ai,8
+TFC,Truist Financial Corp,transcript,2024,1,measurable_outcomes,8
+TFC,Truist Financial Corp,transcript,2024,1,governance,7
+TFC,Truist Financial Corp,transcript,2024,1,investment_spend,7
+TFC,Truist Financial Corp,transcript,2024,1,operations_efficiency,7
+TFC,Truist Financial Corp,transcript,2024,1,use_cases,7
+TFC,Truist Financial Corp,transcript,2024,1,vendors_partnerships,7
+TFC,Truist Financial Corp,transcript,2024,2,governance,1
+TFC,Truist Financial Corp,transcript,2024,2,investment_spend,1
+TFC,Truist Financial Corp,transcript,2024,2,measurable_outcomes,1
+TFC,Truist Financial Corp,transcript,2024,2,risk_controls,1
+TFC,Truist Financial Corp,transcript,2024,3,customer_facing_ai,3
+TFC,Truist Financial Corp,transcript,2024,3,investment_spend,3
+TFC,Truist Financial Corp,transcript,2024,3,measurable_outcomes,3
+TFC,Truist Financial Corp,transcript,2024,3,operations_efficiency,3
+TFC,Truist Financial Corp,transcript,2024,3,risk_controls,3
+TFC,Truist Financial Corp,transcript,2024,3,use_cases,3
+TFC,Truist Financial Corp,transcript,2024,3,vendors_partnerships,3
+TFC,Truist Financial Corp,sec_filing,2024,4,governance,7
+TFC,Truist Financial Corp,sec_filing,2024,4,customer_facing_ai,6
+TFC,Truist Financial Corp,sec_filing,2024,4,investment_spend,6
+TFC,Truist Financial Corp,sec_filing,2024,4,measurable_outcomes,6
+TFC,Truist Financial Corp,sec_filing,2024,4,operations_efficiency,6
+TFC,Truist Financial Corp,sec_filing,2024,4,risk_controls,6
+TFC,Truist Financial Corp,sec_filing,2024,4,use_cases,6
+TFC,Truist Financial Corp,sec_filing,2024,4,vendors_partnerships,6
+TFC,Truist Financial Corp,transcript,2024,4,customer_facing_ai,6
+TFC,Truist Financial Corp,transcript,2024,4,investment_spend,6
+TFC,Truist Financial Corp,transcript,2024,4,measurable_outcomes,6
+TFC,Truist Financial Corp,transcript,2024,4,operations_efficiency,6
+TFC,Truist Financial Corp,transcript,2024,4,use_cases,6
+TFC,Truist Financial Corp,transcript,2024,4,vendors_partnerships,6
+TFC,Truist Financial Corp,transcript,2024,4,governance,2
+TFC,Truist Financial Corp,transcript,2025,2,governance,1
+TFC,Truist Financial Corp,transcript,2025,2,investment_spend,1
+TFC,Truist Financial Corp,transcript,2025,2,measurable_outcomes,1
+TFC,Truist Financial Corp,transcript,2025,2,risk_controls,1
+TFC,Truist Financial Corp,transcript,2025,3,governance,1
+TFC,Truist Financial Corp,transcript,2025,3,investment_spend,1
+TFC,Truist Financial Corp,transcript,2025,3,measurable_outcomes,1
+TFC,Truist Financial Corp,transcript,2025,3,risk_controls,1
+TFC,Truist Financial Corp,transcript,2025,4,investment_spend,5
+TFC,Truist Financial Corp,transcript,2025,4,measurable_outcomes,5
+TFC,Truist Financial Corp,transcript,2025,4,operations_efficiency,5
+TFC,Truist Financial Corp,transcript,2025,4,use_cases,4
+TFC,Truist Financial Corp,transcript,2025,4,customer_facing_ai,2
+TFC,Truist Financial Corp,transcript,2025,4,governance,2
+UMBF,Umb Financial Corp,sec_filing,2023,4,customer_facing_ai,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,governance,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,investment_spend,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,measurable_outcomes,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,operations_efficiency,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,risk_controls,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,use_cases,1
+UMBF,Umb Financial Corp,sec_filing,2023,4,vendors_partnerships,1
+UMBF,Umb Financial Corp,transcript,2024,2,customer_facing_ai,1
+UMBF,Umb Financial Corp,transcript,2024,2,governance,1
+UMBF,Umb Financial Corp,transcript,2024,2,investment_spend,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,customer_facing_ai,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,governance,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,investment_spend,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,measurable_outcomes,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,operations_efficiency,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,risk_controls,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,use_cases,1
+UMBF,Umb Financial Corp,sec_filing,2024,4,vendors_partnerships,1
+USB,Us Bancorp \De\,sec_filing,2024,2,customer_facing_ai,1
+USB,Us Bancorp \De\,sec_filing,2024,2,governance,1
+USB,Us Bancorp \De\,sec_filing,2024,2,risk_controls,1
+USB,Us Bancorp \De\,sec_filing,2024,2,use_cases,1
+USB,Us Bancorp \De\,sec_filing,2024,2,vendors_partnerships,1
+USB,Us Bancorp \De\,transcript,2024,4,customer_facing_ai,4
+USB,Us Bancorp \De\,transcript,2024,4,investment_spend,4
+USB,Us Bancorp \De\,transcript,2024,4,measurable_outcomes,4
+USB,Us Bancorp \De\,transcript,2024,4,vendors_partnerships,4
+USB,Us Bancorp \De\,transcript,2025,1,investment_spend,4
+USB,Us Bancorp \De\,transcript,2025,1,measurable_outcomes,4
+USB,Us Bancorp \De\,transcript,2025,1,operations_efficiency,4
+USB,Us Bancorp \De\,transcript,2025,1,risk_controls,1
+USB,Us Bancorp \De\,transcript,2025,1,use_cases,1
+USB,Us Bancorp \De\,transcript,2025,1,vendors_partnerships,1
+USB,Us Bancorp \De\,sec_filing,2025,2,governance,6
+USB,Us Bancorp \De\,sec_filing,2025,2,risk_controls,6
+USB,Us Bancorp \De\,sec_filing,2025,2,use_cases,6
+USB,Us Bancorp \De\,sec_filing,2025,2,operations_efficiency,5
+USB,Us Bancorp \De\,sec_filing,2025,2,measurable_outcomes,3
+USB,Us Bancorp \De\,sec_filing,2025,2,investment_spend,2
+USB,Us Bancorp \De\,sec_filing,2025,2,customer_facing_ai,1
+USB,Us Bancorp \De\,sec_filing,2025,2,vendors_partnerships,1
+USB,Us Bancorp \De\,transcript,2025,4,investment_spend,4
+USB,Us Bancorp \De\,transcript,2025,4,measurable_outcomes,4
+USB,Us Bancorp \De\,transcript,2025,4,operations_efficiency,4
+USB,Us Bancorp \De\,sec_filing,2025,4,customer_facing_ai,1
+USB,Us Bancorp \De\,sec_filing,2025,4,governance,1
+USB,Us Bancorp \De\,sec_filing,2025,4,investment_spend,1
+USB,Us Bancorp \De\,sec_filing,2025,4,measurable_outcomes,1
+USB,Us Bancorp \De\,sec_filing,2025,4,operations_efficiency,1
+USB,Us Bancorp \De\,sec_filing,2025,4,risk_controls,1
+USB,Us Bancorp \De\,sec_filing,2025,4,use_cases,1
+USB,Us Bancorp \De\,sec_filing,2025,4,vendors_partnerships,1
+USB,Us Bancorp \De\,transcript,2025,4,risk_controls,1
+USB,Us Bancorp \De\,transcript,2025,4,use_cases,1
+USB,Us Bancorp \De\,transcript,2025,4,vendors_partnerships,1
+VLY,Valley National Bancorp,sec_filing,2023,4,customer_facing_ai,3
+VLY,Valley National Bancorp,sec_filing,2023,4,governance,3
+VLY,Valley National Bancorp,sec_filing,2023,4,investment_spend,3
+VLY,Valley National Bancorp,sec_filing,2023,4,measurable_outcomes,3
+VLY,Valley National Bancorp,sec_filing,2023,4,operations_efficiency,3
+VLY,Valley National Bancorp,sec_filing,2023,4,risk_controls,3
+VLY,Valley National Bancorp,sec_filing,2023,4,use_cases,3
+VLY,Valley National Bancorp,sec_filing,2023,4,vendors_partnerships,3
+VLY,Valley National Bancorp,transcript,2024,1,customer_facing_ai,1
+VLY,Valley National Bancorp,transcript,2024,1,governance,1
+VLY,Valley National Bancorp,transcript,2024,1,investment_spend,1
+VLY,Valley National Bancorp,transcript,2024,1,measurable_outcomes,1
+VLY,Valley National Bancorp,transcript,2024,1,operations_efficiency,1
+VLY,Valley National Bancorp,transcript,2024,1,use_cases,1
+VLY,Valley National Bancorp,sec_filing,2024,2,governance,1
+VLY,Valley National Bancorp,sec_filing,2024,2,risk_controls,1
+VLY,Valley National Bancorp,transcript,2024,3,customer_facing_ai,1
+VLY,Valley National Bancorp,transcript,2024,3,investment_spend,1
+VLY,Valley National Bancorp,transcript,2024,3,measurable_outcomes,1
+VLY,Valley National Bancorp,transcript,2024,3,operations_efficiency,1
+VLY,Valley National Bancorp,transcript,2024,3,vendors_partnerships,1
+VLY,Valley National Bancorp,sec_filing,2024,4,customer_facing_ai,10
+VLY,Valley National Bancorp,sec_filing,2024,4,governance,10
+VLY,Valley National Bancorp,sec_filing,2024,4,investment_spend,10
+VLY,Valley National Bancorp,sec_filing,2024,4,measurable_outcomes,10
+VLY,Valley National Bancorp,sec_filing,2024,4,operations_efficiency,10
+VLY,Valley National Bancorp,sec_filing,2024,4,risk_controls,10
+VLY,Valley National Bancorp,sec_filing,2024,4,use_cases,10
+VLY,Valley National Bancorp,sec_filing,2024,4,vendors_partnerships,10
+VLY,Valley National Bancorp,sec_filing,2025,2,customer_facing_ai,3
+VLY,Valley National Bancorp,sec_filing,2025,2,governance,3
+VLY,Valley National Bancorp,sec_filing,2025,2,investment_spend,3
+VLY,Valley National Bancorp,sec_filing,2025,2,measurable_outcomes,1
+VLY,Valley National Bancorp,sec_filing,2025,2,operations_efficiency,1
+VLY,Valley National Bancorp,sec_filing,2025,2,use_cases,1
+VLY,Valley National Bancorp,sec_filing,2025,3,customer_facing_ai,1
+VLY,Valley National Bancorp,sec_filing,2025,3,governance,1
+VLY,Valley National Bancorp,sec_filing,2025,3,investment_spend,1
+VLY,Valley National Bancorp,sec_filing,2025,3,measurable_outcomes,1
+VLY,Valley National Bancorp,sec_filing,2025,3,operations_efficiency,1
+VLY,Valley National Bancorp,sec_filing,2025,3,use_cases,1
+VLY,Valley National Bancorp,transcript,2025,4,customer_facing_ai,2
+VLY,Valley National Bancorp,transcript,2025,4,governance,2
+VLY,Valley National Bancorp,transcript,2025,4,investment_spend,2
+VLY,Valley National Bancorp,transcript,2025,4,measurable_outcomes,2
+VLY,Valley National Bancorp,transcript,2025,4,operations_efficiency,2
+WAL,Western Alliance Bancorporation,transcript,2024,2,customer_facing_ai,4
+WAL,Western Alliance Bancorporation,transcript,2024,2,investment_spend,4
+WAL,Western Alliance Bancorporation,transcript,2024,2,measurable_outcomes,4
+WAL,Western Alliance Bancorporation,transcript,2024,2,operations_efficiency,4
+WAL,Western Alliance Bancorporation,transcript,2024,2,use_cases,4
+WAL,Western Alliance Bancorporation,transcript,2024,2,governance,2
+WAL,Western Alliance Bancorporation,transcript,2024,2,vendors_partnerships,2
+WAL,Western Alliance Bancorporation,transcript,2024,4,customer_facing_ai,6
+WAL,Western Alliance Bancorporation,transcript,2024,4,investment_spend,6
+WAL,Western Alliance Bancorporation,transcript,2024,4,measurable_outcomes,6
+WAL,Western Alliance Bancorporation,transcript,2024,4,operations_efficiency,6
+WAL,Western Alliance Bancorporation,transcript,2024,4,use_cases,4
+WAL,Western Alliance Bancorporation,transcript,2024,4,vendors_partnerships,4
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,customer_facing_ai,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,governance,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,investment_spend,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,measurable_outcomes,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,operations_efficiency,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,risk_controls,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,use_cases,3
+WAL,Western Alliance Bancorporation,sec_filing,2024,4,vendors_partnerships,3
+WAL,Western Alliance Bancorporation,transcript,2024,4,governance,2
+WAL,Western Alliance Bancorporation,transcript,2025,2,measurable_outcomes,2
+WAL,Western Alliance Bancorporation,transcript,2025,2,investment_spend,1
+WAL,Western Alliance Bancorporation,transcript,2025,2,operations_efficiency,1
+WAL,Western Alliance Bancorporation,transcript,2025,3,customer_facing_ai,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,governance,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,investment_spend,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,measurable_outcomes,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,operations_efficiency,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,use_cases,3
+WAL,Western Alliance Bancorporation,transcript,2025,3,vendors_partnerships,3
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,customer_facing_ai,6
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,governance,6
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,investment_spend,6
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,measurable_outcomes,6
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,risk_controls,6
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,operations_efficiency,5
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,use_cases,5
+WAL,Western Alliance Bancorporation,sec_filing,2025,4,vendors_partnerships,5
+WBS,Webster Financial Corp,sec_filing,2023,4,customer_facing_ai,2
+WBS,Webster Financial Corp,sec_filing,2023,4,investment_spend,2
+WBS,Webster Financial Corp,sec_filing,2023,4,measurable_outcomes,2
+WBS,Webster Financial Corp,sec_filing,2023,4,operations_efficiency,2
+WBS,Webster Financial Corp,sec_filing,2023,4,use_cases,2
+WBS,Webster Financial Corp,sec_filing,2023,4,vendors_partnerships,2
+WBS,Webster Financial Corp,sec_filing,2023,4,governance,1
+WBS,Webster Financial Corp,transcript,2024,1,customer_facing_ai,3
+WBS,Webster Financial Corp,transcript,2024,1,governance,3
+WBS,Webster Financial Corp,transcript,2024,1,investment_spend,3
+WBS,Webster Financial Corp,transcript,2024,1,measurable_outcomes,3
+WBS,Webster Financial Corp,transcript,2024,1,use_cases,3
+WBS,Webster Financial Corp,transcript,2024,1,vendors_partnerships,3
+WBS,Webster Financial Corp,transcript,2024,1,operations_efficiency,2
+WBS,Webster Financial Corp,transcript,2024,1,risk_controls,2
+WBS,Webster Financial Corp,sec_filing,2024,1,customer_facing_ai,1
+WBS,Webster Financial Corp,sec_filing,2024,1,governance,1
+WBS,Webster Financial Corp,sec_filing,2024,1,investment_spend,1
+WBS,Webster Financial Corp,sec_filing,2024,1,measurable_outcomes,1
+WBS,Webster Financial Corp,sec_filing,2024,1,operations_efficiency,1
+WBS,Webster Financial Corp,sec_filing,2024,1,use_cases,1
+WBS,Webster Financial Corp,sec_filing,2024,1,vendors_partnerships,1
+WBS,Webster Financial Corp,transcript,2024,2,customer_facing_ai,7
+WBS,Webster Financial Corp,transcript,2024,2,investment_spend,7
+WBS,Webster Financial Corp,transcript,2024,2,measurable_outcomes,7
+WBS,Webster Financial Corp,transcript,2024,2,use_cases,7
+WBS,Webster Financial Corp,transcript,2024,2,vendors_partnerships,7
+WBS,Webster Financial Corp,transcript,2024,2,governance,5
+WBS,Webster Financial Corp,transcript,2024,2,risk_controls,5
+WBS,Webster Financial Corp,transcript,2024,2,operations_efficiency,2
+WBS,Webster Financial Corp,sec_filing,2024,2,customer_facing_ai,1
+WBS,Webster Financial Corp,sec_filing,2024,2,governance,1
+WBS,Webster Financial Corp,sec_filing,2024,2,investment_spend,1
+WBS,Webster Financial Corp,sec_filing,2024,2,measurable_outcomes,1
+WBS,Webster Financial Corp,sec_filing,2024,2,operations_efficiency,1
+WBS,Webster Financial Corp,sec_filing,2024,2,use_cases,1
+WBS,Webster Financial Corp,sec_filing,2024,2,vendors_partnerships,1
+WBS,Webster Financial Corp,sec_filing,2024,3,customer_facing_ai,1
+WBS,Webster Financial Corp,sec_filing,2024,3,governance,1
+WBS,Webster Financial Corp,sec_filing,2024,3,investment_spend,1
+WBS,Webster Financial Corp,sec_filing,2024,3,measurable_outcomes,1
+WBS,Webster Financial Corp,sec_filing,2024,3,operations_efficiency,1
+WBS,Webster Financial Corp,sec_filing,2024,3,use_cases,1
+WBS,Webster Financial Corp,sec_filing,2024,3,vendors_partnerships,1
+WBS,Webster Financial Corp,sec_filing,2024,4,investment_spend,6
+WBS,Webster Financial Corp,sec_filing,2024,4,measurable_outcomes,6
+WBS,Webster Financial Corp,transcript,2024,4,customer_facing_ai,6
+WBS,Webster Financial Corp,transcript,2024,4,governance,6
+WBS,Webster Financial Corp,transcript,2024,4,investment_spend,6
+WBS,Webster Financial Corp,transcript,2024,4,measurable_outcomes,6
+WBS,Webster Financial Corp,transcript,2024,4,vendors_partnerships,6
+WBS,Webster Financial Corp,sec_filing,2024,4,customer_facing_ai,5
+WBS,Webster Financial Corp,sec_filing,2024,4,governance,5
+WBS,Webster Financial Corp,sec_filing,2024,4,operations_efficiency,5
+WBS,Webster Financial Corp,sec_filing,2024,4,use_cases,5
+WBS,Webster Financial Corp,sec_filing,2024,4,vendors_partnerships,5
+WBS,Webster Financial Corp,sec_filing,2024,4,risk_controls,3
+WBS,Webster Financial Corp,transcript,2024,4,operations_efficiency,2
+WBS,Webster Financial Corp,transcript,2024,4,use_cases,2
+WBS,Webster Financial Corp,sec_filing,2025,1,customer_facing_ai,2
+WBS,Webster Financial Corp,sec_filing,2025,1,governance,2
+WBS,Webster Financial Corp,sec_filing,2025,1,investment_spend,2
+WBS,Webster Financial Corp,sec_filing,2025,1,measurable_outcomes,2
+WBS,Webster Financial Corp,sec_filing,2025,1,operations_efficiency,2
+WBS,Webster Financial Corp,sec_filing,2025,1,use_cases,2
+WBS,Webster Financial Corp,sec_filing,2025,1,vendors_partnerships,2
+WBS,Webster Financial Corp,sec_filing,2025,2,governance,8
+WBS,Webster Financial Corp,sec_filing,2025,2,risk_controls,5
+WBS,Webster Financial Corp,sec_filing,2025,2,use_cases,5
+WBS,Webster Financial Corp,sec_filing,2025,2,operations_efficiency,4
+WBS,Webster Financial Corp,sec_filing,2025,2,measurable_outcomes,3
+WBS,Webster Financial Corp,sec_filing,2025,2,investment_spend,2
+WBS,Webster Financial Corp,sec_filing,2025,2,customer_facing_ai,1
+WBS,Webster Financial Corp,sec_filing,2025,2,vendors_partnerships,1
+WBS,Webster Financial Corp,sec_filing,2025,3,customer_facing_ai,1
+WBS,Webster Financial Corp,sec_filing,2025,3,governance,1
+WBS,Webster Financial Corp,sec_filing,2025,3,investment_spend,1
+WBS,Webster Financial Corp,sec_filing,2025,3,measurable_outcomes,1
+WBS,Webster Financial Corp,sec_filing,2025,3,operations_efficiency,1
+WBS,Webster Financial Corp,sec_filing,2025,3,use_cases,1
+WBS,Webster Financial Corp,sec_filing,2025,3,vendors_partnerships,1
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,customer_facing_ai,4
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,investment_spend,4
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,measurable_outcomes,4
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,operations_efficiency,4
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,use_cases,4
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,customer_facing_ai,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,governance,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,investment_spend,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,measurable_outcomes,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,operations_efficiency,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,risk_controls,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,use_cases,2
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,2,vendors_partnerships,1
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,governance,1
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,risk_controls,1
+WFC,Wells Fargo & Company/Mn,transcript,2024,2,vendors_partnerships,1
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,customer_facing_ai,5
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,governance,5
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,measurable_outcomes,5
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,risk_controls,5
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,vendors_partnerships,5
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,investment_spend,4
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,operations_efficiency,4
+WFC,Wells Fargo & Company/Mn,sec_filing,2024,4,use_cases,2
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,investment_spend,5
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,measurable_outcomes,4
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,operations_efficiency,4
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,customer_facing_ai,2
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,risk_controls,2
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,governance,1
+WFC,Wells Fargo & Company/Mn,transcript,2025,2,use_cases,1
+WFC,Wells Fargo & Company/Mn,transcript,2025,3,investment_spend,1
+WFC,Wells Fargo & Company/Mn,transcript,2025,3,operations_efficiency,1
+WFC,Wells Fargo & Company/Mn,transcript,2025,3,vendors_partnerships,1
+WFC,Wells Fargo & Company/Mn,transcript,2025,4,investment_spend,2
+WFC,Wells Fargo & Company/Mn,transcript,2025,4,measurable_outcomes,2
+WFC,Wells Fargo & Company/Mn,transcript,2025,4,operations_efficiency,2
+WTFC,Wintrust Financial Corp,transcript,2024,2,customer_facing_ai,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,governance,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,investment_spend,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,measurable_outcomes,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,operations_efficiency,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,vendors_partnerships,16
+WTFC,Wintrust Financial Corp,transcript,2024,2,risk_controls,8
+WTFC,Wintrust Financial Corp,transcript,2024,2,use_cases,8
+WTFC,Wintrust Financial Corp,transcript,2024,3,customer_facing_ai,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,governance,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,investment_spend,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,measurable_outcomes,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,operations_efficiency,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,risk_controls,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,use_cases,4
+WTFC,Wintrust Financial Corp,transcript,2024,3,vendors_partnerships,4
+WTFC,Wintrust Financial Corp,transcript,2024,4,customer_facing_ai,11
+WTFC,Wintrust Financial Corp,transcript,2024,4,investment_spend,11
+WTFC,Wintrust Financial Corp,transcript,2024,4,measurable_outcomes,11
+WTFC,Wintrust Financial Corp,transcript,2024,4,operations_efficiency,11
+WTFC,Wintrust Financial Corp,transcript,2024,4,vendors_partnerships,11
+WTFC,Wintrust Financial Corp,transcript,2024,4,risk_controls,6
+WTFC,Wintrust Financial Corp,transcript,2024,4,use_cases,6
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,customer_facing_ai,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,governance,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,investment_spend,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,measurable_outcomes,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,operations_efficiency,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,risk_controls,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,use_cases,1
+WTFC,Wintrust Financial Corp,sec_filing,2024,4,vendors_partnerships,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,2,governance,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,2,measurable_outcomes,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,2,operations_efficiency,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,2,risk_controls,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,2,use_cases,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,3,governance,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,3,investment_spend,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,3,measurable_outcomes,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,3,operations_efficiency,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,3,use_cases,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,measurable_outcomes,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,operations_efficiency,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,use_cases,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,governance,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,investment_spend,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2023,4,risk_controls,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,governance,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,measurable_outcomes,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,operations_efficiency,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,risk_controls,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,1,use_cases,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,governance,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,measurable_outcomes,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,operations_efficiency,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,risk_controls,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,2,use_cases,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,governance,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,measurable_outcomes,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,operations_efficiency,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,risk_controls,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,3,use_cases,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,customer_facing_ai,4
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,measurable_outcomes,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,operations_efficiency,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,use_cases,3
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,investment_spend,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2024,4,risk_controls,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,governance,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,measurable_outcomes,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,risk_controls,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,operations_efficiency,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,1,use_cases,1
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,measurable_outcomes,4
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,governance,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,investment_spend,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,operations_efficiency,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,2,vendors_partnerships,2
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,customer_facing_ai,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,governance,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,measurable_outcomes,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,operations_efficiency,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,risk_controls,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,2,use_cases,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,3,customer_facing_ai,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,3,investment_spend,1
+ZION,"Zions Bancorporation, National Association",sec_filing,2025,3,measurable_outcomes,1
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,operations_efficiency,5
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,customer_facing_ai,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,investment_spend,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,measurable_outcomes,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,use_cases,2
+ZION,"Zions Bancorporation, National Association",transcript,2025,4,vendors_partnerships,2

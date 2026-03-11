@@ -1,0 +1,7 @@
+{
+  "chunk_count": 2757,
+  "collection_name": "ai_usage_corpus",
+  "corpus_db": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/corpus.duckdb",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "index_dir": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/index"
+}

@@ -1,0 +1,3 @@
+{"question": "What does BAC say about AI strategy and customer-facing use cases?", "expected_terms": ["AI", "strategy", "customer"], "expected_theme_tags": ["ai_strategy", "customer_facing_ai"], "should_abstain": false}
+{"question": "What does WFC say about AI governance and controls?", "expected_terms": ["governance", "controls", "AI"], "expected_theme_tags": ["risk_controls", "governance"], "should_abstain": false}
+{"question": "Does the corpus support a claim that every bank has a public MRIA about AI?", "expected_terms": ["insufficient evidence"], "expected_theme_tags": [], "should_abstain": true}

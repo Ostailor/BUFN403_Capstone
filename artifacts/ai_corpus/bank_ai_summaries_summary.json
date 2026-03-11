@@ -1,0 +1,7 @@
+{
+  "bank_count": 50,
+  "csv_path": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/bank_ai_summaries.csv",
+  "json_path": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/bank_ai_summaries.json",
+  "markdown_path": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/bank_ai_summaries.md",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct"
+}

@@ -1,0 +1,95 @@
+{
+  "benchmark_count": 3,
+  "results": [
+    {
+      "details": [
+        {
+          "abstain_support": 1,
+          "term_hits": 2,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 1,
+          "term_hits": 2,
+          "theme_hits": 1
+        },
+        {
+          "abstain_support": 0,
+          "term_hits": 0,
+          "theme_hits": 0
+        }
+      ],
+      "score": 7.0,
+      "template": "Explain what the bank says about AI, name the use case or strategy, mention risk/governance if present, and cite every point.",
+      "template_name": "analyst_mode"
+    },
+    {
+      "details": [
+        {
+          "abstain_support": 1,
+          "term_hits": 1,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 1,
+          "term_hits": 1,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 0,
+          "term_hits": 0,
+          "theme_hits": 0
+        }
+      ],
+      "score": 4.0,
+      "template": "Answer only from retrieved evidence. Every claim must be anchored to chunk ids or structured refs.",
+      "template_name": "citation_first"
+    },
+    {
+      "details": [
+        {
+          "abstain_support": 1,
+          "term_hits": 0,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 1,
+          "term_hits": 0,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 0,
+          "term_hits": 0,
+          "theme_hits": 0
+        }
+      ],
+      "score": 2.0,
+      "template": "Answer using only retrieved evidence. Quote or paraphrase cautiously and keep citations explicit.",
+      "template_name": "baseline"
+    },
+    {
+      "details": [
+        {
+          "abstain_support": 0,
+          "term_hits": 0,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 0,
+          "term_hits": 0,
+          "theme_hits": 0
+        },
+        {
+          "abstain_support": 1,
+          "term_hits": 1,
+          "theme_hits": 0
+        }
+      ],
+      "score": 2.0,
+      "template": "If evidence is incomplete, answer 'insufficient evidence'. Prefer abstention over unsupported synthesis.",
+      "template_name": "abstain_first"
+    }
+  ],
+  "selected_template": "Explain what the bank says about AI, name the use case or strategy, mention risk/governance if present, and cite every point.",
+  "selected_template_name": "analyst_mode"
+}

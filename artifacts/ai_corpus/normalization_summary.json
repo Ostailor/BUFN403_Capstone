@@ -1,0 +1,7 @@
+{
+  "call_report_rows": 192,
+  "chunk_count": 256385,
+  "chunks_jsonl": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/chunks.jsonl",
+  "documents_dir": "/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/normalized/documents",
+  "normalized_documents": 124619
+}
