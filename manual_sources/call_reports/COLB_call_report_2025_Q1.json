@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.694725454301704,
+      "ROA": 0.7221219765505554,
+      "REPDTE": "20250331",
+      "OFFDOM": 322,
+      "ROE": 6.73,
+      "ASSET": 51508816,
+      "CERT": 17266,
+      "NETINC": 93041,
+      "EQ": 5588117,
+      "DEP": 42291904,
+      "NAME": "UMPQUA BANK",
+      "ID": "17266_20250331"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:17266"
+}

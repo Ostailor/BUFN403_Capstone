@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 4.31548977857644,
+      "ROA": 3.25237474771451,
+      "REPDTE": "20250930",
+      "OFFDOM": 2,
+      "ROE": 47.98,
+      "ASSET": 926168,
+      "CERT": 33785,
+      "NETINC": 22429,
+      "EQ": 72162,
+      "DEP": 848162,
+      "NAME": "STIFEL TRUST CO NA",
+      "ID": "33785_20250930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:33785"
+}

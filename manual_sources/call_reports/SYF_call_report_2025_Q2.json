@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 12.706022260623968,
+      "ROA": 2.7072171909172305,
+      "REPDTE": "20250630",
+      "OFFDOM": 2,
+      "ROE": 21.49,
+      "ASSET": 113897000,
+      "CERT": 27314,
+      "NETINC": 1537000,
+      "EQ": 14631000,
+      "DEP": 84798000,
+      "NAME": "SYNCHRONY BANK",
+      "ID": "27314_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:27314"
+}

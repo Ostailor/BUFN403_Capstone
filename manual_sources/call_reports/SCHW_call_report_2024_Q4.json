@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 5.3660764328565795,
+      "ROA": 1.3634579337224724,
+      "REPDTE": "20241231",
+      "OFFDOM": 1,
+      "ROE": 5.15,
+      "ASSET": 91787,
+      "CERT": 13959,
+      "NETINC": 1174,
+      "EQ": 23629,
+      "DEP": 66770,
+      "NAME": "CBW BANK",
+      "ID": "13959_20241231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:13959"
+}

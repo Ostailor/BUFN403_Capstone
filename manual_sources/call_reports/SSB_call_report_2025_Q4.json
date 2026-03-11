@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 4.312044180959118,
+      "ROA": 1.3951772655142562,
+      "REPDTE": "20251231",
+      "OFFDOM": 370,
+      "ROE": 9.84,
+      "ASSET": 67179734,
+      "CERT": 33555,
+      "NETINC": 866549,
+      "EQ": 9669919,
+      "DEP": 55223931,
+      "NAME": "SOUTHSTATE BANK NA",
+      "ID": "33555_20251231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:33555"
+}

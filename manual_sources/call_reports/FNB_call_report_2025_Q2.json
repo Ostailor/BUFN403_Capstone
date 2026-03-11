@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.8423415131476473,
+      "ROA": 1.2030352674311844,
+      "REPDTE": "20250630",
+      "OFFDOM": 8,
+      "ROE": 12.26,
+      "ASSET": 306862,
+      "CERT": 2107,
+      "NETINC": 1782,
+      "EQ": 30598,
+      "DEP": 274337,
+      "NAME": "FIRST NB OF SOUTH CAROLINA",
+      "ID": "2107_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:2107"
+}

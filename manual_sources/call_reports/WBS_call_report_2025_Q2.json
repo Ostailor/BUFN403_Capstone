@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.447876448728498,
+      "ROA": 1.2437017864623596,
+      "REPDTE": "20250630",
+      "OFFDOM": 196,
+      "ROE": 10.43,
+      "ASSET": 81842488,
+      "CERT": 18221,
+      "NETINC": 499578,
+      "EQ": 9724100,
+      "DEP": 66605483,
+      "NAME": "WEBSTER BANK NATIONAL ASSN",
+      "ID": "18221_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:18221"
+}

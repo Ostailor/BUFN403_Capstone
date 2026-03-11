@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 1.862759041890117,
+      "ROA": 1.4043049556199536,
+      "REPDTE": "20241231",
+      "OFFDOM": 5,
+      "ROE": 13.02,
+      "ASSET": 561177000,
+      "CERT": 33124,
+      "NETINC": 7705000,
+      "EQ": 63033000,
+      "DEP": 389733000,
+      "NAME": "GOLDMAN SACHS BANK USA",
+      "ID": "33124_20241231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:33124"
+}

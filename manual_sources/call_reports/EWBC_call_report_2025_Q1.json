@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.3363271501239433,
+      "ROA": 1.544479236298065,
+      "REPDTE": "20250331",
+      "OFFDOM": 98,
+      "ROE": 15.88,
+      "ASSET": 75712113,
+      "CERT": 31628,
+      "NETINC": 292590,
+      "EQ": 7489605,
+      "DEP": 63156194,
+      "NAME": "EAST WEST BANK",
+      "ID": "31628_20250331"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:31628"
+}

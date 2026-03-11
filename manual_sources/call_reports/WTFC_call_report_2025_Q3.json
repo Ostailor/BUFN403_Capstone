@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.2151808755705127,
+      "ROA": 1.4495143978038103,
+      "REPDTE": "20250930",
+      "OFFDOM": 10,
+      "ROE": 14.36,
+      "ASSET": 3302387,
+      "CERT": 27052,
+      "NETINC": 33813,
+      "EQ": 335400,
+      "DEP": 2836818,
+      "NAME": "ST CHARLES B&T CO NA",
+      "ID": "27052_20250930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:27052"
+}

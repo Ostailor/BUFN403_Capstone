@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 1.1891070389847083,
+      "ROA": 0.8186603404967904,
+      "REPDTE": "20240930",
+      "OFFDOM": 3,
+      "ROE": 9.96,
+      "ASSET": 334336000,
+      "CERT": 14,
+      "NETINC": 1969000,
+      "EQ": 27317000,
+      "DEP": 254431000,
+      "NAME": "STATE STREET BANK&TRUST CO",
+      "ID": "14_20240930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:14"
+}

@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.4702582539593485,
+      "ROA": 1.2755820656269254,
+      "REPDTE": "20250630",
+      "OFFDOM": 422,
+      "ROE": 11.57,
+      "ASSET": 81784169,
+      "CERT": 4977,
+      "NETINC": 520547,
+      "EQ": 9165820,
+      "DEP": 66325396,
+      "NAME": "FIRST HORIZON BANK",
+      "ID": "4977_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:4977"
+}

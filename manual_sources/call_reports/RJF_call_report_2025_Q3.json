@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.0954206090055827,
+      "ROA": 1.4248860013133746,
+      "REPDTE": "20250930",
+      "OFFDOM": 1,
+      "ROE": 19.8,
+      "ASSET": 42857360,
+      "CERT": 33893,
+      "NETINC": 449719,
+      "EQ": 3105280,
+      "DEP": 38897981,
+      "NAME": "RAYMOND JAMES BANK",
+      "ID": "33893_20250930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:33893"
+}

@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 4.026058203314417,
+      "ROA": 0.9095211252690231,
+      "REPDTE": "20251231",
+      "OFFDOM": 1,
+      "ROE": 11.26,
+      "ASSET": 184648000,
+      "CERT": 57803,
+      "NETINC": 1649000,
+      "EQ": 15277000,
+      "DEP": 155037000,
+      "NAME": "ALLY BANK",
+      "ID": "57803_20251231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:57803"
+}

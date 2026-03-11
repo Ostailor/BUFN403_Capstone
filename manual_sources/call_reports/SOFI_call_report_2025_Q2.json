@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 6.353342032934944,
+      "ROA": 2.0533362581142143,
+      "REPDTE": "20250630",
+      "OFFDOM": 4,
+      "ROE": 14.52,
+      "ASSET": 36284122,
+      "CERT": 26881,
+      "NETINC": 343005,
+      "EQ": 4909174,
+      "DEP": 29722621,
+      "NAME": "SOFI BANK NATIONAL ASSN",
+      "ID": "26881_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:26881"
+}

@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 1.3021031360170334,
+      "ROA": 0.7698483781300453,
+      "REPDTE": "20240331",
+      "OFFDOM": 9,
+      "ROE": 9.64,
+      "ASSET": 357477000,
+      "CERT": 639,
+      "NETINC": 664000,
+      "EQ": 27470000,
+      "DEP": 312760000,
+      "NAME": "BANK OF NEW YORK MELLON",
+      "ID": "639_20240331"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:639"
+}

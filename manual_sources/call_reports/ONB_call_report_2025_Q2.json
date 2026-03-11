@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.455364704916287,
+      "ROA": 1.0431439451071152,
+      "REPDTE": "20250630",
+      "OFFDOM": 366,
+      "ROE": 9.09,
+      "ASSET": 70701190,
+      "CERT": 3832,
+      "NETINC": 308632,
+      "EQ": 7871927,
+      "DEP": 54862635,
+      "NAME": "OLD NATIONAL BANK",
+      "ID": "3832_20250630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:3832"
+}

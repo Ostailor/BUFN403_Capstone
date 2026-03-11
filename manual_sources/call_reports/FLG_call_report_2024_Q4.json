@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 4.4505149242786475,
+      "ROA": 2.3779941795388404,
+      "REPDTE": "20241231",
+      "OFFDOM": 2,
+      "ROE": 11.26,
+      "ASSET": 186858,
+      "CERT": 14392,
+      "NETINC": 4249,
+      "EQ": 38930,
+      "DEP": 144990,
+      "NAME": "FARMERS TRUST&SAVINGS BANK",
+      "ID": "14392_20241231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:14392"
+}

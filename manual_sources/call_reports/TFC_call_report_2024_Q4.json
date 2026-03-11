@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.23441336529643,
+      "ROA": 0.9681138653947381,
+      "REPDTE": "20241231",
+      "OFFDOM": 1932,
+      "ROE": 8.35,
+      "ASSET": 523132000,
+      "CERT": 9846,
+      "NETINC": 5043000,
+      "EQ": 60832000,
+      "DEP": 402078000,
+      "NAME": "TRUIST BANK",
+      "ID": "9846_20241231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:9846"
+}

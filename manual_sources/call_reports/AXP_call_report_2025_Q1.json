@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 8.293664227786813,
+      "ROA": 4.255466605697381,
+      "REPDTE": "20250331",
+      "OFFDOM": 1,
+      "ROE": 44.75,
+      "ASSET": 203447693,
+      "CERT": 27471,
+      "NETINC": 2109169,
+      "EQ": 19159693,
+      "DEP": 158851165,
+      "NAME": "AMERICAN EXPRESS NB",
+      "ID": "27471_20250331"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:27471"
+}

@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 4.126446948429027,
+      "ROA": 1.1248250028377917,
+      "REPDTE": "20250331",
+      "OFFDOM": 4,
+      "ROE": 8.72,
+      "ASSET": 336708,
+      "CERT": 14488,
+      "NETINC": 929,
+      "EQ": 43084,
+      "DEP": 289527,
+      "NAME": "CITIZENS BANK",
+      "ID": "14488_20250331"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:14488"
+}

@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.698133400261621,
+      "ROA": 0.8537897505699921,
+      "REPDTE": "20250930",
+      "OFFDOM": 383,
+      "ROE": 7.64,
+      "ASSET": 67491443,
+      "CERT": 17266,
+      "NETINC": 356134,
+      "EQ": 8092635,
+      "DEP": 55904769,
+      "NAME": "COLUMBIA BANK",
+      "ID": "17266_20250930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:17266"
+}

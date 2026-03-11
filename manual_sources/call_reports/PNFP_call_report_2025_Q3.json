@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.1965281887659027,
+      "ROA": 1.2341075470960665,
+      "REPDTE": "20250930",
+      "OFFDOM": 180,
+      "ROE": 10,
+      "ASSET": 55867973,
+      "CERT": 35583,
+      "NETINC": 502650,
+      "EQ": 6936719,
+      "DEP": 45987934,
+      "NAME": "PINNACLE BANK",
+      "ID": "35583_20250930"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:35583"
+}

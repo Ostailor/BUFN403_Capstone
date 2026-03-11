@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 3.6394669657010636,
+      "ROA": 0.9973463750748655,
+      "REPDTE": "20241231",
+      "OFFDOM": 37,
+      "ROE": 11.73,
+      "ASSET": 80862067,
+      "CERT": 57512,
+      "NETINC": 776088,
+      "EQ": 6902797,
+      "DEP": 66760014,
+      "NAME": "WESTERN ALLIANCE BANK",
+      "ID": "57512_20241231"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:57512"
+}

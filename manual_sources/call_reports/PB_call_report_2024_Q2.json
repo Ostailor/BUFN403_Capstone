@@ -1,0 +1,19 @@
+{
+  "rows": [
+    {
+      "NIMY": 2.9118927361222156,
+      "ROA": 1.173524931118381,
+      "REPDTE": "20240630",
+      "OFFDOM": 329,
+      "ROE": 6.42,
+      "ASSET": 39759389,
+      "CERT": 16835,
+      "NETINC": 228990,
+      "EQ": 7261264,
+      "DEP": 28030434,
+      "NAME": "PROSPERITY BANK",
+      "ID": "16835_20240630"
+    }
+  ],
+  "source_url": "https://api.fdic.gov/banks/financials?format=json&limit=200&sort_by=REPDTE&sort_order=DESC&filters=CERT:16835"
+}
