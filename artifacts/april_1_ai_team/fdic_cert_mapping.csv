@@ -1,0 +1,51 @@
+ticker,bank_name,cert,institution_name,holding_company,city,state,active_flag,fdic_institution_assets
+ALLY,Ally Financial Inc.,57803,Ally Bank,ALLY FINANCIAL INC,Sandy,UT,1,184648000.0
+ASB,Associated Banc-Corp,5296,"Associated Bank, National Association",ASSOCIATED BANC-CORP,Green Bay,WI,1,45145405.0
+AXP,American Express Co,27471,American Express National  Bank,AMERICAN EXPRESS CO,Sandy,UT,1,211275193.0
+BAC,Bank Of America Corp,3510,"Bank of America, National Association",BANK OF AMERICA CORP,Charlotte,NC,1,2636823000.0
+BK,Bank of New York Mellon Corp,639,The Bank of New York Mellon,BANK OF NY MELLON CORP THE,New York,NY,1,380997000.0
+BKU,"BankUnited, Inc.",58979,"BankUnited, National Association",BANKUNITED INC,Miami Lakes,FL,1,35027511.0
+BOKF,Bok Financial Corp,4214,"BOKF, National Association",BOK FINANCIAL CORP,Tulsa,OK,1,52005221.0
+BPOP,"Popular, Inc.",34968,Banco Popular de Puerto Rico,POPULAR INC,San Juan,PR,1,59766000.0
+C,Citigroup Inc,7213,"Citibank, National Association",CITIGROUP INC,Sioux Falls,SD,1,1836436000.0
+CFG,Citizens Financial Group Inc/Ri,57957,"Citizens Bank, National Association",CITIZENS FINANCIAL GROUP INC,Providence,RI,1,225863637.0
+CFR,"Cullen/Frost Bankers, Inc.",5510,Frost  Bank,CULLEN FROST BANKERS INC,San Antonio,TX,1,53127804.0
+CMA,Comerica Inc,983,Comerica Bank,COMERICA INC,Dallas,TX,0,80052000.0
+COF,Capital One Financial Corp,4297,"Capital One, National Association",CAPITAL ONE FINANCIAL CORP,Mclean,VA,1,658464240.0
+COLB,"Columbia Banking System, Inc.",17266,Columbia Bank,COLUMBIA BANKING SYSTEM INC,Roseburg,OR,1,66821352.0
+DFS,Discover Financial Services,5649,Discover Bank,DISCOVER FINANCIAL SERVICES,Greenwood,DE,0,145412640.0
+EWBC,East West Bancorp Inc,31628,East West Bank,EAST WEST BCORP INC,Pasadena,CA,1,79661753.0
+FCNCA,First Citizens Bancshares Inc,11063,First-Citizens Bank & Trust Company,FIRST CITIZENS BANCSHARES INC,Raleigh,NC,1,229332000.0
+FHN,First Horizon Corp,4977,First Horizon Bank,FIRST HORIZON CORP,Memphis,TN,1,83572753.0
+FITB,Fifth Third Bancorp,6672,"Fifth Third Bank, National Association",FIFTH THIRD BCORP,Cincinnati,OH,1,213730000.0
+FLG,"Flagstar Financial, Inc.",32541,"Flagstar Bank, National Association",,Hicksville,NY,1,87511954.0
+FNB,Fnb Corp,7888,First National Bank of Pennsylvania,F N B CORP,Greenville,PA,1,50018001.0
+GS,Goldman Sachs Group Inc,33124,Goldman Sachs Bank USA,GOLDMAN SACHS GROUP INC THE,New York,NY,1,644997000.0
+HBAN,Huntington Bancshares Inc,6560,The Huntington National Bank,HUNTINGTON BANCSHARES INC,Columbus,OH,1,224047234.0
+JPM,Jpmorgan Chase & Co,628,"JPMorgan Chase Bank, National Association",JPMORGAN CHASE&CO,Columbus,OH,1,3752662000.0
+KEY,Keycorp,17534,KeyBank National Association,KEYCORP,Cleveland,OH,1,181707510.0
+MS,Morgan Stanley,32992,"Morgan Stanley Bank, National Association",MORGAN STANLEY,Salt Lake City,UT,1,253348000.0
+MTB,M&T Bank Corp,588,Manufacturers and Traders Trust Company,M&T BANK CORP,Buffalo,NY,1,212887157.0
+NTRS,Northern Trust Corp,913,The Northern Trust Company,NORTHERN TRUST CORP,Chicago,IL,1,176396321.0
+ONB,Old National Bancorp,3832,Old National Bank,OLD NATIONAL BCORP,Evansville,IN,1,71771976.0
+PB,Prosperity Bancshares Inc,16835,Prosperity Bank,PROSPERITY BANCSHARES INC,El Campo,TX,1,38458815.0
+PNC,"Pnc Financial Services Group, Inc.",6384,"PNC Bank, National Association",PNC FINL SERVICES GROUP INC,Wilmington,DE,1,568338163.0
+PNFP,Pinnacle Financial Partners Inc,35583,Pinnacle Bank,PINNACLE FINL PARTNERS INC,Nashville,TN,1,57636946.0
+RF,Regions Financial Corp,12368,Regions Bank,REGIONS FINANCIAL CORP,Birmingham,AL,1,158218000.0
+RJF,Raymond James Financial Inc,33893,Raymond James Bank,RAYMOND JAMES FINANCIAL INC,Saint Petersburg,FL,1,43374103.0
+SCHW,Schwab Charles Corp,57450,"Charles Schwab Bank, SSB",CHARLES SCHWAB CORP THE,Westlake,TX,1,253772000.0
+SF,Stifel Financial Corp,57311,Stifel Bank and Trust,STIFEL FINANCIAL CORP,Saint Louis,MO,1,19412996.0
+SNV,Synovus Financial Corp,873,Synovus Bank,SYNOVUS FINANCIAL CORP,Columbus,GA,0,61204265.0
+SOFI,"SoFi Technologies, Inc.",26881,"SoFi Bank, National Association",SOFI TECHNOLOGIES INC,Cottonwood Heights,UT,1,46568135.0
+SSB,SouthState Bank Corp,33555,"SouthState Bank, National Association",SOUTHSTATE BANK CORP,Winter Haven,FL,1,67179734.0
+STT,State Street Corp,14,State Street Bank and Trust Company,STATE STREET CORP,Boston,MA,1,360681000.0
+SYF,Synchrony Financial,27314,Synchrony Bank,SYNCHRONY FINANCIAL,Draper,UT,1,112115000.0
+TFC,Truist Financial Corp,9846,Truist Bank,TRUIST FINANCIAL CORP,Charlotte,NC,1,539519000.0
+UMBF,Umb Financial Corp,8273,"UMB Bank, National Association",UMB FINANCIAL CORP,Kansas City,MO,1,72780016.0
+USB,Us Bancorp \De\,6548,U.S. Bank National Association,U S BCORP,Cincinnati,OH,1,676125227.0
+VLY,Valley National Bancorp,9396,Valley National Bank,VALLEY NATIONAL BCORP,Passaic,NJ,1,64061947.0
+WAL,Western Alliance Bancorporation,57512,Western Alliance Bank,WESTERN ALLIANCE BCORP,Phoenix,AZ,1,92735703.0
+WBS,Webster Financial Corp,18221,"Webster Bank, National Association",WEBSTER FINANCIAL CORP,Stamford,CT,1,83985466.0
+WFC,Wells Fargo & Company/Mn,3511,"Wells Fargo Bank, National Association",WELLS FARGO&COMPANY,Sioux Falls,SD,1,1822693000.0
+WTFC,Wintrust Financial Corp,33935,"Wintrust Bank, National Association",WINTRUST FINANCIAL CORP,Chicago,IL,1,9575716.0
+ZION,"Zions Bancorporation, National Association",2270,"Zions Bancorporation, N.A.",,Salt Lake City,UT,1,88989689.0

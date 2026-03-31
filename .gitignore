@@ -2,3 +2,9 @@
 transcripts_final-20260304T030232Z-1-001.zip
 .venv/
 .pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+artifacts/ai_corpus/normalized/
+artifacts/ffiec_bulk/
+artifacts_bundle.zip

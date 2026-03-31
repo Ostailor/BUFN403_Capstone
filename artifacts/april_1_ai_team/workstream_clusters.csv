@@ -1,0 +1,151 @@
+ticker,bank_name,workstream,cluster,rating,current_score
+ALLY,Ally Financial Inc.,ai_activity,AI Active,3,56.46958698372967
+ASB,Associated Banc-Corp,ai_activity,AI Active,4,69.51539424280351
+AXP,American Express Co,ai_activity,AI Leaders,5,83.02215269086358
+BAC,Bank Of America Corp,ai_activity,AI Active,4,70.91489361702128
+BK,Bank of New York Mellon Corp,ai_activity,AI Active,4,68.24167709637047
+BKU,"BankUnited, Inc.",ai_activity,AI Watchlist,1,9.571026282853566
+BOKF,Bok Financial Corp,ai_activity,AI Watchlist,2,27.56020025031289
+BPOP,"Popular, Inc.",ai_activity,AI Watchlist,1,10.423404255319149
+C,Citigroup Inc,ai_activity,AI Leaders,5,89.90387984981228
+CFG,Citizens Financial Group Inc/Ri,ai_activity,AI Leaders,4,79.39249061326659
+CFR,"Cullen/Frost Bankers, Inc.",ai_activity,AI Watchlist,2,32.561326658322905
+CMA,Comerica Inc,ai_activity,AI Watchlist,2,30.03617021276596
+COF,Capital One Financial Corp,ai_activity,AI Leaders,5,94.97872340425532
+COLB,"Columbia Banking System, Inc.",ai_activity,AI Watchlist,1,12.087234042553192
+DFS,Discover Financial Services,ai_activity,AI Watchlist,1,15.440425531914894
+EWBC,East West Bancorp Inc,ai_activity,AI Watchlist,1,12.536983729662078
+FCNCA,First Citizens Bancshares Inc,ai_activity,AI Watchlist,2,26.202127659574465
+FHN,First Horizon Corp,ai_activity,AI Watchlist,1,8.170212765957448
+FITB,Fifth Third Bancorp,ai_activity,AI Active,3,50.11201501877348
+FLG,"Flagstar Financial, Inc.",ai_activity,AI Watchlist,1,12.074468085106384
+FNB,Fnb Corp,ai_activity,AI Active,3,50.8168961201502
+GS,Goldman Sachs Group Inc,ai_activity,AI Active,4,60.86608260325407
+HBAN,Huntington Bancshares Inc,ai_activity,AI Active,3,57.82803504380476
+JPM,Jpmorgan Chase & Co,ai_activity,AI Leaders,4,79.46495619524406
+KEY,Keycorp,ai_activity,AI Active,4,71.34530663329161
+MS,Morgan Stanley,ai_activity,AI Leaders,4,79.06145181476846
+MTB,M&T Bank Corp,ai_activity,AI Active,3,53.06545682102628
+NTRS,Northern Trust Corp,ai_activity,AI Active,3,42.02340425531914
+ONB,Old National Bancorp,ai_activity,AI Active,4,60.10713391739675
+PB,Prosperity Bancshares Inc,ai_activity,AI Watchlist,2,21.644680851063832
+PNC,"Pnc Financial Services Group, Inc.",ai_activity,AI Leaders,5,83.14831038798498
+PNFP,Pinnacle Financial Partners Inc,ai_activity,AI Watchlist,1,9.72127659574468
+RF,Regions Financial Corp,ai_activity,AI Active,3,50.74893617021276
+RJF,Raymond James Financial Inc,ai_activity,AI Watchlist,3,43.97709637046308
+SCHW,Schwab Charles Corp,ai_activity,AI Watchlist,1,3.8000000000000003
+SF,Stifel Financial Corp,ai_activity,AI Active,3,47.99693366708386
+SNV,Synovus Financial Corp,ai_activity,AI Watchlist,2,27.70425531914894
+SOFI,"SoFi Technologies, Inc.",ai_activity,AI Leaders,5,93.38648310387984
+SSB,SouthState Bank Corp,ai_activity,AI Active,4,76.64480600750939
+STT,State Street Corp,ai_activity,AI Active,4,70.24030037546935
+SYF,Synchrony Financial,ai_activity,AI Active,4,61.840675844806015
+TFC,Truist Financial Corp,ai_activity,AI Watchlist,2,34.169524405506884
+UMBF,Umb Financial Corp,ai_activity,AI Watchlist,1,3.8000000000000003
+USB,Us Bancorp \De\,ai_activity,AI Active,3,43.680162703379224
+VLY,Valley National Bancorp,ai_activity,AI Watchlist,2,30.58410513141427
+WAL,Western Alliance Bancorporation,ai_activity,AI Active,3,49.02215269086358
+WBS,Webster Financial Corp,ai_activity,AI Watchlist,2,25.753191489361704
+WFC,Wells Fargo & Company/Mn,ai_activity,AI Active,2,29.545869837296618
+WTFC,Wintrust Financial Corp,ai_activity,AI Watchlist,1,3.8000000000000003
+ZION,"Zions Bancorporation, National Association",ai_activity,AI Active,3,42.49812265331664
+ALLY,Ally Financial Inc.,private_credit,Private Credit Active,3,45.38205128205128
+ASB,Associated Banc-Corp,private_credit,Private Credit Active,2,29.808974358974357
+AXP,American Express Co,private_credit,Private Credit Limited,1,4.2
+BAC,Bank Of America Corp,private_credit,Private Credit Limited,1,11.315384615384616
+BK,Bank of New York Mellon Corp,private_credit,Private Credit Limited,1,4.2
+BKU,"BankUnited, Inc.",private_credit,Private Credit Active,4,69.85641025641026
+BOKF,Bok Financial Corp,private_credit,Private Credit Active,2,31.126923076923077
+BPOP,"Popular, Inc.",private_credit,Private Credit Limited,1,4.2
+C,Citigroup Inc,private_credit,Private Credit Active,4,64.52051282051282
+CFG,Citizens Financial Group Inc/Ri,private_credit,Private Credit Leaders,5,86.25128205128205
+CFR,"Cullen/Frost Bankers, Inc.",private_credit,Private Credit Active,3,49.47564102564103
+CMA,Comerica Inc,private_credit,Private Credit Limited,1,4.2
+COF,Capital One Financial Corp,private_credit,Private Credit Limited,2,23.62307692307692
+COLB,"Columbia Banking System, Inc.",private_credit,Private Credit Limited,1,4.2
+DFS,Discover Financial Services,private_credit,Private Credit Limited,1,4.2
+EWBC,East West Bancorp Inc,private_credit,Private Credit Active,2,39.289743589743594
+FCNCA,First Citizens Bancshares Inc,private_credit,Private Credit Leaders,4,69.15
+FHN,First Horizon Corp,private_credit,Private Credit Active,2,27.046153846153846
+FITB,Fifth Third Bancorp,private_credit,Private Credit Active,2,22.48974358974359
+FLG,"Flagstar Financial, Inc.",private_credit,Private Credit Limited,1,13.879487179487178
+FNB,Fnb Corp,private_credit,Private Credit Limited,2,25.03333333333333
+GS,Goldman Sachs Group Inc,private_credit,Private Credit Active,3,45.01410256410257
+HBAN,Huntington Bancshares Inc,private_credit,Private Credit Active,2,39.98717948717949
+JPM,Jpmorgan Chase & Co,private_credit,Private Credit Active,4,76.95384615384614
+KEY,Keycorp,private_credit,Private Credit Active,4,70.35384615384615
+MS,Morgan Stanley,private_credit,Private Credit Leaders,5,92.6846153846154
+MTB,M&T Bank Corp,private_credit,Private Credit Limited,2,29.398717948717948
+NTRS,Northern Trust Corp,private_credit,Private Credit Limited,1,11.315384615384616
+ONB,Old National Bancorp,private_credit,Private Credit Limited,1,4.2
+PB,Prosperity Bancshares Inc,private_credit,Private Credit Limited,1,4.2
+PNC,"Pnc Financial Services Group, Inc.",private_credit,Private Credit Leaders,5,83.47179487179487
+PNFP,Pinnacle Financial Partners Inc,private_credit,Private Credit Limited,1,13.555128205128206
+RF,Regions Financial Corp,private_credit,Private Credit Limited,1,8.75128205128205
+RJF,Raymond James Financial Inc,private_credit,Private Credit Active,4,70.03076923076922
+SCHW,Schwab Charles Corp,private_credit,Private Credit Limited,1,4.2
+SF,Stifel Financial Corp,private_credit,Private Credit Limited,2,22.488461538461536
+SNV,Synovus Financial Corp,private_credit,Private Credit Active,2,34.42435897435898
+SOFI,"SoFi Technologies, Inc.",private_credit,Private Credit Active,2,38.59102564102564
+SSB,SouthState Bank Corp,private_credit,Private Credit Active,3,45.83846153846154
+STT,State Street Corp,private_credit,Private Credit Leaders,5,95.64102564102564
+SYF,Synchrony Financial,private_credit,Private Credit Limited,1,4.2
+TFC,Truist Financial Corp,private_credit,Private Credit Limited,1,4.2
+UMBF,Umb Financial Corp,private_credit,Private Credit Active,3,50.07179487179488
+USB,Us Bancorp \De\,private_credit,Private Credit Active,3,59.328205128205134
+VLY,Valley National Bancorp,private_credit,Private Credit Active,3,43.943589743589754
+WAL,Western Alliance Bancorporation,private_credit,Private Credit Active,3,45.437179487179485
+WBS,Webster Financial Corp,private_credit,Private Credit Leaders,4,68.8525641025641
+WFC,Wells Fargo & Company/Mn,private_credit,Private Credit Leaders,5,84.11025641025641
+WTFC,Wintrust Financial Corp,private_credit,Private Credit Active,3,55.21025641025642
+ZION,"Zions Bancorporation, National Association",private_credit,Private Credit Active,3,52.59743589743589
+ALLY,Ally Financial Inc.,risk_resilience,Risk Watch,3,41.54336734693877
+ASB,Associated Banc-Corp,risk_resilience,Risk Resilient,3,58.182397959183675
+AXP,American Express Co,risk_resilience,Risk Resilient,4,64.96811224489795
+BAC,Bank Of America Corp,risk_resilience,Risk Resilient,3,44.538690476190474
+BK,Bank of New York Mellon Corp,risk_resilience,Risk Resilient,4,63.718112244897966
+BKU,"BankUnited, Inc.",risk_resilience,Risk Watch,2,29.075255102040817
+BOKF,Bok Financial Corp,risk_resilience,Risk Resilient,3,47.34906462585034
+BPOP,"Popular, Inc.",risk_resilience,Risk Watch,3,40.27423469387755
+C,Citigroup Inc,risk_resilience,Risk Watch,2,29.787414965986393
+CFG,Citizens Financial Group Inc/Ri,risk_resilience,Risk Watch,2,32.16624149659864
+CFR,"Cullen/Frost Bankers, Inc.",risk_resilience,Risk Resilient,3,59.66836734693877
+CMA,Comerica Inc,risk_resilience,Risk Resilient,3,48.81377551020408
+COF,Capital One Financial Corp,risk_resilience,Risk Watch,2,36.817602040816325
+COLB,"Columbia Banking System, Inc.",risk_resilience,Risk Resilient,3,57.91454081632653
+DFS,Discover Financial Services,risk_resilience,Risk Resilient,4,62.7673469387755
+EWBC,East West Bancorp Inc,risk_resilience,Risk Resilient,4,72.53401360544218
+FCNCA,First Citizens Bancshares Inc,risk_resilience,Risk Watch,2,30.880102040816325
+FHN,First Horizon Corp,risk_resilience,Risk Resilient,3,57.92517006802721
+FITB,Fifth Third Bancorp,risk_resilience,Risk Resilient,3,51.877125850340136
+FLG,"Flagstar Financial, Inc.",risk_resilience,Risk Watch,1,16.61777210884354
+FNB,Fnb Corp,risk_resilience,Risk Resilient,4,65.7610544217687
+GS,Goldman Sachs Group Inc,risk_resilience,Risk Watch,3,41.50085034013605
+HBAN,Huntington Bancshares Inc,risk_resilience,Risk Resilient,3,45.737670068027214
+JPM,Jpmorgan Chase & Co,risk_resilience,Risk Resilient,3,45.04676870748299
+KEY,Keycorp,risk_resilience,Risk Resilient,3,47.06845238095238
+MS,Morgan Stanley,risk_resilience,Risk Resilient,3,58.46301020408164
+MTB,M&T Bank Corp,risk_resilience,Risk Resilient,3,53.74574829931973
+NTRS,Northern Trust Corp,risk_resilience,Risk Resilient,3,51.1734693877551
+ONB,Old National Bancorp,risk_resilience,Risk Moderate,2,37.561649659863946
+PB,Prosperity Bancshares Inc,risk_resilience,Risk Moderate,4,61.009778911564624
+PNC,"Pnc Financial Services Group, Inc.",risk_resilience,Risk Resilient,3,50.55484693877551
+PNFP,Pinnacle Financial Partners Inc,risk_resilience,Risk Resilient,4,63.24617346938776
+RF,Regions Financial Corp,risk_resilience,Risk Resilient,3,52.93579931972789
+RJF,Raymond James Financial Inc,risk_resilience,Risk Resilient,4,64.49617346938774
+SCHW,Schwab Charles Corp,risk_resilience,Risk Resilient,3,42.09183673469388
+SF,Stifel Financial Corp,risk_resilience,Risk Resilient,4,65.86096938775509
+SNV,Synovus Financial Corp,risk_resilience,Risk Resilient,4,68.47576530612244
+SOFI,"SoFi Technologies, Inc.",risk_resilience,Risk Resilient,5,90.2281746031746
+SSB,SouthState Bank Corp,risk_resilience,Risk Resilient,4,61.96215986394559
+STT,State Street Corp,risk_resilience,Risk Watch,2,30.573979591836732
+SYF,Synchrony Financial,risk_resilience,Risk Resilient,4,68.04846938775509
+TFC,Truist Financial Corp,risk_resilience,Risk Resilient,3,44.09438775510204
+UMBF,Umb Financial Corp,risk_resilience,Risk Resilient,3,51.06505102040816
+USB,Us Bancorp \De\,risk_resilience,Risk Watch,2,38.78826530612245
+VLY,Valley National Bancorp,risk_resilience,Risk Watch,2,38.673469387755105
+WAL,Western Alliance Bancorporation,risk_resilience,Risk Watch,3,40.75255102040817
+WBS,Webster Financial Corp,risk_resilience,Risk Resilient,3,58.798894557823125
+WFC,Wells Fargo & Company/Mn,risk_resilience,Risk Resilient,3,50.51020408163266
+WTFC,Wintrust Financial Corp,risk_resilience,Risk Resilient,5,82.44260204081633
+ZION,"Zions Bancorporation, National Association",risk_resilience,Risk Resilient,3,47.51700680272109

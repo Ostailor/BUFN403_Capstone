@@ -1,0 +1,12 @@
+file_path,purpose
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/april_1_ai_team_summary.md,Executive summary and caveats
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/workstream_current_ratings.csv,Current ratings across the three workstreams
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/workstream_quarterly_ratings.csv,Quarterly ratings across the three workstreams
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/workstream_clusters.csv,"Cluster assignments for AI, private credit, and risk"
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/workstream_driver_correlations.csv,Driver correlations by workstream
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/manual_ai_priority_banks.csv,Banks to prioritize for manual web search
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/risk_resilience_index_detail.xlsx,Transparent workbook for the risk index and DPD metrics
+/Users/omtailor/BUFN403_Capstone/artifacts/april_1_ai_team/private_credit_hits.csv,Underlying private-credit hit extraction
+/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/document_manifest.csv,Document coverage and search hints
+/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/topic_findings.csv,Underlying AI topic mentions
+/Users/omtailor/BUFN403_Capstone/artifacts/ai_corpus/ai_bank_scorecard.csv,Existing AI scorecard baseline
