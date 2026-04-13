@@ -10,7 +10,9 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
+from src.ai_corpus.composite_scorer import run_scoring
 from src.ai_corpus.config import CorpusPaths
+from src.ai_corpus.intent_classifier import run_classification
 from src.ai_corpus.pipeline import (
     acquire_missing,
     ask,
@@ -22,6 +24,7 @@ from src.ai_corpus.pipeline import (
     optimize_prompts,
     search,
 )
+from src.ai_corpus.report_generator import generate_report
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -58,6 +61,13 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers.add_parser("build-topic-findings", help="Generate topic findings and plots")
     summary_parser = subparsers.add_parser("build-bank-summaries", help="Generate per-bank AI summaries")
     summary_parser.add_argument("--embedding-model", default=None)
+
+    classify_parser = subparsers.add_parser("classify", help="Classify AI chunks by intent and application type")
+    classify_parser.add_argument("--batch-size", type=int, default=10, help="Batch size for classification")
+
+    subparsers.add_parser("score", help="Compute composite scores and rankings from classifications")
+    subparsers.add_parser("report", help="Generate static Markdown report with charts")
+    subparsers.add_parser("dashboard", help="Launch Streamlit dashboard")
     return parser
 
 
@@ -118,6 +128,19 @@ def main() -> int:
         payload = build_topic_findings(paths=paths)
     elif args.command == "build-bank-summaries":
         payload = build_bank_ai_summaries(paths=paths, embedding_model=args.embedding_model)
+    elif args.command == "classify":
+        output_path = run_classification(paths=paths, batch_size=args.batch_size)
+        payload = {"classifications_jsonl": str(output_path)}
+    elif args.command == "score":
+        payload = run_scoring(paths=paths)
+        payload = {k: str(v) for k, v in payload.items()}
+    elif args.command == "report":
+        report_path = generate_report(paths=paths)
+        payload = {"report": str(report_path)}
+    elif args.command == "dashboard":
+        import subprocess
+        dashboard_app = ROOT_DIR / "dashboard" / "app.py"
+        raise SystemExit(subprocess.call(["streamlit", "run", str(dashboard_app)]))
     else:
         raise SystemExit(f"Unsupported command: {args.command}")
 

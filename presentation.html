@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BUFN403 Capstone — AI Intent & Classification</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; background: #0f172a; color: #e2e8f0; overflow: hidden; }
+
+  .slide { display: none; width: 100vw; height: 100vh; padding: 60px 80px; flex-direction: column; justify-content: center; }
+  .slide.active { display: flex; }
+
+  h1 { font-size: 2.8rem; font-weight: 700; color: #f8fafc; margin-bottom: 16px; }
+  h2 { font-size: 2rem; font-weight: 600; color: #38bdf8; margin-bottom: 24px; border-bottom: 2px solid #1e3a5f; padding-bottom: 12px; }
+  h3 { font-size: 1.3rem; font-weight: 600; color: #7dd3fc; margin-bottom: 10px; }
+  p, li { font-size: 1.25rem; line-height: 1.7; color: #cbd5e1; }
+  ul { padding-left: 30px; }
+  li { margin-bottom: 8px; }
+  .subtitle { font-size: 1.4rem; color: #94a3b8; margin-bottom: 8px; }
+  .author { font-size: 1.1rem; color: #64748b; margin-top: 24px; }
+
+  .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin: 30px 0; }
+  .stat-card { background: #1e293b; border-radius: 12px; padding: 28px; text-align: center; border: 1px solid #334155; }
+  .stat-card .number { font-size: 2.6rem; font-weight: 700; color: #38bdf8; }
+  .stat-card .label { font-size: 0.95rem; color: #94a3b8; margin-top: 6px; }
+
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 20px; }
+  .three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 20px; }
+
+  table { width: 100%; border-collapse: collapse; margin-top: 16px; font-size: 1.1rem; }
+  th { background: #1e293b; color: #38bdf8; padding: 12px 16px; text-align: left; font-weight: 600; }
+  td { padding: 10px 16px; border-bottom: 1px solid #1e293b; }
+  tr:nth-child(even) { background: rgba(30,41,59,0.5); }
+  .rank-1 { color: #fbbf24; font-weight: 700; }
+
+  .tag { display: inline-block; padding: 4px 14px; border-radius: 20px; font-size: 0.9rem; margin: 3px; font-weight: 500; }
+  .tag-explore { background: #1e3a5f; color: #7dd3fc; }
+  .tag-commit { background: #1e3b2f; color: #6ee7b7; }
+  .tag-deploy { background: #3b1e3f; color: #c084fc; }
+  .tag-scale { background: #3b2e1e; color: #fbbf24; }
+
+  .chart-img { max-width: 100%; max-height: 420px; border-radius: 8px; border: 1px solid #334155; }
+  .chart-img-sm { max-width: 100%; max-height: 340px; border-radius: 8px; border: 1px solid #334155; }
+
+  .formula { background: #1e293b; padding: 16px 24px; border-radius: 8px; font-family: 'Courier New', monospace; font-size: 1.15rem; color: #38bdf8; margin: 12px 0; border-left: 3px solid #38bdf8; }
+
+  .nav { position: fixed; bottom: 24px; right: 40px; display: flex; gap: 12px; z-index: 100; }
+  .nav button { background: #1e293b; border: 1px solid #334155; color: #e2e8f0; padding: 10px 20px; border-radius: 8px; cursor: pointer; font-size: 1rem; transition: background 0.2s; }
+  .nav button:hover { background: #334155; }
+  .slide-counter { position: fixed; bottom: 30px; left: 40px; color: #475569; font-size: 0.9rem; }
+
+  .highlight { color: #38bdf8; font-weight: 600; }
+  .pipeline-flow { display: flex; align-items: center; gap: 0; margin: 30px 0; flex-wrap: wrap; }
+  .pipeline-step { background: #1e293b; padding: 18px 24px; border-radius: 10px; border: 1px solid #334155; text-align: center; min-width: 160px; }
+  .pipeline-step .step-title { color: #38bdf8; font-weight: 600; font-size: 1rem; }
+  .pipeline-step .step-desc { color: #94a3b8; font-size: 0.85rem; margin-top: 4px; }
+  .pipeline-arrow { font-size: 1.5rem; color: #475569; padding: 0 8px; }
+</style>
+</head>
+<body>
+
+<!-- Slide 1: Title -->
+<div class="slide active" id="s1">
+  <div>
+    <p class="subtitle">BUFN403 Capstone</p>
+    <h1>AI Intent & Classification Ranking System</h1>
+    <p style="font-size:1.3rem; color:#94a3b8; margin-top:16px;">How are America's top 50 banks <em>actually</em> adopting AI?</p>
+    <p style="font-size:1.1rem; color:#94a3b8; margin-top:8px;">Beyond keyword counting &mdash; classifying intent, breadth, and momentum.</p>
+    <p class="author">AI Team 1 &bull; Spring 2026</p>
+  </div>
+</div>
+
+<!-- Slide 2: The Problem -->
+<div class="slide" id="s2">
+  <h2>The Problem</h2>
+  <div class="two-col">
+    <div>
+      <h3>What existing approaches do</h3>
+      <ul>
+        <li>Count AI keyword mentions</li>
+        <li>Flat 1&ndash;10 score per bank</li>
+        <li>No distinction between "exploring" and "scaling"</li>
+        <li>Volume-biased &mdash; big banks auto-win</li>
+      </ul>
+    </div>
+    <div>
+      <h3>What we need</h3>
+      <ul>
+        <li>Classify the <span class="highlight">intent</span> behind each mention</li>
+        <li>Tag the <span class="highlight">application type</span> (GenAI, Fraud, RPA...)</li>
+        <li>Track <span class="highlight">momentum</span> over time</li>
+        <li>Normalize for fair cross-bank comparison</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 3: Data Overview -->
+<div class="slide" id="s3">
+  <h2>Data</h2>
+  <div class="stat-grid">
+    <div class="stat-card">
+      <div class="number">50</div>
+      <div class="label">U.S. Banks Analyzed</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">256K</div>
+      <div class="label">Text Chunks Processed</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">2,757</div>
+      <div class="label">AI-Related Classifications</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">8</div>
+      <div class="label">Quarters of Coverage</div>
+    </div>
+  </div>
+  <h3>Source Documents</h3>
+  <div class="three-col">
+    <div>
+      <p><span class="highlight">Earnings Transcripts</span><br><span style="color:#94a3b8">Q1 2024 &ndash; Q4 2025</span></p>
+    </div>
+    <div>
+      <p><span class="highlight">SEC Filings</span><br><span style="color:#94a3b8">10-K, 10-Q, 8-K, DEF 14A</span></p>
+    </div>
+    <div>
+      <p><span class="highlight">FDIC Call Reports</span><br><span style="color:#94a3b8">Quarterly financial data</span></p>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 4: Methodology — Classification -->
+<div class="slide" id="s4">
+  <h2>Methodology: Two-Dimensional Classification</h2>
+  <div class="two-col">
+    <div>
+      <h3>Intent Levels (1&ndash;4)</h3>
+      <p><span class="tag tag-explore">1 &mdash; Exploring</span> investigating, piloting</p>
+      <p><span class="tag tag-commit">2 &mdash; Committing</span> investing, building</p>
+      <p><span class="tag tag-deploy">3 &mdash; Deploying</span> launched, operational</p>
+      <p><span class="tag tag-scale">4 &mdash; Scaling</span> enterprise-wide, expanding</p>
+    </div>
+    <div>
+      <h3>Application Types (6)</h3>
+      <ul>
+        <li>GenAI / LLMs</li>
+        <li>Predictive ML</li>
+        <li>NLP / Text Processing</li>
+        <li>Computer Vision</li>
+        <li>RPA / Automation</li>
+        <li>Fraud / Risk Models</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 5: Methodology — Scoring -->
+<div class="slide" id="s5">
+  <h2>Methodology: Composite Scoring</h2>
+  <div style="margin-top:10px;">
+    <h3>Three Component Scores</h3>
+    <div class="three-col" style="margin-bottom:24px;">
+      <div class="stat-card">
+        <div class="label" style="color:#38bdf8; font-size:1.1rem; font-weight:600;">Maturity (0&ndash;100)</div>
+        <p style="font-size:0.95rem; margin-top:10px;">Weighted avg of intent levels<br>normalized by mention count</p>
+      </div>
+      <div class="stat-card">
+        <div class="label" style="color:#38bdf8; font-size:1.1rem; font-weight:600;">Breadth (0&ndash;100)</div>
+        <p style="font-size:0.95rem; margin-top:10px;">Shannon entropy across 6 app categories<br>Rewards balance, penalizes concentration</p>
+      </div>
+      <div class="stat-card">
+        <div class="label" style="color:#38bdf8; font-size:1.1rem; font-weight:600;">Momentum (-100 to +100)</div>
+        <p style="font-size:0.95rem; margin-top:10px;">Linear regression slope of quarterly maturity, annualized</p>
+      </div>
+    </div>
+    <h3>Composite Formula</h3>
+    <div class="formula">Composite = 0.50 &times; Maturity + 0.35 &times; Breadth + 0.15 &times; Momentum<sub>normalized</sub></div>
+  </div>
+</div>
+
+<!-- Slide 6: Pipeline -->
+<div class="slide" id="s6">
+  <h2>Execution: Pipeline Architecture</h2>
+  <div class="pipeline-flow">
+    <div class="pipeline-step">
+      <div class="step-title">Ingest</div>
+      <div class="step-desc">Transcripts, SEC, FDIC</div>
+    </div>
+    <div class="pipeline-arrow">&rarr;</div>
+    <div class="pipeline-step">
+      <div class="step-title">Chunk</div>
+      <div class="step-desc">256K text segments</div>
+    </div>
+    <div class="pipeline-arrow">&rarr;</div>
+    <div class="pipeline-step">
+      <div class="step-title">Filter</div>
+      <div class="step-desc">AI-anchor regex</div>
+    </div>
+    <div class="pipeline-arrow">&rarr;</div>
+    <div class="pipeline-step">
+      <div class="step-title">Classify</div>
+      <div class="step-desc">Intent + App type</div>
+    </div>
+    <div class="pipeline-arrow">&rarr;</div>
+    <div class="pipeline-step">
+      <div class="step-title">Score</div>
+      <div class="step-desc">Maturity, Breadth, Momentum</div>
+    </div>
+    <div class="pipeline-arrow">&rarr;</div>
+    <div class="pipeline-step">
+      <div class="step-title">Rank</div>
+      <div class="step-desc">Composite leaderboard</div>
+    </div>
+  </div>
+  <div style="margin-top:30px;">
+    <h3>Tech Stack</h3>
+    <p>Python &bull; Qwen LLM (HuggingFace) &bull; ChromaDB &bull; DuckDB &bull; Streamlit &bull; Plotly &bull; Matplotlib</p>
+  </div>
+</div>
+
+<!-- Slide 7: Results — Top Banks -->
+<div class="slide" id="s7">
+  <h2>Results: Top 10 Banks</h2>
+  <table>
+    <tr><th>Rank</th><th>Bank</th><th>Maturity</th><th>Breadth</th><th>Momentum</th><th>Composite</th></tr>
+    <tr class="rank-1"><td>1</td><td>First Horizon</td><td>76.1</td><td>64.1</td><td>-0.2</td><td>68.0</td></tr>
+    <tr><td>2</td><td>Capital One</td><td>62.4</td><td>77.8</td><td>-12.4</td><td>65.0</td></tr>
+    <tr><td>3</td><td>Citigroup</td><td>66.2</td><td>67.6</td><td>+3.2</td><td>64.5</td></tr>
+    <tr><td>4</td><td>American Express</td><td>68.8</td><td>66.9</td><td>-11.9</td><td>64.4</td></tr>
+    <tr><td>5</td><td>PNC Financial</td><td>58.9</td><td>81.1</td><td>-13.1</td><td>64.4</td></tr>
+    <tr><td>6</td><td>BankUnited</td><td>58.3</td><td>61.3</td><td>+80.0</td><td>64.1</td></tr>
+    <tr><td>7</td><td>Fifth Third Bancorp</td><td>63.6</td><td>66.1</td><td>+10.5</td><td>63.2</td></tr>
+    <tr><td>8</td><td>Regions Financial</td><td>61.1</td><td>69.2</td><td>-5.3</td><td>61.9</td></tr>
+    <tr><td>9</td><td>JPMorgan Chase</td><td>60.5</td><td>67.7</td><td>+3.7</td><td>61.8</td></tr>
+    <tr><td>10</td><td>Citizens Financial</td><td>60.6</td><td>69.5</td><td>-6.3</td><td>61.7</td></tr>
+  </table>
+</div>
+
+<!-- Slide 8: Results — Intent Distribution -->
+<div class="slide" id="s8">
+  <h2>Results: Industry-Wide Intent Distribution</h2>
+  <div class="two-col">
+    <div>
+      <div class="stat-grid" style="grid-template-columns: 1fr 1fr;">
+        <div class="stat-card">
+          <div class="number" style="color:#7dd3fc;">36%</div>
+          <div class="label">Exploring</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" style="color:#6ee7b7;">9%</div>
+          <div class="label">Committing</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" style="color:#c084fc;">34%</div>
+          <div class="label">Deploying</div>
+        </div>
+        <div class="stat-card">
+          <div class="number" style="color:#fbbf24;">20%</div>
+          <div class="label">Scaling</div>
+        </div>
+      </div>
+      <p style="margin-top:20px;">Most banks are split between <span class="highlight">early exploration</span> and <span class="highlight">active deployment</span> &mdash; the "committing" phase is thin, suggesting banks jump quickly from evaluating to deploying.</p>
+    </div>
+    <div>
+      <h3>Top Application Areas</h3>
+      <table style="font-size:1rem;">
+        <tr><th>Category</th><th>Mentions</th></tr>
+        <tr><td>GenAI / LLMs</td><td>557</td></tr>
+        <tr><td>RPA / Automation</td><td>283</td></tr>
+        <tr><td>Fraud / Risk Models</td><td>160</td></tr>
+        <tr><td>Predictive ML</td><td>65</td></tr>
+        <tr><td>Computer Vision</td><td>39</td></tr>
+        <tr><td>NLP / Text</td><td>30</td></tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 9: Charts -->
+<div class="slide" id="s9">
+  <h2>Results: Visualizations</h2>
+  <div class="two-col">
+    <div style="text-align:center;">
+      <img src="artifacts/ai_corpus/plots/intent_composite_rankings.png" class="chart-img-sm" alt="Composite Rankings">
+      <p style="font-size:0.9rem; color:#64748b; margin-top:6px;">Top 15 by Composite Score</p>
+    </div>
+    <div style="text-align:center;">
+      <img src="artifacts/ai_corpus/plots/intent_momentum_bar.png" class="chart-img-sm" alt="Momentum">
+      <p style="font-size:0.9rem; color:#64748b; margin-top:6px;">Momentum: Who's Accelerating?</p>
+    </div>
+  </div>
+</div>
+
+<!-- Slide 10: Key Takeaways -->
+<div class="slide" id="s10">
+  <h2>Key Takeaways</h2>
+  <ul style="font-size:1.3rem; line-height:2;">
+    <li><span class="highlight">GenAI dominates</span> &mdash; 49% of all AI application mentions</li>
+    <li><span class="highlight">Breadth separates leaders</span> &mdash; top banks cover 5&ndash;6 application categories</li>
+    <li><span class="highlight">Momentum varies widely</span> &mdash; some banks accelerating, others going quiet</li>
+    <li><span class="highlight">Intent matters more than volume</span> &mdash; normalized scoring prevents size bias</li>
+    <li><span class="highlight">Interactive dashboard</span> enables drill-down into any bank's AI strategy</li>
+  </ul>
+</div>
+
+<!-- Slide 11: Demo / Q&A -->
+<div class="slide" id="s11">
+  <div style="text-align:center;">
+    <h1>Live Demo & Q&A</h1>
+    <p style="font-size:1.4rem; color:#94a3b8; margin-top:20px;">
+      <code style="background:#1e293b; padding:8px 16px; border-radius:6px; color:#38bdf8;">streamlit run dashboard/app.py</code>
+    </p>
+    <p style="font-size:1.1rem; color:#64748b; margin-top:30px;">4 interactive pages &bull; 50 banks &bull; Real-time filtering & comparison</p>
+  </div>
+</div>
+
+<!-- Navigation -->
+<div class="nav">
+  <button onclick="prev()">&larr; Prev</button>
+  <button onclick="next()">Next &rarr;</button>
+</div>
+<div class="slide-counter" id="counter">1 / 11</div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  let current = 0;
+
+  function show(n) {
+    slides[current].classList.remove('active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    document.getElementById('counter').textContent = (current + 1) + ' / ' + slides.length;
+  }
+
+  function next() { show(current + 1); }
+  function prev() { show(current - 1); }
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); next(); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); prev(); }
+  });
+</script>
+</body>
+</html>

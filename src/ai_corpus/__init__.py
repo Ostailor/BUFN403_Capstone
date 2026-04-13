@@ -1,3 +1,5 @@
+from .composite_scorer import run_scoring
+from .intent_classifier import run_classification
 from .pipeline import (
     acquire_missing,
     ask,
@@ -9,6 +11,7 @@ from .pipeline import (
     optimize_prompts,
     search,
 )
+from .report_generator import generate_report
 
 __all__ = [
     "acquire_missing",
@@ -17,7 +20,10 @@ __all__ = [
     "build_index",
     "build_manifest",
     "build_topic_findings",
+    "generate_report",
     "normalize_corpus",
     "optimize_prompts",
+    "run_classification",
+    "run_scoring",
     "search",
 ]

@@ -145,6 +145,33 @@ THEME_KEYWORDS = {
     ],
 }
 
+# ── Intent Classification ────────────────────────────────────────────
+INTENT_LEVELS = {
+    1: "Exploring",
+    2: "Committing",
+    3: "Deploying",
+    4: "Scaling",
+}
+
+INTENT_SIGNAL_WORDS = {
+    4: ["expanding", "enterprise-wide", "firm-wide", "increasing", "doubling down", "across all", "scaled", "scaling"],
+    3: ["launched", "implemented", "using", "rolled out", "live", "operational", "deployed", "in production"],
+    2: ["investing", "budgeting", "building", "planning", "allocating", "developing", "committed", "funding"],
+    1: ["investigating", "considering", "evaluating", "studying", "piloting", "researching", "exploring", "assessing"],
+}
+
+APP_CATEGORIES = {
+    "GenAI / LLMs": ["chatbot", "copilot", "generative ai", "large language model", "llm", "gpt", "prompt", "genai"],
+    "Predictive ML": ["credit scoring", "forecasting", "propensity model", "regression", "prediction", "predictive"],
+    "NLP / Text": ["document processing", "sentiment analysis", "entity extraction", "text mining", "natural language", "nlp"],
+    "Computer Vision": ["check imaging", "id verification", "facial recognition", "ocr", "computer vision", "image"],
+    "RPA / Automation": ["process automation", "straight-through processing", "workflow automation", "robotic", "rpa", "automation"],
+    "Fraud / Risk Models": ["fraud detection", "aml", "transaction monitoring", "anomaly detection", "risk model", "anti-money"],
+}
+
+CLASSIFIER_BATCH_SIZE = 10
+CLASSIFIER_CONFIDENCE_THRESHOLD = 0.5
+
 
 @dataclass(slots=True)
 class CorpusPaths:
@@ -194,6 +221,10 @@ class CorpusPaths:
     @property
     def chunks_jsonl(self) -> Path:
         return self.output_dir / "chunks.jsonl"
+
+    @property
+    def classifications_jsonl(self) -> Path:
+        return self.output_dir / "classifications.jsonl"
 
     @property
     def corpus_db(self) -> Path:
