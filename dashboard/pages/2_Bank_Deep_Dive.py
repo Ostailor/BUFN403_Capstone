@@ -18,6 +18,12 @@ quarterly = load_quarterly(__file__)
 app_cats = load_app_categories(__file__)
 classifications = load_classifications(__file__)
 
+if scores.empty:
+    st.warning(
+        "No bank score data is available yet. Run the classification and scoring pipeline to populate this page."
+    )
+    st.stop()
+
 bank_options = {row["Ticker"]: row["Bank"] for _, row in scores.iterrows()}
 selected_ticker = st.selectbox(
     "Select a Bank",

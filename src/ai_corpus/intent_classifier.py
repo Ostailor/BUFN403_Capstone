@@ -2,25 +2,24 @@ from __future__ import annotations
 
 import json
 import logging
-import re
-from pathlib import Path
 from typing import Any
 
-import requests
-
-from .config import (
-    APP_CATEGORIES,
-    CLASSIFIER_BATCH_SIZE,
-    INTENT_LEVELS,
-    INTENT_SIGNAL_WORDS,
-    CorpusPaths,
-)
+from .classification_io import normalize_app_categories, normalize_classification_record, write_classifications_jsonl
+from .config import APP_CATEGORIES, CLASSIFIER_BATCH_SIZE, INTENT_LEVELS, INTENT_SIGNAL_WORDS, CorpusPaths
 from .pipeline import has_ai_anchor
 from .qwen import QwenAnswerGenerator
 
 log = logging.getLogger(__name__)
 
 _VALID_APP_CATEGORIES = set(APP_CATEGORIES.keys())
+CLASSIFICATION_SYSTEM_PROMPT = (
+    "You classify bank AI mentions by intent level and application type. "
+    "Return exactly one JSON object and no markdown."
+)
+
+
+class ClassificationError(RuntimeError):
+    pass
 
 
 def classify_chunk_rules(chunk: dict) -> dict:
@@ -37,71 +36,8 @@ def classify_chunk_rules(chunk: dict) -> dict:
         if any(kw in text_lower for kw in keywords):
             matched_categories.append(category)
 
-    return {
-        "chunk_id": chunk["chunk_id"],
-        "ticker": chunk.get("ticker"),
-        "bank_name": chunk.get("bank_name"),
-        "source_type": chunk.get("source_type"),
-        "period_year": chunk.get("period_year"),
-        "period_quarter": chunk.get("period_quarter"),
-        "intent_level": intent_level,
-        "intent_label": INTENT_LEVELS[intent_level],
-        "app_categories": matched_categories,
-        "confidence": 0.5,
-        "evidence_snippet": chunk["chunk_text"][:200],
-    }
-
-
-def classify_chunk(chunk: dict, qwen: QwenAnswerGenerator) -> dict:
-    ticker = chunk.get("ticker", "unknown")
-    source_type = chunk.get("source_type", "filing")
-    chunk_text = chunk["chunk_text"]
-
-    system_msg = "You classify bank AI mentions by intent level and application type. Return JSON only."
-    user_msg = (
-        f'Classify this text from {ticker}\'s {source_type}:\n\n'
-        f'"{chunk_text}"\n\n'
-        f'Intent levels: 1=Exploring (investigating/piloting), 2=Committing (investing/building), '
-        f'3=Deploying (launched/operational), 4=Scaling (enterprise-wide/expanding)\n\n'
-        f'Application categories (pick all that apply): GenAI / LLMs, Predictive ML, '
-        f'NLP / Text, Computer Vision, RPA / Automation, Fraud / Risk Models\n\n'
-        f'Return JSON: {{intent_level: int, intent_label: str, app_categories: [str], '
-        f'confidence: float, evidence_snippet: str}}'
-    )
-
-    try:
-        resp = requests.post(
-            "https://router.huggingface.co/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {qwen.hf_token}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": qwen.model_candidates[0],
-                "messages": [
-                    {"role": "system", "content": system_msg},
-                    {"role": "user", "content": user_msg},
-                ],
-                "temperature": 0.1,
-                "max_tokens": 500,
-            },
-            timeout=90,
-        )
-        resp.raise_for_status()
-        raw_text = resp.json()["choices"][0]["message"]["content"]
-        match = re.search(r"\{.*\}", raw_text, flags=re.S)
-        if not match:
-            raise ValueError("No JSON found in response")
-        payload: dict[str, Any] = json.loads(match.group(0))
-
-        intent_level = int(payload.get("intent_level", 1))
-        if intent_level not in INTENT_LEVELS:
-            intent_level = 1
-
-        raw_cats = payload.get("app_categories", [])
-        app_categories = [c for c in raw_cats if c in _VALID_APP_CATEGORIES]
-
-        return {
+    return normalize_classification_record(
+        {
             "chunk_id": chunk["chunk_id"],
             "ticker": chunk.get("ticker"),
             "bank_name": chunk.get("bank_name"),
@@ -110,16 +46,74 @@ def classify_chunk(chunk: dict, qwen: QwenAnswerGenerator) -> dict:
             "period_quarter": chunk.get("period_quarter"),
             "intent_level": intent_level,
             "intent_label": INTENT_LEVELS[intent_level],
-            "app_categories": app_categories,
-            "confidence": float(payload.get("confidence", 0.5)),
-            "evidence_snippet": str(payload.get("evidence_snippet", chunk_text[:200])),
-        }
-    except Exception:
-        log.warning("Qwen classification failed for chunk %s, falling back to rules", chunk.get("chunk_id"))
-        return classify_chunk_rules(chunk)
+            "app_categories": matched_categories,
+            "confidence": 0.5,
+            "evidence_snippet": chunk["chunk_text"][:200],
+        },
+        fallback_snippet=chunk["chunk_text"],
+    )
 
 
-def run_classification(paths: CorpusPaths, batch_size: int = CLASSIFIER_BATCH_SIZE) -> Path:
+def build_classification_messages(chunk: dict[str, Any]) -> list[dict[str, str]]:
+    ticker = chunk.get("ticker", "unknown")
+    source_type = chunk.get("source_type", "filing")
+    chunk_text = chunk["chunk_text"]
+
+    user_msg = (
+        f'Classify this text from {ticker}\'s {source_type}:\n\n'
+        f'"{chunk_text}"\n\n'
+        "Intent levels: 1=Exploring (investigating/piloting), 2=Committing (investing/building), "
+        "3=Deploying (launched/operational), 4=Scaling (enterprise-wide/expanding)\n\n"
+        "Application categories (pick all that apply): GenAI / LLMs, Predictive ML, "
+        "NLP / Text, Computer Vision, RPA / Automation, Fraud / Risk Models\n\n"
+        "Return JSON with keys: intent_level, intent_label, app_categories, confidence, evidence_snippet."
+    )
+    return [
+        {"role": "system", "content": CLASSIFICATION_SYSTEM_PROMPT},
+        {"role": "user", "content": user_msg},
+    ]
+
+
+def _normalize_llm_payload(chunk: dict[str, Any], payload: dict[str, Any]) -> dict[str, Any]:
+    raw_cats = [
+        category
+        for category in normalize_app_categories(payload.get("app_categories", []))
+        if category in _VALID_APP_CATEGORIES
+    ]
+    return normalize_classification_record(
+        {
+            "chunk_id": chunk["chunk_id"],
+            "ticker": chunk.get("ticker"),
+            "bank_name": chunk.get("bank_name"),
+            "source_type": chunk.get("source_type"),
+            "period_year": chunk.get("period_year"),
+            "period_quarter": chunk.get("period_quarter"),
+            "intent_level": payload.get("intent_level", 1),
+            "intent_label": payload.get("intent_label", ""),
+            "app_categories": raw_cats,
+            "confidence": payload.get("confidence", 0.5),
+            "evidence_snippet": payload.get("evidence_snippet", chunk["chunk_text"][:200]),
+        },
+        fallback_snippet=chunk["chunk_text"],
+    )
+
+
+def classify_chunk(chunk: dict, qwen: QwenAnswerGenerator) -> dict:
+    try:
+        payload = qwen.generate_json(messages=build_classification_messages(chunk))
+        return _normalize_llm_payload(chunk, payload)
+    except Exception as exc:
+        chunk_id = chunk.get("chunk_id", "unknown")
+        raise ClassificationError(f"Qwen classification failed for chunk {chunk_id}") from exc
+
+
+def run_classification(
+    paths: CorpusPaths,
+    batch_size: int = CLASSIFIER_BATCH_SIZE,
+    *,
+    prefer_local: bool = True,
+    local_files_only: bool = True,
+) -> Path:
     chunks_path = paths.chunks_jsonl
     if not chunks_path.exists():
         raise FileNotFoundError(f"Chunks file not found: {chunks_path}")
@@ -130,7 +124,7 @@ def run_classification(paths: CorpusPaths, batch_size: int = CLASSIFIER_BATCH_SI
     ai_chunks = [c for c in all_chunks if has_ai_anchor(c.get("chunk_text", ""))]
     log.info("Found %d AI-anchor chunks out of %d total", len(ai_chunks), len(all_chunks))
 
-    qwen = QwenAnswerGenerator(prefer_local=True)
+    qwen = QwenAnswerGenerator(prefer_local=prefer_local, local_files_only=local_files_only)
     results: list[dict] = []
 
     for i, chunk in enumerate(ai_chunks):
@@ -140,10 +134,7 @@ def run_classification(paths: CorpusPaths, batch_size: int = CLASSIFIER_BATCH_SI
             log.info("Classified %d / %d chunks", i + 1, len(ai_chunks))
 
     output_path = paths.classifications_jsonl
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w") as f:
-        for r in results:
-            f.write(json.dumps(r) + "\n")
+    write_classifications_jsonl(output_path, results)
 
     log.info("Wrote %d classifications to %s", len(results), output_path)
     return output_path

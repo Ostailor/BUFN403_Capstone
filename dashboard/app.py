@@ -23,6 +23,13 @@ Use the sidebar to navigate between pages.
 
 scores = load_scores(__file__)
 
+if scores.empty:
+    st.warning(
+        "No dashboard score artifacts were found. Run `python scripts/ai_corpus_pipeline.py classify` "
+        "followed by `python scripts/ai_corpus_pipeline.py score` to populate the dashboard."
+    )
+    st.stop()
+
 col1, col2, col3 = st.columns(3)
 with col1:
     st.metric("Banks Analyzed", len(scores))

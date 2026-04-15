@@ -1,18 +1,30 @@
 from __future__ import annotations
 
 import csv
-import json
 import logging
 import math
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
+from .classification_io import read_classifications_jsonl
 from .config import APP_CATEGORIES, INTENT_LEVELS, CorpusPaths
 
 log = logging.getLogger(__name__)
 
 NUM_APP_CATEGORIES = len(APP_CATEGORIES)
+SCORES_COLUMNS = ["Ticker", "Bank", "Maturity", "Breadth", "Momentum", "Composite", "Rank"]
+QUARTERLY_COLUMNS = [
+    "Ticker",
+    "Year",
+    "Quarter",
+    "Maturity_Score",
+    "Exploring_Pct",
+    "Committing_Pct",
+    "Deploying_Pct",
+    "Scaling_Pct",
+]
+APP_CATEGORY_COLUMNS = ["Ticker", "Category", "Mention_Count", "Avg_Intent_Level"]
 
 
 def compute_maturity_score(classifications: list[dict[str, Any]]) -> float:
@@ -59,18 +71,7 @@ def compute_composite(maturity: float, breadth: float, momentum: float) -> float
     return 0.50 * maturity + 0.35 * breadth + 0.15 * momentum_normalized
 
 
-def run_scoring(paths: CorpusPaths) -> dict[str, Path]:
-    if not paths.classifications_jsonl.exists():
-        raise FileNotFoundError(f"Classifications not found: {paths.classifications_jsonl}")
-
-    classifications: list[dict[str, Any]] = []
-    for line in paths.classifications_jsonl.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line:
-            classifications.append(json.loads(line))
-
-    log.info("Loaded %d classifications", len(classifications))
-
+def build_dashboard_rows(classifications: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]]]:
     by_bank: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for c in classifications:
         by_bank[c["ticker"]].append(c)
@@ -132,7 +133,7 @@ def run_scoring(paths: CorpusPaths) -> dict[str, Path]:
             for cat in c.get("app_categories", []):
                 cat_counts[cat] += 1
                 cat_levels[cat].append(c["intent_level"])
-        for cat in sorted(set(cat_counts.keys()) | set(APP_CATEGORIES.keys())):
+        for cat in sorted(cat_counts.keys()):
             category_rows.append({
                 "Ticker": ticker,
                 "Category": cat,
@@ -146,6 +147,17 @@ def run_scoring(paths: CorpusPaths) -> dict[str, Path]:
     composite_rows.sort(key=lambda r: r["Composite"], reverse=True)
     for i, row in enumerate(composite_rows, 1):
         row["Rank"] = i
+
+    return composite_rows, quarterly_rows, category_rows
+
+
+def run_scoring(paths: CorpusPaths) -> dict[str, Path]:
+    if not paths.classifications_jsonl.exists():
+        raise FileNotFoundError(f"Classifications not found: {paths.classifications_jsonl}")
+
+    classifications = read_classifications_jsonl(paths.classifications_jsonl)
+    log.info("Loaded %d classifications", len(classifications))
+    composite_rows, quarterly_rows, category_rows = build_dashboard_rows(classifications)
 
     # Write outputs
     paths.output_dir.mkdir(parents=True, exist_ok=True)

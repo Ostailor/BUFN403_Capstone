@@ -64,6 +64,17 @@ def build_parser() -> argparse.ArgumentParser:
 
     classify_parser = subparsers.add_parser("classify", help="Classify AI chunks by intent and application type")
     classify_parser.add_argument("--batch-size", type=int, default=10, help="Batch size for classification")
+    classify_parser.add_argument(
+        "--prefer-local",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Prefer local model inference before remote fallback. Use --no-prefer-local to force remote-only.",
+    )
+    classify_parser.add_argument(
+        "--allow-model-download",
+        action="store_true",
+        help="Allow Hugging Face model downloads for local inference. Useful on Colab GPU sessions.",
+    )
 
     subparsers.add_parser("score", help="Compute composite scores and rankings from classifications")
     subparsers.add_parser("report", help="Generate static Markdown report with charts")
@@ -129,7 +140,12 @@ def main() -> int:
     elif args.command == "build-bank-summaries":
         payload = build_bank_ai_summaries(paths=paths, embedding_model=args.embedding_model)
     elif args.command == "classify":
-        output_path = run_classification(paths=paths, batch_size=args.batch_size)
+        output_path = run_classification(
+            paths=paths,
+            batch_size=args.batch_size,
+            prefer_local=args.prefer_local,
+            local_files_only=not args.allow_model_download,
+        )
         payload = {"classifications_jsonl": str(output_path)}
     elif args.command == "score":
         payload = run_scoring(paths=paths)

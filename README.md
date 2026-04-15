@@ -90,11 +90,67 @@ Build topic findings and plots:
 python scripts/ai_corpus_pipeline.py build-topic-findings
 ```
 
+Classify AI chunks with Qwen:
+
+```bash
+python scripts/ai_corpus_pipeline.py classify
+```
+
+Run the same classification step on a Google Colab GPU and allow model download:
+
+```bash
+python scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download
+```
+
+Build the dashboard-ready score artifacts from `classifications.jsonl`:
+
+```bash
+python scripts/ai_corpus_pipeline.py score
+```
+
 Generate a per-bank AI summary report:
 
 ```bash
 python scripts/ai_corpus_pipeline.py build-bank-summaries
 ```
+
+## Google Colab
+
+If you want to run Qwen on a Colab GPU, the simplest path is:
+
+1. In Colab, switch the runtime to a GPU:
+   `Runtime -> Change runtime type -> T4 GPU` (or better if available)
+2. Get the repo into the notebook:
+   - If your branch is pushed to GitHub:
+     ```bash
+     !git clone https://github.com/Ostailor/BUFN403_Capstone.git
+     %cd BUFN403_Capstone
+     ```
+   - If your branch is only local:
+     zip the repo on your machine, upload it to Colab or Google Drive, then unzip:
+     ```bash
+     from google.colab import files
+     uploaded = files.upload()
+     ```
+3. Install dependencies:
+   ```bash
+   !pip install -r requirements.txt
+   ```
+4. Put your input files into the repo root or mount Drive and copy them into place:
+   - `AI_Bank_Classification.csv`
+   - `10K_10Q_8K_DEF14A_combined_data.zip`
+   - `transcripts_final-20260304T030232Z-1-001.zip`
+5. Run the pipeline:
+   ```bash
+   !python scripts/ai_corpus_pipeline.py normalize-corpus
+   !python scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download
+   !python scripts/ai_corpus_pipeline.py score
+   ```
+6. Download the outputs you need from `artifacts/ai_corpus/`, especially:
+   - `classifications.jsonl`
+   - `bank_composite_scores.csv`
+   - `quarterly_progression.csv`
+   - `app_category_matrix.csv`
 
 ## Outputs
 
@@ -108,6 +164,10 @@ The new pipeline writes under `artifacts/ai_corpus/`:
 - `corpus.duckdb`
 - `index/` for the Chroma collection
 - `compiled_prompt.json`
+- `classifications.jsonl`
+- `bank_composite_scores.csv`
+- `quarterly_progression.csv`
+- `app_category_matrix.csv`
 - `bank_ai_summaries.csv`
 - `bank_ai_summaries.json`
 - `bank_ai_summaries.md`
@@ -119,4 +179,6 @@ The new pipeline writes under `artifacts/ai_corpus/`:
 - SEC acquisition uses official SEC JSON submissions endpoints when available.
 - Call-report acquisition uses the official FDIC BankFind financial API.
 - MRA/MRIA acquisition is logged, but many of those documents are not public; manual collection is expected.
-- If your local environment cannot load a larger Qwen checkpoint, the answer layer falls back down the configured Qwen model list.
+- `classify` is now fail-fast: if Qwen generation fails for a chunk, the run raises instead of silently falling back to regex heuristics.
+- For Colab GPU sessions, `--allow-model-download` lets the local Qwen path pull weights instead of requiring a pre-populated local cache.
+- The dashboard now expects canonical score artifacts or `classifications.jsonl`; it no longer invents synthetic ranking data when those files are missing.

@@ -17,6 +17,12 @@ scores = load_scores(__file__)
 quarterly = load_quarterly(__file__)
 app_cats = load_app_categories(__file__)
 
+if scores.empty:
+    st.warning(
+        "No comparison data is available yet. Run the classification and scoring pipeline to populate this page."
+    )
+    st.stop()
+
 bank_map = {row["Ticker"]: row["Bank"] for _, row in scores.iterrows()}
 selected = st.multiselect(
     "Select 2-4 banks to compare",

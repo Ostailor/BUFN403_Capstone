@@ -8,6 +8,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from src.ai_corpus.composite_scorer import (
+    build_dashboard_rows,
     compute_breadth_score,
     compute_composite,
     compute_maturity_score,
@@ -155,3 +156,29 @@ def test_composite_zero_momentum() -> None:
     # composite = 0.50*60 + 0.35*40 + 0.15*50 = 30 + 14 + 7.5 = 51.5
     result = compute_composite(maturity=60, breadth=40, momentum=0)
     assert result == 51.5
+
+
+def test_build_dashboard_rows_omits_zero_mention_categories() -> None:
+    classifications = [
+        {
+            "ticker": "AAA",
+            "bank_name": "Alpha Bank",
+            "period_year": 2024,
+            "period_quarter": 1,
+            "intent_level": 3,
+            "app_categories": ["GenAI / LLMs"],
+        },
+        {
+            "ticker": "BBB",
+            "bank_name": "Beta Bank",
+            "period_year": 2024,
+            "period_quarter": 1,
+            "intent_level": 2,
+            "app_categories": ["Predictive ML"],
+        },
+    ]
+
+    _, _, category_rows = build_dashboard_rows(classifications)
+
+    assert {"Ticker": "AAA", "Category": "GenAI / LLMs", "Mention_Count": 1, "Avg_Intent_Level": 3.0} in category_rows
+    assert {"Ticker": "AAA", "Category": "Predictive ML", "Mention_Count": 0, "Avg_Intent_Level": 0.0} not in category_rows

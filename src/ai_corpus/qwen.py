@@ -23,12 +23,14 @@ class QwenAnswerGenerator:
         model_candidates: list[str] | None = None,
         hf_token: str | None = None,
         prefer_local: bool = True,
+        local_files_only: bool = True,
         max_input_tokens: int = 4096,
         max_new_tokens: int = 500,
     ) -> None:
         self.model_candidates = model_candidates or QWEN_MODEL_CANDIDATES
         self.hf_token = hf_token or os.getenv("HF_TOKEN")
         self.prefer_local = prefer_local
+        self.local_files_only = local_files_only
         self.max_input_tokens = max_input_tokens
         self.max_new_tokens = max_new_tokens
         self._tokenizer: Any | None = None
@@ -55,10 +57,10 @@ class QwenAnswerGenerator:
             self._device = "cpu"
         for candidate in self.model_candidates:
             try:
-                model_kwargs: dict[str, Any] = {"local_files_only": True}
+                model_kwargs: dict[str, Any] = {"local_files_only": self.local_files_only}
                 if self._device == "cuda":
                     model_kwargs["torch_dtype"] = torch.float16
-                tokenizer = AutoTokenizer.from_pretrained(candidate, local_files_only=True)
+                tokenizer = AutoTokenizer.from_pretrained(candidate, local_files_only=self.local_files_only)
                 model = AutoModelForCausalLM.from_pretrained(candidate, **model_kwargs)
                 model.to(self._device)
                 model.eval()
@@ -92,20 +94,24 @@ class QwenAnswerGenerator:
             raise QwenGenerationError(f"No JSON payload found in response: {raw_text[:500]}")
         return json.loads(match.group(0))
 
-    def _generate_local(self, prompt: str) -> dict[str, Any]:
+    def _render_messages(self, messages: list[dict[str, str]]) -> str:
+        assert self._tokenizer is not None
+        if getattr(self._tokenizer, "chat_template", None):
+            return self._tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        return "\n".join(f"{message['role']}: {message['content']}" for message in messages)
+
+    def _generate_local_messages(
+        self,
+        messages: list[dict[str, str]],
+        *,
+        max_new_tokens: int | None = None,
+    ) -> dict[str, Any]:
         self._load_local()
         assert self._model is not None
         assert self._tokenizer is not None
         assert self._torch is not None
 
-        messages = [
-            {"role": "system", "content": "Respond with one JSON object and no markdown."},
-            {"role": "user", "content": prompt},
-        ]
-        if getattr(self._tokenizer, "chat_template", None):
-            rendered = self._tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-        else:
-            rendered = "Respond with one JSON object and no markdown.\n" + prompt
+        rendered = self._render_messages(messages)
         encoded = self._tokenizer(
             rendered,
             return_tensors="pt",
@@ -117,7 +123,7 @@ class QwenAnswerGenerator:
         with self._torch.no_grad():
             generated = self._model.generate(
                 **encoded,
-                max_new_tokens=self.max_new_tokens,
+                max_new_tokens=max_new_tokens or self.max_new_tokens,
                 do_sample=False,
                 pad_token_id=self._tokenizer.eos_token_id,
                 eos_token_id=self._tokenizer.eos_token_id,
@@ -126,7 +132,12 @@ class QwenAnswerGenerator:
         raw_text = self._tokenizer.decode(generated[0][prompt_length:], skip_special_tokens=True)
         return self._extract_json(raw_text)
 
-    def _generate_remote(self, prompt: str) -> dict[str, Any]:
+    def _generate_remote_messages(
+        self,
+        messages: list[dict[str, str]],
+        *,
+        max_new_tokens: int | None = None,
+    ) -> dict[str, Any]:
         if not self.hf_token:
             raise QwenGenerationError("HF_TOKEN is required for remote generation")
         response = requests.post(
@@ -137,12 +148,9 @@ class QwenAnswerGenerator:
             },
             json={
                 "model": self.model_candidates[0],
-                "messages": [
-                    {"role": "system", "content": "Respond with one JSON object and no markdown."},
-                    {"role": "user", "content": prompt},
-                ],
+                "messages": messages,
                 "temperature": 0.1,
-                "max_tokens": 500,
+                "max_tokens": max_new_tokens or self.max_new_tokens,
             },
             timeout=90,
         )
@@ -151,6 +159,23 @@ class QwenAnswerGenerator:
         raw_text = payload["choices"][0]["message"]["content"]
         self._active_model = self.model_candidates[0]
         return self._extract_json(raw_text)
+
+    def generate_json(
+        self,
+        *,
+        messages: list[dict[str, str]],
+        prefer_local: bool | None = None,
+        max_new_tokens: int | None = None,
+    ) -> dict[str, Any]:
+        use_local = self.prefer_local if prefer_local is None else prefer_local
+        if use_local:
+            try:
+                return self._generate_local_messages(messages, max_new_tokens=max_new_tokens)
+            except Exception:
+                if self.hf_token:
+                    return self._generate_remote_messages(messages, max_new_tokens=max_new_tokens)
+                raise
+        return self._generate_remote_messages(messages, max_new_tokens=max_new_tokens)
 
     def answer(
         self,
@@ -174,10 +199,14 @@ class QwenAnswerGenerator:
         structured_context = json.dumps(structured_refs, indent=2, sort_keys=True)
         full_question = f"{prompt_hint}\n\n{question}".strip() if prompt_hint else question
         prompt = self._build_prompt(question=full_question, evidence=evidence, structured_context=structured_context)
+        messages = [
+            {"role": "system", "content": "Respond with one JSON object and no markdown."},
+            {"role": "user", "content": prompt},
+        ]
         try:
-            payload = self._generate_local(prompt) if self.prefer_local else self._generate_remote(prompt)
+            payload = self.generate_json(messages=messages)
         except Exception:
-            payload = self._generate_remote(prompt) if self.hf_token else {
+            payload = self._generate_remote_messages(messages) if self.hf_token else {
                 "answer_text": evidence_blocks[0][1][:500] if evidence_blocks else "insufficient evidence",
                 "citations": [chunk_id for chunk_id, _ in evidence_blocks[:3]],
                 "theme_tags": [],

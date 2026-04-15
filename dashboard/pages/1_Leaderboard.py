@@ -14,6 +14,12 @@ st.title("Leaderboard")
 scores = load_scores(__file__)
 app_cats = load_app_categories(__file__)
 
+if scores.empty:
+    st.warning(
+        "No leaderboard data is available yet. Run the classification and scoring pipeline to generate dashboard artifacts."
+    )
+    st.stop()
+
 # Filters
 col_filter1, col_filter2, col_filter3 = st.columns(3)
 
@@ -24,14 +30,16 @@ with col_filter2:
     min_score = st.slider("Minimum Composite Score", 0.0, 100.0, 0.0, step=1.0)
 
 with col_filter3:
-    all_categories = sorted(app_cats["Category"].unique())
+    all_categories = sorted(app_cats["Category"].unique()) if not app_cats.empty else []
     selected_cats = st.multiselect("Filter by Application Category", all_categories, default=[])
 
 # Apply filters
 filtered = scores[scores["Composite"] >= min_score].copy()
 
 if selected_cats:
-    tickers_with_cats = app_cats[app_cats["Category"].isin(selected_cats)]["Ticker"].unique()
+    tickers_with_cats = app_cats[
+        app_cats["Category"].isin(selected_cats) & (app_cats["Mention_Count"] > 0)
+    ]["Ticker"].unique()
     filtered = filtered[filtered["Ticker"].isin(tickers_with_cats)]
 
 filtered = filtered.sort_values(sort_col, ascending=False).reset_index(drop=True)

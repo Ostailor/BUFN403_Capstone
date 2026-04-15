@@ -17,28 +17,36 @@ scores = load_scores(__file__)
 quarterly = load_quarterly(__file__)
 app_cats = load_app_categories(__file__)
 
+if scores.empty:
+    st.warning(
+        "No market overview data is available yet. Run the classification and scoring pipeline to populate this page."
+    )
+    st.stop()
+
 # Row 1: Heatmap + Industry Intent Stack
 col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("Application Category Heatmap")
-    pivot = app_cats.pivot_table(index="Ticker", columns="Category",
-                                 values="Mention_Count", aggfunc="sum").fillna(0)
-    fig = px.imshow(
-        pivot,
-        labels=dict(x="Category", y="Bank", color="Mentions"),
-        color_continuous_scale="YlGnBu",
-        aspect="auto"
-    )
-    fig.update_layout(margin=dict(t=30, b=30, l=30, r=30), height=400)
-    st.plotly_chart(fig, use_container_width=True)
+    if app_cats.empty:
+        st.info("No application-category data is available.")
+    else:
+        pivot = app_cats.pivot_table(index="Ticker", columns="Category",
+                                     values="Mention_Count", aggfunc="sum").fillna(0)
+        fig = px.imshow(
+            pivot,
+            labels=dict(x="Category", y="Bank", color="Mentions"),
+            color_continuous_scale="YlGnBu",
+            aspect="auto"
+        )
+        fig.update_layout(margin=dict(t=30, b=30, l=30, r=30), height=400)
+        st.plotly_chart(fig, use_container_width=True)
 
 with col2:
     st.subheader("Industry Intent Distribution")
     # Use all tickers from the quarterly data (not hardcoded MOCK_BANKS)
-    all_tickers = quarterly["Ticker"].unique()
     latest_rows = []
-    for ticker in all_tickers:
+    for ticker in quarterly["Ticker"].unique():
         bank_q = quarterly[quarterly["Ticker"] == ticker].sort_values(["Year", "Quarter"])
         if bank_q.empty:
             continue
@@ -55,6 +63,8 @@ with col2:
                      barmode="stack", color_discrete_sequence=px.colors.qualitative.Set2)
         fig.update_layout(margin=dict(t=30, b=30), height=400)
         st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("No quarterly intent distribution data is available.")
 
 # Row 2: Maturity Quadrant + Top Movers
 col3, col4 = st.columns(2)
