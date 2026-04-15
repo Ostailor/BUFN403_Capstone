@@ -1,301 +1,254 @@
 Ticker,Category,Mention_Count,Avg_Intent_Level
-ALLY,Computer Vision,0,0.0
-ALLY,Fraud / Risk Models,4,2.5
-ALLY,GenAI / LLMs,3,3.0
-ALLY,NLP / Text,0,0.0
-ALLY,Predictive ML,2,3.0
-ALLY,RPA / Automation,12,2.75
-ASB,Computer Vision,0,0.0
-ASB,Fraud / Risk Models,8,1.25
-ASB,GenAI / LLMs,3,1.0
-ASB,NLP / Text,0,0.0
-ASB,Predictive ML,0,0.0
-ASB,RPA / Automation,2,3.0
-AXP,Computer Vision,0,0.0
-AXP,Fraud / Risk Models,9,3.67
-AXP,GenAI / LLMs,19,2.26
-AXP,NLP / Text,0,0.0
-AXP,Predictive ML,4,2.0
-AXP,RPA / Automation,26,3.54
-BAC,Computer Vision,0,0.0
-BAC,Fraud / Risk Models,6,3.17
-BAC,GenAI / LLMs,18,2.94
-BAC,NLP / Text,0,0.0
-BAC,Predictive ML,2,3.5
-BAC,RPA / Automation,10,2.5
-BK,Computer Vision,0,0.0
-BK,Fraud / Risk Models,6,2.0
-BK,GenAI / LLMs,5,3.4
-BK,NLP / Text,0,0.0
-BK,Predictive ML,0,0.0
-BK,RPA / Automation,6,3.33
-BKU,Computer Vision,0,0.0
-BKU,Fraud / Risk Models,1,1.0
-BKU,GenAI / LLMs,0,0.0
-BKU,NLP / Text,0,0.0
-BKU,Predictive ML,1,4.0
-BKU,RPA / Automation,1,4.0
-BOKF,Computer Vision,0,0.0
-BOKF,Fraud / Risk Models,6,2.0
-BOKF,GenAI / LLMs,8,2.0
-BOKF,NLP / Text,0,0.0
-BOKF,Predictive ML,0,0.0
-BOKF,RPA / Automation,0,0.0
-BPOP,Computer Vision,0,0.0
-BPOP,Fraud / Risk Models,0,0.0
-BPOP,GenAI / LLMs,1,3.0
-BPOP,NLP / Text,0,0.0
-BPOP,Predictive ML,0,0.0
-BPOP,RPA / Automation,0,0.0
-C,Computer Vision,0,0.0
-C,Fraud / Risk Models,5,2.8
-C,GenAI / LLMs,18,3.28
-C,NLP / Text,0,0.0
-C,Predictive ML,4,2.75
-C,RPA / Automation,14,2.93
-CFG,Computer Vision,6,2.33
-CFG,Fraud / Risk Models,5,2.8
-CFG,GenAI / LLMs,24,2.58
-CFG,NLP / Text,0,0.0
-CFG,Predictive ML,1,4.0
-CFG,RPA / Automation,8,2.62
-CFR,Computer Vision,0,0.0
-CFR,Fraud / Risk Models,1,3.0
-CFR,GenAI / LLMs,0,0.0
-CFR,NLP / Text,0,0.0
-CFR,Predictive ML,0,0.0
-CFR,RPA / Automation,2,1.0
-CMA,Computer Vision,0,0.0
-CMA,Fraud / Risk Models,2,3.0
-CMA,GenAI / LLMs,5,2.0
-CMA,NLP / Text,0,0.0
-CMA,Predictive ML,0,0.0
-CMA,RPA / Automation,10,2.5
-COF,Computer Vision,2,1.0
-COF,Fraud / Risk Models,4,1.0
-COF,GenAI / LLMs,12,2.67
-COF,NLP / Text,0,0.0
-COF,Predictive ML,4,2.75
-COF,RPA / Automation,13,2.62
-COLB,Computer Vision,1,4.0
-COLB,Fraud / Risk Models,1,3.0
-COLB,GenAI / LLMs,2,1.0
-COLB,NLP / Text,0,0.0
-COLB,Predictive ML,1,3.0
-COLB,RPA / Automation,3,2.0
-DFS,Computer Vision,2,2.5
-DFS,Fraud / Risk Models,0,0.0
-DFS,GenAI / LLMs,6,3.0
-DFS,NLP / Text,0,0.0
-DFS,Predictive ML,0,0.0
-DFS,RPA / Automation,0,0.0
-EWBC,Computer Vision,0,0.0
-EWBC,Fraud / Risk Models,3,2.0
-EWBC,GenAI / LLMs,0,0.0
-EWBC,NLP / Text,0,0.0
-EWBC,Predictive ML,1,3.0
-EWBC,RPA / Automation,1,4.0
-FCNCA,Computer Vision,0,0.0
-FCNCA,Fraud / Risk Models,0,0.0
-FCNCA,GenAI / LLMs,10,2.7
-FCNCA,NLP / Text,0,0.0
-FCNCA,Predictive ML,0,0.0
-FCNCA,RPA / Automation,0,0.0
-FHN,Computer Vision,0,0.0
-FHN,Fraud / Risk Models,5,3.8
-FHN,GenAI / LLMs,2,3.0
-FHN,NLP / Text,0,0.0
-FHN,Predictive ML,1,4.0
-FHN,RPA / Automation,1,4.0
-FITB,Computer Vision,3,2.67
-FITB,Fraud / Risk Models,4,2.0
-FITB,GenAI / LLMs,12,2.33
-FITB,NLP / Text,0,0.0
-FITB,Predictive ML,0,0.0
-FITB,RPA / Automation,3,2.67
-FLG,Computer Vision,0,0.0
-FLG,Fraud / Risk Models,4,2.25
-FLG,GenAI / LLMs,24,1.5
-FLG,NLP / Text,5,2.0
-FLG,Predictive ML,2,1.0
+ALLY,Fraud / Risk Models,17,3.24
+ALLY,GenAI / LLMs,23,2.96
+ALLY,NLP / Text,14,2.71
+ALLY,Predictive ML,31,2.97
+ALLY,RPA / Automation,6,2.83
+ASB,Fraud / Risk Models,20,2.95
+ASB,GenAI / LLMs,10,1.7
+ASB,NLP / Text,6,1.33
+ASB,Predictive ML,27,2.48
+ASB,RPA / Automation,3,2.33
+AXP,Computer Vision,1,3.0
+AXP,Fraud / Risk Models,40,3.0
+AXP,GenAI / LLMs,89,2.44
+AXP,NLP / Text,48,2.44
+AXP,Predictive ML,84,2.46
+AXP,RPA / Automation,26,2.23
+BAC,Fraud / Risk Models,20,3.55
+BAC,GenAI / LLMs,60,2.85
+BAC,NLP / Text,40,2.85
+BAC,Predictive ML,74,2.91
+BAC,RPA / Automation,30,2.67
+BK,Computer Vision,3,1.67
+BK,Fraud / Risk Models,5,3.0
+BK,GenAI / LLMs,66,2.32
+BK,NLP / Text,50,2.24
+BK,Predictive ML,66,2.36
+BK,RPA / Automation,28,2.5
+BKU,Fraud / Risk Models,1,4.0
+BKU,GenAI / LLMs,4,1.75
+BKU,NLP / Text,2,2.0
+BKU,Predictive ML,4,1.75
+BKU,RPA / Automation,1,2.0
+BOKF,Fraud / Risk Models,1,2.0
+BOKF,GenAI / LLMs,10,2.8
+BOKF,NLP / Text,8,3.0
+BOKF,Predictive ML,7,2.71
+BOKF,RPA / Automation,1,2.0
+BPOP,Fraud / Risk Models,4,3.5
+BPOP,GenAI / LLMs,7,3.0
+BPOP,NLP / Text,7,3.0
+BPOP,Predictive ML,9,3.0
+C,Computer Vision,1,4.0
+C,Fraud / Risk Models,32,3.03
+C,GenAI / LLMs,49,2.61
+C,NLP / Text,15,2.47
+C,Predictive ML,45,2.36
+C,RPA / Automation,22,2.82
+CFG,Computer Vision,4,2.75
+CFG,Fraud / Risk Models,13,2.62
+CFG,GenAI / LLMs,85,2.38
+CFG,NLP / Text,34,2.26
+CFG,Predictive ML,70,2.53
+CFG,RPA / Automation,9,2.11
+CFR,Fraud / Risk Models,3,4.0
+CFR,GenAI / LLMs,6,2.17
+CFR,NLP / Text,3,2.0
+CFR,Predictive ML,7,2.14
+CFR,RPA / Automation,2,2.0
+CMA,Computer Vision,1,3.0
+CMA,Fraud / Risk Models,7,2.29
+CMA,GenAI / LLMs,19,2.89
+CMA,NLP / Text,10,3.0
+CMA,Predictive ML,27,2.56
+CMA,RPA / Automation,9,2.44
+COF,Fraud / Risk Models,64,3.0
+COF,GenAI / LLMs,52,2.5
+COF,NLP / Text,19,2.63
+COF,Predictive ML,92,2.72
+COF,RPA / Automation,12,2.75
+COLB,Fraud / Risk Models,2,3.5
+COLB,GenAI / LLMs,15,2.2
+COLB,NLP / Text,8,2.25
+COLB,Predictive ML,18,2.11
+COLB,RPA / Automation,2,2.0
+DFS,Fraud / Risk Models,7,2.0
+DFS,GenAI / LLMs,17,2.29
+DFS,NLP / Text,6,1.83
+DFS,Predictive ML,12,2.25
+EWBC,Fraud / Risk Models,3,3.33
+EWBC,GenAI / LLMs,6,2.33
+EWBC,NLP / Text,4,2.25
+EWBC,Predictive ML,8,2.38
+EWBC,RPA / Automation,3,2.33
+FCNCA,Fraud / Risk Models,8,2.5
+FCNCA,GenAI / LLMs,17,2.29
+FCNCA,NLP / Text,8,1.75
+FCNCA,Predictive ML,12,2.0
+FHN,Fraud / Risk Models,7,2.71
+FHN,GenAI / LLMs,12,2.83
+FHN,NLP / Text,3,2.67
+FHN,Predictive ML,17,2.82
+FHN,RPA / Automation,2,2.5
+FITB,Fraud / Risk Models,12,2.75
+FITB,GenAI / LLMs,51,2.65
+FITB,NLP / Text,35,2.6
+FITB,Predictive ML,40,2.48
+FITB,RPA / Automation,3,2.0
+FLG,Computer Vision,2,2.0
+FLG,Fraud / Risk Models,5,2.2
+FLG,GenAI / LLMs,45,1.89
+FLG,NLP / Text,32,1.84
+FLG,Predictive ML,28,1.96
 FLG,RPA / Automation,2,3.0
-FNB,Computer Vision,0,0.0
-FNB,Fraud / Risk Models,5,2.2
-FNB,GenAI / LLMs,1,3.0
-FNB,NLP / Text,0,0.0
-FNB,Predictive ML,1,4.0
-FNB,RPA / Automation,13,1.46
-GS,Computer Vision,0,0.0
-GS,Fraud / Risk Models,0,0.0
-GS,GenAI / LLMs,7,1.71
-GS,NLP / Text,2,3.5
-GS,Predictive ML,2,2.0
-GS,RPA / Automation,6,1.33
-HBAN,Computer Vision,0,0.0
-HBAN,Fraud / Risk Models,2,1.5
-HBAN,GenAI / LLMs,1,1.0
-HBAN,NLP / Text,0,0.0
-HBAN,Predictive ML,0,0.0
-HBAN,RPA / Automation,1,4.0
+FNB,Fraud / Risk Models,6,2.5
+FNB,GenAI / LLMs,27,2.67
+FNB,NLP / Text,9,2.44
+FNB,Predictive ML,37,2.62
+FNB,RPA / Automation,17,2.29
+GS,Fraud / Risk Models,42,3.14
+GS,GenAI / LLMs,37,2.57
+GS,NLP / Text,15,2.6
+GS,Predictive ML,47,2.57
+GS,RPA / Automation,12,2.58
+HBAN,Computer Vision,1,4.0
+HBAN,Fraud / Risk Models,14,2.64
+HBAN,GenAI / LLMs,10,2.8
+HBAN,NLP / Text,9,2.56
+HBAN,Predictive ML,20,2.4
+HBAN,RPA / Automation,3,3.33
 JPM,Computer Vision,1,3.0
-JPM,Fraud / Risk Models,2,3.0
-JPM,GenAI / LLMs,10,2.7
-JPM,NLP / Text,0,0.0
-JPM,Predictive ML,3,3.0
-JPM,RPA / Automation,16,2.69
-KEY,Computer Vision,0,0.0
-KEY,Fraud / Risk Models,0,0.0
-KEY,GenAI / LLMs,3,3.0
-KEY,NLP / Text,0,0.0
-KEY,Predictive ML,0,0.0
-KEY,RPA / Automation,6,3.17
-MS,Computer Vision,8,3.5
-MS,Fraud / Risk Models,18,3.0
-MS,GenAI / LLMs,138,2.54
-MS,NLP / Text,10,2.9
-MS,Predictive ML,8,1.75
-MS,RPA / Automation,25,2.68
-MTB,Computer Vision,0,0.0
-MTB,Fraud / Risk Models,2,1.0
-MTB,GenAI / LLMs,3,1.67
-MTB,NLP / Text,0,0.0
-MTB,Predictive ML,0,0.0
-MTB,RPA / Automation,4,2.0
-NTRS,Computer Vision,3,3.67
-NTRS,Fraud / Risk Models,4,3.0
-NTRS,GenAI / LLMs,44,2.36
-NTRS,NLP / Text,2,2.0
-NTRS,Predictive ML,2,2.0
-NTRS,RPA / Automation,6,3.17
-ONB,Computer Vision,0,0.0
-ONB,Fraud / Risk Models,2,3.0
-ONB,GenAI / LLMs,1,4.0
-ONB,NLP / Text,0,0.0
-ONB,Predictive ML,0,0.0
-ONB,RPA / Automation,5,2.4
-PB,Computer Vision,0,0.0
-PB,Fraud / Risk Models,0,0.0
-PB,GenAI / LLMs,1,1.0
-PB,NLP / Text,0,0.0
-PB,Predictive ML,5,2.6
-PB,RPA / Automation,0,0.0
+JPM,Fraud / Risk Models,19,3.0
+JPM,GenAI / LLMs,74,2.38
+JPM,NLP / Text,43,2.44
+JPM,Predictive ML,81,2.52
+JPM,RPA / Automation,10,2.7
+KEY,Fraud / Risk Models,6,3.5
+KEY,GenAI / LLMs,20,2.5
+KEY,NLP / Text,8,2.5
+KEY,Predictive ML,30,2.5
+KEY,RPA / Automation,1,2.0
+MS,Computer Vision,2,3.5
+MS,Fraud / Risk Models,7,3.43
+MS,GenAI / LLMs,261,2.63
+MS,NLP / Text,169,2.64
+MS,Predictive ML,93,2.56
+MS,RPA / Automation,28,2.79
+MTB,Fraud / Risk Models,12,3.0
+MTB,GenAI / LLMs,12,2.42
+MTB,NLP / Text,10,2.4
+MTB,Predictive ML,17,2.53
+MTB,RPA / Automation,1,4.0
+NTRS,Fraud / Risk Models,12,2.75
+NTRS,GenAI / LLMs,85,2.41
+NTRS,NLP / Text,54,2.31
+NTRS,Predictive ML,71,2.35
+NTRS,RPA / Automation,20,2.3
+ONB,Computer Vision,1,3.0
+ONB,Fraud / Risk Models,9,3.33
+ONB,GenAI / LLMs,9,2.11
+ONB,NLP / Text,5,2.0
+ONB,Predictive ML,9,2.44
+ONB,RPA / Automation,3,2.33
+PB,Fraud / Risk Models,7,3.29
+PB,Predictive ML,3,2.33
+PB,RPA / Automation,1,2.0
 PNC,Computer Vision,2,3.0
-PNC,Fraud / Risk Models,5,1.8
-PNC,GenAI / LLMs,22,2.45
-PNC,NLP / Text,5,2.2
-PNC,Predictive ML,3,3.67
-PNC,RPA / Automation,17,2.41
-PNFP,Computer Vision,0,0.0
-PNFP,Fraud / Risk Models,2,4.0
-PNFP,GenAI / LLMs,0,0.0
-PNFP,NLP / Text,0,0.0
-PNFP,Predictive ML,0,0.0
-PNFP,RPA / Automation,2,3.0
-RF,Computer Vision,0,0.0
-RF,Fraud / Risk Models,1,1.0
-RF,GenAI / LLMs,3,2.67
-RF,NLP / Text,0,0.0
-RF,Predictive ML,2,3.0
-RF,RPA / Automation,5,2.6
-RJF,Computer Vision,0,0.0
-RJF,Fraud / Risk Models,0,0.0
-RJF,GenAI / LLMs,7,2.14
-RJF,NLP / Text,1,1.0
-RJF,Predictive ML,0,0.0
-RJF,RPA / Automation,0,0.0
-SCHW,Computer Vision,0,0.0
-SCHW,Fraud / Risk Models,1,1.0
-SCHW,GenAI / LLMs,4,2.5
-SCHW,NLP / Text,0,0.0
-SCHW,Predictive ML,0,0.0
-SCHW,RPA / Automation,0,0.0
-SF,Computer Vision,5,2.4
-SF,Fraud / Risk Models,6,3.5
-SF,GenAI / LLMs,85,2.45
-SF,NLP / Text,2,2.0
-SF,Predictive ML,11,2.36
-SF,RPA / Automation,19,2.63
-SNV,Computer Vision,0,0.0
-SNV,Fraud / Risk Models,1,3.0
-SNV,GenAI / LLMs,2,2.0
-SNV,NLP / Text,0,0.0
-SNV,Predictive ML,0,0.0
-SNV,RPA / Automation,5,3.6
-SOFI,Computer Vision,3,2.33
-SOFI,Fraud / Risk Models,19,2.58
-SOFI,GenAI / LLMs,10,2.1
-SOFI,NLP / Text,0,0.0
-SOFI,Predictive ML,1,4.0
-SOFI,RPA / Automation,5,2.2
-SSB,Computer Vision,0,0.0
-SSB,Fraud / Risk Models,0,0.0
-SSB,GenAI / LLMs,2,3.0
-SSB,NLP / Text,0,0.0
-SSB,Predictive ML,0,0.0
-SSB,RPA / Automation,17,2.47
-STT,Computer Vision,0,0.0
-STT,Fraud / Risk Models,0,0.0
-STT,GenAI / LLMs,0,0.0
-STT,NLP / Text,0,0.0
-STT,Predictive ML,0,0.0
-STT,RPA / Automation,0,0.0
-SYF,Computer Vision,0,0.0
-SYF,Fraud / Risk Models,2,3.0
-SYF,GenAI / LLMs,5,2.4
-SYF,NLP / Text,0,0.0
-SYF,Predictive ML,0,0.0
-SYF,RPA / Automation,1,3.0
-TFC,Computer Vision,0,0.0
-TFC,Fraud / Risk Models,1,4.0
-TFC,GenAI / LLMs,7,1.86
-TFC,NLP / Text,0,0.0
-TFC,Predictive ML,0,0.0
-TFC,RPA / Automation,3,3.33
-UMBF,Computer Vision,0,0.0
-UMBF,Fraud / Risk Models,0,0.0
-UMBF,GenAI / LLMs,0,0.0
-UMBF,NLP / Text,0,0.0
-UMBF,Predictive ML,0,0.0
-UMBF,RPA / Automation,2,3.0
-USB,Computer Vision,0,0.0
-USB,Fraud / Risk Models,0,0.0
-USB,GenAI / LLMs,4,2.0
-USB,NLP / Text,0,0.0
-USB,Predictive ML,0,0.0
-USB,RPA / Automation,0,0.0
-VLY,Computer Vision,0,0.0
-VLY,Fraud / Risk Models,0,0.0
-VLY,GenAI / LLMs,0,0.0
-VLY,NLP / Text,0,0.0
-VLY,Predictive ML,0,0.0
-VLY,RPA / Automation,2,2.0
-WAL,Computer Vision,3,3.33
-WAL,Fraud / Risk Models,1,3.0
-WAL,GenAI / LLMs,12,3.33
-WAL,NLP / Text,0,0.0
-WAL,Predictive ML,0,0.0
-WAL,RPA / Automation,4,2.75
-WBS,Computer Vision,0,0.0
-WBS,Fraud / Risk Models,4,2.25
-WBS,GenAI / LLMs,5,3.0
-WBS,NLP / Text,0,0.0
-WBS,Predictive ML,1,3.0
-WBS,RPA / Automation,0,0.0
-WFC,Computer Vision,0,0.0
-WFC,Fraud / Risk Models,4,3.5
-WFC,GenAI / LLMs,2,2.5
-WFC,NLP / Text,0,0.0
-WFC,Predictive ML,0,0.0
-WFC,RPA / Automation,1,3.0
-WTFC,Computer Vision,0,0.0
-WTFC,Fraud / Risk Models,0,0.0
-WTFC,GenAI / LLMs,6,2.0
-WTFC,NLP / Text,1,2.0
-WTFC,Predictive ML,3,2.33
-WTFC,RPA / Automation,2,4.0
-ZION,Computer Vision,0,0.0
-ZION,Fraud / Risk Models,4,2.5
-ZION,GenAI / LLMs,0,0.0
-ZION,NLP / Text,2,2.0
-ZION,Predictive ML,0,0.0
-ZION,RPA / Automation,2,2.0
+PNC,Fraud / Risk Models,15,2.67
+PNC,GenAI / LLMs,57,2.49
+PNC,NLP / Text,34,2.56
+PNC,Predictive ML,70,2.46
+PNC,RPA / Automation,23,2.61
+PNFP,Fraud / Risk Models,5,2.8
+PNFP,GenAI / LLMs,8,2.5
+PNFP,NLP / Text,3,2.0
+PNFP,Predictive ML,7,2.14
+PNFP,RPA / Automation,3,2.67
+RF,Fraud / Risk Models,16,2.62
+RF,GenAI / LLMs,36,2.25
+RF,NLP / Text,15,2.47
+RF,Predictive ML,58,2.28
+RF,RPA / Automation,10,2.4
+RJF,Fraud / Risk Models,9,2.67
+RJF,GenAI / LLMs,27,2.0
+RJF,NLP / Text,17,2.12
+RJF,Predictive ML,31,2.13
+RJF,RPA / Automation,2,2.0
+SCHW,Computer Vision,2,2.0
+SCHW,Fraud / Risk Models,4,2.25
+SCHW,GenAI / LLMs,27,2.33
+SCHW,NLP / Text,15,2.53
+SCHW,Predictive ML,20,2.6
+SF,Computer Vision,1,4.0
+SF,Fraud / Risk Models,2,3.0
+SF,GenAI / LLMs,186,2.63
+SF,NLP / Text,158,2.65
+SF,Predictive ML,147,2.7
+SF,RPA / Automation,32,2.5
+SNV,Fraud / Risk Models,11,2.18
+SNV,GenAI / LLMs,12,2.5
+SNV,NLP / Text,3,2.67
+SNV,Predictive ML,18,2.22
+SNV,RPA / Automation,11,2.45
+SOFI,Fraud / Risk Models,29,2.93
+SOFI,GenAI / LLMs,91,2.67
+SOFI,NLP / Text,56,2.71
+SOFI,Predictive ML,86,2.59
+SOFI,RPA / Automation,10,2.7
+SSB,Fraud / Risk Models,20,2.75
+SSB,GenAI / LLMs,16,2.62
+SSB,NLP / Text,8,3.0
+SSB,Predictive ML,20,2.55
+SSB,RPA / Automation,4,2.0
+STT,Fraud / Risk Models,16,2.62
+STT,GenAI / LLMs,27,2.07
+STT,NLP / Text,7,2.0
+STT,Predictive ML,29,2.0
+STT,RPA / Automation,5,2.8
+SYF,Fraud / Risk Models,7,3.14
+SYF,GenAI / LLMs,18,2.39
+SYF,NLP / Text,5,2.6
+SYF,Predictive ML,12,2.58
+TFC,Fraud / Risk Models,5,2.4
+TFC,GenAI / LLMs,24,2.04
+TFC,NLP / Text,19,2.16
+TFC,Predictive ML,21,2.05
+TFC,RPA / Automation,6,2.33
+UMBF,Fraud / Risk Models,2,2.0
+UMBF,GenAI / LLMs,2,2.0
+UMBF,Predictive ML,3,2.0
+UMBF,RPA / Automation,2,2.0
+USB,Fraud / Risk Models,5,2.2
+USB,GenAI / LLMs,14,2.64
+USB,NLP / Text,5,2.8
+USB,Predictive ML,11,2.18
+USB,RPA / Automation,3,2.67
+VLY,Fraud / Risk Models,4,3.0
+VLY,GenAI / LLMs,15,2.33
+VLY,NLP / Text,11,2.45
+VLY,Predictive ML,17,2.41
+WAL,Computer Vision,3,3.0
+WAL,Fraud / Risk Models,4,3.25
+WAL,GenAI / LLMs,18,2.67
+WAL,NLP / Text,14,2.5
+WAL,Predictive ML,11,2.55
+WAL,RPA / Automation,2,2.0
+WBS,Fraud / Risk Models,15,2.87
+WBS,GenAI / LLMs,26,2.85
+WBS,NLP / Text,11,2.91
+WBS,Predictive ML,29,2.86
+WFC,GenAI / LLMs,13,2.54
+WFC,NLP / Text,6,2.5
+WFC,Predictive ML,8,2.12
+WFC,RPA / Automation,5,2.2
+WTFC,Fraud / Risk Models,1,2.0
+WTFC,GenAI / LLMs,20,2.35
+WTFC,NLP / Text,10,2.6
+WTFC,Predictive ML,24,2.54
+WTFC,RPA / Automation,5,2.2
+ZION,Fraud / Risk Models,11,2.45
+ZION,GenAI / LLMs,20,2.2
+ZION,NLP / Text,11,2.27
+ZION,Predictive ML,22,2.27
+ZION,RPA / Automation,9,2.33
