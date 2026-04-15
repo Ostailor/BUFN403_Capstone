@@ -16,6 +16,7 @@ from src.ai_corpus.intent_classifier import (
     classify_chunk_rules,
     run_classification,
 )
+from src.ai_corpus.classification_io import normalize_confidence
 
 
 def test_classify_chunk_rules_detects_deploying_intent() -> None:
@@ -169,6 +170,36 @@ def test_classify_chunk_uses_qwen_payload_when_available() -> None:
     assert result["app_categories"] == ["GenAI / LLMs", "Fraud / Risk Models"]
     assert result["confidence"] == 0.92
     mock_qwen.generate_json.assert_called_once_with(messages=build_classification_messages(chunk))
+
+
+def test_normalize_confidence_accepts_label_values() -> None:
+    assert normalize_confidence("High") == 0.85
+    assert normalize_confidence("medium") == 0.60
+    assert normalize_confidence("25%") == 0.25
+
+
+def test_classify_chunk_accepts_string_confidence_from_qwen() -> None:
+    chunk = {
+        "chunk_id": "MS_transcript_2025_Q3__sec_003__chunk_0003",
+        "ticker": "MS",
+        "bank_name": "Morgan Stanley",
+        "source_type": "transcript",
+        "period_year": 2025,
+        "period_quarter": 3,
+        "chunk_text": "We are deploying AI assistants across operations.",
+    }
+    mock_qwen = MagicMock()
+    mock_qwen.generate_json.return_value = {
+        "intent_level": 3,
+        "intent_label": "Deploying",
+        "app_categories": ["RPA / Automation"],
+        "confidence": "High",
+        "evidence_snippet": "deploying AI assistants across operations",
+    }
+
+    result = classify_chunk(chunk, mock_qwen)
+
+    assert result["confidence"] == 0.85
 
 
 def test_run_classification_writes_jsonl(tmp_path: Path) -> None:

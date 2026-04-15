@@ -20,6 +20,15 @@ CLASSIFICATION_COLUMNS = [
     "evidence_snippet",
 ]
 
+_CONFIDENCE_LABELS = {
+    "very high": 0.95,
+    "high": 0.85,
+    "medium": 0.60,
+    "moderate": 0.60,
+    "low": 0.35,
+    "very low": 0.15,
+}
+
 
 def normalize_app_categories(raw_value: Any) -> list[str]:
     if isinstance(raw_value, list):
@@ -39,6 +48,26 @@ def normalize_app_categories(raw_value: Any) -> list[str]:
     return []
 
 
+def normalize_confidence(raw_value: Any) -> float:
+    if isinstance(raw_value, (int, float)):
+        confidence = float(raw_value)
+    elif isinstance(raw_value, str):
+        value = raw_value.strip().lower()
+        if not value:
+            confidence = 0.0
+        elif value in _CONFIDENCE_LABELS:
+            confidence = _CONFIDENCE_LABELS[value]
+        else:
+            if value.endswith("%"):
+                value = value[:-1].strip()
+            confidence = float(value)
+            if confidence > 1.0:
+                confidence /= 100.0
+    else:
+        confidence = 0.0
+    return max(0.0, min(confidence, 1.0))
+
+
 def normalize_classification_record(
     record: dict[str, Any],
     *,
@@ -48,8 +77,7 @@ def normalize_classification_record(
     if intent_level not in INTENT_LEVELS:
         intent_level = 1
 
-    confidence = float(record.get("confidence", 0.0))
-    confidence = max(0.0, min(confidence, 1.0))
+    confidence = normalize_confidence(record.get("confidence", 0.0))
 
     evidence_snippet = str(record.get("evidence_snippet", "")).strip() or fallback_snippet[:300]
 
