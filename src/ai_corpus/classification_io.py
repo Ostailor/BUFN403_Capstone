@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -28,6 +29,8 @@ _CONFIDENCE_LABELS = {
     "low": 0.35,
     "very low": 0.15,
 }
+
+log = logging.getLogger(__name__)
 
 
 def normalize_app_categories(raw_value: Any) -> list[str]:
@@ -96,22 +99,45 @@ def normalize_classification_record(
     }
 
 
-def read_classifications_jsonl(path: Path) -> list[dict[str, Any]]:
+def read_classifications_jsonl(path: Path, *, drop_malformed_tail: bool = False) -> list[dict[str, Any]]:
     if not path.exists():
         return []
 
     records: list[dict[str, Any]] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        payload = line.strip()
+    lines = path.read_bytes().splitlines()
+    last_non_empty_index = max((index for index, line in enumerate(lines) if line.strip()), default=-1)
+    dropped_tail = False
+    for index, raw_line in enumerate(lines):
+        if not raw_line.strip():
+            continue
+        try:
+            payload = raw_line.decode("utf-8").strip()
+        except UnicodeDecodeError:
+            is_malformed_tail = drop_malformed_tail and index == last_non_empty_index
+            if is_malformed_tail:
+                log.warning("Dropping malformed trailing classification record from %s", path)
+                dropped_tail = True
+                break
+            raise
         if not payload:
             continue
-        raw_record = json.loads(payload)
+        try:
+            raw_record = json.loads(payload)
+        except json.JSONDecodeError:
+            is_malformed_tail = drop_malformed_tail and index == last_non_empty_index
+            if is_malformed_tail:
+                log.warning("Dropping malformed trailing classification record from %s", path)
+                dropped_tail = True
+                break
+            raise
         records.append(
             normalize_classification_record(
                 raw_record,
                 fallback_snippet=str(raw_record.get("chunk_text", "")),
             )
         )
+    if dropped_tail:
+        write_classifications_jsonl(path, records)
     return records
 
 
@@ -125,3 +151,15 @@ def write_classifications_jsonl(path: Path, records: Iterable[dict[str, Any]]) -
             )
             handle.write(json.dumps(normalized) + "\n")
     return path
+
+
+def append_classification_record(path: Path, record: dict[str, Any]) -> dict[str, Any]:
+    normalized = normalize_classification_record(
+        dict(record),
+        fallback_snippet=str(record.get("chunk_text", "")),
+    )
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(normalized) + "\n")
+        handle.flush()
+    return normalized

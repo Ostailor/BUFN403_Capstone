@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 import os
 import re
 from typing import Any
@@ -10,6 +11,8 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from .config import QWEN_MODEL_CANDIDATES
 from .models import AskResult
+
+log = logging.getLogger(__name__)
 
 
 class QwenGenerationError(RuntimeError):
@@ -59,7 +62,7 @@ class QwenAnswerGenerator:
             try:
                 model_kwargs: dict[str, Any] = {"local_files_only": self.local_files_only}
                 if self._device == "cuda":
-                    model_kwargs["torch_dtype"] = torch.float16
+                    model_kwargs["dtype"] = torch.float16
                 tokenizer = AutoTokenizer.from_pretrained(candidate, local_files_only=self.local_files_only)
                 model = AutoModelForCausalLM.from_pretrained(candidate, **model_kwargs)
                 model.to(self._device)
@@ -68,6 +71,7 @@ class QwenAnswerGenerator:
                 self._model = model
                 self._torch = torch
                 self._active_model = candidate
+                log.info("Loaded Qwen model %s on %s", candidate, self._device)
                 return
             except Exception as exc:  # noqa: BLE001
                 last_error = exc
@@ -91,7 +95,10 @@ class QwenAnswerGenerator:
     def _extract_json(self, raw_text: str) -> dict[str, Any]:
         match = re.search(r"\{.*\}", raw_text, flags=re.S)
         if match:
-            return json.loads(match.group(0))
+            try:
+                return json.loads(match.group(0))
+            except json.JSONDecodeError:
+                pass
 
         partial_payload = self._extract_partial_json(raw_text)
         if partial_payload is not None:

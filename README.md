@@ -102,6 +102,19 @@ Run the same classification step on a Google Colab GPU and allow model download:
 python scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download
 ```
 
+Resume a partially completed classification run and emit paced progress logs:
+
+```bash
+python -u scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download --resume --log-every 5
+```
+
+If a Colab run is interrupted, rerunning that same command will:
+
+- repair a malformed trailing `classifications.jsonl` record if the last append was cut off
+- skip already completed `chunk_id`s
+- exit early without reloading Qwen if everything is already classified
+- update `artifacts/ai_corpus/classification_progress.json` with current-session rate and ETA fields
+
 Build the dashboard-ready score artifacts from `classifications.jsonl`:
 
 ```bash
@@ -143,7 +156,7 @@ If you want to run Qwen on a Colab GPU, the simplest path is:
 5. Run the pipeline:
    ```bash
    !python scripts/ai_corpus_pipeline.py normalize-corpus
-   !python scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download
+   !python -u scripts/ai_corpus_pipeline.py classify --prefer-local --allow-model-download --resume --log-every 5
    !python scripts/ai_corpus_pipeline.py score
    ```
 6. Download the outputs you need from `artifacts/ai_corpus/`, especially:
@@ -180,5 +193,8 @@ The new pipeline writes under `artifacts/ai_corpus/`:
 - Call-report acquisition uses the official FDIC BankFind financial API.
 - MRA/MRIA acquisition is logged, but many of those documents are not public; manual collection is expected.
 - `classify` is now fail-fast: if Qwen generation fails for a chunk, the run raises instead of silently falling back to regex heuristics.
+- `classify` now writes progress incrementally and resumes from existing `classifications.jsonl` records by default, so reruns continue from the next unfinished chunk.
+- Progress metadata is written to `artifacts/ai_corpus/classification_progress.json`.
+- Resume-safe progress metadata includes session-scoped throughput and ETA so Colab logs reflect the current run rather than historical completed chunks.
 - For Colab GPU sessions, `--allow-model-download` lets the local Qwen path pull weights instead of requiring a pre-populated local cache.
 - The dashboard now expects canonical score artifacts or `classifications.jsonl`; it no longer invents synthetic ranking data when those files are missing.

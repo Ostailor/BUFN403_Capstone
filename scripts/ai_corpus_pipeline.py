@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 import sys
 from pathlib import Path
 
@@ -75,6 +76,18 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Allow Hugging Face model downloads for local inference. Useful on Colab GPU sessions.",
     )
+    classify_parser.add_argument(
+        "--resume",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Resume from existing classifications.jsonl and skip already completed chunk_ids.",
+    )
+    classify_parser.add_argument(
+        "--log-every",
+        type=int,
+        default=10,
+        help="Emit paced progress logs every N newly classified chunks.",
+    )
 
     subparsers.add_parser("score", help="Compute composite scores and rankings from classifications")
     subparsers.add_parser("report", help="Generate static Markdown report with charts")
@@ -83,6 +96,10 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main() -> int:
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+    )
     parser = build_parser()
     args = parser.parse_args()
     paths = CorpusPaths(
@@ -145,6 +162,8 @@ def main() -> int:
             batch_size=args.batch_size,
             prefer_local=args.prefer_local,
             local_files_only=not args.allow_model_download,
+            resume=args.resume,
+            log_every=args.log_every,
         )
         payload = {"classifications_jsonl": str(output_path)}
     elif args.command == "score":

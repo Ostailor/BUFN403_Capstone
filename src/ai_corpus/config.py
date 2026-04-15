@@ -227,10 +227,13 @@ class CorpusPaths:
         return self.output_dir / "classifications.jsonl"
 
     @property
+    def classification_progress_json(self) -> Path:
+        return self.output_dir / "classification_progress.json"
+
+    @property
     def corpus_db(self) -> Path:
         return self.output_dir / "corpus.duckdb"
 
     @property
     def topic_findings_csv(self) -> Path:
         return self.output_dir / "topic_findings.csv"
-
