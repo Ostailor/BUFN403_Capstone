@@ -90,9 +90,49 @@ class QwenAnswerGenerator:
 
     def _extract_json(self, raw_text: str) -> dict[str, Any]:
         match = re.search(r"\{.*\}", raw_text, flags=re.S)
-        if not match:
-            raise QwenGenerationError(f"No JSON payload found in response: {raw_text[:500]}")
-        return json.loads(match.group(0))
+        if match:
+            return json.loads(match.group(0))
+
+        partial_payload = self._extract_partial_json(raw_text)
+        if partial_payload is not None:
+            return partial_payload
+        raise QwenGenerationError(f"No JSON payload found in response: {raw_text[:500]}")
+
+    def _extract_partial_json(self, raw_text: str) -> dict[str, Any] | None:
+        text = raw_text.strip()
+        if "{" not in text:
+            return None
+
+        payload: dict[str, Any] = {}
+
+        intent_match = re.search(r'"intent_level"\s*:\s*(\d+)', text)
+        if intent_match:
+            payload["intent_level"] = int(intent_match.group(1))
+
+        label_match = re.search(r'"intent_label"\s*:\s*"([^"]*)"', text)
+        if label_match:
+            payload["intent_label"] = label_match.group(1)
+
+        categories_match = re.search(r'"app_categories"\s*:\s*\[(.*?)\]', text, flags=re.S)
+        if categories_match:
+            payload["app_categories"] = re.findall(r'"([^"]*)"', categories_match.group(1))
+
+        confidence_match = re.search(r'"confidence"\s*:\s*("([^"]*)"|[-+]?\d*\.?\d+)', text)
+        if confidence_match:
+            payload["confidence"] = confidence_match.group(2) or confidence_match.group(1)
+
+        evidence_match = re.search(r'"evidence_snippet"\s*:\s*"((?:[^"\\]|\\.)*)', text, flags=re.S)
+        if evidence_match:
+            snippet = evidence_match.group(1)
+            payload["evidence_snippet"] = bytes(snippet, "utf-8").decode("unicode_escape", errors="ignore")
+
+        required_keys = {"intent_level", "intent_label"}
+        if required_keys.issubset(payload):
+            payload.setdefault("app_categories", [])
+            payload.setdefault("confidence", 0.0)
+            payload.setdefault("evidence_snippet", "")
+            return payload
+        return None
 
     def _render_messages(self, messages: list[dict[str, str]]) -> str:
         assert self._tokenizer is not None

@@ -17,6 +17,7 @@ from src.ai_corpus.intent_classifier import (
     run_classification,
 )
 from src.ai_corpus.classification_io import normalize_confidence
+from src.ai_corpus.qwen import QwenAnswerGenerator
 
 
 def test_classify_chunk_rules_detects_deploying_intent() -> None:
@@ -200,6 +201,24 @@ def test_classify_chunk_accepts_string_confidence_from_qwen() -> None:
     result = classify_chunk(chunk, mock_qwen)
 
     assert result["confidence"] == 0.85
+
+
+def test_qwen_extract_json_recovers_truncated_but_structured_output() -> None:
+    generator = QwenAnswerGenerator()
+    raw_text = """{
+  "intent_level": 3,
+  "intent_label": "Deploying",
+  "app_categories": ["GenAI / LLMs"],
+  "confidence": 0.9,
+  "evidence_snippet": "We're excited and incredibly grateful for the trust"""
+
+    payload = generator._extract_json(raw_text)
+
+    assert payload["intent_level"] == 3
+    assert payload["intent_label"] == "Deploying"
+    assert payload["app_categories"] == ["GenAI / LLMs"]
+    assert payload["confidence"] == "0.9" or payload["confidence"] == 0.9
+    assert payload["evidence_snippet"].startswith("We're excited")
 
 
 def test_run_classification_writes_jsonl(tmp_path: Path) -> None:
