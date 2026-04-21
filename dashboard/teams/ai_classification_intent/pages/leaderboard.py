@@ -1,18 +1,16 @@
 import streamlit as st
 import pandas as pd
-from pathlib import Path
 
-st.set_page_config(page_title="Leaderboard", layout="wide")
-
-# Import shared data loader
-import sys
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from data_loader import load_scores, load_app_categories
+from dashboard.teams.ai_classification_intent.data_loader import load_scores, load_app_categories
+from dashboard.teams.ai_classification_intent.scoring import weight_controls, recompute_scores
 
 st.title("Leaderboard")
 
-scores = load_scores(__file__)
-app_cats = load_app_categories(__file__)
+scores = load_scores()
+weights = weight_controls()
+if not scores.empty:
+    scores = recompute_scores(scores, weights)
+app_cats = load_app_categories()
 
 if scores.empty:
     st.warning(

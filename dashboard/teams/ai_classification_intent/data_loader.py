@@ -1,5 +1,5 @@
 """
-Shared data-loading helpers for the BUFN403 AI-Intent Dashboard.
+Shared data-loading helpers for the AI Classification & Intent team plugin.
 
 Each loader tries to read the canonical dashboard artifact first
 (`bank_composite_scores.csv`, `quarterly_progression.csv`,
@@ -15,6 +15,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+from dashboard.core.paths import team_artifacts_dir
 from src.ai_corpus.classification_io import CLASSIFICATION_COLUMNS, read_classifications_jsonl
 from src.ai_corpus.composite_scorer import (
     APP_CATEGORY_COLUMNS,
@@ -23,25 +24,8 @@ from src.ai_corpus.composite_scorer import (
     build_dashboard_rows,
 )
 
-# ── Constants ────────────────────────────────────────────────────────
 
-def _data_dir(reference_file: str) -> Path:
-    """Return the artifacts/ai_corpus directory relative to *reference_file*.
-
-    Works correctly whether called from dashboard/app.py (parents[1]) or
-    dashboard/pages/*.py (parents[2]).
-    """
-    p = Path(reference_file).resolve()
-    # Walk up until we find the project root (contains 'artifacts/')
-    for ancestor in p.parents:
-        candidate = ancestor / "artifacts" / "ai_corpus"
-        if candidate.is_dir():
-            return candidate
-    # Fallback: assume two levels up from pages, one from dashboard
-    if p.parent.name == "pages":
-        return p.resolve().parents[2] / "artifacts" / "ai_corpus"
-    return p.resolve().parents[1] / "artifacts" / "ai_corpus"
-
+# ── Helpers ─────────────────────────────────────────────────────────
 
 def _empty_frame(columns: list[str]) -> pd.DataFrame:
     return pd.DataFrame(columns=columns)
@@ -66,9 +50,9 @@ def _dashboard_rows_from_classifications(data_dir: Path) -> tuple[list[dict], li
 # ── Composite Scores ────────────────────────────────────────────────
 
 @st.cache_data
-def load_scores(reference_file: str) -> pd.DataFrame:
+def load_scores() -> pd.DataFrame:
     """Load bank_composite_scores.csv or rebuild it from classifications.jsonl."""
-    data_dir = _data_dir(reference_file)
+    data_dir = team_artifacts_dir(__file__)
 
     canonical = data_dir / "bank_composite_scores.csv"
     if canonical.exists():
@@ -84,9 +68,9 @@ def load_scores(reference_file: str) -> pd.DataFrame:
 # ── Quarterly Progression ───────────────────────────────────────────
 
 @st.cache_data
-def load_quarterly(reference_file: str) -> pd.DataFrame:
+def load_quarterly() -> pd.DataFrame:
     """Load quarterly_progression.csv or rebuild it from classifications.jsonl."""
-    data_dir = _data_dir(reference_file)
+    data_dir = team_artifacts_dir(__file__)
 
     canonical = data_dir / "quarterly_progression.csv"
     if canonical.exists():
@@ -102,9 +86,9 @@ def load_quarterly(reference_file: str) -> pd.DataFrame:
 # ── Application-Category Matrix ─────────────────────────────────────
 
 @st.cache_data
-def load_app_categories(reference_file: str) -> pd.DataFrame:
+def load_app_categories() -> pd.DataFrame:
     """Load app_category_matrix.csv or rebuild it from classifications.jsonl."""
-    data_dir = _data_dir(reference_file)
+    data_dir = team_artifacts_dir(__file__)
 
     canonical = data_dir / "app_category_matrix.csv"
     if canonical.exists():
@@ -120,9 +104,9 @@ def load_app_categories(reference_file: str) -> pd.DataFrame:
 # ── Classifications (JSONL) ─────────────────────────────────────────
 
 @st.cache_data
-def load_classifications(reference_file: str) -> pd.DataFrame:
+def load_classifications() -> pd.DataFrame:
     """Load classifications.jsonl with normalized list-valued categories."""
-    data_dir = _data_dir(reference_file)
+    data_dir = team_artifacts_dir(__file__)
 
     canonical = data_dir / "classifications.jsonl"
     if canonical.exists():

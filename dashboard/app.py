@@ -1,48 +1,26 @@
-import streamlit as st
-import pandas as pd
+from __future__ import annotations
+
+import sys
 from pathlib import Path
 
-st.set_page_config(page_title="AI Intent Dashboard", layout="wide")
+_ROOT = Path(__file__).resolve().parent.parent
+if str(_ROOT) not in sys.path:
+    sys.path.insert(0, str(_ROOT))
 
-# Import shared data loader
-import sys
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from data_loader import load_scores
+import streamlit as st
 
-st.title("BUFN403 — AI Intent & Classification Dashboard")
+st.set_page_config(page_title="BUFN403 Capstone Dashboard", layout="wide")
 
-st.markdown("""
-This dashboard visualizes AI adoption intent across major U.S. banks, built as
-part of the BUFN403 Capstone project. The system classifies public disclosures
-(earnings calls, 10-K filings, press releases) into intent levels — **Exploring**,
-**Committing**, **Deploying**, and **Scaling** — and scores each bank on
-**Maturity**, **Breadth**, and **Momentum** dimensions.
+from dashboard.core.registry import build_navigation, discover_teams
 
-Use the sidebar to navigate between pages.
-""")
+teams = discover_teams()
+nav = build_navigation(teams)
 
-scores = load_scores(__file__)
-
-if scores.empty:
-    st.warning(
-        "No dashboard score artifacts were found. Run `python scripts/ai_corpus_pipeline.py classify` "
-        "followed by `python scripts/ai_corpus_pipeline.py score` to populate the dashboard."
+if not nav:
+    st.title("BUFN403 Capstone Dashboard")
+    st.info(
+        "No teams registered yet. Add a team under `dashboard/teams/<slug>/` with a "
+        "`manifest.toml` and pages. See AGENTS.md at the repo root."
     )
-    st.stop()
-
-col1, col2, col3 = st.columns(3)
-with col1:
-    st.metric("Banks Analyzed", len(scores))
-with col2:
-    st.metric("Avg Composite Score", f"{scores['Composite'].mean():.1f}")
-with col3:
-    top = scores.loc[scores["Composite"].idxmax()]
-    st.metric("Top Bank", f"{top['Bank']} ({top['Composite']:.1f})")
-
-st.divider()
-st.subheader("Quick Snapshot")
-st.dataframe(
-    scores[["Rank", "Ticker", "Bank", "Composite"]].head(5),
-    hide_index=True,
-    use_container_width=True,
-)
+else:
+    st.navigation(nav).run()

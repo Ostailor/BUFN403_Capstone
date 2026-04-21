@@ -2,21 +2,19 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from pathlib import Path
 
-st.set_page_config(page_title="Bank Deep Dive", layout="wide")
-
-# Import shared data loader
-import sys
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from data_loader import load_scores, load_quarterly, load_app_categories, load_classifications
+from dashboard.teams.ai_classification_intent.data_loader import load_scores, load_quarterly, load_app_categories, load_classifications
+from dashboard.teams.ai_classification_intent.scoring import weight_controls, recompute_scores
 
 st.title("Bank Deep Dive")
 
-scores = load_scores(__file__)
-quarterly = load_quarterly(__file__)
-app_cats = load_app_categories(__file__)
-classifications = load_classifications(__file__)
+scores = load_scores()
+weights = weight_controls()
+if not scores.empty:
+    scores = recompute_scores(scores, weights)
+quarterly = load_quarterly()
+app_cats = load_app_categories()
+classifications = load_classifications()
 
 if scores.empty:
     st.warning(
@@ -36,11 +34,12 @@ st.subheader(bank_name)
 
 # Show bank's composite scores
 bank_scores = scores[scores["Ticker"] == selected_ticker].iloc[0]
-m1, m2, m3, m4 = st.columns(4)
+m1, m2, m3, m4, m5 = st.columns(5)
 m1.metric("Rank", f"#{int(bank_scores['Rank'])}")
-m2.metric("Maturity", f"{bank_scores['Maturity']:.1f}")
-m3.metric("Breadth", f"{bank_scores['Breadth']:.1f}")
-m4.metric("Momentum", f"{bank_scores['Momentum']:+.1f}")
+m2.metric("Composite", f"{bank_scores['Composite']:.1f}")
+m3.metric("Maturity", f"{bank_scores['Maturity']:.1f}")
+m4.metric("Breadth", f"{bank_scores['Breadth']:.1f}")
+m5.metric("Momentum", f"{bank_scores['Momentum']:+.1f}")
 
 st.divider()
 

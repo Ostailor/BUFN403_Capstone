@@ -1,0 +1,15 @@
+[team]
+section       = "Crypto"
+subteam       = "Risk Analysis"
+display_name  = "Crypto · Risk Analysis"
+owners        = []
+order         = 2
+
+[data]
+artifacts_dir = ""
+
+[[pages]]
+path  = "pages/placeholder.py"
+title = "Getting Started"
+icon  = ":material/rocket_launch:"
+order = 1

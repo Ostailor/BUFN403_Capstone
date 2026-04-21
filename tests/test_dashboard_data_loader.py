@@ -5,36 +5,53 @@ import sys
 from pathlib import Path
 
 import pandas as pd
+import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from dashboard import data_loader
+pytest.importorskip("streamlit")
+
+from dashboard.teams.ai_classification_intent import data_loader
 
 
-def _make_reference_file(tmp_path: Path) -> tuple[Path, Path]:
-    project_root = tmp_path / "project"
-    pages_dir = project_root / "dashboard" / "pages"
-    artifacts_dir = project_root / "artifacts" / "ai_corpus"
-    pages_dir.mkdir(parents=True)
+@pytest.fixture
+def fake_artifacts_dir(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> Path:
+    """Create a tmp artifacts dir and point the loader module at it.
+
+    Monkeypatches the `team_artifacts_dir` symbol imported into the
+    loader module so callers inside `@st.cache_data`-wrapped functions
+    resolve to `tmp_path` instead of the real project artifacts path.
+    Caches are cleared between tests by each test as needed.
+    """
+    artifacts_dir = tmp_path / "artifacts" / "ai_corpus"
     artifacts_dir.mkdir(parents=True)
-    reference_file = pages_dir / "test_page.py"
-    reference_file.write_text("# test page\n", encoding="utf-8")
-    return reference_file, artifacts_dir
+
+    def _fake_team_artifacts_dir(_reference_file: str | Path) -> Path:
+        return artifacts_dir
+
+    monkeypatch.setattr(data_loader, "team_artifacts_dir", _fake_team_artifacts_dir)
+    return artifacts_dir
 
 
-def test_load_scores_prefers_canonical_csv(tmp_path: Path) -> None:
-    reference_file, artifacts_dir = _make_reference_file(tmp_path)
-    canonical = artifacts_dir / "bank_composite_scores.csv"
+def _clear_all_caches() -> None:
+    data_loader.load_scores.clear()
+    data_loader.load_quarterly.clear()
+    data_loader.load_app_categories.clear()
+    data_loader.load_classifications.clear()
+
+
+def test_load_scores_prefers_canonical_csv(fake_artifacts_dir: Path) -> None:
+    canonical = fake_artifacts_dir / "bank_composite_scores.csv"
     canonical.write_text(
         "Ticker,Bank,Maturity,Breadth,Momentum,Composite,Rank\n"
         "AAA,Alpha Bank,75.0,60.0,10.0,65.0,1\n",
         encoding="utf-8",
     )
 
-    data_loader.load_scores.clear()
-    frame = data_loader.load_scores(str(reference_file))
+    _clear_all_caches()
+    frame = data_loader.load_scores()
 
     assert frame.to_dict("records") == [
         {
@@ -49,9 +66,10 @@ def test_load_scores_prefers_canonical_csv(tmp_path: Path) -> None:
     ]
 
 
-def test_load_classifications_reads_canonical_jsonl_and_normalizes_categories(tmp_path: Path) -> None:
-    reference_file, artifacts_dir = _make_reference_file(tmp_path)
-    canonical = artifacts_dir / "classifications.jsonl"
+def test_load_classifications_reads_canonical_jsonl_and_normalizes_categories(
+    fake_artifacts_dir: Path,
+) -> None:
+    canonical = fake_artifacts_dir / "classifications.jsonl"
     records = [
         {
             "chunk_id": "AAA_001",
@@ -85,8 +103,8 @@ def test_load_classifications_reads_canonical_jsonl_and_normalizes_categories(tm
         encoding="utf-8",
     )
 
-    data_loader.load_classifications.clear()
-    frame = data_loader.load_classifications(str(reference_file))
+    _clear_all_caches()
+    frame = data_loader.load_classifications()
 
     assert list(frame["chunk_id"]) == ["AAA_001", "AAA_002"]
     assert frame.iloc[0]["app_categories"] == ["GenAI / LLMs", "Fraud / Risk Models"]
@@ -94,9 +112,10 @@ def test_load_classifications_reads_canonical_jsonl_and_normalizes_categories(tm
     assert pd.api.types.is_numeric_dtype(frame["confidence"])
 
 
-def test_dashboard_loaders_derive_from_classifications_when_csvs_are_missing(tmp_path: Path) -> None:
-    reference_file, artifacts_dir = _make_reference_file(tmp_path)
-    canonical = artifacts_dir / "classifications.jsonl"
+def test_dashboard_loaders_derive_from_classifications_when_csvs_are_missing(
+    fake_artifacts_dir: Path,
+) -> None:
+    canonical = fake_artifacts_dir / "classifications.jsonl"
     canonical.write_text(
         "\n".join(
             [
@@ -136,13 +155,11 @@ def test_dashboard_loaders_derive_from_classifications_when_csvs_are_missing(tmp
         encoding="utf-8",
     )
 
-    data_loader.load_scores.clear()
-    data_loader.load_quarterly.clear()
-    data_loader.load_app_categories.clear()
+    _clear_all_caches()
 
-    scores = data_loader.load_scores(str(reference_file))
-    quarterly = data_loader.load_quarterly(str(reference_file))
-    app_categories = data_loader.load_app_categories(str(reference_file))
+    scores = data_loader.load_scores()
+    quarterly = data_loader.load_quarterly()
+    app_categories = data_loader.load_app_categories()
 
     assert list(scores["Ticker"]) == ["AAA"]
     assert {"Maturity", "Breadth", "Momentum", "Composite", "Rank"} <= set(scores.columns)
@@ -150,33 +167,29 @@ def test_dashboard_loaders_derive_from_classifications_when_csvs_are_missing(tmp
     assert set(app_categories["Category"]) >= {"GenAI / LLMs", "Fraud / Risk Models"}
 
 
-def test_dashboard_loaders_return_empty_frames_without_artifacts(tmp_path: Path) -> None:
-    reference_file, _ = _make_reference_file(tmp_path)
+def test_dashboard_loaders_return_empty_frames_without_artifacts(
+    fake_artifacts_dir: Path,
+) -> None:
+    _clear_all_caches()
 
-    data_loader.load_scores.clear()
-    data_loader.load_quarterly.clear()
-    data_loader.load_app_categories.clear()
-    data_loader.load_classifications.clear()
-
-    assert data_loader.load_scores(str(reference_file)).empty
-    assert data_loader.load_quarterly(str(reference_file)).empty
-    assert data_loader.load_app_categories(str(reference_file)).empty
-    assert data_loader.load_classifications(str(reference_file)).empty
+    assert data_loader.load_scores().empty
+    assert data_loader.load_quarterly().empty
+    assert data_loader.load_app_categories().empty
+    assert data_loader.load_classifications().empty
 
 
-def test_dashboard_loaders_treat_empty_canonical_csv_as_empty_state(tmp_path: Path) -> None:
-    reference_file, artifacts_dir = _make_reference_file(tmp_path)
+def test_dashboard_loaders_treat_empty_canonical_csv_as_empty_state(
+    fake_artifacts_dir: Path,
+) -> None:
     for name in [
         "bank_composite_scores.csv",
         "quarterly_progression.csv",
         "app_category_matrix.csv",
     ]:
-        (artifacts_dir / name).write_text("", encoding="utf-8")
+        (fake_artifacts_dir / name).write_text("", encoding="utf-8")
 
-    data_loader.load_scores.clear()
-    data_loader.load_quarterly.clear()
-    data_loader.load_app_categories.clear()
+    _clear_all_caches()
 
-    assert data_loader.load_scores(str(reference_file)).empty
-    assert data_loader.load_quarterly(str(reference_file)).empty
-    assert data_loader.load_app_categories(str(reference_file)).empty
+    assert data_loader.load_scores().empty
+    assert data_loader.load_quarterly().empty
+    assert data_loader.load_app_categories().empty

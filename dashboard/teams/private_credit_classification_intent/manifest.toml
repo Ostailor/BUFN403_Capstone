@@ -1,0 +1,15 @@
+[team]
+section       = "Private Credit"
+subteam       = "Classification & Intent"
+display_name  = "Private Credit · Classification & Intent"
+owners        = []
+order         = 1
+
+[data]
+artifacts_dir = ""
+
+[[pages]]
+path  = "pages/placeholder.py"
+title = "Getting Started"
+icon  = ":material/rocket_launch:"
+order = 1

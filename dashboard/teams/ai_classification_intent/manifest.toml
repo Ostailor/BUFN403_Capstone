@@ -1,0 +1,33 @@
+[team]
+section       = "AI"
+subteam       = "Classification & Intent"
+display_name  = "AI · Classification & Intent"
+owners        = ["Aditya Dabeer"]
+order         = 1
+
+[data]
+artifacts_dir = "artifacts/ai_corpus"
+
+[[pages]]
+path  = "pages/leaderboard.py"
+title = "Leaderboard"
+icon  = ":material/leaderboard:"
+order = 1
+
+[[pages]]
+path  = "pages/bank_deep_dive.py"
+title = "Bank Deep Dive"
+icon  = ":material/analytics:"
+order = 2
+
+[[pages]]
+path  = "pages/compare_banks.py"
+title = "Compare Banks"
+icon  = ":material/compare_arrows:"
+order = 3
+
+[[pages]]
+path  = "pages/market_overview.py"
+title = "Market Overview"
+icon  = ":material/public:"
+order = 4

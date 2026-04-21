@@ -136,3 +136,7 @@ A bank with maturity=60, breadth=80, momentum=+20:
 momentum_normalized = (20 + 100) / 2 = 60
 composite = 0.50 * 60 + 0.35 * 80 + 0.15 * 60 = 30 + 28 + 9 = 67.0
 ```
+
+### Dashboard override
+
+The dashboard's AI Classification & Intent pages expose a sidebar widget labelled **AI Classification -- Composite Weights** with two sliders (Maturity and Breadth) plus a derived Momentum metric, so the three weights always sum to exactly 100% by construction. Composite and Rank recompute client-side. The stored `bank_composite_scores.csv` is not rewritten -- this override is view-only and scoped to the AI Classification scores. See `docs/how_scoring_works.md` for the user-facing walkthrough.
